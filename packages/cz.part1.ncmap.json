@@ -1,0 +1,1135 @@
+{
+  "package_id": "cz-part-1",
+  "country_code": "CZ",
+  "country_name": "Czechia",
+  "native_name": "Česko",
+  "part_index": 1,
+  "total_parts": 1,
+  "version": "4.0.0",
+  "layers_included": [
+    "road_network_osrm",
+    "speed_cameras_osm",
+    "fuel_stations_branded",
+    "rest_areas_and_parking",
+    "food_chains_kfc_mcd_subway",
+    "sidewalks_and_pedestrian_ways",
+    "buildings_3d_extrusion",
+    "country_toll_and_vignette_matrix"
+  ],
+  "toll_metadata": {
+    "toll_type": "e_vignette",
+    "major_highways": [
+      "D1",
+      "D2",
+      "D3",
+      "D5",
+      "D8",
+      "D11",
+      "D35"
+    ],
+    "supports_paid_and_unpaid_split": true
+  },
+  "speed_cameras": [
+    {
+      "id": "cz_cam_1_1",
+      "lat": 50.0835,
+      "lon": 14.4488,
+      "maxspeed": 130,
+      "direction_deg": 45,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "cz_cam_1_2",
+      "lat": 50.0915,
+      "lon": 14.4598,
+      "maxspeed": 90,
+      "direction_deg": 90,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "cz_cam_1_3",
+      "lat": 50.0995,
+      "lon": 14.4708,
+      "maxspeed": 130,
+      "direction_deg": 135,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "cz_cam_1_4",
+      "lat": 50.1075,
+      "lon": 14.4818,
+      "maxspeed": 90,
+      "direction_deg": 180,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "cz_cam_1_5",
+      "lat": 50.1155,
+      "lon": 14.4928,
+      "maxspeed": 130,
+      "direction_deg": 225,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "cz_cam_1_6",
+      "lat": 50.1235,
+      "lon": 14.5038,
+      "maxspeed": 90,
+      "direction_deg": 270,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "cz_cam_1_7",
+      "lat": 50.1315,
+      "lon": 14.5148,
+      "maxspeed": 130,
+      "direction_deg": 315,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "cz_cam_1_8",
+      "lat": 50.1395,
+      "lon": 14.5258,
+      "maxspeed": 90,
+      "direction_deg": 0,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "cz_cam_1_9",
+      "lat": 50.1475,
+      "lon": 14.5368,
+      "maxspeed": 130,
+      "direction_deg": 45,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "cz_cam_1_10",
+      "lat": 50.1555,
+      "lon": 14.5478,
+      "maxspeed": 90,
+      "direction_deg": 90,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "cz_cam_1_11",
+      "lat": 50.1635,
+      "lon": 14.5588,
+      "maxspeed": 130,
+      "direction_deg": 135,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "cz_cam_1_12",
+      "lat": 50.1715,
+      "lon": 14.5698,
+      "maxspeed": 90,
+      "direction_deg": 180,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "cz_cam_1_13",
+      "lat": 50.1795,
+      "lon": 14.5808,
+      "maxspeed": 130,
+      "direction_deg": 225,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "cz_cam_1_14",
+      "lat": 50.1875,
+      "lon": 14.5918,
+      "maxspeed": 90,
+      "direction_deg": 270,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "cz_cam_1_15",
+      "lat": 50.1955,
+      "lon": 14.6028,
+      "maxspeed": 130,
+      "direction_deg": 315,
+      "type": "fixed_radar"
+    }
+  ],
+  "fuel_stations": [
+    {
+      "id": "cz_fuel_1_1",
+      "brand": "Shell",
+      "name": "Shell Highway Station #1",
+      "lat": 50.0875,
+      "lon": 14.4518,
+      "diesel": 1.55,
+      "petrol95": 1.61
+    },
+    {
+      "id": "cz_fuel_1_2",
+      "brand": "Slovnaft",
+      "name": "Slovnaft Highway Station #2",
+      "lat": 50.0995,
+      "lon": 14.4658,
+      "diesel": 1.58,
+      "petrol95": 1.64
+    },
+    {
+      "id": "cz_fuel_1_3",
+      "brand": "Aral",
+      "name": "Aral Highway Station #3",
+      "lat": 50.1115,
+      "lon": 14.4798,
+      "diesel": 1.61,
+      "petrol95": 1.67
+    },
+    {
+      "id": "cz_fuel_1_4",
+      "brand": "TotalEnergies",
+      "name": "TotalEnergies Highway Station #4",
+      "lat": 50.1235,
+      "lon": 14.4938,
+      "diesel": 1.64,
+      "petrol95": 1.7
+    },
+    {
+      "id": "cz_fuel_1_5",
+      "brand": "Orlen",
+      "name": "Orlen Highway Station #5",
+      "lat": 50.1355,
+      "lon": 14.5078,
+      "diesel": 1.52,
+      "petrol95": 1.58
+    },
+    {
+      "id": "cz_fuel_1_6",
+      "brand": "MOL",
+      "name": "MOL Highway Station #6",
+      "lat": 50.1475,
+      "lon": 14.5218,
+      "diesel": 1.55,
+      "petrol95": 1.61
+    },
+    {
+      "id": "cz_fuel_1_7",
+      "brand": "OMV",
+      "name": "OMV Highway Station #7",
+      "lat": 50.1595,
+      "lon": 14.5358,
+      "diesel": 1.58,
+      "petrol95": 1.64
+    },
+    {
+      "id": "cz_fuel_1_8",
+      "brand": "Shell",
+      "name": "Shell Highway Station #8",
+      "lat": 50.1715,
+      "lon": 14.5498,
+      "diesel": 1.61,
+      "petrol95": 1.67
+    },
+    {
+      "id": "cz_fuel_1_9",
+      "brand": "Slovnaft",
+      "name": "Slovnaft Highway Station #9",
+      "lat": 50.1835,
+      "lon": 14.5638,
+      "diesel": 1.64,
+      "petrol95": 1.7
+    },
+    {
+      "id": "cz_fuel_1_10",
+      "brand": "Aral",
+      "name": "Aral Highway Station #10",
+      "lat": 50.1955,
+      "lon": 14.5778,
+      "diesel": 1.52,
+      "petrol95": 1.58
+    },
+    {
+      "id": "cz_fuel_1_11",
+      "brand": "TotalEnergies",
+      "name": "TotalEnergies Highway Station #11",
+      "lat": 50.2075,
+      "lon": 14.5918,
+      "diesel": 1.55,
+      "petrol95": 1.61
+    },
+    {
+      "id": "cz_fuel_1_12",
+      "brand": "Orlen",
+      "name": "Orlen Highway Station #12",
+      "lat": 50.2195,
+      "lon": 14.6058,
+      "diesel": 1.58,
+      "petrol95": 1.64
+    },
+    {
+      "id": "cz_fuel_1_13",
+      "brand": "MOL",
+      "name": "MOL Highway Station #13",
+      "lat": 50.2315,
+      "lon": 14.6198,
+      "diesel": 1.61,
+      "petrol95": 1.67
+    },
+    {
+      "id": "cz_fuel_1_14",
+      "brand": "OMV",
+      "name": "OMV Highway Station #14",
+      "lat": 50.2435,
+      "lon": 14.6338,
+      "diesel": 1.64,
+      "petrol95": 1.7
+    }
+  ],
+  "rest_areas_and_food": [
+    {
+      "id": "cz_poi_1_1",
+      "kind": "rest",
+      "brand": "KFC",
+      "name": "KFC Express (CZ)",
+      "lat": 50.0845,
+      "lon": 14.4508,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "cz_poi_1_2",
+      "kind": "food",
+      "brand": "Subway",
+      "name": "Subway Fresh (CZ)",
+      "lat": 50.0935,
+      "lon": 14.4638,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "cz_poi_1_3",
+      "kind": "rest",
+      "brand": "Burger King",
+      "name": "Burger King (CZ)",
+      "lat": 50.1025,
+      "lon": 14.4768,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "cz_poi_1_4",
+      "kind": "food",
+      "brand": "Starbucks",
+      "name": "Starbucks Coffee (CZ)",
+      "lat": 50.1115,
+      "lon": 14.4898,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "cz_poi_1_5",
+      "kind": "rest",
+      "brand": "Odpočívadlo P",
+      "name": "Diaľničné odpočívadlo P (CZ)",
+      "lat": 50.1205,
+      "lon": 14.5028,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "cz_poi_1_6",
+      "kind": "food",
+      "brand": "McDonald's",
+      "name": "McDonald's Drive-Thru (CZ)",
+      "lat": 50.1295,
+      "lon": 14.5158,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "cz_poi_1_7",
+      "kind": "rest",
+      "brand": "KFC",
+      "name": "KFC Express (CZ)",
+      "lat": 50.1385,
+      "lon": 14.5288,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "cz_poi_1_8",
+      "kind": "food",
+      "brand": "Subway",
+      "name": "Subway Fresh (CZ)",
+      "lat": 50.1475,
+      "lon": 14.5418,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "cz_poi_1_9",
+      "kind": "rest",
+      "brand": "Burger King",
+      "name": "Burger King (CZ)",
+      "lat": 50.1565,
+      "lon": 14.5548,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "cz_poi_1_10",
+      "kind": "food",
+      "brand": "Starbucks",
+      "name": "Starbucks Coffee (CZ)",
+      "lat": 50.1655,
+      "lon": 14.5678,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "cz_poi_1_11",
+      "kind": "rest",
+      "brand": "Odpočívadlo P",
+      "name": "Diaľničné odpočívadlo P (CZ)",
+      "lat": 50.1745,
+      "lon": 14.5808,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "cz_poi_1_12",
+      "kind": "food",
+      "brand": "McDonald's",
+      "name": "McDonald's Drive-Thru (CZ)",
+      "lat": 50.1835,
+      "lon": 14.5938,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "cz_poi_1_13",
+      "kind": "rest",
+      "brand": "KFC",
+      "name": "KFC Express (CZ)",
+      "lat": 50.1925,
+      "lon": 14.6068,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "cz_poi_1_14",
+      "kind": "food",
+      "brand": "Subway",
+      "name": "Subway Fresh (CZ)",
+      "lat": 50.2015,
+      "lon": 14.6198,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    }
+  ],
+  "sidewalks_and_pedestrian": [
+    {
+      "id": "cz_footway_1_1",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          50.0765,
+          14.4388
+        ],
+        [
+          50.0773,
+          14.4399
+        ]
+      ]
+    },
+    {
+      "id": "cz_footway_1_2",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          50.0775,
+          14.4398
+        ],
+        [
+          50.0783,
+          14.4409
+        ]
+      ]
+    },
+    {
+      "id": "cz_footway_1_3",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          50.0785,
+          14.4408
+        ],
+        [
+          50.0793,
+          14.4419
+        ]
+      ]
+    },
+    {
+      "id": "cz_footway_1_4",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          50.0795,
+          14.4418
+        ],
+        [
+          50.0803,
+          14.4429
+        ]
+      ]
+    },
+    {
+      "id": "cz_footway_1_5",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          50.0805,
+          14.4428
+        ],
+        [
+          50.0813,
+          14.4439
+        ]
+      ]
+    },
+    {
+      "id": "cz_footway_1_6",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          50.0815,
+          14.4438
+        ],
+        [
+          50.0823,
+          14.4449
+        ]
+      ]
+    },
+    {
+      "id": "cz_footway_1_7",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          50.0825,
+          14.4448
+        ],
+        [
+          50.0833,
+          14.4459
+        ]
+      ]
+    },
+    {
+      "id": "cz_footway_1_8",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          50.0835,
+          14.4458
+        ],
+        [
+          50.0843,
+          14.4469
+        ]
+      ]
+    },
+    {
+      "id": "cz_footway_1_9",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          50.0845,
+          14.4468
+        ],
+        [
+          50.0853,
+          14.4479
+        ]
+      ]
+    },
+    {
+      "id": "cz_footway_1_10",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          50.0855,
+          14.4478
+        ],
+        [
+          50.0863,
+          14.4489
+        ]
+      ]
+    },
+    {
+      "id": "cz_footway_1_11",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          50.0865,
+          14.4488
+        ],
+        [
+          50.0873,
+          14.4499
+        ]
+      ]
+    }
+  ],
+  "buildings_3d": [
+    {
+      "id": "cz_bldg3d_1_1",
+      "name": "3D Block CZ-1-1",
+      "height_m": 25.5,
+      "levels": 7,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0762,
+          14.4387
+        ],
+        [
+          50.07655,
+          14.4387
+        ],
+        [
+          50.07655,
+          14.43915
+        ],
+        [
+          50.0762,
+          14.43915
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_2",
+      "name": "3D Block CZ-1-2",
+      "height_m": 33.0,
+      "levels": 9,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0769,
+          14.4396
+        ],
+        [
+          50.07725,
+          14.4396
+        ],
+        [
+          50.07725,
+          14.44005
+        ],
+        [
+          50.0769,
+          14.44005
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_3",
+      "name": "3D Block CZ-1-3",
+      "height_m": 40.5,
+      "levels": 11,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0776,
+          14.4405
+        ],
+        [
+          50.07795,
+          14.4405
+        ],
+        [
+          50.07795,
+          14.44095
+        ],
+        [
+          50.0776,
+          14.44095
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_4",
+      "name": "3D Block CZ-1-4",
+      "height_m": 48.0,
+      "levels": 13,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0783,
+          14.4414
+        ],
+        [
+          50.07865,
+          14.4414
+        ],
+        [
+          50.07865,
+          14.44185
+        ],
+        [
+          50.0783,
+          14.44185
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_5",
+      "name": "3D Block CZ-1-5",
+      "height_m": 55.5,
+      "levels": 15,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.079,
+          14.4423
+        ],
+        [
+          50.07935,
+          14.4423
+        ],
+        [
+          50.07935,
+          14.44275
+        ],
+        [
+          50.079,
+          14.44275
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_6",
+      "name": "3D Block CZ-1-6",
+      "height_m": 18.0,
+      "levels": 5,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0797,
+          14.4432
+        ],
+        [
+          50.08005,
+          14.4432
+        ],
+        [
+          50.08005,
+          14.44365
+        ],
+        [
+          50.0797,
+          14.44365
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_7",
+      "name": "3D Block CZ-1-7",
+      "height_m": 25.5,
+      "levels": 7,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0804,
+          14.4441
+        ],
+        [
+          50.08075,
+          14.4441
+        ],
+        [
+          50.08075,
+          14.44455
+        ],
+        [
+          50.0804,
+          14.44455
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_8",
+      "name": "3D Block CZ-1-8",
+      "height_m": 33.0,
+      "levels": 9,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0811,
+          14.445
+        ],
+        [
+          50.08145,
+          14.445
+        ],
+        [
+          50.08145,
+          14.44545
+        ],
+        [
+          50.0811,
+          14.44545
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_9",
+      "name": "3D Block CZ-1-9",
+      "height_m": 40.5,
+      "levels": 11,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0818,
+          14.4459
+        ],
+        [
+          50.08215,
+          14.4459
+        ],
+        [
+          50.08215,
+          14.44635
+        ],
+        [
+          50.0818,
+          14.44635
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_10",
+      "name": "3D Block CZ-1-10",
+      "height_m": 48.0,
+      "levels": 13,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0825,
+          14.4468
+        ],
+        [
+          50.08285,
+          14.4468
+        ],
+        [
+          50.08285,
+          14.44725
+        ],
+        [
+          50.0825,
+          14.44725
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_11",
+      "name": "3D Block CZ-1-11",
+      "height_m": 55.5,
+      "levels": 15,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0832,
+          14.4477
+        ],
+        [
+          50.08355,
+          14.4477
+        ],
+        [
+          50.08355,
+          14.44815
+        ],
+        [
+          50.0832,
+          14.44815
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_12",
+      "name": "3D Block CZ-1-12",
+      "height_m": 18.0,
+      "levels": 5,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0839,
+          14.4486
+        ],
+        [
+          50.08425,
+          14.4486
+        ],
+        [
+          50.08425,
+          14.44905
+        ],
+        [
+          50.0839,
+          14.44905
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_13",
+      "name": "3D Block CZ-1-13",
+      "height_m": 25.5,
+      "levels": 7,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0846,
+          14.4495
+        ],
+        [
+          50.08495,
+          14.4495
+        ],
+        [
+          50.08495,
+          14.44995
+        ],
+        [
+          50.0846,
+          14.44995
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_14",
+      "name": "3D Block CZ-1-14",
+      "height_m": 33.0,
+      "levels": 9,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0853,
+          14.4504
+        ],
+        [
+          50.08565,
+          14.4504
+        ],
+        [
+          50.08565,
+          14.45085
+        ],
+        [
+          50.0853,
+          14.45085
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_15",
+      "name": "3D Block CZ-1-15",
+      "height_m": 40.5,
+      "levels": 11,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.086,
+          14.4513
+        ],
+        [
+          50.08635,
+          14.4513
+        ],
+        [
+          50.08635,
+          14.45175
+        ],
+        [
+          50.086,
+          14.45175
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_16",
+      "name": "3D Block CZ-1-16",
+      "height_m": 48.0,
+      "levels": 13,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0867,
+          14.4522
+        ],
+        [
+          50.08705,
+          14.4522
+        ],
+        [
+          50.08705,
+          14.45265
+        ],
+        [
+          50.0867,
+          14.45265
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_17",
+      "name": "3D Block CZ-1-17",
+      "height_m": 55.5,
+      "levels": 15,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0874,
+          14.4531
+        ],
+        [
+          50.08775,
+          14.4531
+        ],
+        [
+          50.08775,
+          14.45355
+        ],
+        [
+          50.0874,
+          14.45355
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_18",
+      "name": "3D Block CZ-1-18",
+      "height_m": 18.0,
+      "levels": 5,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0881,
+          14.454
+        ],
+        [
+          50.08845,
+          14.454
+        ],
+        [
+          50.08845,
+          14.45445
+        ],
+        [
+          50.0881,
+          14.45445
+        ]
+      ]
+    },
+    {
+      "id": "cz_bldg3d_1_19",
+      "name": "3D Block CZ-1-19",
+      "height_m": 25.5,
+      "levels": 7,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          50.0888,
+          14.4549
+        ],
+        [
+          50.08915,
+          14.4549
+        ],
+        [
+          50.08915,
+          14.45535
+        ],
+        [
+          50.0888,
+          14.45535
+        ]
+      ]
+    }
+  ]
+}

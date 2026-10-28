@@ -1,0 +1,1137 @@
+{
+  "package_id": "de-part-3",
+  "country_code": "DE",
+  "country_name": "Germany",
+  "native_name": "Nemecko (Multi-Part >2GB)",
+  "part_index": 3,
+  "total_parts": 4,
+  "version": "4.0.0",
+  "layers_included": [
+    "road_network_osrm",
+    "speed_cameras_osm",
+    "fuel_stations_branded",
+    "rest_areas_and_parking",
+    "food_chains_kfc_mcd_subway",
+    "sidewalks_and_pedestrian_ways",
+    "buildings_3d_extrusion",
+    "country_toll_and_vignette_matrix"
+  ],
+  "toll_metadata": {
+    "toll_type": "passenger_free_truck_maut",
+    "major_highways": [
+      "A1",
+      "A2",
+      "A3",
+      "A5",
+      "A6",
+      "A7",
+      "A8",
+      "A9",
+      "A10"
+    ],
+    "supports_paid_and_unpaid_split": true
+  },
+  "speed_cameras": [
+    {
+      "id": "de_cam_3_1",
+      "lat": 52.608,
+      "lon": 13.496,
+      "maxspeed": 130,
+      "direction_deg": 45,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "de_cam_3_2",
+      "lat": 52.616,
+      "lon": 13.507,
+      "maxspeed": 90,
+      "direction_deg": 90,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "de_cam_3_3",
+      "lat": 52.624,
+      "lon": 13.518,
+      "maxspeed": 130,
+      "direction_deg": 135,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "de_cam_3_4",
+      "lat": 52.632,
+      "lon": 13.529,
+      "maxspeed": 90,
+      "direction_deg": 180,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "de_cam_3_5",
+      "lat": 52.64,
+      "lon": 13.54,
+      "maxspeed": 130,
+      "direction_deg": 225,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "de_cam_3_6",
+      "lat": 52.648,
+      "lon": 13.551,
+      "maxspeed": 90,
+      "direction_deg": 270,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "de_cam_3_7",
+      "lat": 52.656,
+      "lon": 13.562,
+      "maxspeed": 130,
+      "direction_deg": 315,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "de_cam_3_8",
+      "lat": 52.664,
+      "lon": 13.573,
+      "maxspeed": 90,
+      "direction_deg": 0,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "de_cam_3_9",
+      "lat": 52.672,
+      "lon": 13.584,
+      "maxspeed": 130,
+      "direction_deg": 45,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "de_cam_3_10",
+      "lat": 52.68,
+      "lon": 13.595,
+      "maxspeed": 90,
+      "direction_deg": 90,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "de_cam_3_11",
+      "lat": 52.688,
+      "lon": 13.606,
+      "maxspeed": 130,
+      "direction_deg": 135,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "de_cam_3_12",
+      "lat": 52.696,
+      "lon": 13.617,
+      "maxspeed": 90,
+      "direction_deg": 180,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "de_cam_3_13",
+      "lat": 52.704,
+      "lon": 13.628,
+      "maxspeed": 130,
+      "direction_deg": 225,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "de_cam_3_14",
+      "lat": 52.712,
+      "lon": 13.639,
+      "maxspeed": 90,
+      "direction_deg": 270,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "de_cam_3_15",
+      "lat": 52.72,
+      "lon": 13.65,
+      "maxspeed": 130,
+      "direction_deg": 315,
+      "type": "fixed_radar"
+    }
+  ],
+  "fuel_stations": [
+    {
+      "id": "de_fuel_3_1",
+      "brand": "Shell",
+      "name": "Shell Highway Station #1",
+      "lat": 52.612,
+      "lon": 13.499,
+      "diesel": 1.55,
+      "petrol95": 1.61
+    },
+    {
+      "id": "de_fuel_3_2",
+      "brand": "Slovnaft",
+      "name": "Slovnaft Highway Station #2",
+      "lat": 52.624,
+      "lon": 13.513,
+      "diesel": 1.58,
+      "petrol95": 1.64
+    },
+    {
+      "id": "de_fuel_3_3",
+      "brand": "Aral",
+      "name": "Aral Highway Station #3",
+      "lat": 52.636,
+      "lon": 13.527,
+      "diesel": 1.61,
+      "petrol95": 1.67
+    },
+    {
+      "id": "de_fuel_3_4",
+      "brand": "TotalEnergies",
+      "name": "TotalEnergies Highway Station #4",
+      "lat": 52.648,
+      "lon": 13.541,
+      "diesel": 1.64,
+      "petrol95": 1.7
+    },
+    {
+      "id": "de_fuel_3_5",
+      "brand": "Orlen",
+      "name": "Orlen Highway Station #5",
+      "lat": 52.66,
+      "lon": 13.555,
+      "diesel": 1.52,
+      "petrol95": 1.58
+    },
+    {
+      "id": "de_fuel_3_6",
+      "brand": "MOL",
+      "name": "MOL Highway Station #6",
+      "lat": 52.672,
+      "lon": 13.569,
+      "diesel": 1.55,
+      "petrol95": 1.61
+    },
+    {
+      "id": "de_fuel_3_7",
+      "brand": "OMV",
+      "name": "OMV Highway Station #7",
+      "lat": 52.684,
+      "lon": 13.583,
+      "diesel": 1.58,
+      "petrol95": 1.64
+    },
+    {
+      "id": "de_fuel_3_8",
+      "brand": "Shell",
+      "name": "Shell Highway Station #8",
+      "lat": 52.696,
+      "lon": 13.597,
+      "diesel": 1.61,
+      "petrol95": 1.67
+    },
+    {
+      "id": "de_fuel_3_9",
+      "brand": "Slovnaft",
+      "name": "Slovnaft Highway Station #9",
+      "lat": 52.708,
+      "lon": 13.611,
+      "diesel": 1.64,
+      "petrol95": 1.7
+    },
+    {
+      "id": "de_fuel_3_10",
+      "brand": "Aral",
+      "name": "Aral Highway Station #10",
+      "lat": 52.72,
+      "lon": 13.625,
+      "diesel": 1.52,
+      "petrol95": 1.58
+    },
+    {
+      "id": "de_fuel_3_11",
+      "brand": "TotalEnergies",
+      "name": "TotalEnergies Highway Station #11",
+      "lat": 52.732,
+      "lon": 13.639,
+      "diesel": 1.55,
+      "petrol95": 1.61
+    },
+    {
+      "id": "de_fuel_3_12",
+      "brand": "Orlen",
+      "name": "Orlen Highway Station #12",
+      "lat": 52.744,
+      "lon": 13.653,
+      "diesel": 1.58,
+      "petrol95": 1.64
+    },
+    {
+      "id": "de_fuel_3_13",
+      "brand": "MOL",
+      "name": "MOL Highway Station #13",
+      "lat": 52.756,
+      "lon": 13.667,
+      "diesel": 1.61,
+      "petrol95": 1.67
+    },
+    {
+      "id": "de_fuel_3_14",
+      "brand": "OMV",
+      "name": "OMV Highway Station #14",
+      "lat": 52.768,
+      "lon": 13.681,
+      "diesel": 1.64,
+      "petrol95": 1.7
+    }
+  ],
+  "rest_areas_and_food": [
+    {
+      "id": "de_poi_3_1",
+      "kind": "rest",
+      "brand": "KFC",
+      "name": "KFC Express (DE)",
+      "lat": 52.609,
+      "lon": 13.498,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "de_poi_3_2",
+      "kind": "food",
+      "brand": "Subway",
+      "name": "Subway Fresh (DE)",
+      "lat": 52.618,
+      "lon": 13.511,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "de_poi_3_3",
+      "kind": "rest",
+      "brand": "Burger King",
+      "name": "Burger King (DE)",
+      "lat": 52.627,
+      "lon": 13.524,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "de_poi_3_4",
+      "kind": "food",
+      "brand": "Starbucks",
+      "name": "Starbucks Coffee (DE)",
+      "lat": 52.636,
+      "lon": 13.537,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "de_poi_3_5",
+      "kind": "rest",
+      "brand": "Odpočívadlo P",
+      "name": "Diaľničné odpočívadlo P (DE)",
+      "lat": 52.645,
+      "lon": 13.55,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "de_poi_3_6",
+      "kind": "food",
+      "brand": "McDonald's",
+      "name": "McDonald's Drive-Thru (DE)",
+      "lat": 52.654,
+      "lon": 13.563,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "de_poi_3_7",
+      "kind": "rest",
+      "brand": "KFC",
+      "name": "KFC Express (DE)",
+      "lat": 52.663,
+      "lon": 13.576,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "de_poi_3_8",
+      "kind": "food",
+      "brand": "Subway",
+      "name": "Subway Fresh (DE)",
+      "lat": 52.672,
+      "lon": 13.589,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "de_poi_3_9",
+      "kind": "rest",
+      "brand": "Burger King",
+      "name": "Burger King (DE)",
+      "lat": 52.681,
+      "lon": 13.602,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "de_poi_3_10",
+      "kind": "food",
+      "brand": "Starbucks",
+      "name": "Starbucks Coffee (DE)",
+      "lat": 52.69,
+      "lon": 13.615,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "de_poi_3_11",
+      "kind": "rest",
+      "brand": "Odpočívadlo P",
+      "name": "Diaľničné odpočívadlo P (DE)",
+      "lat": 52.699,
+      "lon": 13.628,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "de_poi_3_12",
+      "kind": "food",
+      "brand": "McDonald's",
+      "name": "McDonald's Drive-Thru (DE)",
+      "lat": 52.708,
+      "lon": 13.641,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "de_poi_3_13",
+      "kind": "rest",
+      "brand": "KFC",
+      "name": "KFC Express (DE)",
+      "lat": 52.717,
+      "lon": 13.654,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "de_poi_3_14",
+      "kind": "food",
+      "brand": "Subway",
+      "name": "Subway Fresh (DE)",
+      "lat": 52.726,
+      "lon": 13.667,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    }
+  ],
+  "sidewalks_and_pedestrian": [
+    {
+      "id": "de_footway_3_1",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.521,
+          13.406
+        ],
+        [
+          52.5218,
+          13.4071
+        ]
+      ]
+    },
+    {
+      "id": "de_footway_3_2",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.522,
+          13.407
+        ],
+        [
+          52.5228,
+          13.4081
+        ]
+      ]
+    },
+    {
+      "id": "de_footway_3_3",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.523,
+          13.408
+        ],
+        [
+          52.5238,
+          13.4091
+        ]
+      ]
+    },
+    {
+      "id": "de_footway_3_4",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.524,
+          13.409
+        ],
+        [
+          52.5248,
+          13.4101
+        ]
+      ]
+    },
+    {
+      "id": "de_footway_3_5",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.525,
+          13.41
+        ],
+        [
+          52.5258,
+          13.4111
+        ]
+      ]
+    },
+    {
+      "id": "de_footway_3_6",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.526,
+          13.411
+        ],
+        [
+          52.5268,
+          13.4121
+        ]
+      ]
+    },
+    {
+      "id": "de_footway_3_7",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.527,
+          13.412
+        ],
+        [
+          52.5278,
+          13.4131
+        ]
+      ]
+    },
+    {
+      "id": "de_footway_3_8",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.528,
+          13.413
+        ],
+        [
+          52.5288,
+          13.4141
+        ]
+      ]
+    },
+    {
+      "id": "de_footway_3_9",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.529,
+          13.414
+        ],
+        [
+          52.5298,
+          13.4151
+        ]
+      ]
+    },
+    {
+      "id": "de_footway_3_10",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.53,
+          13.415
+        ],
+        [
+          52.5308,
+          13.4161
+        ]
+      ]
+    },
+    {
+      "id": "de_footway_3_11",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.531,
+          13.416
+        ],
+        [
+          52.5318,
+          13.4171
+        ]
+      ]
+    }
+  ],
+  "buildings_3d": [
+    {
+      "id": "de_bldg3d_3_1",
+      "name": "3D Block DE-3-1",
+      "height_m": 25.5,
+      "levels": 7,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5207,
+          13.4059
+        ],
+        [
+          52.52105,
+          13.4059
+        ],
+        [
+          52.52105,
+          13.40635
+        ],
+        [
+          52.5207,
+          13.40635
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_2",
+      "name": "3D Block DE-3-2",
+      "height_m": 33.0,
+      "levels": 9,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5214,
+          13.4068
+        ],
+        [
+          52.52175,
+          13.4068
+        ],
+        [
+          52.52175,
+          13.40725
+        ],
+        [
+          52.5214,
+          13.40725
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_3",
+      "name": "3D Block DE-3-3",
+      "height_m": 40.5,
+      "levels": 11,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5221,
+          13.4077
+        ],
+        [
+          52.52245,
+          13.4077
+        ],
+        [
+          52.52245,
+          13.40815
+        ],
+        [
+          52.5221,
+          13.40815
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_4",
+      "name": "3D Block DE-3-4",
+      "height_m": 48.0,
+      "levels": 13,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5228,
+          13.4086
+        ],
+        [
+          52.52315,
+          13.4086
+        ],
+        [
+          52.52315,
+          13.40905
+        ],
+        [
+          52.5228,
+          13.40905
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_5",
+      "name": "3D Block DE-3-5",
+      "height_m": 55.5,
+      "levels": 15,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5235,
+          13.4095
+        ],
+        [
+          52.52385,
+          13.4095
+        ],
+        [
+          52.52385,
+          13.40995
+        ],
+        [
+          52.5235,
+          13.40995
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_6",
+      "name": "3D Block DE-3-6",
+      "height_m": 18.0,
+      "levels": 5,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5242,
+          13.4104
+        ],
+        [
+          52.52455,
+          13.4104
+        ],
+        [
+          52.52455,
+          13.41085
+        ],
+        [
+          52.5242,
+          13.41085
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_7",
+      "name": "3D Block DE-3-7",
+      "height_m": 25.5,
+      "levels": 7,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5249,
+          13.4113
+        ],
+        [
+          52.52525,
+          13.4113
+        ],
+        [
+          52.52525,
+          13.41175
+        ],
+        [
+          52.5249,
+          13.41175
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_8",
+      "name": "3D Block DE-3-8",
+      "height_m": 33.0,
+      "levels": 9,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5256,
+          13.4122
+        ],
+        [
+          52.52595,
+          13.4122
+        ],
+        [
+          52.52595,
+          13.41265
+        ],
+        [
+          52.5256,
+          13.41265
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_9",
+      "name": "3D Block DE-3-9",
+      "height_m": 40.5,
+      "levels": 11,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5263,
+          13.4131
+        ],
+        [
+          52.52665,
+          13.4131
+        ],
+        [
+          52.52665,
+          13.41355
+        ],
+        [
+          52.5263,
+          13.41355
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_10",
+      "name": "3D Block DE-3-10",
+      "height_m": 48.0,
+      "levels": 13,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.527,
+          13.414
+        ],
+        [
+          52.52735,
+          13.414
+        ],
+        [
+          52.52735,
+          13.41445
+        ],
+        [
+          52.527,
+          13.41445
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_11",
+      "name": "3D Block DE-3-11",
+      "height_m": 55.5,
+      "levels": 15,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5277,
+          13.4149
+        ],
+        [
+          52.52805,
+          13.4149
+        ],
+        [
+          52.52805,
+          13.41535
+        ],
+        [
+          52.5277,
+          13.41535
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_12",
+      "name": "3D Block DE-3-12",
+      "height_m": 18.0,
+      "levels": 5,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5284,
+          13.4158
+        ],
+        [
+          52.52875,
+          13.4158
+        ],
+        [
+          52.52875,
+          13.41625
+        ],
+        [
+          52.5284,
+          13.41625
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_13",
+      "name": "3D Block DE-3-13",
+      "height_m": 25.5,
+      "levels": 7,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5291,
+          13.4167
+        ],
+        [
+          52.52945,
+          13.4167
+        ],
+        [
+          52.52945,
+          13.41715
+        ],
+        [
+          52.5291,
+          13.41715
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_14",
+      "name": "3D Block DE-3-14",
+      "height_m": 33.0,
+      "levels": 9,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5298,
+          13.4176
+        ],
+        [
+          52.53015,
+          13.4176
+        ],
+        [
+          52.53015,
+          13.41805
+        ],
+        [
+          52.5298,
+          13.41805
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_15",
+      "name": "3D Block DE-3-15",
+      "height_m": 40.5,
+      "levels": 11,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5305,
+          13.4185
+        ],
+        [
+          52.53085,
+          13.4185
+        ],
+        [
+          52.53085,
+          13.41895
+        ],
+        [
+          52.5305,
+          13.41895
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_16",
+      "name": "3D Block DE-3-16",
+      "height_m": 48.0,
+      "levels": 13,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5312,
+          13.4194
+        ],
+        [
+          52.53155,
+          13.4194
+        ],
+        [
+          52.53155,
+          13.41985
+        ],
+        [
+          52.5312,
+          13.41985
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_17",
+      "name": "3D Block DE-3-17",
+      "height_m": 55.5,
+      "levels": 15,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5319,
+          13.4203
+        ],
+        [
+          52.53225,
+          13.4203
+        ],
+        [
+          52.53225,
+          13.42075
+        ],
+        [
+          52.5319,
+          13.42075
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_18",
+      "name": "3D Block DE-3-18",
+      "height_m": 18.0,
+      "levels": 5,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5326,
+          13.4212
+        ],
+        [
+          52.53295,
+          13.4212
+        ],
+        [
+          52.53295,
+          13.42165
+        ],
+        [
+          52.5326,
+          13.42165
+        ]
+      ]
+    },
+    {
+      "id": "de_bldg3d_3_19",
+      "name": "3D Block DE-3-19",
+      "height_m": 25.5,
+      "levels": 7,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.5333,
+          13.4221
+        ],
+        [
+          52.53365,
+          13.4221
+        ],
+        [
+          52.53365,
+          13.42255
+        ],
+        [
+          52.5333,
+          13.42255
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,790 @@
+{
+  "schemaVersion": "4.0.0",
+  "repository": "ncore-org/ncmap-offline-maps",
+  "releaseTag": "v4.0.0-maps",
+  "updateAvailable": true,
+  "updateTitle": "Map update available",
+  "updateDateLabel": "October 2026",
+  "totalUpdateSizeGb": 10.07,
+  "countries": [
+    {
+      "code": "ad",
+      "name": "Andorra",
+      "nativeName": "Andorra",
+      "flag": "🇦🇩",
+      "continent": "Europe",
+      "displaySizeMb": 2.7,
+      "center": [
+        42.5063,
+        1.5218
+      ],
+      "bbox": [
+        42.428,
+        1.407,
+        42.656,
+        1.786
+      ],
+      "chunksCount": 1,
+      "isMultiPart": false,
+      "tollType": "toll_free",
+      "highways": [
+        "CG-1",
+        "CG-2"
+      ],
+      "regions": [],
+      "layers": [
+        "3D Budovy (OSM Extrusion)",
+        "Rýchlostné radary",
+        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
+        "Odpočívadlá & Parkoviská",
+        "Reťazce (McDonald's, KFC, Subway...)",
+        "Chodníky & Pešie zóny",
+        "Mýtne a diaľničné úseky"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "fileName": "ad.part1.ncmap.json",
+          "sizeMb": 2.7,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/ad.part1.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/ad.part1.ncmap.json"
+        }
+      ]
+    },
+    {
+      "code": "at",
+      "name": "Austria",
+      "nativeName": "Rakúsko",
+      "flag": "🇦🇹",
+      "continent": "Europe",
+      "displaySizeMb": 204.3,
+      "center": [
+        48.2082,
+        16.3738
+      ],
+      "bbox": [
+        46.372,
+        9.53,
+        49.02,
+        17.16
+      ],
+      "chunksCount": 1,
+      "isMultiPart": false,
+      "tollType": "vignette_and_section_toll",
+      "highways": [
+        "A1",
+        "A2",
+        "A4",
+        "A6",
+        "A8",
+        "A10",
+        "S1"
+      ],
+      "regions": [
+        "Vienna (Wien)",
+        "Lower Austria",
+        "Tyrol & Salzburg"
+      ],
+      "layers": [
+        "3D Budovy (OSM Extrusion)",
+        "Rýchlostné radary",
+        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
+        "Odpočívadlá & Parkoviská",
+        "Reťazce (McDonald's, KFC, Subway...)",
+        "Chodníky & Pešie zóny",
+        "Mýtne a diaľničné úseky"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "fileName": "at.part1.ncmap.json",
+          "sizeMb": 204.3,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/at.part1.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/at.part1.ncmap.json"
+        }
+      ]
+    },
+    {
+      "code": "be",
+      "name": "Belgium",
+      "nativeName": "Belgicko",
+      "flag": "🇧🇪",
+      "continent": "Europe",
+      "displaySizeMb": 231.3,
+      "center": [
+        50.8503,
+        4.3517
+      ],
+      "bbox": [
+        49.496,
+        2.545,
+        51.505,
+        6.408
+      ],
+      "chunksCount": 1,
+      "isMultiPart": false,
+      "tollType": "tunnel_toll_only",
+      "highways": [
+        "E19",
+        "E40",
+        "E411",
+        "A12"
+      ],
+      "regions": [
+        "Flanders",
+        "Wallonia",
+        "Brussels"
+      ],
+      "layers": [
+        "3D Budovy (OSM Extrusion)",
+        "Rýchlostné radary",
+        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
+        "Odpočívadlá & Parkoviská",
+        "Reťazce (McDonald's, KFC, Subway...)",
+        "Chodníky & Pešie zóny",
+        "Mýtne a diaľničné úseky"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "fileName": "be.part1.ncmap.json",
+          "sizeMb": 231.3,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/be.part1.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/be.part1.ncmap.json"
+        }
+      ]
+    },
+    {
+      "code": "ca",
+      "name": "Canada",
+      "nativeName": "Kanada",
+      "flag": "🇨🇦",
+      "continent": "North America",
+      "displaySizeMb": 842.0,
+      "center": [
+        49.2827,
+        -123.1207
+      ],
+      "bbox": [
+        41.676,
+        -141.002,
+        60.0,
+        -52.619
+      ],
+      "chunksCount": 3,
+      "isMultiPart": true,
+      "tollType": "express_toll_routes",
+      "highways": [
+        "Trans-Canada Hwy 1",
+        "Hwy 401",
+        "Hwy 407 ETR"
+      ],
+      "regions": [
+        {
+          "id": "ca-bc",
+          "name": "British Columbia (Victoria)",
+          "sizeMb": 129.8
+        },
+        {
+          "id": "ca-ab",
+          "name": "Alberta (Edmonton)",
+          "sizeMb": 104.8
+        },
+        {
+          "id": "ca-on",
+          "name": "Ontario (Toronto)",
+          "sizeMb": 245.4
+        }
+      ],
+      "layers": [
+        "3D Budovy (OSM Extrusion)",
+        "Rýchlostné radary",
+        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
+        "Odpočívadlá & Parkoviská",
+        "Reťazce (McDonald's, KFC, Subway...)",
+        "Chodníky & Pešie zóny",
+        "Mýtne a diaľničné úseky"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "fileName": "ca.part1.ncmap.json",
+          "sizeMb": 280.7,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/ca.part1.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/ca.part1.ncmap.json"
+        },
+        {
+          "part": 2,
+          "fileName": "ca.part2.ncmap.json",
+          "sizeMb": 280.7,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/ca.part2.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/ca.part2.ncmap.json"
+        },
+        {
+          "part": 3,
+          "fileName": "ca.part3.ncmap.json",
+          "sizeMb": 280.7,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/ca.part3.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/ca.part3.ncmap.json"
+        }
+      ]
+    },
+    {
+      "code": "sk",
+      "name": "Slovakia",
+      "nativeName": "Slovensko",
+      "flag": "🇸🇰",
+      "continent": "Europe",
+      "displaySizeMb": 176.4,
+      "center": [
+        48.1486,
+        17.1077
+      ],
+      "bbox": [
+        47.731,
+        16.833,
+        49.613,
+        22.565
+      ],
+      "chunksCount": 1,
+      "isMultiPart": false,
+      "tollType": "e_vignette",
+      "highways": [
+        "D1",
+        "D2",
+        "D3",
+        "D4",
+        "R1",
+        "R2",
+        "R4",
+        "R7"
+      ],
+      "regions": [
+        "Bratislavský & Západ",
+        "Stredné Slovensko",
+        "Východné Slovensko"
+      ],
+      "layers": [
+        "3D Budovy (OSM Extrusion)",
+        "Rýchlostné radary",
+        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
+        "Odpočívadlá & Parkoviská",
+        "Reťazce (McDonald's, KFC, Subway...)",
+        "Chodníky & Pešie zóny",
+        "Mýtne a diaľničné úseky"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "fileName": "sk.part1.ncmap.json",
+          "sizeMb": 176.4,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/sk.part1.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/sk.part1.ncmap.json"
+        }
+      ]
+    },
+    {
+      "code": "cz",
+      "name": "Czechia",
+      "nativeName": "Česko",
+      "flag": "🇨🇿",
+      "continent": "Europe",
+      "displaySizeMb": 318.5,
+      "center": [
+        50.0755,
+        14.4378
+      ],
+      "bbox": [
+        48.551,
+        12.09,
+        51.055,
+        18.859
+      ],
+      "chunksCount": 1,
+      "isMultiPart": false,
+      "tollType": "e_vignette",
+      "highways": [
+        "D1",
+        "D2",
+        "D3",
+        "D5",
+        "D8",
+        "D11",
+        "D35"
+      ],
+      "regions": [
+        "Praha & Čechy",
+        "Morava & Sliezsko"
+      ],
+      "layers": [
+        "3D Budovy (OSM Extrusion)",
+        "Rýchlostné radary",
+        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
+        "Odpočívadlá & Parkoviská",
+        "Reťazce (McDonald's, KFC, Subway...)",
+        "Chodníky & Pešie zóny",
+        "Mýtne a diaľničné úseky"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "fileName": "cz.part1.ncmap.json",
+          "sizeMb": 318.5,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/cz.part1.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/cz.part1.ncmap.json"
+        }
+      ]
+    },
+    {
+      "code": "de",
+      "name": "Germany",
+      "nativeName": "Nemecko (Multi-Part >2GB)",
+      "flag": "🇩🇪",
+      "continent": "Europe",
+      "displaySizeMb": 3120.0,
+      "center": [
+        52.52,
+        13.405
+      ],
+      "bbox": [
+        47.27,
+        5.866,
+        55.058,
+        15.041
+      ],
+      "chunksCount": 4,
+      "isMultiPart": true,
+      "tollType": "passenger_free_truck_maut",
+      "highways": [
+        "A1",
+        "A2",
+        "A3",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A9",
+        "A10"
+      ],
+      "regions": [
+        {
+          "id": "de-bav",
+          "name": "Bavaria (München)",
+          "sizeMb": 820.4
+        },
+        {
+          "id": "de-ber",
+          "name": "Berlin & Brandenburg",
+          "sizeMb": 640.2
+        },
+        {
+          "id": "de-nrw",
+          "name": "Nordrhein-Westfalen (Köln)",
+          "sizeMb": 910.0
+        },
+        {
+          "id": "de-bw",
+          "name": "Baden-Württemberg (Stuttgart)",
+          "sizeMb": 749.4
+        }
+      ],
+      "layers": [
+        "3D Budovy (OSM Extrusion)",
+        "Rýchlostné radary",
+        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
+        "Odpočívadlá & Parkoviská",
+        "Reťazce (McDonald's, KFC, Subway...)",
+        "Chodníky & Pešie zóny",
+        "Mýtne a diaľničné úseky"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "fileName": "de.part1.ncmap.json",
+          "sizeMb": 780.0,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/de.part1.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/de.part1.ncmap.json"
+        },
+        {
+          "part": 2,
+          "fileName": "de.part2.ncmap.json",
+          "sizeMb": 780.0,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/de.part2.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/de.part2.ncmap.json"
+        },
+        {
+          "part": 3,
+          "fileName": "de.part3.ncmap.json",
+          "sizeMb": 780.0,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/de.part3.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/de.part3.ncmap.json"
+        },
+        {
+          "part": 4,
+          "fileName": "de.part4.ncmap.json",
+          "sizeMb": 780.0,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/de.part4.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/de.part4.ncmap.json"
+        }
+      ]
+    },
+    {
+      "code": "fr",
+      "name": "France",
+      "nativeName": "Francúzsko (Multi-Part >2GB)",
+      "flag": "🇫🇷",
+      "continent": "Europe",
+      "displaySizeMb": 2480.0,
+      "center": [
+        48.8566,
+        2.3522
+      ],
+      "bbox": [
+        41.333,
+        -5.142,
+        51.089,
+        9.56
+      ],
+      "chunksCount": 3,
+      "isMultiPart": true,
+      "tollType": "peage_toll_booths",
+      "highways": [
+        "A1",
+        "A4 (Péage)",
+        "A6 (Autoroute du Soleil)",
+        "A7",
+        "A10",
+        "N4 (Toll-Free)"
+      ],
+      "regions": [
+        {
+          "id": "fr-idf",
+          "name": "Île-de-France (Paris) & Grand Est",
+          "sizeMb": 890.0
+        },
+        {
+          "id": "fr-sud",
+          "name": "Auvergne-Rhône-Alpes & Provence",
+          "sizeMb": 840.0
+        },
+        {
+          "id": "fr-west",
+          "name": "Nouvelle-Aquitaine & Bretagne",
+          "sizeMb": 750.0
+        }
+      ],
+      "layers": [
+        "3D Budovy (OSM Extrusion)",
+        "Rýchlostné radary",
+        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
+        "Odpočívadlá & Parkoviská",
+        "Reťazce (McDonald's, KFC, Subway...)",
+        "Chodníky & Pešie zóny",
+        "Mýtne a diaľničné úseky"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "fileName": "fr.part1.ncmap.json",
+          "sizeMb": 826.7,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/fr.part1.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/fr.part1.ncmap.json"
+        },
+        {
+          "part": 2,
+          "fileName": "fr.part2.ncmap.json",
+          "sizeMb": 826.7,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/fr.part2.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/fr.part2.ncmap.json"
+        },
+        {
+          "part": 3,
+          "fileName": "fr.part3.ncmap.json",
+          "sizeMb": 826.7,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/fr.part3.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/fr.part3.ncmap.json"
+        }
+      ]
+    },
+    {
+      "code": "hu",
+      "name": "Hungary",
+      "nativeName": "Maďarsko",
+      "flag": "🇭🇺",
+      "continent": "Europe",
+      "displaySizeMb": 188.6,
+      "center": [
+        47.4979,
+        19.0402
+      ],
+      "bbox": [
+        45.737,
+        16.113,
+        48.585,
+        22.897
+      ],
+      "chunksCount": 1,
+      "isMultiPart": false,
+      "tollType": "e_matrica_vignette",
+      "highways": [
+        "M1",
+        "M3",
+        "M5",
+        "M7",
+        "M0",
+        "M15"
+      ],
+      "regions": [
+        "Budapest & Central",
+        "Transdanubia",
+        "Great Plain"
+      ],
+      "layers": [
+        "3D Budovy (OSM Extrusion)",
+        "Rýchlostné radary",
+        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
+        "Odpočívadlá & Parkoviská",
+        "Reťazce (McDonald's, KFC, Subway...)",
+        "Chodníky & Pešie zóny",
+        "Mýtne a diaľničné úseky"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "fileName": "hu.part1.ncmap.json",
+          "sizeMb": 188.6,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/hu.part1.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/hu.part1.ncmap.json"
+        }
+      ]
+    },
+    {
+      "code": "pl",
+      "name": "Poland",
+      "nativeName": "Poľsko",
+      "flag": "🇵🇱",
+      "continent": "Europe",
+      "displaySizeMb": 740.0,
+      "center": [
+        52.2297,
+        21.0122
+      ],
+      "bbox": [
+        49.002,
+        14.122,
+        54.836,
+        24.145
+      ],
+      "chunksCount": 2,
+      "isMultiPart": true,
+      "tollType": "e_toll_and_concession",
+      "highways": [
+        "A1",
+        "A2",
+        "A4",
+        "S7",
+        "S8"
+      ],
+      "regions": [
+        {
+          "id": "pl-south",
+          "name": "Małopolska & Śląsk (Kraków / Katowice)",
+          "sizeMb": 380.0
+        },
+        {
+          "id": "pl-north",
+          "name": "Mazowsze & Pomorze (Warszawa / Gdańsk)",
+          "sizeMb": 360.0
+        }
+      ],
+      "layers": [
+        "3D Budovy (OSM Extrusion)",
+        "Rýchlostné radary",
+        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
+        "Odpočívadlá & Parkoviská",
+        "Reťazce (McDonald's, KFC, Subway...)",
+        "Chodníky & Pešie zóny",
+        "Mýtne a diaľničné úseky"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "fileName": "pl.part1.ncmap.json",
+          "sizeMb": 370.0,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/pl.part1.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/pl.part1.ncmap.json"
+        },
+        {
+          "part": 2,
+          "fileName": "pl.part2.ncmap.json",
+          "sizeMb": 370.0,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/pl.part2.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/pl.part2.ncmap.json"
+        }
+      ]
+    },
+    {
+      "code": "it",
+      "name": "Italy",
+      "nativeName": "Taliansko",
+      "flag": "🇮🇹",
+      "continent": "Europe",
+      "displaySizeMb": 1890.0,
+      "center": [
+        41.9028,
+        12.4964
+      ],
+      "bbox": [
+        36.619,
+        6.627,
+        47.092,
+        18.52
+      ],
+      "chunksCount": 2,
+      "isMultiPart": true,
+      "tollType": "autostrada_telepass_toll",
+      "highways": [
+        "A1 (Autostrada del Sole)",
+        "A4",
+        "A14",
+        "A22 (Brenner)"
+      ],
+      "regions": [
+        {
+          "id": "it-north",
+          "name": "Northern Italy (Milano / Venezia)",
+          "sizeMb": 980.0
+        },
+        {
+          "id": "it-south",
+          "name": "Central & Southern Italy (Roma / Napoli)",
+          "sizeMb": 910.0
+        }
+      ],
+      "layers": [
+        "3D Budovy (OSM Extrusion)",
+        "Rýchlostné radary",
+        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
+        "Odpočívadlá & Parkoviská",
+        "Reťazce (McDonald's, KFC, Subway...)",
+        "Chodníky & Pešie zóny",
+        "Mýtne a diaľničné úseky"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "fileName": "it.part1.ncmap.json",
+          "sizeMb": 945.0,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/it.part1.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/it.part1.ncmap.json"
+        },
+        {
+          "part": 2,
+          "fileName": "it.part2.ncmap.json",
+          "sizeMb": 945.0,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/it.part2.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/it.part2.ncmap.json"
+        }
+      ]
+    },
+    {
+      "code": "hr",
+      "name": "Croatia",
+      "nativeName": "Chorvátsko",
+      "flag": "🇭🇷",
+      "continent": "Europe",
+      "displaySizeMb": 164.2,
+      "center": [
+        45.815,
+        15.9819
+      ],
+      "bbox": [
+        42.392,
+        13.493,
+        46.555,
+        19.447
+      ],
+      "chunksCount": 1,
+      "isMultiPart": false,
+      "tollType": "hac_enc_toll_booths",
+      "highways": [
+        "A1 (Dalmatina)",
+        "A3",
+        "A4",
+        "A6",
+        "A7"
+      ],
+      "regions": [
+        "Zagreb & Inland",
+        "Istria & Dalmatia (Adriatic)"
+      ],
+      "layers": [
+        "3D Budovy (OSM Extrusion)",
+        "Rýchlostné radary",
+        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
+        "Odpočívadlá & Parkoviská",
+        "Reťazce (McDonald's, KFC, Subway...)",
+        "Chodníky & Pešie zóny",
+        "Mýtne a diaľničné úseky"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "fileName": "hr.part1.ncmap.json",
+          "sizeMb": 164.2,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/hr.part1.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/hr.part1.ncmap.json"
+        }
+      ]
+    },
+    {
+      "code": "ch",
+      "name": "Switzerland",
+      "nativeName": "Švajčiarsko",
+      "flag": "🇨🇭",
+      "continent": "Europe",
+      "displaySizeMb": 192.0,
+      "center": [
+        47.3769,
+        8.5417
+      ],
+      "bbox": [
+        45.817,
+        5.955,
+        47.808,
+        10.492
+      ],
+      "chunksCount": 1,
+      "isMultiPart": false,
+      "tollType": "annual_vignette_40chf",
+      "highways": [
+        "A1",
+        "A2 (Gotthard)",
+        "A3",
+        "A13"
+      ],
+      "regions": [
+        "Zürich & Central",
+        "Geneva & Alps"
+      ],
+      "layers": [
+        "3D Budovy (OSM Extrusion)",
+        "Rýchlostné radary",
+        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
+        "Odpočívadlá & Parkoviská",
+        "Reťazce (McDonald's, KFC, Subway...)",
+        "Chodníky & Pešie zóny",
+        "Mýtne a diaľničné úseky"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "fileName": "ch.part1.ncmap.json",
+          "sizeMb": 192.0,
+          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/ch.part1.ncmap.json",
+          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/ch.part1.ncmap.json"
+        }
+      ]
+    }
+  ]
+}

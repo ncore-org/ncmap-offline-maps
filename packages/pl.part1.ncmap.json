@@ -1,0 +1,1133 @@
+{
+  "package_id": "pl-part-1",
+  "country_code": "PL",
+  "country_name": "Poland",
+  "native_name": "Poľsko",
+  "part_index": 1,
+  "total_parts": 2,
+  "version": "4.0.0",
+  "layers_included": [
+    "road_network_osrm",
+    "speed_cameras_osm",
+    "fuel_stations_branded",
+    "rest_areas_and_parking",
+    "food_chains_kfc_mcd_subway",
+    "sidewalks_and_pedestrian_ways",
+    "buildings_3d_extrusion",
+    "country_toll_and_vignette_matrix"
+  ],
+  "toll_metadata": {
+    "toll_type": "e_toll_and_concession",
+    "major_highways": [
+      "A1",
+      "A2",
+      "A4",
+      "S7",
+      "S8"
+    ],
+    "supports_paid_and_unpaid_split": true
+  },
+  "speed_cameras": [
+    {
+      "id": "pl_cam_1_1",
+      "lat": 52.2377,
+      "lon": 21.0232,
+      "maxspeed": 130,
+      "direction_deg": 45,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "pl_cam_1_2",
+      "lat": 52.2457,
+      "lon": 21.0342,
+      "maxspeed": 90,
+      "direction_deg": 90,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "pl_cam_1_3",
+      "lat": 52.2537,
+      "lon": 21.0452,
+      "maxspeed": 130,
+      "direction_deg": 135,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "pl_cam_1_4",
+      "lat": 52.2617,
+      "lon": 21.0562,
+      "maxspeed": 90,
+      "direction_deg": 180,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "pl_cam_1_5",
+      "lat": 52.2697,
+      "lon": 21.0672,
+      "maxspeed": 130,
+      "direction_deg": 225,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "pl_cam_1_6",
+      "lat": 52.2777,
+      "lon": 21.0782,
+      "maxspeed": 90,
+      "direction_deg": 270,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "pl_cam_1_7",
+      "lat": 52.2857,
+      "lon": 21.0892,
+      "maxspeed": 130,
+      "direction_deg": 315,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "pl_cam_1_8",
+      "lat": 52.2937,
+      "lon": 21.1002,
+      "maxspeed": 90,
+      "direction_deg": 0,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "pl_cam_1_9",
+      "lat": 52.3017,
+      "lon": 21.1112,
+      "maxspeed": 130,
+      "direction_deg": 45,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "pl_cam_1_10",
+      "lat": 52.3097,
+      "lon": 21.1222,
+      "maxspeed": 90,
+      "direction_deg": 90,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "pl_cam_1_11",
+      "lat": 52.3177,
+      "lon": 21.1332,
+      "maxspeed": 130,
+      "direction_deg": 135,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "pl_cam_1_12",
+      "lat": 52.3257,
+      "lon": 21.1442,
+      "maxspeed": 90,
+      "direction_deg": 180,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "pl_cam_1_13",
+      "lat": 52.3337,
+      "lon": 21.1552,
+      "maxspeed": 130,
+      "direction_deg": 225,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "pl_cam_1_14",
+      "lat": 52.3417,
+      "lon": 21.1662,
+      "maxspeed": 90,
+      "direction_deg": 270,
+      "type": "fixed_radar"
+    },
+    {
+      "id": "pl_cam_1_15",
+      "lat": 52.3497,
+      "lon": 21.1772,
+      "maxspeed": 130,
+      "direction_deg": 315,
+      "type": "fixed_radar"
+    }
+  ],
+  "fuel_stations": [
+    {
+      "id": "pl_fuel_1_1",
+      "brand": "Shell",
+      "name": "Shell Highway Station #1",
+      "lat": 52.2417,
+      "lon": 21.0262,
+      "diesel": 1.55,
+      "petrol95": 1.61
+    },
+    {
+      "id": "pl_fuel_1_2",
+      "brand": "Slovnaft",
+      "name": "Slovnaft Highway Station #2",
+      "lat": 52.2537,
+      "lon": 21.0402,
+      "diesel": 1.58,
+      "petrol95": 1.64
+    },
+    {
+      "id": "pl_fuel_1_3",
+      "brand": "Aral",
+      "name": "Aral Highway Station #3",
+      "lat": 52.2657,
+      "lon": 21.0542,
+      "diesel": 1.61,
+      "petrol95": 1.67
+    },
+    {
+      "id": "pl_fuel_1_4",
+      "brand": "TotalEnergies",
+      "name": "TotalEnergies Highway Station #4",
+      "lat": 52.2777,
+      "lon": 21.0682,
+      "diesel": 1.64,
+      "petrol95": 1.7
+    },
+    {
+      "id": "pl_fuel_1_5",
+      "brand": "Orlen",
+      "name": "Orlen Highway Station #5",
+      "lat": 52.2897,
+      "lon": 21.0822,
+      "diesel": 1.52,
+      "petrol95": 1.58
+    },
+    {
+      "id": "pl_fuel_1_6",
+      "brand": "MOL",
+      "name": "MOL Highway Station #6",
+      "lat": 52.3017,
+      "lon": 21.0962,
+      "diesel": 1.55,
+      "petrol95": 1.61
+    },
+    {
+      "id": "pl_fuel_1_7",
+      "brand": "OMV",
+      "name": "OMV Highway Station #7",
+      "lat": 52.3137,
+      "lon": 21.1102,
+      "diesel": 1.58,
+      "petrol95": 1.64
+    },
+    {
+      "id": "pl_fuel_1_8",
+      "brand": "Shell",
+      "name": "Shell Highway Station #8",
+      "lat": 52.3257,
+      "lon": 21.1242,
+      "diesel": 1.61,
+      "petrol95": 1.67
+    },
+    {
+      "id": "pl_fuel_1_9",
+      "brand": "Slovnaft",
+      "name": "Slovnaft Highway Station #9",
+      "lat": 52.3377,
+      "lon": 21.1382,
+      "diesel": 1.64,
+      "petrol95": 1.7
+    },
+    {
+      "id": "pl_fuel_1_10",
+      "brand": "Aral",
+      "name": "Aral Highway Station #10",
+      "lat": 52.3497,
+      "lon": 21.1522,
+      "diesel": 1.52,
+      "petrol95": 1.58
+    },
+    {
+      "id": "pl_fuel_1_11",
+      "brand": "TotalEnergies",
+      "name": "TotalEnergies Highway Station #11",
+      "lat": 52.3617,
+      "lon": 21.1662,
+      "diesel": 1.55,
+      "petrol95": 1.61
+    },
+    {
+      "id": "pl_fuel_1_12",
+      "brand": "Orlen",
+      "name": "Orlen Highway Station #12",
+      "lat": 52.3737,
+      "lon": 21.1802,
+      "diesel": 1.58,
+      "petrol95": 1.64
+    },
+    {
+      "id": "pl_fuel_1_13",
+      "brand": "MOL",
+      "name": "MOL Highway Station #13",
+      "lat": 52.3857,
+      "lon": 21.1942,
+      "diesel": 1.61,
+      "petrol95": 1.67
+    },
+    {
+      "id": "pl_fuel_1_14",
+      "brand": "OMV",
+      "name": "OMV Highway Station #14",
+      "lat": 52.3977,
+      "lon": 21.2082,
+      "diesel": 1.64,
+      "petrol95": 1.7
+    }
+  ],
+  "rest_areas_and_food": [
+    {
+      "id": "pl_poi_1_1",
+      "kind": "rest",
+      "brand": "KFC",
+      "name": "KFC Express (PL)",
+      "lat": 52.2387,
+      "lon": 21.0252,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "pl_poi_1_2",
+      "kind": "food",
+      "brand": "Subway",
+      "name": "Subway Fresh (PL)",
+      "lat": 52.2477,
+      "lon": 21.0382,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "pl_poi_1_3",
+      "kind": "rest",
+      "brand": "Burger King",
+      "name": "Burger King (PL)",
+      "lat": 52.2567,
+      "lon": 21.0512,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "pl_poi_1_4",
+      "kind": "food",
+      "brand": "Starbucks",
+      "name": "Starbucks Coffee (PL)",
+      "lat": 52.2657,
+      "lon": 21.0642,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "pl_poi_1_5",
+      "kind": "rest",
+      "brand": "Odpočívadlo P",
+      "name": "Diaľničné odpočívadlo P (PL)",
+      "lat": 52.2747,
+      "lon": 21.0772,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "pl_poi_1_6",
+      "kind": "food",
+      "brand": "McDonald's",
+      "name": "McDonald's Drive-Thru (PL)",
+      "lat": 52.2837,
+      "lon": 21.0902,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "pl_poi_1_7",
+      "kind": "rest",
+      "brand": "KFC",
+      "name": "KFC Express (PL)",
+      "lat": 52.2927,
+      "lon": 21.1032,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "pl_poi_1_8",
+      "kind": "food",
+      "brand": "Subway",
+      "name": "Subway Fresh (PL)",
+      "lat": 52.3017,
+      "lon": 21.1162,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "pl_poi_1_9",
+      "kind": "rest",
+      "brand": "Burger King",
+      "name": "Burger King (PL)",
+      "lat": 52.3107,
+      "lon": 21.1292,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "pl_poi_1_10",
+      "kind": "food",
+      "brand": "Starbucks",
+      "name": "Starbucks Coffee (PL)",
+      "lat": 52.3197,
+      "lon": 21.1422,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "pl_poi_1_11",
+      "kind": "rest",
+      "brand": "Odpočívadlo P",
+      "name": "Diaľničné odpočívadlo P (PL)",
+      "lat": 52.3287,
+      "lon": 21.1552,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "pl_poi_1_12",
+      "kind": "food",
+      "brand": "McDonald's",
+      "name": "McDonald's Drive-Thru (PL)",
+      "lat": 52.3377,
+      "lon": 21.1682,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "pl_poi_1_13",
+      "kind": "rest",
+      "brand": "KFC",
+      "name": "KFC Express (PL)",
+      "lat": 52.3467,
+      "lon": 21.1812,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    },
+    {
+      "id": "pl_poi_1_14",
+      "kind": "food",
+      "brand": "Subway",
+      "name": "Subway Fresh (PL)",
+      "lat": 52.3557,
+      "lon": 21.1942,
+      "amenities": [
+        "parking",
+        "wc",
+        "wifi",
+        "24_7"
+      ]
+    }
+  ],
+  "sidewalks_and_pedestrian": [
+    {
+      "id": "pl_footway_1_1",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.2307,
+          21.0132
+        ],
+        [
+          52.2315,
+          21.0143
+        ]
+      ]
+    },
+    {
+      "id": "pl_footway_1_2",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.2317,
+          21.0142
+        ],
+        [
+          52.2325,
+          21.0153
+        ]
+      ]
+    },
+    {
+      "id": "pl_footway_1_3",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.2327,
+          21.0152
+        ],
+        [
+          52.2335,
+          21.0163
+        ]
+      ]
+    },
+    {
+      "id": "pl_footway_1_4",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.2337,
+          21.0162
+        ],
+        [
+          52.2345,
+          21.0173
+        ]
+      ]
+    },
+    {
+      "id": "pl_footway_1_5",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.2347,
+          21.0172
+        ],
+        [
+          52.2355,
+          21.0183
+        ]
+      ]
+    },
+    {
+      "id": "pl_footway_1_6",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.2357,
+          21.0182
+        ],
+        [
+          52.2365,
+          21.0193
+        ]
+      ]
+    },
+    {
+      "id": "pl_footway_1_7",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.2367,
+          21.0192
+        ],
+        [
+          52.2375,
+          21.0203
+        ]
+      ]
+    },
+    {
+      "id": "pl_footway_1_8",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.2377,
+          21.0202
+        ],
+        [
+          52.2385,
+          21.0213
+        ]
+      ]
+    },
+    {
+      "id": "pl_footway_1_9",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.2387,
+          21.0212
+        ],
+        [
+          52.2395,
+          21.0223
+        ]
+      ]
+    },
+    {
+      "id": "pl_footway_1_10",
+      "surface": "asphalt",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.2397,
+          21.0222
+        ],
+        [
+          52.2405,
+          21.0233
+        ]
+      ]
+    },
+    {
+      "id": "pl_footway_1_11",
+      "surface": "paving_stones",
+      "lit": true,
+      "wheelchair": "yes",
+      "coords": [
+        [
+          52.2407,
+          21.0232
+        ],
+        [
+          52.2415,
+          21.0243
+        ]
+      ]
+    }
+  ],
+  "buildings_3d": [
+    {
+      "id": "pl_bldg3d_1_1",
+      "name": "3D Block PL-1-1",
+      "height_m": 25.5,
+      "levels": 7,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2304,
+          21.0131
+        ],
+        [
+          52.23075,
+          21.0131
+        ],
+        [
+          52.23075,
+          21.01355
+        ],
+        [
+          52.2304,
+          21.01355
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_2",
+      "name": "3D Block PL-1-2",
+      "height_m": 33.0,
+      "levels": 9,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2311,
+          21.014
+        ],
+        [
+          52.23145,
+          21.014
+        ],
+        [
+          52.23145,
+          21.01445
+        ],
+        [
+          52.2311,
+          21.01445
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_3",
+      "name": "3D Block PL-1-3",
+      "height_m": 40.5,
+      "levels": 11,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2318,
+          21.0149
+        ],
+        [
+          52.23215,
+          21.0149
+        ],
+        [
+          52.23215,
+          21.01535
+        ],
+        [
+          52.2318,
+          21.01535
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_4",
+      "name": "3D Block PL-1-4",
+      "height_m": 48.0,
+      "levels": 13,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2325,
+          21.0158
+        ],
+        [
+          52.23285,
+          21.0158
+        ],
+        [
+          52.23285,
+          21.01625
+        ],
+        [
+          52.2325,
+          21.01625
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_5",
+      "name": "3D Block PL-1-5",
+      "height_m": 55.5,
+      "levels": 15,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2332,
+          21.0167
+        ],
+        [
+          52.23355,
+          21.0167
+        ],
+        [
+          52.23355,
+          21.01715
+        ],
+        [
+          52.2332,
+          21.01715
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_6",
+      "name": "3D Block PL-1-6",
+      "height_m": 18.0,
+      "levels": 5,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2339,
+          21.0176
+        ],
+        [
+          52.23425,
+          21.0176
+        ],
+        [
+          52.23425,
+          21.01805
+        ],
+        [
+          52.2339,
+          21.01805
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_7",
+      "name": "3D Block PL-1-7",
+      "height_m": 25.5,
+      "levels": 7,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2346,
+          21.0185
+        ],
+        [
+          52.23495,
+          21.0185
+        ],
+        [
+          52.23495,
+          21.01895
+        ],
+        [
+          52.2346,
+          21.01895
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_8",
+      "name": "3D Block PL-1-8",
+      "height_m": 33.0,
+      "levels": 9,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2353,
+          21.0194
+        ],
+        [
+          52.23565,
+          21.0194
+        ],
+        [
+          52.23565,
+          21.01985
+        ],
+        [
+          52.2353,
+          21.01985
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_9",
+      "name": "3D Block PL-1-9",
+      "height_m": 40.5,
+      "levels": 11,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.236,
+          21.0203
+        ],
+        [
+          52.23635,
+          21.0203
+        ],
+        [
+          52.23635,
+          21.02075
+        ],
+        [
+          52.236,
+          21.02075
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_10",
+      "name": "3D Block PL-1-10",
+      "height_m": 48.0,
+      "levels": 13,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2367,
+          21.0212
+        ],
+        [
+          52.23705,
+          21.0212
+        ],
+        [
+          52.23705,
+          21.02165
+        ],
+        [
+          52.2367,
+          21.02165
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_11",
+      "name": "3D Block PL-1-11",
+      "height_m": 55.5,
+      "levels": 15,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2374,
+          21.0221
+        ],
+        [
+          52.23775,
+          21.0221
+        ],
+        [
+          52.23775,
+          21.02255
+        ],
+        [
+          52.2374,
+          21.02255
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_12",
+      "name": "3D Block PL-1-12",
+      "height_m": 18.0,
+      "levels": 5,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2381,
+          21.023
+        ],
+        [
+          52.23845,
+          21.023
+        ],
+        [
+          52.23845,
+          21.02345
+        ],
+        [
+          52.2381,
+          21.02345
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_13",
+      "name": "3D Block PL-1-13",
+      "height_m": 25.5,
+      "levels": 7,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2388,
+          21.0239
+        ],
+        [
+          52.23915,
+          21.0239
+        ],
+        [
+          52.23915,
+          21.02435
+        ],
+        [
+          52.2388,
+          21.02435
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_14",
+      "name": "3D Block PL-1-14",
+      "height_m": 33.0,
+      "levels": 9,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2395,
+          21.0248
+        ],
+        [
+          52.23985,
+          21.0248
+        ],
+        [
+          52.23985,
+          21.02525
+        ],
+        [
+          52.2395,
+          21.02525
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_15",
+      "name": "3D Block PL-1-15",
+      "height_m": 40.5,
+      "levels": 11,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2402,
+          21.0257
+        ],
+        [
+          52.24055,
+          21.0257
+        ],
+        [
+          52.24055,
+          21.02615
+        ],
+        [
+          52.2402,
+          21.02615
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_16",
+      "name": "3D Block PL-1-16",
+      "height_m": 48.0,
+      "levels": 13,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2409,
+          21.0266
+        ],
+        [
+          52.24125,
+          21.0266
+        ],
+        [
+          52.24125,
+          21.02705
+        ],
+        [
+          52.2409,
+          21.02705
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_17",
+      "name": "3D Block PL-1-17",
+      "height_m": 55.5,
+      "levels": 15,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2416,
+          21.0275
+        ],
+        [
+          52.24195,
+          21.0275
+        ],
+        [
+          52.24195,
+          21.02795
+        ],
+        [
+          52.2416,
+          21.02795
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_18",
+      "name": "3D Block PL-1-18",
+      "height_m": 18.0,
+      "levels": 5,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.2423,
+          21.0284
+        ],
+        [
+          52.24265,
+          21.0284
+        ],
+        [
+          52.24265,
+          21.02885
+        ],
+        [
+          52.2423,
+          21.02885
+        ]
+      ]
+    },
+    {
+      "id": "pl_bldg3d_1_19",
+      "name": "3D Block PL-1-19",
+      "height_m": 25.5,
+      "levels": 7,
+      "roof_shape": "flat",
+      "footprint": [
+        [
+          52.243,
+          21.0293
+        ],
+        [
+          52.24335,
+          21.0293
+        ],
+        [
+          52.24335,
+          21.02975
+        ],
+        [
+          52.243,
+          21.02975
+        ]
+      ]
+    }
+  ]
+}
