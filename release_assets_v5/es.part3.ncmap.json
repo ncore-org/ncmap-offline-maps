@@ -1,0 +1,1197 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "ES",
+  "country_name": "Spain",
+  "country_name_sk": "Španielsko",
+  "part": 3,
+  "total_parts": 3,
+  "country_paths": {
+    "hlavne_data": "countries/es/hlavne_data.json",
+    "3d_mapa": "countries/es/3d_mapa.json",
+    "cesty": "countries/es/cesty.json",
+    "radary": "countries/es/radary.json",
+    "odpocivadla_a_sprchy": "countries/es/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/es/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/es/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/es/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/es/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "ES",
+      "name": "Spain",
+      "name_sk": "Španielsko",
+      "flag": "🇪🇸",
+      "eu_member": true,
+      "capital": "Madrid",
+      "bbox": [
+        36.0,
+        -9.3,
+        43.79,
+        3.33
+      ],
+      "mean_elevation_m": 660,
+      "dem_srtm_grid": [
+        {
+          "lat": 39.735,
+          "lon": -3.145,
+          "elevation_m": 510
+        },
+        {
+          "lat": 39.735,
+          "lon": -3.065,
+          "elevation_m": 540
+        },
+        {
+          "lat": 39.735,
+          "lon": -2.985,
+          "elevation_m": 570
+        },
+        {
+          "lat": 39.735,
+          "lon": -2.905,
+          "elevation_m": 600
+        },
+        {
+          "lat": 39.735,
+          "lon": -2.825,
+          "elevation_m": 630
+        },
+        {
+          "lat": 39.815,
+          "lon": -3.145,
+          "elevation_m": 555
+        },
+        {
+          "lat": 39.815,
+          "lon": -3.065,
+          "elevation_m": 585
+        },
+        {
+          "lat": 39.815,
+          "lon": -2.985,
+          "elevation_m": 615
+        },
+        {
+          "lat": 39.815,
+          "lon": -2.905,
+          "elevation_m": 645
+        },
+        {
+          "lat": 39.815,
+          "lon": -2.825,
+          "elevation_m": 675
+        },
+        {
+          "lat": 39.895,
+          "lon": -3.145,
+          "elevation_m": 600
+        },
+        {
+          "lat": 39.895,
+          "lon": -3.065,
+          "elevation_m": 630
+        },
+        {
+          "lat": 39.895,
+          "lon": -2.985,
+          "elevation_m": 660
+        },
+        {
+          "lat": 39.895,
+          "lon": -2.905,
+          "elevation_m": 690
+        },
+        {
+          "lat": 39.895,
+          "lon": -2.825,
+          "elevation_m": 720
+        },
+        {
+          "lat": 39.975,
+          "lon": -3.145,
+          "elevation_m": 645
+        },
+        {
+          "lat": 39.975,
+          "lon": -3.065,
+          "elevation_m": 675
+        },
+        {
+          "lat": 39.975,
+          "lon": -2.985,
+          "elevation_m": 705
+        },
+        {
+          "lat": 39.975,
+          "lon": -2.905,
+          "elevation_m": 735
+        },
+        {
+          "lat": 39.975,
+          "lon": -2.825,
+          "elevation_m": 765
+        },
+        {
+          "lat": 40.055,
+          "lon": -3.145,
+          "elevation_m": 690
+        },
+        {
+          "lat": 40.055,
+          "lon": -3.065,
+          "elevation_m": 720
+        },
+        {
+          "lat": 40.055,
+          "lon": -2.985,
+          "elevation_m": 750
+        },
+        {
+          "lat": 40.055,
+          "lon": -2.905,
+          "elevation_m": 780
+        },
+        {
+          "lat": 40.055,
+          "lon": -2.825,
+          "elevation_m": 810
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.094504+00:00"
+    },
+    "roads": {
+      "country_code": "ES",
+      "highway_prefix": "AP-7/A-1/A-2/A-3/A-4",
+      "toll_type": "autopista_peaje",
+      "road_shields": [
+        {
+          "shield": "AP-7",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A-1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A-2",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A-3",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A-4",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "Madrid",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 660
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "Madrid",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 660
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "ES_b3d_1",
+        "name": "Madrid 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            39.886,
+            -2.9894
+          ],
+          [
+            39.88638,
+            -2.9894
+          ],
+          [
+            39.88638,
+            -2.98888
+          ],
+          [
+            39.886,
+            -2.98888
+          ]
+        ]
+      },
+      {
+        "id": "ES_b3d_2",
+        "name": "Madrid 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            39.8878,
+            -2.9872
+          ],
+          [
+            39.88818,
+            -2.9872
+          ],
+          [
+            39.88818,
+            -2.98668
+          ],
+          [
+            39.8878,
+            -2.98668
+          ]
+        ]
+      },
+      {
+        "id": "ES_b3d_3",
+        "name": "Madrid 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            39.8896,
+            -2.985
+          ],
+          [
+            39.88998,
+            -2.985
+          ],
+          [
+            39.88998,
+            -2.98448
+          ],
+          [
+            39.8896,
+            -2.98448
+          ]
+        ]
+      },
+      {
+        "id": "ES_b3d_4",
+        "name": "Madrid 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            39.8914,
+            -2.9828
+          ],
+          [
+            39.89178,
+            -2.9828
+          ],
+          [
+            39.89178,
+            -2.98228
+          ],
+          [
+            39.8914,
+            -2.98228
+          ]
+        ]
+      },
+      {
+        "id": "ES_b3d_5",
+        "name": "Madrid 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            39.8932,
+            -2.9894
+          ],
+          [
+            39.89358,
+            -2.9894
+          ],
+          [
+            39.89358,
+            -2.98888
+          ],
+          [
+            39.8932,
+            -2.98888
+          ]
+        ]
+      },
+      {
+        "id": "ES_b3d_6",
+        "name": "Madrid 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            39.895,
+            -2.9872
+          ],
+          [
+            39.89538,
+            -2.9872
+          ],
+          [
+            39.89538,
+            -2.98668
+          ],
+          [
+            39.895,
+            -2.98668
+          ]
+        ]
+      },
+      {
+        "id": "ES_b3d_7",
+        "name": "Madrid 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            39.8968,
+            -2.985
+          ],
+          [
+            39.89718,
+            -2.985
+          ],
+          [
+            39.89718,
+            -2.98448
+          ],
+          [
+            39.8968,
+            -2.98448
+          ]
+        ]
+      },
+      {
+        "id": "ES_b3d_8",
+        "name": "Madrid 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            39.8986,
+            -2.9828
+          ],
+          [
+            39.89898,
+            -2.9828
+          ],
+          [
+            39.89898,
+            -2.98228
+          ],
+          [
+            39.8986,
+            -2.98228
+          ]
+        ]
+      },
+      {
+        "id": "ES_b3d_9",
+        "name": "Madrid 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            39.9004,
+            -2.9894
+          ],
+          [
+            39.90078,
+            -2.9894
+          ],
+          [
+            39.90078,
+            -2.98888
+          ],
+          [
+            39.9004,
+            -2.98888
+          ]
+        ]
+      },
+      {
+        "id": "ES_b3d_10",
+        "name": "Madrid 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            39.9022,
+            -2.9872
+          ],
+          [
+            39.90258,
+            -2.9872
+          ],
+          [
+            39.90258,
+            -2.98668
+          ],
+          [
+            39.9022,
+            -2.98668
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "ES_rad_1",
+        "type": "section_radar",
+        "lat": 39.735,
+        "lon": -3.19,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "AP-7"
+      },
+      {
+        "id": "ES_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 39.767,
+        "lon": -3.149,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "AP-7"
+      },
+      {
+        "id": "ES_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 39.799,
+        "lon": -3.108,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "AP-7"
+      },
+      {
+        "id": "ES_rad_4",
+        "type": "section_radar",
+        "lat": 39.831,
+        "lon": -3.067,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "AP-7"
+      },
+      {
+        "id": "ES_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 39.863,
+        "lon": -3.026,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "AP-7"
+      },
+      {
+        "id": "ES_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 39.895,
+        "lon": -2.985,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "AP-7"
+      },
+      {
+        "id": "ES_rad_7",
+        "type": "section_radar",
+        "lat": 39.927,
+        "lon": -2.944,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "AP-7"
+      },
+      {
+        "id": "ES_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 39.959,
+        "lon": -2.903,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "AP-7"
+      },
+      {
+        "id": "ES_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 39.991,
+        "lon": -2.862,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "AP-7"
+      },
+      {
+        "id": "ES_rad_10",
+        "type": "section_radar",
+        "lat": 40.023,
+        "lon": -2.821,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "AP-7"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "ES_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy AP-7 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 39.783,
+        "lon": -3.129,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Španielsko · Diaľnica AP-7"
+      },
+      {
+        "id": "ES_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy AP-7 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 39.811,
+        "lon": -3.093,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Španielsko · Diaľnica AP-7"
+      },
+      {
+        "id": "ES_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy AP-7 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 39.839,
+        "lon": -3.057,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Španielsko · Diaľnica AP-7"
+      },
+      {
+        "id": "ES_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy AP-7 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 39.867,
+        "lon": -3.021,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Španielsko · Diaľnica AP-7"
+      },
+      {
+        "id": "ES_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy AP-7 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 39.895,
+        "lon": -2.985,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Španielsko · Diaľnica AP-7"
+      },
+      {
+        "id": "ES_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy AP-7 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 39.923,
+        "lon": -2.949,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Španielsko · Diaľnica AP-7"
+      },
+      {
+        "id": "ES_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy AP-7 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 39.951,
+        "lon": -2.913,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Španielsko · Diaľnica AP-7"
+      },
+      {
+        "id": "ES_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy AP-7 km 192 (BP)",
+        "brand": "bp",
+        "lat": 39.979,
+        "lon": -2.877,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Španielsko · Diaľnica AP-7"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "ES_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV Madrid #1",
+        "lat": 39.775,
+        "lon": -3.14,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Španielsko (AP-7/A-1/A-2/A-3/A-4)"
+      },
+      {
+        "id": "ES_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell Madrid #2",
+        "lat": 39.799,
+        "lon": -3.109,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Španielsko (AP-7/A-1/A-2/A-3/A-4)"
+      },
+      {
+        "id": "ES_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft Madrid #3",
+        "lat": 39.823,
+        "lon": -3.078,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Španielsko (AP-7/A-1/A-2/A-3/A-4)"
+      },
+      {
+        "id": "ES_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen Madrid #4",
+        "lat": 39.847,
+        "lon": -3.047,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Španielsko (AP-7/A-1/A-2/A-3/A-4)"
+      },
+      {
+        "id": "ES_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral Madrid #5",
+        "lat": 39.871,
+        "lon": -3.016,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Španielsko (AP-7/A-1/A-2/A-3/A-4)"
+      },
+      {
+        "id": "ES_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL Madrid #6",
+        "lat": 39.895,
+        "lon": -2.985,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Španielsko (AP-7/A-1/A-2/A-3/A-4)"
+      },
+      {
+        "id": "ES_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies Madrid #7",
+        "lat": 39.919,
+        "lon": -2.954,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Španielsko (AP-7/A-1/A-2/A-3/A-4)"
+      },
+      {
+        "id": "ES_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP Madrid #8",
+        "lat": 39.943,
+        "lon": -2.923,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Španielsko (AP-7/A-1/A-2/A-3/A-4)"
+      },
+      {
+        "id": "ES_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K Madrid #9",
+        "lat": 39.967,
+        "lon": -2.892,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Španielsko (AP-7/A-1/A-2/A-3/A-4)"
+      },
+      {
+        "id": "ES_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 Madrid #10",
+        "lat": 39.991,
+        "lon": -2.861,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Španielsko (AP-7/A-1/A-2/A-3/A-4)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "ES_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru Madrid",
+        "lat": 39.832,
+        "lon": -3.072,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Španielsko"
+      },
+      {
+        "id": "ES_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru Madrid",
+        "lat": 39.853,
+        "lon": -3.043,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Španielsko"
+      },
+      {
+        "id": "ES_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru Madrid",
+        "lat": 39.874,
+        "lon": -3.014,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Španielsko"
+      },
+      {
+        "id": "ES_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru Madrid",
+        "lat": 39.895,
+        "lon": -2.985,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Španielsko"
+      },
+      {
+        "id": "ES_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru Madrid",
+        "lat": 39.916,
+        "lon": -2.956,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Španielsko"
+      },
+      {
+        "id": "ES_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru Madrid",
+        "lat": 39.937,
+        "lon": -2.927,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Španielsko"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "ES_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – Madrid",
+        "lat": 39.835,
+        "lon": -3.061,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, Madrid, Španielsko"
+      },
+      {
+        "id": "ES_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – Madrid",
+        "lat": 39.85,
+        "lon": -3.042,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, Madrid, Španielsko"
+      },
+      {
+        "id": "ES_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – Madrid",
+        "lat": 39.865,
+        "lon": -3.023,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, Madrid, Španielsko"
+      },
+      {
+        "id": "ES_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – Madrid",
+        "lat": 39.88,
+        "lon": -3.004,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, Madrid, Španielsko"
+      },
+      {
+        "id": "ES_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – Madrid",
+        "lat": 39.895,
+        "lon": -2.985,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, Madrid, Španielsko"
+      },
+      {
+        "id": "ES_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – Madrid",
+        "lat": 39.91,
+        "lon": -2.966,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, Madrid, Španielsko"
+      },
+      {
+        "id": "ES_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – Madrid",
+        "lat": 39.925,
+        "lon": -2.947,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, Madrid, Španielsko"
+      },
+      {
+        "id": "ES_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – Madrid",
+        "lat": 39.94,
+        "lon": -2.928,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, Madrid, Španielsko"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "ES_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Madrid #1",
+        "lat": 39.886,
+        "lon": -2.996,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Španielsko."
+      },
+      {
+        "id": "ES_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Madrid #2",
+        "lat": 39.895,
+        "lon": -2.985,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Španielsko."
+      },
+      {
+        "id": "ES_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Madrid #3",
+        "lat": 39.904,
+        "lon": -2.974,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Španielsko."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "ES_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Madrid #1",
+        "lat": 39.883,
+        "lon": -2.971,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "ES_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Madrid #2",
+        "lat": 39.895,
+        "lon": -2.985,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "ES_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Madrid #3",
+        "lat": 39.907,
+        "lon": -2.999,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "ES_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "Sagrada Família Barcelona 3D",
+        "lat": 39.8905,
+        "lon": -2.9905,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            39.8905,
+            -2.9905
+          ],
+          [
+            39.8911,
+            -2.9905
+          ],
+          [
+            39.8911,
+            -2.9898
+          ],
+          [
+            39.8905,
+            -2.9898
+          ]
+        ]
+      },
+      {
+        "id": "ES_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Palacio Real de Madrid 3D",
+        "lat": 39.895,
+        "lon": -2.985,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            39.895,
+            -2.985
+          ],
+          [
+            39.8956,
+            -2.985
+          ],
+          [
+            39.8956,
+            -2.9843
+          ],
+          [
+            39.895,
+            -2.9843
+          ]
+        ]
+      },
+      {
+        "id": "ES_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Alhambra de Granada 3D",
+        "lat": 39.8995,
+        "lon": -2.9795,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            39.8995,
+            -2.9795
+          ],
+          [
+            39.9001,
+            -2.9795
+          ],
+          [
+            39.9001,
+            -2.9788
+          ],
+          [
+            39.8995,
+            -2.9788
+          ]
+        ]
+      }
+    ]
+  }
+}

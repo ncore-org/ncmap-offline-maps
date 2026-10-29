@@ -1,0 +1,89 @@
+{
+  "country_code": "AD",
+  "landmarks_3d": [
+    {
+      "id": "AD_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Casa de la Vall 3D",
+      "lat": 42.5305,
+      "lon": 1.5895,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          42.5305,
+          1.5895
+        ],
+        [
+          42.5311,
+          1.5895
+        ],
+        [
+          42.5311,
+          1.5902
+        ],
+        [
+          42.5305,
+          1.5902
+        ]
+      ]
+    },
+    {
+      "id": "AD_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Sant Esteve Church 3D",
+      "lat": 42.535,
+      "lon": 1.595,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          42.535,
+          1.595
+        ],
+        [
+          42.5356,
+          1.595
+        ],
+        [
+          42.5356,
+          1.5957
+        ],
+        [
+          42.535,
+          1.5957
+        ]
+      ]
+    },
+    {
+      "id": "AD_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Caldea Thermal Tower 3D",
+      "lat": 42.5395,
+      "lon": 1.6005,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          42.5395,
+          1.6005
+        ],
+        [
+          42.5401,
+          1.6005
+        ],
+        [
+          42.5401,
+          1.6012
+        ],
+        [
+          42.5395,
+          1.6012
+        ]
+      ]
+    }
+  ]
+}

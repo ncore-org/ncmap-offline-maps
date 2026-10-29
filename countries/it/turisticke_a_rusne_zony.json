@@ -1,0 +1,70 @@
+{
+  "country_code": "IT",
+  "touristic_zones": [
+    {
+      "id": "IT_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Roma #1",
+      "lat": 41.861,
+      "lon": 12.564,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Taliansko."
+    },
+    {
+      "id": "IT_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Roma #2",
+      "lat": 41.87,
+      "lon": 12.575,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Taliansko."
+    },
+    {
+      "id": "IT_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Roma #3",
+      "lat": 41.879,
+      "lon": 12.586,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Taliansko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "IT_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Roma #1",
+      "lat": 41.858,
+      "lon": 12.589,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "IT_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Roma #2",
+      "lat": 41.87,
+      "lon": 12.575,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "IT_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Roma #3",
+      "lat": 41.882,
+      "lon": 12.561,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

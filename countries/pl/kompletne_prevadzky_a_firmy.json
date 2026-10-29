@@ -1,0 +1,93 @@
+{
+  "country_code": "PL",
+  "businesses_and_companies": [
+    {
+      "id": "PL_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – Warszawa",
+      "lat": 51.86,
+      "lon": 19.059,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, Warszawa, Poľsko"
+    },
+    {
+      "id": "PL_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – Warszawa",
+      "lat": 51.875,
+      "lon": 19.078,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, Warszawa, Poľsko"
+    },
+    {
+      "id": "PL_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – Warszawa",
+      "lat": 51.89,
+      "lon": 19.097,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, Warszawa, Poľsko"
+    },
+    {
+      "id": "PL_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – Warszawa",
+      "lat": 51.905,
+      "lon": 19.116,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, Warszawa, Poľsko"
+    },
+    {
+      "id": "PL_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – Warszawa",
+      "lat": 51.92,
+      "lon": 19.135,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, Warszawa, Poľsko"
+    },
+    {
+      "id": "PL_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – Warszawa",
+      "lat": 51.935,
+      "lon": 19.154,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, Warszawa, Poľsko"
+    },
+    {
+      "id": "PL_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – Warszawa",
+      "lat": 51.95,
+      "lon": 19.173,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, Warszawa, Poľsko"
+    },
+    {
+      "id": "PL_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – Warszawa",
+      "lat": 51.965,
+      "lon": 19.192,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, Warszawa, Poľsko"
+    }
+  ]
+}

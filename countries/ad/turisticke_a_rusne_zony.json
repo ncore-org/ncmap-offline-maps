@@ -1,0 +1,70 @@
+{
+  "country_code": "AD",
+  "touristic_zones": [
+    {
+      "id": "AD_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Andorra la Vella #1",
+      "lat": 42.526,
+      "lon": 1.584,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Andorra."
+    },
+    {
+      "id": "AD_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Andorra la Vella #2",
+      "lat": 42.535,
+      "lon": 1.595,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Andorra."
+    },
+    {
+      "id": "AD_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Andorra la Vella #3",
+      "lat": 42.544,
+      "lon": 1.606,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Andorra."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "AD_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Andorra la Vella #1",
+      "lat": 42.523,
+      "lon": 1.609,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "AD_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Andorra la Vella #2",
+      "lat": 42.535,
+      "lon": 1.595,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "AD_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Andorra la Vella #3",
+      "lat": 42.547,
+      "lon": 1.581,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

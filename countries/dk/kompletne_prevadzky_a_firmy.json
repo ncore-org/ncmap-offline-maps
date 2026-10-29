@@ -1,0 +1,93 @@
+{
+  "country_code": "DK",
+  "businesses_and_companies": [
+    {
+      "id": "DK_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – København",
+      "lat": 56.095,
+      "lon": 11.554,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, København, Dánsko"
+    },
+    {
+      "id": "DK_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – København",
+      "lat": 56.11,
+      "lon": 11.573,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, København, Dánsko"
+    },
+    {
+      "id": "DK_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – København",
+      "lat": 56.125,
+      "lon": 11.592,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, København, Dánsko"
+    },
+    {
+      "id": "DK_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – København",
+      "lat": 56.14,
+      "lon": 11.611,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, København, Dánsko"
+    },
+    {
+      "id": "DK_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – København",
+      "lat": 56.155,
+      "lon": 11.63,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, København, Dánsko"
+    },
+    {
+      "id": "DK_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – København",
+      "lat": 56.17,
+      "lon": 11.649,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, København, Dánsko"
+    },
+    {
+      "id": "DK_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – København",
+      "lat": 56.185,
+      "lon": 11.668,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, København, Dánsko"
+    },
+    {
+      "id": "DK_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – København",
+      "lat": 56.2,
+      "lon": 11.687,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, København, Dánsko"
+    }
+  ]
+}

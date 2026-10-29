@@ -1,0 +1,1191 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "SI",
+  "country_name": "Slovenia",
+  "country_name_sk": "Slovinsko",
+  "part": 1,
+  "total_parts": 1,
+  "country_paths": {
+    "hlavne_data": "countries/si/hlavne_data.json",
+    "3d_mapa": "countries/si/3d_mapa.json",
+    "cesty": "countries/si/cesty.json",
+    "radary": "countries/si/radary.json",
+    "odpocivadla_a_sprchy": "countries/si/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/si/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/si/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/si/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/si/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "SI",
+      "name": "Slovenia",
+      "name_sk": "Slovinsko",
+      "flag": "🇸🇮",
+      "eu_member": true,
+      "capital": "Ljubljana",
+      "bbox": [
+        45.42,
+        13.38,
+        46.88,
+        16.6
+      ],
+      "mean_elevation_m": 492,
+      "dem_srtm_grid": [
+        {
+          "lat": 45.99,
+          "lon": 14.83,
+          "elevation_m": 342
+        },
+        {
+          "lat": 45.99,
+          "lon": 14.91,
+          "elevation_m": 372
+        },
+        {
+          "lat": 45.99,
+          "lon": 14.99,
+          "elevation_m": 402
+        },
+        {
+          "lat": 45.99,
+          "lon": 15.07,
+          "elevation_m": 432
+        },
+        {
+          "lat": 45.99,
+          "lon": 15.15,
+          "elevation_m": 462
+        },
+        {
+          "lat": 46.07,
+          "lon": 14.83,
+          "elevation_m": 387
+        },
+        {
+          "lat": 46.07,
+          "lon": 14.91,
+          "elevation_m": 417
+        },
+        {
+          "lat": 46.07,
+          "lon": 14.99,
+          "elevation_m": 447
+        },
+        {
+          "lat": 46.07,
+          "lon": 15.07,
+          "elevation_m": 477
+        },
+        {
+          "lat": 46.07,
+          "lon": 15.15,
+          "elevation_m": 507
+        },
+        {
+          "lat": 46.15,
+          "lon": 14.83,
+          "elevation_m": 432
+        },
+        {
+          "lat": 46.15,
+          "lon": 14.91,
+          "elevation_m": 462
+        },
+        {
+          "lat": 46.15,
+          "lon": 14.99,
+          "elevation_m": 492
+        },
+        {
+          "lat": 46.15,
+          "lon": 15.07,
+          "elevation_m": 522
+        },
+        {
+          "lat": 46.15,
+          "lon": 15.15,
+          "elevation_m": 552
+        },
+        {
+          "lat": 46.23,
+          "lon": 14.83,
+          "elevation_m": 477
+        },
+        {
+          "lat": 46.23,
+          "lon": 14.91,
+          "elevation_m": 507
+        },
+        {
+          "lat": 46.23,
+          "lon": 14.99,
+          "elevation_m": 537
+        },
+        {
+          "lat": 46.23,
+          "lon": 15.07,
+          "elevation_m": 567
+        },
+        {
+          "lat": 46.23,
+          "lon": 15.15,
+          "elevation_m": 597
+        },
+        {
+          "lat": 46.31,
+          "lon": 14.83,
+          "elevation_m": 522
+        },
+        {
+          "lat": 46.31,
+          "lon": 14.91,
+          "elevation_m": 552
+        },
+        {
+          "lat": 46.31,
+          "lon": 14.99,
+          "elevation_m": 582
+        },
+        {
+          "lat": 46.31,
+          "lon": 15.07,
+          "elevation_m": 612
+        },
+        {
+          "lat": 46.31,
+          "lon": 15.15,
+          "elevation_m": 642
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.091973+00:00"
+    },
+    "roads": {
+      "country_code": "SI",
+      "highway_prefix": "A1/A2/A4/A5",
+      "toll_type": "evinjeta",
+      "road_shields": [
+        {
+          "shield": "A1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A2",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A4",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A5",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "Ljubljana",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 492
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "Ljubljana",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 492
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "SI_b3d_1",
+        "name": "Ljubljana 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            46.141,
+            14.9856
+          ],
+          [
+            46.14138,
+            14.9856
+          ],
+          [
+            46.14138,
+            14.98612
+          ],
+          [
+            46.141,
+            14.98612
+          ]
+        ]
+      },
+      {
+        "id": "SI_b3d_2",
+        "name": "Ljubljana 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            46.1428,
+            14.9878
+          ],
+          [
+            46.14318,
+            14.9878
+          ],
+          [
+            46.14318,
+            14.98832
+          ],
+          [
+            46.1428,
+            14.98832
+          ]
+        ]
+      },
+      {
+        "id": "SI_b3d_3",
+        "name": "Ljubljana 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            46.1446,
+            14.99
+          ],
+          [
+            46.14498,
+            14.99
+          ],
+          [
+            46.14498,
+            14.99052
+          ],
+          [
+            46.1446,
+            14.99052
+          ]
+        ]
+      },
+      {
+        "id": "SI_b3d_4",
+        "name": "Ljubljana 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            46.1464,
+            14.9922
+          ],
+          [
+            46.14678,
+            14.9922
+          ],
+          [
+            46.14678,
+            14.99272
+          ],
+          [
+            46.1464,
+            14.99272
+          ]
+        ]
+      },
+      {
+        "id": "SI_b3d_5",
+        "name": "Ljubljana 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            46.1482,
+            14.9856
+          ],
+          [
+            46.14858,
+            14.9856
+          ],
+          [
+            46.14858,
+            14.98612
+          ],
+          [
+            46.1482,
+            14.98612
+          ]
+        ]
+      },
+      {
+        "id": "SI_b3d_6",
+        "name": "Ljubljana 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            46.15,
+            14.9878
+          ],
+          [
+            46.15038,
+            14.9878
+          ],
+          [
+            46.15038,
+            14.98832
+          ],
+          [
+            46.15,
+            14.98832
+          ]
+        ]
+      },
+      {
+        "id": "SI_b3d_7",
+        "name": "Ljubljana 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            46.1518,
+            14.99
+          ],
+          [
+            46.15218,
+            14.99
+          ],
+          [
+            46.15218,
+            14.99052
+          ],
+          [
+            46.1518,
+            14.99052
+          ]
+        ]
+      },
+      {
+        "id": "SI_b3d_8",
+        "name": "Ljubljana 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            46.1536,
+            14.9922
+          ],
+          [
+            46.15398,
+            14.9922
+          ],
+          [
+            46.15398,
+            14.99272
+          ],
+          [
+            46.1536,
+            14.99272
+          ]
+        ]
+      },
+      {
+        "id": "SI_b3d_9",
+        "name": "Ljubljana 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            46.1554,
+            14.9856
+          ],
+          [
+            46.15578,
+            14.9856
+          ],
+          [
+            46.15578,
+            14.98612
+          ],
+          [
+            46.1554,
+            14.98612
+          ]
+        ]
+      },
+      {
+        "id": "SI_b3d_10",
+        "name": "Ljubljana 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            46.1572,
+            14.9878
+          ],
+          [
+            46.15758,
+            14.9878
+          ],
+          [
+            46.15758,
+            14.98832
+          ],
+          [
+            46.1572,
+            14.98832
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "SI_rad_1",
+        "type": "section_radar",
+        "lat": 45.99,
+        "lon": 14.785,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "SI_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 46.022,
+        "lon": 14.826,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "A1"
+      },
+      {
+        "id": "SI_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 46.054,
+        "lon": 14.867,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "A1"
+      },
+      {
+        "id": "SI_rad_4",
+        "type": "section_radar",
+        "lat": 46.086,
+        "lon": 14.908,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "A1"
+      },
+      {
+        "id": "SI_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 46.118,
+        "lon": 14.949,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "A1"
+      },
+      {
+        "id": "SI_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 46.15,
+        "lon": 14.99,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "A1"
+      },
+      {
+        "id": "SI_rad_7",
+        "type": "section_radar",
+        "lat": 46.182,
+        "lon": 15.031,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "A1"
+      },
+      {
+        "id": "SI_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 46.214,
+        "lon": 15.072,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "A1"
+      },
+      {
+        "id": "SI_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 46.246,
+        "lon": 15.113,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "SI_rad_10",
+        "type": "section_radar",
+        "lat": 46.278,
+        "lon": 15.154,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "A1"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "SI_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 46.038,
+        "lon": 14.846,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Slovinsko · Diaľnica A1"
+      },
+      {
+        "id": "SI_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 46.066,
+        "lon": 14.882,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Slovinsko · Diaľnica A1"
+      },
+      {
+        "id": "SI_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 46.094,
+        "lon": 14.918,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Slovinsko · Diaľnica A1"
+      },
+      {
+        "id": "SI_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 46.122,
+        "lon": 14.954,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Slovinsko · Diaľnica A1"
+      },
+      {
+        "id": "SI_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 46.15,
+        "lon": 14.99,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Slovinsko · Diaľnica A1"
+      },
+      {
+        "id": "SI_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 46.178,
+        "lon": 15.026,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Slovinsko · Diaľnica A1"
+      },
+      {
+        "id": "SI_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 46.206,
+        "lon": 15.062,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Slovinsko · Diaľnica A1"
+      },
+      {
+        "id": "SI_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 192 (BP)",
+        "brand": "bp",
+        "lat": 46.234,
+        "lon": 15.098,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Slovinsko · Diaľnica A1"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "SI_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV Ljubljana #1",
+        "lat": 46.03,
+        "lon": 14.835,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Slovinsko (A1/A2/A4/A5)"
+      },
+      {
+        "id": "SI_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell Ljubljana #2",
+        "lat": 46.054,
+        "lon": 14.866,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Slovinsko (A1/A2/A4/A5)"
+      },
+      {
+        "id": "SI_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft Ljubljana #3",
+        "lat": 46.078,
+        "lon": 14.897,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Slovinsko (A1/A2/A4/A5)"
+      },
+      {
+        "id": "SI_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen Ljubljana #4",
+        "lat": 46.102,
+        "lon": 14.928,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Slovinsko (A1/A2/A4/A5)"
+      },
+      {
+        "id": "SI_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral Ljubljana #5",
+        "lat": 46.126,
+        "lon": 14.959,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Slovinsko (A1/A2/A4/A5)"
+      },
+      {
+        "id": "SI_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL Ljubljana #6",
+        "lat": 46.15,
+        "lon": 14.99,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Slovinsko (A1/A2/A4/A5)"
+      },
+      {
+        "id": "SI_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies Ljubljana #7",
+        "lat": 46.174,
+        "lon": 15.021,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Slovinsko (A1/A2/A4/A5)"
+      },
+      {
+        "id": "SI_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP Ljubljana #8",
+        "lat": 46.198,
+        "lon": 15.052,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Slovinsko (A1/A2/A4/A5)"
+      },
+      {
+        "id": "SI_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K Ljubljana #9",
+        "lat": 46.222,
+        "lon": 15.083,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Slovinsko (A1/A2/A4/A5)"
+      },
+      {
+        "id": "SI_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 Ljubljana #10",
+        "lat": 46.246,
+        "lon": 15.114,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Slovinsko (A1/A2/A4/A5)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "SI_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru Ljubljana",
+        "lat": 46.087,
+        "lon": 14.903,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Slovinsko"
+      },
+      {
+        "id": "SI_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru Ljubljana",
+        "lat": 46.108,
+        "lon": 14.932,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Slovinsko"
+      },
+      {
+        "id": "SI_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru Ljubljana",
+        "lat": 46.129,
+        "lon": 14.961,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Slovinsko"
+      },
+      {
+        "id": "SI_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru Ljubljana",
+        "lat": 46.15,
+        "lon": 14.99,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Slovinsko"
+      },
+      {
+        "id": "SI_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru Ljubljana",
+        "lat": 46.171,
+        "lon": 15.019,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Slovinsko"
+      },
+      {
+        "id": "SI_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru Ljubljana",
+        "lat": 46.192,
+        "lon": 15.048,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Slovinsko"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "SI_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – Ljubljana",
+        "lat": 46.09,
+        "lon": 14.914,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, Ljubljana, Slovinsko"
+      },
+      {
+        "id": "SI_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – Ljubljana",
+        "lat": 46.105,
+        "lon": 14.933,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, Ljubljana, Slovinsko"
+      },
+      {
+        "id": "SI_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – Ljubljana",
+        "lat": 46.12,
+        "lon": 14.952,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, Ljubljana, Slovinsko"
+      },
+      {
+        "id": "SI_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – Ljubljana",
+        "lat": 46.135,
+        "lon": 14.971,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, Ljubljana, Slovinsko"
+      },
+      {
+        "id": "SI_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – Ljubljana",
+        "lat": 46.15,
+        "lon": 14.99,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, Ljubljana, Slovinsko"
+      },
+      {
+        "id": "SI_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – Ljubljana",
+        "lat": 46.165,
+        "lon": 15.009,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, Ljubljana, Slovinsko"
+      },
+      {
+        "id": "SI_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – Ljubljana",
+        "lat": 46.18,
+        "lon": 15.028,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, Ljubljana, Slovinsko"
+      },
+      {
+        "id": "SI_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – Ljubljana",
+        "lat": 46.195,
+        "lon": 15.047,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, Ljubljana, Slovinsko"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "SI_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Ljubljana #1",
+        "lat": 46.141,
+        "lon": 14.979,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Slovinsko."
+      },
+      {
+        "id": "SI_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Ljubljana #2",
+        "lat": 46.15,
+        "lon": 14.99,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Slovinsko."
+      },
+      {
+        "id": "SI_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Ljubljana #3",
+        "lat": 46.159,
+        "lon": 15.001,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Slovinsko."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "SI_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Ljubljana #1",
+        "lat": 46.138,
+        "lon": 15.004,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "SI_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Ljubljana #2",
+        "lat": 46.15,
+        "lon": 14.99,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "SI_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Ljubljana #3",
+        "lat": 46.162,
+        "lon": 14.976,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "SI_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "Ljubljana Castle 3D",
+        "lat": 46.1455,
+        "lon": 14.9845,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            46.1455,
+            14.9845
+          ],
+          [
+            46.1461,
+            14.9845
+          ],
+          [
+            46.1461,
+            14.9852
+          ],
+          [
+            46.1455,
+            14.9852
+          ]
+        ]
+      },
+      {
+        "id": "SI_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Bled Island Church 3D",
+        "lat": 46.15,
+        "lon": 14.99,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            46.15,
+            14.99
+          ],
+          [
+            46.1506,
+            14.99
+          ],
+          [
+            46.1506,
+            14.9907
+          ],
+          [
+            46.15,
+            14.9907
+          ]
+        ]
+      },
+      {
+        "id": "SI_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Predjama Castle 3D",
+        "lat": 46.1545,
+        "lon": 14.9955,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            46.1545,
+            14.9955
+          ],
+          [
+            46.1551,
+            14.9955
+          ],
+          [
+            46.1551,
+            14.9962
+          ],
+          [
+            46.1545,
+            14.9962
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "IE",
+  "name": "Ireland",
+  "name_sk": "Írsko",
+  "flag": "🇮🇪",
+  "eu_member": true,
+  "capital": "Dublin",
+  "bbox": [
+    51.42,
+    -10.48,
+    55.38,
+    -6.0
+  ],
+  "mean_elevation_m": 118,
+  "dem_srtm_grid": [
+    {
+      "lat": 53.24,
+      "lon": -8.4,
+      "elevation_m": -32
+    },
+    {
+      "lat": 53.24,
+      "lon": -8.32,
+      "elevation_m": -2
+    },
+    {
+      "lat": 53.24,
+      "lon": -8.24,
+      "elevation_m": 28
+    },
+    {
+      "lat": 53.24,
+      "lon": -8.16,
+      "elevation_m": 58
+    },
+    {
+      "lat": 53.24,
+      "lon": -8.08,
+      "elevation_m": 88
+    },
+    {
+      "lat": 53.32,
+      "lon": -8.4,
+      "elevation_m": 13
+    },
+    {
+      "lat": 53.32,
+      "lon": -8.32,
+      "elevation_m": 43
+    },
+    {
+      "lat": 53.32,
+      "lon": -8.24,
+      "elevation_m": 73
+    },
+    {
+      "lat": 53.32,
+      "lon": -8.16,
+      "elevation_m": 103
+    },
+    {
+      "lat": 53.32,
+      "lon": -8.08,
+      "elevation_m": 133
+    },
+    {
+      "lat": 53.4,
+      "lon": -8.4,
+      "elevation_m": 58
+    },
+    {
+      "lat": 53.4,
+      "lon": -8.32,
+      "elevation_m": 88
+    },
+    {
+      "lat": 53.4,
+      "lon": -8.24,
+      "elevation_m": 118
+    },
+    {
+      "lat": 53.4,
+      "lon": -8.16,
+      "elevation_m": 148
+    },
+    {
+      "lat": 53.4,
+      "lon": -8.08,
+      "elevation_m": 178
+    },
+    {
+      "lat": 53.48,
+      "lon": -8.4,
+      "elevation_m": 103
+    },
+    {
+      "lat": 53.48,
+      "lon": -8.32,
+      "elevation_m": 133
+    },
+    {
+      "lat": 53.48,
+      "lon": -8.24,
+      "elevation_m": 163
+    },
+    {
+      "lat": 53.48,
+      "lon": -8.16,
+      "elevation_m": 193
+    },
+    {
+      "lat": 53.48,
+      "lon": -8.08,
+      "elevation_m": 223
+    },
+    {
+      "lat": 53.56,
+      "lon": -8.4,
+      "elevation_m": 148
+    },
+    {
+      "lat": 53.56,
+      "lon": -8.32,
+      "elevation_m": 178
+    },
+    {
+      "lat": 53.56,
+      "lon": -8.24,
+      "elevation_m": 208
+    },
+    {
+      "lat": 53.56,
+      "lon": -8.16,
+      "elevation_m": 238
+    },
+    {
+      "lat": 53.56,
+      "lon": -8.08,
+      "elevation_m": 268
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.060358+00:00"
+}

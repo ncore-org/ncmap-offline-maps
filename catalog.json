@@ -1,788 +1,1368 @@
 {
-  "schemaVersion": "4.0.0",
-  "repository": "ncore-org/ncmap-offline-maps",
-  "releaseTag": "v4.0.0-maps",
-  "updateAvailable": true,
-  "updateTitle": "Map update available",
-  "updateDateLabel": "October 2026",
-  "totalUpdateSizeGb": 10.07,
+  "schema": "ncmap-offline-catalog-v5",
+  "version": "5.0.0",
+  "release_tag": "v5.0.0-maps",
+  "generated_at": "2026-10-29T15:47:41.115657+00:00",
+  "total_countries": 32,
+  "eu_countries_count": 27,
   "countries": [
     {
-      "code": "ad",
-      "name": "Andorra",
-      "nativeName": "Andorra",
-      "flag": "🇦🇩",
-      "continent": "Europe",
-      "displaySizeMb": 2.7,
-      "center": [
-        42.5063,
-        1.5218
-      ],
-      "bbox": [
-        42.428,
-        1.407,
-        42.656,
-        1.786
-      ],
-      "chunksCount": 1,
-      "isMultiPart": false,
-      "tollType": "toll_free",
-      "highways": [
-        "CG-1",
-        "CG-2"
-      ],
-      "regions": [],
-      "layers": [
-        "3D Budovy (OSM Extrusion)",
-        "Rýchlostné radary",
-        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
-        "Odpočívadlá & Parkoviská",
-        "Reťazce (McDonald's, KFC, Subway...)",
-        "Chodníky & Pešie zóny",
-        "Mýtne a diaľničné úseky"
-      ],
-      "chunks": [
-        {
-          "part": 1,
-          "fileName": "ad.part1.ncmap.json",
-          "sizeMb": 2.7,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/ad.part1.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/ad.part1.ncmap.json"
-        }
-      ]
-    },
-    {
-      "code": "at",
+      "code": "AT",
       "name": "Austria",
-      "nativeName": "Rakúsko",
+      "name_sk": "Rakúsko",
       "flag": "🇦🇹",
-      "continent": "Europe",
-      "displaySizeMb": 204.3,
-      "center": [
-        48.2082,
-        16.3738
-      ],
+      "eu_member": true,
+      "capital": "Wien",
+      "size_mb": 548.4,
+      "parts_count": 2,
+      "toll_type": "vignette_and_section_toll",
+      "highway_prefix": "A1/A2/A10/S1",
       "bbox": [
-        46.372,
+        46.37,
         9.53,
         49.02,
         17.16
       ],
-      "chunksCount": 1,
-      "isMultiPart": false,
-      "tollType": "vignette_and_section_toll",
-      "highways": [
-        "A1",
-        "A2",
-        "A4",
-        "A6",
-        "A8",
-        "A10",
-        "S1"
-      ],
-      "regions": [
-        "Vienna (Wien)",
-        "Lower Austria",
-        "Tyrol & Salzburg"
-      ],
-      "layers": [
-        "3D Budovy (OSM Extrusion)",
-        "Rýchlostné radary",
-        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
-        "Odpočívadlá & Parkoviská",
-        "Reťazce (McDonald's, KFC, Subway...)",
-        "Chodníky & Pešie zóny",
-        "Mýtne a diaľničné úseky"
+      "country_dir": "countries/at",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Stephansdom Wien 3D",
+        "Schloss Schönbrunn 3D",
+        "Festung Hohensalzburg 3D"
       ],
       "chunks": [
         {
           "part": 1,
-          "fileName": "at.part1.ncmap.json",
-          "sizeMb": 204.3,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/at.part1.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/at.part1.ncmap.json"
-        }
-      ]
-    },
-    {
-      "code": "be",
-      "name": "Belgium",
-      "nativeName": "Belgicko",
-      "flag": "🇧🇪",
-      "continent": "Europe",
-      "displaySizeMb": 231.3,
-      "center": [
-        50.8503,
-        4.3517
-      ],
-      "bbox": [
-        49.496,
-        2.545,
-        51.505,
-        6.408
-      ],
-      "chunksCount": 1,
-      "isMultiPart": false,
-      "tollType": "tunnel_toll_only",
-      "highways": [
-        "E19",
-        "E40",
-        "E411",
-        "A12"
-      ],
-      "regions": [
-        "Flanders",
-        "Wallonia",
-        "Brussels"
-      ],
-      "layers": [
-        "3D Budovy (OSM Extrusion)",
-        "Rýchlostné radary",
-        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
-        "Odpočívadlá & Parkoviská",
-        "Reťazce (McDonald's, KFC, Subway...)",
-        "Chodníky & Pešie zóny",
-        "Mýtne a diaľničné úseky"
-      ],
-      "chunks": [
-        {
-          "part": 1,
-          "fileName": "be.part1.ncmap.json",
-          "sizeMb": 231.3,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/be.part1.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/be.part1.ncmap.json"
-        }
-      ]
-    },
-    {
-      "code": "ca",
-      "name": "Canada",
-      "nativeName": "Kanada",
-      "flag": "🇨🇦",
-      "continent": "North America",
-      "displaySizeMb": 842.0,
-      "center": [
-        49.2827,
-        -123.1207
-      ],
-      "bbox": [
-        41.676,
-        -141.002,
-        60.0,
-        -52.619
-      ],
-      "chunksCount": 3,
-      "isMultiPart": true,
-      "tollType": "express_toll_routes",
-      "highways": [
-        "Trans-Canada Hwy 1",
-        "Hwy 401",
-        "Hwy 407 ETR"
-      ],
-      "regions": [
-        {
-          "id": "ca-bc",
-          "name": "British Columbia (Victoria)",
-          "sizeMb": 129.8
-        },
-        {
-          "id": "ca-ab",
-          "name": "Alberta (Edmonton)",
-          "sizeMb": 104.8
-        },
-        {
-          "id": "ca-on",
-          "name": "Ontario (Toronto)",
-          "sizeMb": 245.4
-        }
-      ],
-      "layers": [
-        "3D Budovy (OSM Extrusion)",
-        "Rýchlostné radary",
-        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
-        "Odpočívadlá & Parkoviská",
-        "Reťazce (McDonald's, KFC, Subway...)",
-        "Chodníky & Pešie zóny",
-        "Mýtne a diaľničné úseky"
-      ],
-      "chunks": [
-        {
-          "part": 1,
-          "fileName": "ca.part1.ncmap.json",
-          "sizeMb": 280.7,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/ca.part1.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/ca.part1.ncmap.json"
+          "file": "at.part1.ncmap.json",
+          "size_mb": 274.2,
+          "sha256": "367f142f59c56f6f",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         },
         {
           "part": 2,
-          "fileName": "ca.part2.ncmap.json",
-          "sizeMb": 280.7,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/ca.part2.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/ca.part2.ncmap.json"
+          "file": "at.part2.ncmap.json",
+          "size_mb": 274.2,
+          "sha256": "551c910046bb82fd",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "name_sk": "Belgicko",
+      "flag": "🇧🇪",
+      "eu_member": true,
+      "capital": "Bruxelles",
+      "size_mb": 342.0,
+      "parts_count": 1,
+      "toll_type": "viapass_tunnel_toll",
+      "highway_prefix": "A1/A4/E19/E40",
+      "bbox": [
+        49.5,
+        2.54,
+        51.5,
+        6.4
+      ],
+      "country_dir": "countries/be",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Atomium Brussels 3D",
+        "Grand-Place Town Hall 3D",
+        "Belfort van Brugge 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "be.part1.ncmap.json",
+          "size_mb": 342.0,
+          "sha256": "df5bc9b454f86730",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "name_sk": "Bulharsko",
+      "flag": "🇧🇬",
+      "eu_member": true,
+      "capital": "Sofia",
+      "size_mb": 318.5,
+      "parts_count": 1,
+      "toll_type": "bg_toll_vignette",
+      "highway_prefix": "A1/A2/A3/A4",
+      "bbox": [
+        41.23,
+        22.36,
+        44.22,
+        28.61
+      ],
+      "country_dir": "countries/bg",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Alexander Nevsky Cathedral 3D",
+        "Rila Monastery 3D",
+        "Roman Theatre Plovdiv 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "bg.part1.ncmap.json",
+          "size_mb": 318.5,
+          "sha256": "f5d166fc68c95880",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "name_sk": "Chorvátsko",
+      "flag": "🇭🇷",
+      "eu_member": true,
+      "capital": "Zagreb",
+      "size_mb": 264.8,
+      "parts_count": 1,
+      "toll_type": "toll_booths",
+      "highway_prefix": "A1/A3/A6/A7",
+      "bbox": [
+        42.39,
+        13.49,
+        46.55,
+        19.45
+      ],
+      "country_dir": "countries/hr",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Diocletian Palace Split 3D",
+        "Dubrovnik Old Town Walls 3D",
+        "Pula Arena 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "hr.part1.ncmap.json",
+          "size_mb": 264.8,
+          "sha256": "2d3772ebdee5f7b1",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "name_sk": "Cyprus",
+      "flag": "🇨🇾",
+      "eu_member": true,
+      "capital": "Nicosia",
+      "size_mb": 78.4,
+      "parts_count": 1,
+      "toll_type": "free_highways",
+      "highway_prefix": "A1/A2/A3/A6",
+      "bbox": [
+        34.63,
+        32.27,
+        35.7,
+        34.6
+      ],
+      "country_dir": "countries/cy",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Venetian Walls Nicosia 3D",
+        "Kourion Amphitheatre 3D",
+        "Paphos Castle 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "cy.part1.ncmap.json",
+          "size_mb": 78.4,
+          "sha256": "9c25842ee7e60ca0",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia",
+      "name_sk": "Česko",
+      "flag": "🇨🇿",
+      "eu_member": true,
+      "capital": "Praha",
+      "size_mb": 612.6,
+      "parts_count": 2,
+      "toll_type": "e_dalnice_vignette",
+      "highway_prefix": "D1/D2/D5/D8/D11",
+      "bbox": [
+        48.55,
+        12.09,
+        51.06,
+        18.86
+      ],
+      "country_dir": "countries/cz",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Pražský hrad & Katedrála sv. Víta 3D",
+        "Karlův most 3D",
+        "Chrám sv. Barbory Kutná Hora 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "cz.part1.ncmap.json",
+          "size_mb": 306.3,
+          "sha256": "b57a21ad18dd3c7f",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        },
+        {
+          "part": 2,
+          "file": "cz.part2.ncmap.json",
+          "size_mb": 306.3,
+          "sha256": "093aff70c5c8ef3d",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "name_sk": "Dánsko",
+      "flag": "🇩🇰",
+      "eu_member": true,
+      "capital": "København",
+      "size_mb": 298.2,
+      "parts_count": 1,
+      "toll_type": "bridge_toll_storebaelt",
+      "highway_prefix": "E20/E45/E47",
+      "bbox": [
+        54.56,
+        8.07,
+        57.75,
+        15.19
+      ],
+      "country_dir": "countries/dk",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Storebælt Bridge 3D",
+        "Christiansborg Palace 3D",
+        "Nyhavn Waterfront 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "dk.part1.ncmap.json",
+          "size_mb": 298.2,
+          "sha256": "1a18540c78f5a949",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "name_sk": "Estónsko",
+      "flag": "🇪🇪",
+      "eu_member": true,
+      "capital": "Tallinn",
+      "size_mb": 146.0,
+      "parts_count": 1,
+      "toll_type": "truck_road_charge",
+      "highway_prefix": "T1/T2/T4/E67",
+      "bbox": [
+        57.51,
+        21.76,
+        59.68,
+        28.21
+      ],
+      "country_dir": "countries/ee",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Toompea Castle Tallinn 3D",
+        "St. Olaf's Church 3D",
+        "Alexander Nevsky Tallinn 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "ee.part1.ncmap.json",
+          "size_mb": 146.0,
+          "sha256": "c81c2a1e246a9e0b",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "name_sk": "Fínsko",
+      "flag": "🇫🇮",
+      "eu_member": true,
+      "capital": "Helsinki",
+      "size_mb": 486.0,
+      "parts_count": 2,
+      "toll_type": "free_highways",
+      "highway_prefix": "Vt1/Vt3/Vt4/E75",
+      "bbox": [
+        59.81,
+        20.55,
+        70.09,
+        31.59
+      ],
+      "country_dir": "countries/fi",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Helsinki Cathedral 3D",
+        "Suomenlinna Sea Fortress 3D",
+        "Olavinlinna Castle 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "fi.part1.ncmap.json",
+          "size_mb": 243.0,
+          "sha256": "6d593b7baa9bb28b",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        },
+        {
+          "part": 2,
+          "file": "fi.part2.ncmap.json",
+          "size_mb": 243.0,
+          "sha256": "45dc2ae35d907211",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "name_sk": "Francúzsko",
+      "flag": "🇫🇷",
+      "eu_member": true,
+      "capital": "Paris",
+      "size_mb": 3120.5,
+      "parts_count": 3,
+      "toll_type": "peage_toll_booths",
+      "highway_prefix": "A1/A4/A6/A7/A9/A10",
+      "bbox": [
+        41.33,
+        -5.14,
+        51.09,
+        9.56
+      ],
+      "country_dir": "countries/fr",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Tour Eiffel Paris 3D",
+        "Arc de Triomphe 3D",
+        "Cathédrale Notre-Dame de Paris 3D",
+        "Mont-Saint-Michel 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "fr.part1.ncmap.json",
+          "size_mb": 1040.2,
+          "sha256": "071da509f46a9944",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        },
+        {
+          "part": 2,
+          "file": "fr.part2.ncmap.json",
+          "size_mb": 1040.2,
+          "sha256": "284108ac9e4dfe7a",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         },
         {
           "part": 3,
-          "fileName": "ca.part3.ncmap.json",
-          "sizeMb": 280.7,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/ca.part3.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/ca.part3.ncmap.json"
+          "file": "fr.part3.ncmap.json",
+          "size_mb": 1040.2,
+          "sha256": "da6173dcb4a8665c",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
       ]
     },
     {
-      "code": "sk",
-      "name": "Slovakia",
-      "nativeName": "Slovensko",
-      "flag": "🇸🇰",
-      "continent": "Europe",
-      "displaySizeMb": 176.4,
-      "center": [
-        48.1486,
-        17.1077
-      ],
-      "bbox": [
-        47.731,
-        16.833,
-        49.613,
-        22.565
-      ],
-      "chunksCount": 1,
-      "isMultiPart": false,
-      "tollType": "e_vignette",
-      "highways": [
-        "D1",
-        "D2",
-        "D3",
-        "D4",
-        "R1",
-        "R2",
-        "R4",
-        "R7"
-      ],
-      "regions": [
-        "Bratislavský & Západ",
-        "Stredné Slovensko",
-        "Východné Slovensko"
-      ],
-      "layers": [
-        "3D Budovy (OSM Extrusion)",
-        "Rýchlostné radary",
-        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
-        "Odpočívadlá & Parkoviská",
-        "Reťazce (McDonald's, KFC, Subway...)",
-        "Chodníky & Pešie zóny",
-        "Mýtne a diaľničné úseky"
-      ],
-      "chunks": [
-        {
-          "part": 1,
-          "fileName": "sk.part1.ncmap.json",
-          "sizeMb": 176.4,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/sk.part1.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/sk.part1.ncmap.json"
-        }
-      ]
-    },
-    {
-      "code": "cz",
-      "name": "Czechia",
-      "nativeName": "Česko",
-      "flag": "🇨🇿",
-      "continent": "Europe",
-      "displaySizeMb": 318.5,
-      "center": [
-        50.0755,
-        14.4378
-      ],
-      "bbox": [
-        48.551,
-        12.09,
-        51.055,
-        18.859
-      ],
-      "chunksCount": 1,
-      "isMultiPart": false,
-      "tollType": "e_vignette",
-      "highways": [
-        "D1",
-        "D2",
-        "D3",
-        "D5",
-        "D8",
-        "D11",
-        "D35"
-      ],
-      "regions": [
-        "Praha & Čechy",
-        "Morava & Sliezsko"
-      ],
-      "layers": [
-        "3D Budovy (OSM Extrusion)",
-        "Rýchlostné radary",
-        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
-        "Odpočívadlá & Parkoviská",
-        "Reťazce (McDonald's, KFC, Subway...)",
-        "Chodníky & Pešie zóny",
-        "Mýtne a diaľničné úseky"
-      ],
-      "chunks": [
-        {
-          "part": 1,
-          "fileName": "cz.part1.ncmap.json",
-          "sizeMb": 318.5,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/cz.part1.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/cz.part1.ncmap.json"
-        }
-      ]
-    },
-    {
-      "code": "de",
+      "code": "DE",
       "name": "Germany",
-      "nativeName": "Nemecko (Multi-Part >2GB)",
+      "name_sk": "Nemecko",
       "flag": "🇩🇪",
-      "continent": "Europe",
-      "displaySizeMb": 3120.0,
-      "center": [
-        52.52,
-        13.405
-      ],
+      "eu_member": true,
+      "capital": "Berlin",
+      "size_mb": 3840.8,
+      "parts_count": 4,
+      "toll_type": "lkw_toll_car_free_autobahn",
+      "highway_prefix": "BAB A1-A99",
       "bbox": [
         47.27,
-        5.866,
-        55.058,
-        15.041
+        5.87,
+        55.06,
+        15.04
       ],
-      "chunksCount": 4,
-      "isMultiPart": true,
-      "tollType": "passenger_free_truck_maut",
-      "highways": [
-        "A1",
-        "A2",
-        "A3",
-        "A5",
-        "A6",
-        "A7",
-        "A8",
-        "A9",
-        "A10"
-      ],
-      "regions": [
-        {
-          "id": "de-bav",
-          "name": "Bavaria (München)",
-          "sizeMb": 820.4
-        },
-        {
-          "id": "de-ber",
-          "name": "Berlin & Brandenburg",
-          "sizeMb": 640.2
-        },
-        {
-          "id": "de-nrw",
-          "name": "Nordrhein-Westfalen (Köln)",
-          "sizeMb": 910.0
-        },
-        {
-          "id": "de-bw",
-          "name": "Baden-Württemberg (Stuttgart)",
-          "sizeMb": 749.4
-        }
-      ],
-      "layers": [
-        "3D Budovy (OSM Extrusion)",
-        "Rýchlostné radary",
-        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
-        "Odpočívadlá & Parkoviská",
-        "Reťazce (McDonald's, KFC, Subway...)",
-        "Chodníky & Pešie zóny",
-        "Mýtne a diaľničné úseky"
+      "country_dir": "countries/de",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Brandenburger Tor Berlin 3D",
+        "Kölner Dom 3D",
+        "Schloss Neuschwanstein 3D",
+        "Frauenkirche München 3D"
       ],
       "chunks": [
         {
           "part": 1,
-          "fileName": "de.part1.ncmap.json",
-          "sizeMb": 780.0,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/de.part1.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/de.part1.ncmap.json"
+          "file": "de.part1.ncmap.json",
+          "size_mb": 960.2,
+          "sha256": "109328d2787b0372",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         },
         {
           "part": 2,
-          "fileName": "de.part2.ncmap.json",
-          "sizeMb": 780.0,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/de.part2.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/de.part2.ncmap.json"
+          "file": "de.part2.ncmap.json",
+          "size_mb": 960.2,
+          "sha256": "74bdbd832583de43",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         },
         {
           "part": 3,
-          "fileName": "de.part3.ncmap.json",
-          "sizeMb": 780.0,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/de.part3.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/de.part3.ncmap.json"
+          "file": "de.part3.ncmap.json",
+          "size_mb": 960.2,
+          "sha256": "15ab8e014e42a40f",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         },
         {
           "part": 4,
-          "fileName": "de.part4.ncmap.json",
-          "sizeMb": 780.0,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/de.part4.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/de.part4.ncmap.json"
+          "file": "de.part4.ncmap.json",
+          "size_mb": 960.2,
+          "sha256": "73250e2e3c086e60",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
       ]
     },
     {
-      "code": "fr",
-      "name": "France",
-      "nativeName": "Francúzsko (Multi-Part >2GB)",
-      "flag": "🇫🇷",
-      "continent": "Europe",
-      "displaySizeMb": 2480.0,
-      "center": [
-        48.8566,
-        2.3522
-      ],
+      "code": "GR",
+      "name": "Greece",
+      "name_sk": "Grécko",
+      "flag": "🇬🇷",
+      "eu_member": true,
+      "capital": "Athína",
+      "size_mb": 425.4,
+      "parts_count": 1,
+      "toll_type": "toll_booths_egnatia",
+      "highway_prefix": "A1/A2/A6/A8",
       "bbox": [
-        41.333,
-        -5.142,
-        51.089,
-        9.56
+        34.8,
+        19.37,
+        41.75,
+        28.25
       ],
-      "chunksCount": 3,
-      "isMultiPart": true,
-      "tollType": "peage_toll_booths",
-      "highways": [
-        "A1",
-        "A4 (Péage)",
-        "A6 (Autoroute du Soleil)",
-        "A7",
-        "A10",
-        "N4 (Toll-Free)"
-      ],
-      "regions": [
-        {
-          "id": "fr-idf",
-          "name": "Île-de-France (Paris) & Grand Est",
-          "sizeMb": 890.0
-        },
-        {
-          "id": "fr-sud",
-          "name": "Auvergne-Rhône-Alpes & Provence",
-          "sizeMb": 840.0
-        },
-        {
-          "id": "fr-west",
-          "name": "Nouvelle-Aquitaine & Bretagne",
-          "sizeMb": 750.0
-        }
-      ],
-      "layers": [
-        "3D Budovy (OSM Extrusion)",
-        "Rýchlostné radary",
-        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
-        "Odpočívadlá & Parkoviská",
-        "Reťazce (McDonald's, KFC, Subway...)",
-        "Chodníky & Pešie zóny",
-        "Mýtne a diaľničné úseky"
+      "country_dir": "countries/gr",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Parthenon Acropolis 3D",
+        "White Tower Thessaloniki 3D",
+        "Rio-Antirrio Bridge 3D"
       ],
       "chunks": [
         {
           "part": 1,
-          "fileName": "fr.part1.ncmap.json",
-          "sizeMb": 826.7,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/fr.part1.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/fr.part1.ncmap.json"
+          "file": "gr.part1.ncmap.json",
+          "size_mb": 425.4,
+          "sha256": "aadd8f3c6cd31907",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "name_sk": "Maďarsko",
+      "flag": "🇭🇺",
+      "eu_member": true,
+      "capital": "Budapest",
+      "size_mb": 348.2,
+      "parts_count": 1,
+      "toll_type": "e_matrica",
+      "highway_prefix": "M0/M1/M3/M5/M7",
+      "bbox": [
+        45.74,
+        16.11,
+        48.58,
+        22.9
+      ],
+      "country_dir": "countries/hu",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Országház Parliament Budapest 3D",
+        "Buda Castle 3D",
+        "Széchenyi Chain Bridge 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "hu.part1.ncmap.json",
+          "size_mb": 348.2,
+          "sha256": "2a66be964a0dccca",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "name_sk": "Írsko",
+      "flag": "🇮🇪",
+      "eu_member": true,
+      "capital": "Dublin",
+      "size_mb": 244.6,
+      "parts_count": 1,
+      "toll_type": "eflow_and_booths",
+      "highway_prefix": "M1/M4/M7/M8/M50",
+      "bbox": [
+        51.42,
+        -10.48,
+        55.38,
+        -6.0
+      ],
+      "country_dir": "countries/ie",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Rock of Cashel 3D",
+        "Dublin Castle 3D",
+        "Samuel Beckett Bridge 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "ie.part1.ncmap.json",
+          "size_mb": 244.6,
+          "sha256": "79bdca29ac96b7d7",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "name_sk": "Taliansko",
+      "flag": "🇮🇹",
+      "eu_member": true,
+      "capital": "Roma",
+      "size_mb": 2180.0,
+      "parts_count": 3,
+      "toll_type": "autostrade_telepass",
+      "highway_prefix": "A1/A4/A14/A22",
+      "bbox": [
+        36.65,
+        6.63,
+        47.09,
+        18.52
+      ],
+      "country_dir": "countries/it",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Colosseo Roma 3D",
+        "Duomo di Milano 3D",
+        "Torre di Pisa 3D",
+        "Basilica di San Marco 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "it.part1.ncmap.json",
+          "size_mb": 726.7,
+          "sha256": "b9e1b147040d5b21",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         },
         {
           "part": 2,
-          "fileName": "fr.part2.ncmap.json",
-          "sizeMb": 826.7,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/fr.part2.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/fr.part2.ncmap.json"
+          "file": "it.part2.ncmap.json",
+          "size_mb": 726.7,
+          "sha256": "c7fffd73b92eafb4",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         },
         {
           "part": 3,
-          "fileName": "fr.part3.ncmap.json",
-          "sizeMb": 826.7,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/fr.part3.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/fr.part3.ncmap.json"
+          "file": "it.part3.ncmap.json",
+          "size_mb": 726.7,
+          "sha256": "cbab120c016eecce",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
       ]
     },
     {
-      "code": "hu",
-      "name": "Hungary",
-      "nativeName": "Maďarsko",
-      "flag": "🇭🇺",
-      "continent": "Europe",
-      "displaySizeMb": 188.6,
-      "center": [
-        47.4979,
-        19.0402
-      ],
+      "code": "LV",
+      "name": "Latvia",
+      "name_sk": "Lotyšsko",
+      "flag": "🇱🇻",
+      "eu_member": true,
+      "capital": "Rīga",
+      "size_mb": 162.4,
+      "parts_count": 1,
+      "toll_type": "jurmala_entry_and_truck",
+      "highway_prefix": "A1/A2/A6/A7",
       "bbox": [
-        45.737,
-        16.113,
-        48.585,
-        22.897
+        55.67,
+        20.97,
+        58.08,
+        28.24
       ],
-      "chunksCount": 1,
-      "isMultiPart": false,
-      "tollType": "e_matrica_vignette",
-      "highways": [
-        "M1",
-        "M3",
-        "M5",
-        "M7",
-        "M0",
-        "M15"
-      ],
-      "regions": [
-        "Budapest & Central",
-        "Transdanubia",
-        "Great Plain"
-      ],
-      "layers": [
-        "3D Budovy (OSM Extrusion)",
-        "Rýchlostné radary",
-        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
-        "Odpočívadlá & Parkoviská",
-        "Reťazce (McDonald's, KFC, Subway...)",
-        "Chodníky & Pešie zóny",
-        "Mýtne a diaľničné úseky"
+      "country_dir": "countries/lv",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "House of the Blackheads Riga 3D",
+        "Riga Cathedral 3D",
+        "Freedom Monument 3D"
       ],
       "chunks": [
         {
           "part": 1,
-          "fileName": "hu.part1.ncmap.json",
-          "sizeMb": 188.6,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/hu.part1.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/hu.part1.ncmap.json"
+          "file": "lv.part1.ncmap.json",
+          "size_mb": 162.4,
+          "sha256": "3f0603b6aaa51901",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
       ]
     },
     {
-      "code": "pl",
+      "code": "LT",
+      "name": "Lithuania",
+      "name_sk": "Litva",
+      "flag": "🇱🇹",
+      "eu_member": true,
+      "capital": "Vilnius",
+      "size_mb": 188.0,
+      "parts_count": 1,
+      "toll_type": "commercial_vignette",
+      "highway_prefix": "A1/A2/A5/E67",
+      "bbox": [
+        53.89,
+        20.93,
+        56.45,
+        26.83
+      ],
+      "country_dir": "countries/lt",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Gediminas Tower Vilnius 3D",
+        "Trakai Island Castle 3D",
+        "Vilnius Cathedral 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "lt.part1.ncmap.json",
+          "size_mb": 188.0,
+          "sha256": "d77c8a466a5fafea",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "name_sk": "Luxembursko",
+      "flag": "🇱🇺",
+      "eu_member": true,
+      "capital": "Luxembourg",
+      "size_mb": 54.2,
+      "parts_count": 1,
+      "toll_type": "free_highways",
+      "highway_prefix": "A1/A3/A4/A6/A7",
+      "bbox": [
+        49.44,
+        5.73,
+        50.18,
+        6.53
+      ],
+      "country_dir": "countries/lu",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Vianden Castle 3D",
+        "Adolphe Bridge 3D",
+        "Grand Ducal Palace 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "lu.part1.ncmap.json",
+          "size_mb": 54.2,
+          "sha256": "2710134ef19dc7bb",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "name_sk": "Malta",
+      "flag": "🇲🇹",
+      "eu_member": true,
+      "capital": "Valletta",
+      "size_mb": 34.5,
+      "parts_count": 1,
+      "toll_type": "cva_valletta",
+      "highway_prefix": "Route 1/Route 7",
+      "bbox": [
+        35.8,
+        14.18,
+        36.08,
+        14.58
+      ],
+      "country_dir": "countries/mt",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "St. John's Co-Cathedral Valletta 3D",
+        "Mdina Gate 3D",
+        "Fort St. Angelo 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "mt.part1.ncmap.json",
+          "size_mb": 34.5,
+          "sha256": "b5996397166b2c14",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "name_sk": "Holandsko",
+      "flag": "🇳🇱",
+      "eu_member": true,
+      "capital": "Amsterdam",
+      "size_mb": 592.0,
+      "parts_count": 2,
+      "toll_type": "tunnel_toll_kiltunnel",
+      "highway_prefix": "A1/A2/A4/A12/A16",
+      "bbox": [
+        50.75,
+        3.36,
+        53.47,
+        7.23
+      ],
+      "country_dir": "countries/nl",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Rijksmuseum Amsterdam 3D",
+        "Erasmusbrug Rotterdam 3D",
+        "Dom Tower Utrecht 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "nl.part1.ncmap.json",
+          "size_mb": 296.0,
+          "sha256": "5e51540ee4431c70",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        },
+        {
+          "part": 2,
+          "file": "nl.part2.ncmap.json",
+          "size_mb": 296.0,
+          "sha256": "35f32c701b9b700c",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "PL",
       "name": "Poland",
-      "nativeName": "Poľsko",
+      "name_sk": "Poľsko",
       "flag": "🇵🇱",
-      "continent": "Europe",
-      "displaySizeMb": 740.0,
-      "center": [
-        52.2297,
-        21.0122
-      ],
+      "eu_member": true,
+      "capital": "Warszawa",
+      "size_mb": 1340.5,
+      "parts_count": 2,
+      "toll_type": "etoll_and_booths",
+      "highway_prefix": "A1/A2/A4/S3/S7/S8",
       "bbox": [
-        49.002,
-        14.122,
-        54.836,
-        24.145
+        49.0,
+        14.12,
+        54.84,
+        24.15
       ],
-      "chunksCount": 2,
-      "isMultiPart": true,
-      "tollType": "e_toll_and_concession",
-      "highways": [
-        "A1",
-        "A2",
-        "A4",
-        "S7",
-        "S8"
-      ],
-      "regions": [
-        {
-          "id": "pl-south",
-          "name": "Małopolska & Śląsk (Kraków / Katowice)",
-          "sizeMb": 380.0
-        },
-        {
-          "id": "pl-north",
-          "name": "Mazowsze & Pomorze (Warszawa / Gdańsk)",
-          "sizeMb": 360.0
-        }
-      ],
-      "layers": [
-        "3D Budovy (OSM Extrusion)",
-        "Rýchlostné radary",
-        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
-        "Odpočívadlá & Parkoviská",
-        "Reťazce (McDonald's, KFC, Subway...)",
-        "Chodníky & Pešie zóny",
-        "Mýtne a diaľničné úseky"
+      "country_dir": "countries/pl",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Zamek Królewski na Wawelu 3D",
+        "Pałac Kultury i Nauki 3D",
+        "Malbork Castle 3D"
       ],
       "chunks": [
         {
           "part": 1,
-          "fileName": "pl.part1.ncmap.json",
-          "sizeMb": 370.0,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/pl.part1.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/pl.part1.ncmap.json"
+          "file": "pl.part1.ncmap.json",
+          "size_mb": 670.2,
+          "sha256": "18fb131b988b63ac",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         },
         {
           "part": 2,
-          "fileName": "pl.part2.ncmap.json",
-          "sizeMb": 370.0,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/pl.part2.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/pl.part2.ncmap.json"
+          "file": "pl.part2.ncmap.json",
+          "size_mb": 670.2,
+          "sha256": "9d97e81bc63d5343",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
       ]
     },
     {
-      "code": "it",
-      "name": "Italy",
-      "nativeName": "Taliansko",
-      "flag": "🇮🇹",
-      "continent": "Europe",
-      "displaySizeMb": 1890.0,
-      "center": [
-        41.9028,
-        12.4964
-      ],
+      "code": "PT",
+      "name": "Portugal",
+      "name_sk": "Portugalsko",
+      "flag": "🇵🇹",
+      "eu_member": true,
+      "capital": "Lisboa",
+      "size_mb": 468.0,
+      "parts_count": 1,
+      "toll_type": "via_verde_electronic",
+      "highway_prefix": "A1/A2/A3/A22",
       "bbox": [
-        36.619,
-        6.627,
-        47.092,
-        18.52
+        36.96,
+        -9.5,
+        42.15,
+        -6.19
       ],
-      "chunksCount": 2,
-      "isMultiPart": true,
-      "tollType": "autostrada_telepass_toll",
-      "highways": [
-        "A1 (Autostrada del Sole)",
-        "A4",
-        "A14",
-        "A22 (Brenner)"
-      ],
-      "regions": [
-        {
-          "id": "it-north",
-          "name": "Northern Italy (Milano / Venezia)",
-          "sizeMb": 980.0
-        },
-        {
-          "id": "it-south",
-          "name": "Central & Southern Italy (Roma / Napoli)",
-          "sizeMb": 910.0
-        }
-      ],
-      "layers": [
-        "3D Budovy (OSM Extrusion)",
-        "Rýchlostné radary",
-        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
-        "Odpočívadlá & Parkoviská",
-        "Reťazce (McDonald's, KFC, Subway...)",
-        "Chodníky & Pešie zóny",
-        "Mýtne a diaľničné úseky"
+      "country_dir": "countries/pt",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Torre de Belém 3D",
+        "Ponte 25 de Abril 3D",
+        "Palácio da Pena Sintra 3D"
       ],
       "chunks": [
         {
           "part": 1,
-          "fileName": "it.part1.ncmap.json",
-          "sizeMb": 945.0,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/it.part1.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/it.part1.ncmap.json"
+          "file": "pt.part1.ncmap.json",
+          "size_mb": 468.0,
+          "sha256": "1d723b3ae07aadb1",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "name_sk": "Rumunsko",
+      "flag": "🇷🇴",
+      "eu_member": true,
+      "capital": "București",
+      "size_mb": 645.2,
+      "parts_count": 2,
+      "toll_type": "rovinieta",
+      "highway_prefix": "A1/A2/A3/A10",
+      "bbox": [
+        43.62,
+        20.26,
+        48.27,
+        29.69
+      ],
+      "country_dir": "countries/ro",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Palace of the Parliament 3D",
+        "Bran Castle 3D",
+        "Peleș Castle 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "ro.part1.ncmap.json",
+          "size_mb": 322.6,
+          "sha256": "0402ec75bdf48b69",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         },
         {
           "part": 2,
-          "fileName": "it.part2.ncmap.json",
-          "sizeMb": 945.0,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/it.part2.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/it.part2.ncmap.json"
+          "file": "ro.part2.ncmap.json",
+          "size_mb": 322.6,
+          "sha256": "1091c74a8a75d3e7",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
       ]
     },
     {
-      "code": "hr",
-      "name": "Croatia",
-      "nativeName": "Chorvátsko",
-      "flag": "🇭🇷",
-      "continent": "Europe",
-      "displaySizeMb": 164.2,
-      "center": [
-        45.815,
-        15.9819
-      ],
+      "code": "SK",
+      "name": "Slovakia",
+      "name_sk": "Slovensko",
+      "flag": "🇸🇰",
+      "eu_member": true,
+      "capital": "Bratislava",
+      "size_mb": 398.5,
+      "parts_count": 1,
+      "toll_type": "e_znamka",
+      "highway_prefix": "D1/D2/D3/D4/R1/R2",
       "bbox": [
-        42.392,
-        13.493,
-        46.555,
-        19.447
+        47.73,
+        16.83,
+        49.61,
+        22.56
       ],
-      "chunksCount": 1,
-      "isMultiPart": false,
-      "tollType": "hac_enc_toll_booths",
-      "highways": [
-        "A1 (Dalmatina)",
-        "A3",
-        "A4",
-        "A6",
-        "A7"
-      ],
-      "regions": [
-        "Zagreb & Inland",
-        "Istria & Dalmatia (Adriatic)"
-      ],
-      "layers": [
-        "3D Budovy (OSM Extrusion)",
-        "Rýchlostné radary",
-        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
-        "Odpočívadlá & Parkoviská",
-        "Reťazce (McDonald's, KFC, Subway...)",
-        "Chodníky & Pešie zóny",
-        "Mýtne a diaľničné úseky"
+      "country_dir": "countries/sk",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Bratislavský hrad 3D",
+        "Spišský hrad 3D",
+        "Kežmarský hrad & Vysoké Tatry 3D",
+        "Dóm sv. Alžbety Košice 3D"
       ],
       "chunks": [
         {
           "part": 1,
-          "fileName": "hr.part1.ncmap.json",
-          "sizeMb": 164.2,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/hr.part1.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/hr.part1.ncmap.json"
+          "file": "sk.part1.ncmap.json",
+          "size_mb": 398.5,
+          "sha256": "bf6db775c6b51bff",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
       ]
     },
     {
-      "code": "ch",
+      "code": "SI",
+      "name": "Slovenia",
+      "name_sk": "Slovinsko",
+      "flag": "🇸🇮",
+      "eu_member": true,
+      "capital": "Ljubljana",
+      "size_mb": 176.4,
+      "parts_count": 1,
+      "toll_type": "evinjeta",
+      "highway_prefix": "A1/A2/A4/A5",
+      "bbox": [
+        45.42,
+        13.38,
+        46.88,
+        16.6
+      ],
+      "country_dir": "countries/si",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Ljubljana Castle 3D",
+        "Bled Island Church 3D",
+        "Predjama Castle 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "si.part1.ncmap.json",
+          "size_mb": 176.4,
+          "sha256": "b4ad072de2b40486",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "name_sk": "Španielsko",
+      "flag": "🇪🇸",
+      "eu_member": true,
+      "capital": "Madrid",
+      "size_mb": 2240.0,
+      "parts_count": 3,
+      "toll_type": "autopista_peaje",
+      "highway_prefix": "AP-7/A-1/A-2/A-3/A-4",
+      "bbox": [
+        36.0,
+        -9.3,
+        43.79,
+        3.33
+      ],
+      "country_dir": "countries/es",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Sagrada Família Barcelona 3D",
+        "Palacio Real de Madrid 3D",
+        "Alhambra de Granada 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "es.part1.ncmap.json",
+          "size_mb": 746.7,
+          "sha256": "7748b6f0981135db",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        },
+        {
+          "part": 2,
+          "file": "es.part2.ncmap.json",
+          "size_mb": 746.7,
+          "sha256": "bea31cb89556d476",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        },
+        {
+          "part": 3,
+          "file": "es.part3.ncmap.json",
+          "size_mb": 746.7,
+          "sha256": "5500f12c71dd1581",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "name_sk": "Švédsko",
+      "flag": "🇸🇪",
+      "eu_member": true,
+      "capital": "Stockholm",
+      "size_mb": 740.0,
+      "parts_count": 2,
+      "toll_type": "congestion_and_oresund",
+      "highway_prefix": "E4/E6/E18/E20",
+      "bbox": [
+        55.34,
+        11.11,
+        69.06,
+        24.16
+      ],
+      "country_dir": "countries/se",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Stockholm Palace 3D",
+        "Turning Torso Malmö 3D",
+        "Öresund Bridge 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "se.part1.ncmap.json",
+          "size_mb": 370.0,
+          "sha256": "dcfa7ad1c4b3154c",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        },
+        {
+          "part": 2,
+          "file": "se.part2.ncmap.json",
+          "size_mb": 370.0,
+          "sha256": "c756f7ee0f8e16e5",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "CH",
       "name": "Switzerland",
-      "nativeName": "Švajčiarsko",
+      "name_sk": "Švajčiarsko",
       "flag": "🇨🇭",
-      "continent": "Europe",
-      "displaySizeMb": 192.0,
-      "center": [
-        47.3769,
-        8.5417
-      ],
+      "eu_member": false,
+      "capital": "Bern",
+      "size_mb": 420.0,
+      "parts_count": 1,
+      "toll_type": "annual_vignette",
+      "highway_prefix": "A1/A2/A3/A9",
       "bbox": [
-        45.817,
-        5.955,
-        47.808,
-        10.492
+        45.82,
+        5.96,
+        47.81,
+        10.49
       ],
-      "chunksCount": 1,
-      "isMultiPart": false,
-      "tollType": "annual_vignette_40chf",
-      "highways": [
-        "A1",
-        "A2 (Gotthard)",
-        "A3",
-        "A13"
-      ],
-      "regions": [
-        "Zürich & Central",
-        "Geneva & Alps"
-      ],
-      "layers": [
-        "3D Budovy (OSM Extrusion)",
-        "Rýchlostné radary",
-        "Čerpacie stanice (OMV, Shell, Slovnaft, Aral...)",
-        "Odpočívadlá & Parkoviská",
-        "Reťazce (McDonald's, KFC, Subway...)",
-        "Chodníky & Pešie zóny",
-        "Mýtne a diaľničné úseky"
+      "country_dir": "countries/ch",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Château de Chillon 3D",
+        "Kapellbrücke Luzern 3D",
+        "Bundeshaus Bern 3D"
       ],
       "chunks": [
         {
           "part": 1,
-          "fileName": "ch.part1.ncmap.json",
-          "sizeMb": 192.0,
-          "releaseDownloadUrl": "https://github.com/ncore-org/ncmap-offline-maps/releases/download/v4.0.0-maps/ch.part1.ncmap.json",
-          "fallbackRawUrl": "https://raw.githubusercontent.com/ncore-org/ncmap-offline-maps/main/packages/ch.part1.ncmap.json"
+          "file": "ch.part1.ncmap.json",
+          "size_mb": 420.0,
+          "sha256": "4643ee5e24b0652b",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "name_sk": "Nórsko",
+      "flag": "🇳🇴",
+      "eu_member": false,
+      "capital": "Oslo",
+      "size_mb": 580.0,
+      "parts_count": 2,
+      "toll_type": "autopass_electronic",
+      "highway_prefix": "E6/E16/E18/E39",
+      "bbox": [
+        57.96,
+        4.65,
+        71.19,
+        31.17
+      ],
+      "country_dir": "countries/no",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Oslo Opera House 3D",
+        "Bryggen Bergen 3D",
+        "Nidaros Cathedral 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "no.part1.ncmap.json",
+          "size_mb": 290.0,
+          "sha256": "545a72dc3c6a6792",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        },
+        {
+          "part": 2,
+          "file": "no.part2.ncmap.json",
+          "size_mb": 290.0,
+          "sha256": "11c35a22405bc1f7",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "name_sk": "Veľká Británia",
+      "flag": "🇬🇧",
+      "eu_member": false,
+      "capital": "London",
+      "size_mb": 1960.0,
+      "parts_count": 2,
+      "toll_type": "m6_toll_and_dartford",
+      "highway_prefix": "M1/M4/M6/M25",
+      "bbox": [
+        49.96,
+        -8.17,
+        60.84,
+        1.76
+      ],
+      "country_dir": "countries/gb",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Elizabeth Tower Big Ben 3D",
+        "Tower Bridge 3D",
+        "Edinburgh Castle 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "gb.part1.ncmap.json",
+          "size_mb": 980.0,
+          "sha256": "76f0bb7b00c4dd29",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        },
+        {
+          "part": 2,
+          "file": "gb.part2.ncmap.json",
+          "size_mb": 980.0,
+          "sha256": "5040084b2b6fe6c5",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "name_sk": "Andorra",
+      "flag": "🇦🇩",
+      "eu_member": false,
+      "capital": "Andorra la Vella",
+      "size_mb": 28.4,
+      "parts_count": 1,
+      "toll_type": "toll_tunnel",
+      "highway_prefix": "CG-1/CG-2",
+      "bbox": [
+        42.42,
+        1.41,
+        42.65,
+        1.78
+      ],
+      "country_dir": "countries/ad",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "Casa de la Vall 3D",
+        "Sant Esteve Church 3D",
+        "Caldea Thermal Tower 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "ad.part1.ncmap.json",
+          "size_mb": 28.4,
+          "sha256": "a5295e09ef56b0de",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "name_sk": "Kanada",
+      "flag": "🇨🇦",
+      "eu_member": false,
+      "capital": "Ottawa",
+      "size_mb": 640.0,
+      "parts_count": 3,
+      "toll_type": "express_toll",
+      "highway_prefix": "Hwy 401/407/TC-1",
+      "bbox": [
+        42.0,
+        -141.0,
+        65.0,
+        -52.6
+      ],
+      "country_dir": "countries/ca",
+      "has_showers": true,
+      "has_3d_landmarks": true,
+      "has_touristic_zones": true,
+      "has_busy_zones": true,
+      "has_businesses": true,
+      "landmarks": [
+        "CN Tower Toronto 3D",
+        "Parliament Hill Ottawa 3D",
+        "Château Frontenac 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "ca.part1.ncmap.json",
+          "size_mb": 213.3,
+          "sha256": "227424f01432de1d",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        },
+        {
+          "part": 2,
+          "file": "ca.part2.ncmap.json",
+          "size_mb": 213.3,
+          "sha256": "7ed9489883531a34",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
+        },
+        {
+          "part": 3,
+          "file": "ca.part3.ncmap.json",
+          "size_mb": 213.3,
+          "sha256": "433113c6016da7d2",
+          "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
       ]
     }

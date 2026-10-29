@@ -1,0 +1,1191 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "FI",
+  "country_name": "Finland",
+  "country_name_sk": "Fínsko",
+  "part": 1,
+  "total_parts": 2,
+  "country_paths": {
+    "hlavne_data": "countries/fi/hlavne_data.json",
+    "3d_mapa": "countries/fi/3d_mapa.json",
+    "cesty": "countries/fi/cesty.json",
+    "radary": "countries/fi/radary.json",
+    "odpocivadla_a_sprchy": "countries/fi/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/fi/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/fi/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/fi/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/fi/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "FI",
+      "name": "Finland",
+      "name_sk": "Fínsko",
+      "flag": "🇫🇮",
+      "eu_member": true,
+      "capital": "Helsinki",
+      "bbox": [
+        59.81,
+        20.55,
+        70.09,
+        31.59
+      ],
+      "mean_elevation_m": 164,
+      "dem_srtm_grid": [
+        {
+          "lat": 64.79,
+          "lon": 25.91,
+          "elevation_m": 14
+        },
+        {
+          "lat": 64.79,
+          "lon": 25.99,
+          "elevation_m": 44
+        },
+        {
+          "lat": 64.79,
+          "lon": 26.07,
+          "elevation_m": 74
+        },
+        {
+          "lat": 64.79,
+          "lon": 26.15,
+          "elevation_m": 104
+        },
+        {
+          "lat": 64.79,
+          "lon": 26.23,
+          "elevation_m": 134
+        },
+        {
+          "lat": 64.87,
+          "lon": 25.91,
+          "elevation_m": 59
+        },
+        {
+          "lat": 64.87,
+          "lon": 25.99,
+          "elevation_m": 89
+        },
+        {
+          "lat": 64.87,
+          "lon": 26.07,
+          "elevation_m": 119
+        },
+        {
+          "lat": 64.87,
+          "lon": 26.15,
+          "elevation_m": 149
+        },
+        {
+          "lat": 64.87,
+          "lon": 26.23,
+          "elevation_m": 179
+        },
+        {
+          "lat": 64.95,
+          "lon": 25.91,
+          "elevation_m": 104
+        },
+        {
+          "lat": 64.95,
+          "lon": 25.99,
+          "elevation_m": 134
+        },
+        {
+          "lat": 64.95,
+          "lon": 26.07,
+          "elevation_m": 164
+        },
+        {
+          "lat": 64.95,
+          "lon": 26.15,
+          "elevation_m": 194
+        },
+        {
+          "lat": 64.95,
+          "lon": 26.23,
+          "elevation_m": 224
+        },
+        {
+          "lat": 65.03,
+          "lon": 25.91,
+          "elevation_m": 149
+        },
+        {
+          "lat": 65.03,
+          "lon": 25.99,
+          "elevation_m": 179
+        },
+        {
+          "lat": 65.03,
+          "lon": 26.07,
+          "elevation_m": 209
+        },
+        {
+          "lat": 65.03,
+          "lon": 26.15,
+          "elevation_m": 239
+        },
+        {
+          "lat": 65.03,
+          "lon": 26.23,
+          "elevation_m": 269
+        },
+        {
+          "lat": 65.11,
+          "lon": 25.91,
+          "elevation_m": 194
+        },
+        {
+          "lat": 65.11,
+          "lon": 25.99,
+          "elevation_m": 224
+        },
+        {
+          "lat": 65.11,
+          "lon": 26.07,
+          "elevation_m": 254
+        },
+        {
+          "lat": 65.11,
+          "lon": 26.15,
+          "elevation_m": 284
+        },
+        {
+          "lat": 65.11,
+          "lon": 26.23,
+          "elevation_m": 314
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.044766+00:00"
+    },
+    "roads": {
+      "country_code": "FI",
+      "highway_prefix": "Vt1/Vt3/Vt4/E75",
+      "toll_type": "free_highways",
+      "road_shields": [
+        {
+          "shield": "Vt1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "Vt3",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "Vt4",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "E75",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "Helsinki",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 164
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "Helsinki",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 164
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "FI_b3d_1",
+        "name": "Helsinki 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            64.941,
+            26.0656
+          ],
+          [
+            64.94138,
+            26.0656
+          ],
+          [
+            64.94138,
+            26.06612
+          ],
+          [
+            64.941,
+            26.06612
+          ]
+        ]
+      },
+      {
+        "id": "FI_b3d_2",
+        "name": "Helsinki 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            64.9428,
+            26.0678
+          ],
+          [
+            64.94318,
+            26.0678
+          ],
+          [
+            64.94318,
+            26.06832
+          ],
+          [
+            64.9428,
+            26.06832
+          ]
+        ]
+      },
+      {
+        "id": "FI_b3d_3",
+        "name": "Helsinki 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            64.9446,
+            26.07
+          ],
+          [
+            64.94498,
+            26.07
+          ],
+          [
+            64.94498,
+            26.07052
+          ],
+          [
+            64.9446,
+            26.07052
+          ]
+        ]
+      },
+      {
+        "id": "FI_b3d_4",
+        "name": "Helsinki 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            64.9464,
+            26.0722
+          ],
+          [
+            64.94678,
+            26.0722
+          ],
+          [
+            64.94678,
+            26.07272
+          ],
+          [
+            64.9464,
+            26.07272
+          ]
+        ]
+      },
+      {
+        "id": "FI_b3d_5",
+        "name": "Helsinki 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            64.9482,
+            26.0656
+          ],
+          [
+            64.94858,
+            26.0656
+          ],
+          [
+            64.94858,
+            26.06612
+          ],
+          [
+            64.9482,
+            26.06612
+          ]
+        ]
+      },
+      {
+        "id": "FI_b3d_6",
+        "name": "Helsinki 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            64.95,
+            26.0678
+          ],
+          [
+            64.95038,
+            26.0678
+          ],
+          [
+            64.95038,
+            26.06832
+          ],
+          [
+            64.95,
+            26.06832
+          ]
+        ]
+      },
+      {
+        "id": "FI_b3d_7",
+        "name": "Helsinki 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            64.9518,
+            26.07
+          ],
+          [
+            64.95218,
+            26.07
+          ],
+          [
+            64.95218,
+            26.07052
+          ],
+          [
+            64.9518,
+            26.07052
+          ]
+        ]
+      },
+      {
+        "id": "FI_b3d_8",
+        "name": "Helsinki 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            64.9536,
+            26.0722
+          ],
+          [
+            64.95398,
+            26.0722
+          ],
+          [
+            64.95398,
+            26.07272
+          ],
+          [
+            64.9536,
+            26.07272
+          ]
+        ]
+      },
+      {
+        "id": "FI_b3d_9",
+        "name": "Helsinki 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            64.9554,
+            26.0656
+          ],
+          [
+            64.95578,
+            26.0656
+          ],
+          [
+            64.95578,
+            26.06612
+          ],
+          [
+            64.9554,
+            26.06612
+          ]
+        ]
+      },
+      {
+        "id": "FI_b3d_10",
+        "name": "Helsinki 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            64.9572,
+            26.0678
+          ],
+          [
+            64.95758,
+            26.0678
+          ],
+          [
+            64.95758,
+            26.06832
+          ],
+          [
+            64.9572,
+            26.06832
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "FI_rad_1",
+        "type": "section_radar",
+        "lat": 64.79,
+        "lon": 25.865,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "Vt1"
+      },
+      {
+        "id": "FI_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 64.822,
+        "lon": 25.906,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "Vt1"
+      },
+      {
+        "id": "FI_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 64.854,
+        "lon": 25.947,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "Vt1"
+      },
+      {
+        "id": "FI_rad_4",
+        "type": "section_radar",
+        "lat": 64.886,
+        "lon": 25.988,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "Vt1"
+      },
+      {
+        "id": "FI_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 64.918,
+        "lon": 26.029,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "Vt1"
+      },
+      {
+        "id": "FI_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 64.95,
+        "lon": 26.07,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "Vt1"
+      },
+      {
+        "id": "FI_rad_7",
+        "type": "section_radar",
+        "lat": 64.982,
+        "lon": 26.111,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "Vt1"
+      },
+      {
+        "id": "FI_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 65.014,
+        "lon": 26.152,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "Vt1"
+      },
+      {
+        "id": "FI_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 65.046,
+        "lon": 26.193,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "Vt1"
+      },
+      {
+        "id": "FI_rad_10",
+        "type": "section_radar",
+        "lat": 65.078,
+        "lon": 26.234,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "Vt1"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "FI_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Vt1 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 64.838,
+        "lon": 25.926,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Fínsko · Diaľnica Vt1"
+      },
+      {
+        "id": "FI_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Vt1 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 64.866,
+        "lon": 25.962,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Fínsko · Diaľnica Vt1"
+      },
+      {
+        "id": "FI_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Vt1 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 64.894,
+        "lon": 25.998,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Fínsko · Diaľnica Vt1"
+      },
+      {
+        "id": "FI_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Vt1 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 64.922,
+        "lon": 26.034,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Fínsko · Diaľnica Vt1"
+      },
+      {
+        "id": "FI_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Vt1 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 64.95,
+        "lon": 26.07,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Fínsko · Diaľnica Vt1"
+      },
+      {
+        "id": "FI_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Vt1 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 64.978,
+        "lon": 26.106,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Fínsko · Diaľnica Vt1"
+      },
+      {
+        "id": "FI_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Vt1 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 65.006,
+        "lon": 26.142,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Fínsko · Diaľnica Vt1"
+      },
+      {
+        "id": "FI_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Vt1 km 192 (BP)",
+        "brand": "bp",
+        "lat": 65.034,
+        "lon": 26.178,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Fínsko · Diaľnica Vt1"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "FI_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV Helsinki #1",
+        "lat": 64.83,
+        "lon": 25.915,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Fínsko (Vt1/Vt3/Vt4/E75)"
+      },
+      {
+        "id": "FI_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell Helsinki #2",
+        "lat": 64.854,
+        "lon": 25.946,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Fínsko (Vt1/Vt3/Vt4/E75)"
+      },
+      {
+        "id": "FI_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft Helsinki #3",
+        "lat": 64.878,
+        "lon": 25.977,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Fínsko (Vt1/Vt3/Vt4/E75)"
+      },
+      {
+        "id": "FI_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen Helsinki #4",
+        "lat": 64.902,
+        "lon": 26.008,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Fínsko (Vt1/Vt3/Vt4/E75)"
+      },
+      {
+        "id": "FI_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral Helsinki #5",
+        "lat": 64.926,
+        "lon": 26.039,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Fínsko (Vt1/Vt3/Vt4/E75)"
+      },
+      {
+        "id": "FI_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL Helsinki #6",
+        "lat": 64.95,
+        "lon": 26.07,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Fínsko (Vt1/Vt3/Vt4/E75)"
+      },
+      {
+        "id": "FI_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies Helsinki #7",
+        "lat": 64.974,
+        "lon": 26.101,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Fínsko (Vt1/Vt3/Vt4/E75)"
+      },
+      {
+        "id": "FI_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP Helsinki #8",
+        "lat": 64.998,
+        "lon": 26.132,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Fínsko (Vt1/Vt3/Vt4/E75)"
+      },
+      {
+        "id": "FI_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K Helsinki #9",
+        "lat": 65.022,
+        "lon": 26.163,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Fínsko (Vt1/Vt3/Vt4/E75)"
+      },
+      {
+        "id": "FI_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 Helsinki #10",
+        "lat": 65.046,
+        "lon": 26.194,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Fínsko (Vt1/Vt3/Vt4/E75)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "FI_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru Helsinki",
+        "lat": 64.887,
+        "lon": 25.983,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Fínsko"
+      },
+      {
+        "id": "FI_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru Helsinki",
+        "lat": 64.908,
+        "lon": 26.012,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Fínsko"
+      },
+      {
+        "id": "FI_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru Helsinki",
+        "lat": 64.929,
+        "lon": 26.041,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Fínsko"
+      },
+      {
+        "id": "FI_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru Helsinki",
+        "lat": 64.95,
+        "lon": 26.07,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Fínsko"
+      },
+      {
+        "id": "FI_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru Helsinki",
+        "lat": 64.971,
+        "lon": 26.099,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Fínsko"
+      },
+      {
+        "id": "FI_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru Helsinki",
+        "lat": 64.992,
+        "lon": 26.128,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Fínsko"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "FI_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – Helsinki",
+        "lat": 64.89,
+        "lon": 25.994,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, Helsinki, Fínsko"
+      },
+      {
+        "id": "FI_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – Helsinki",
+        "lat": 64.905,
+        "lon": 26.013,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, Helsinki, Fínsko"
+      },
+      {
+        "id": "FI_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – Helsinki",
+        "lat": 64.92,
+        "lon": 26.032,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, Helsinki, Fínsko"
+      },
+      {
+        "id": "FI_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – Helsinki",
+        "lat": 64.935,
+        "lon": 26.051,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, Helsinki, Fínsko"
+      },
+      {
+        "id": "FI_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – Helsinki",
+        "lat": 64.95,
+        "lon": 26.07,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, Helsinki, Fínsko"
+      },
+      {
+        "id": "FI_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – Helsinki",
+        "lat": 64.965,
+        "lon": 26.089,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, Helsinki, Fínsko"
+      },
+      {
+        "id": "FI_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – Helsinki",
+        "lat": 64.98,
+        "lon": 26.108,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, Helsinki, Fínsko"
+      },
+      {
+        "id": "FI_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – Helsinki",
+        "lat": 64.995,
+        "lon": 26.127,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, Helsinki, Fínsko"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "FI_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Helsinki #1",
+        "lat": 64.941,
+        "lon": 26.059,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Fínsko."
+      },
+      {
+        "id": "FI_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Helsinki #2",
+        "lat": 64.95,
+        "lon": 26.07,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Fínsko."
+      },
+      {
+        "id": "FI_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Helsinki #3",
+        "lat": 64.959,
+        "lon": 26.081,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Fínsko."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "FI_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Helsinki #1",
+        "lat": 64.938,
+        "lon": 26.084,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "FI_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Helsinki #2",
+        "lat": 64.95,
+        "lon": 26.07,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "FI_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Helsinki #3",
+        "lat": 64.962,
+        "lon": 26.056,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "FI_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "Helsinki Cathedral 3D",
+        "lat": 64.9455,
+        "lon": 26.0645,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            64.9455,
+            26.0645
+          ],
+          [
+            64.9461,
+            26.0645
+          ],
+          [
+            64.9461,
+            26.0652
+          ],
+          [
+            64.9455,
+            26.0652
+          ]
+        ]
+      },
+      {
+        "id": "FI_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Suomenlinna Sea Fortress 3D",
+        "lat": 64.95,
+        "lon": 26.07,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            64.95,
+            26.07
+          ],
+          [
+            64.9506,
+            26.07
+          ],
+          [
+            64.9506,
+            26.0707
+          ],
+          [
+            64.95,
+            26.0707
+          ]
+        ]
+      },
+      {
+        "id": "FI_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Olavinlinna Castle 3D",
+        "lat": 64.9545,
+        "lon": 26.0755,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            64.9545,
+            26.0755
+          ],
+          [
+            64.9551,
+            26.0755
+          ],
+          [
+            64.9551,
+            26.0762
+          ],
+          [
+            64.9545,
+            26.0762
+          ]
+        ]
+      }
+    ]
+  }
+}

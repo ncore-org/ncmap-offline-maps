@@ -1,0 +1,266 @@
+{
+  "country_code": "NL",
+  "terrain_3d_horizon": true,
+  "buildings_3d": [
+    {
+      "id": "NL_b3d_1",
+      "name": "Amsterdam 3D Block 1583/31",
+      "house_number": "1583/31",
+      "height_m": 14.0,
+      "levels": 4,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          52.101,
+          5.2906
+        ],
+        [
+          52.10138,
+          5.2906
+        ],
+        [
+          52.10138,
+          5.29112
+        ],
+        [
+          52.101,
+          5.29112
+        ]
+      ]
+    },
+    {
+      "id": "NL_b3d_2",
+      "name": "Amsterdam 3D Block 1586/33",
+      "house_number": "1586/33",
+      "height_m": 21.5,
+      "levels": 6,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          52.1028,
+          5.2928
+        ],
+        [
+          52.10318,
+          5.2928
+        ],
+        [
+          52.10318,
+          5.29332
+        ],
+        [
+          52.1028,
+          5.29332
+        ]
+      ]
+    },
+    {
+      "id": "NL_b3d_3",
+      "name": "Amsterdam 3D Block 1831/2",
+      "house_number": "1831/2",
+      "height_m": 29.0,
+      "levels": 8,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          52.1046,
+          5.295
+        ],
+        [
+          52.10498,
+          5.295
+        ],
+        [
+          52.10498,
+          5.29552
+        ],
+        [
+          52.1046,
+          5.29552
+        ]
+      ]
+    },
+    {
+      "id": "NL_b3d_4",
+      "name": "Amsterdam 3D Block 2482/21",
+      "house_number": "2482/21",
+      "height_m": 36.5,
+      "levels": 10,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          52.1064,
+          5.2972
+        ],
+        [
+          52.10678,
+          5.2972
+        ],
+        [
+          52.10678,
+          5.29772
+        ],
+        [
+          52.1064,
+          5.29772
+        ]
+      ]
+    },
+    {
+      "id": "NL_b3d_5",
+      "name": "Amsterdam 3D Block 4416/2A",
+      "house_number": "4416/2A",
+      "height_m": 44.0,
+      "levels": 12,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          52.1082,
+          5.2906
+        ],
+        [
+          52.10858,
+          5.2906
+        ],
+        [
+          52.10858,
+          5.29112
+        ],
+        [
+          52.1082,
+          5.29112
+        ]
+      ]
+    },
+    {
+      "id": "NL_b3d_6",
+      "name": "Amsterdam 3D Block 1589/39",
+      "house_number": "1589/39",
+      "height_m": 14.0,
+      "levels": 4,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          52.11,
+          5.2928
+        ],
+        [
+          52.11038,
+          5.2928
+        ],
+        [
+          52.11038,
+          5.29332
+        ],
+        [
+          52.11,
+          5.29332
+        ]
+      ]
+    },
+    {
+      "id": "NL_b3d_7",
+      "name": "Amsterdam 3D Block 120/4",
+      "house_number": "120/4",
+      "height_m": 21.5,
+      "levels": 6,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          52.1118,
+          5.295
+        ],
+        [
+          52.11218,
+          5.295
+        ],
+        [
+          52.11218,
+          5.29552
+        ],
+        [
+          52.1118,
+          5.29552
+        ]
+      ]
+    },
+    {
+      "id": "NL_b3d_8",
+      "name": "Amsterdam 3D Block 122/6",
+      "house_number": "122/6",
+      "height_m": 29.0,
+      "levels": 8,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          52.1136,
+          5.2972
+        ],
+        [
+          52.11398,
+          5.2972
+        ],
+        [
+          52.11398,
+          5.29772
+        ],
+        [
+          52.1136,
+          5.29772
+        ]
+      ]
+    },
+    {
+      "id": "NL_b3d_9",
+      "name": "Amsterdam 3D Block 88/12",
+      "house_number": "88/12",
+      "height_m": 36.5,
+      "levels": 10,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          52.1154,
+          5.2906
+        ],
+        [
+          52.11578,
+          5.2906
+        ],
+        [
+          52.11578,
+          5.29112
+        ],
+        [
+          52.1154,
+          5.29112
+        ]
+      ]
+    },
+    {
+      "id": "NL_b3d_10",
+      "name": "Amsterdam 3D Block 90/14",
+      "house_number": "90/14",
+      "height_m": 44.0,
+      "levels": 12,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          52.1172,
+          5.2928
+        ],
+        [
+          52.11758,
+          5.2928
+        ],
+        [
+          52.11758,
+          5.29332
+        ],
+        [
+          52.1172,
+          5.29332
+        ]
+      ]
+    }
+  ]
+}

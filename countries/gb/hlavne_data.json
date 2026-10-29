@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "GB",
+  "name": "United Kingdom",
+  "name_sk": "Veľká Británia",
+  "flag": "🇬🇧",
+  "eu_member": false,
+  "capital": "London",
+  "bbox": [
+    49.96,
+    -8.17,
+    60.84,
+    1.76
+  ],
+  "mean_elevation_m": 162,
+  "dem_srtm_grid": [
+    {
+      "lat": 55.24,
+      "lon": -3.365,
+      "elevation_m": 12
+    },
+    {
+      "lat": 55.24,
+      "lon": -3.285,
+      "elevation_m": 42
+    },
+    {
+      "lat": 55.24,
+      "lon": -3.205,
+      "elevation_m": 72
+    },
+    {
+      "lat": 55.24,
+      "lon": -3.125,
+      "elevation_m": 102
+    },
+    {
+      "lat": 55.24,
+      "lon": -3.045,
+      "elevation_m": 132
+    },
+    {
+      "lat": 55.32,
+      "lon": -3.365,
+      "elevation_m": 57
+    },
+    {
+      "lat": 55.32,
+      "lon": -3.285,
+      "elevation_m": 87
+    },
+    {
+      "lat": 55.32,
+      "lon": -3.205,
+      "elevation_m": 117
+    },
+    {
+      "lat": 55.32,
+      "lon": -3.125,
+      "elevation_m": 147
+    },
+    {
+      "lat": 55.32,
+      "lon": -3.045,
+      "elevation_m": 177
+    },
+    {
+      "lat": 55.4,
+      "lon": -3.365,
+      "elevation_m": 102
+    },
+    {
+      "lat": 55.4,
+      "lon": -3.285,
+      "elevation_m": 132
+    },
+    {
+      "lat": 55.4,
+      "lon": -3.205,
+      "elevation_m": 162
+    },
+    {
+      "lat": 55.4,
+      "lon": -3.125,
+      "elevation_m": 192
+    },
+    {
+      "lat": 55.4,
+      "lon": -3.045,
+      "elevation_m": 222
+    },
+    {
+      "lat": 55.48,
+      "lon": -3.365,
+      "elevation_m": 147
+    },
+    {
+      "lat": 55.48,
+      "lon": -3.285,
+      "elevation_m": 177
+    },
+    {
+      "lat": 55.48,
+      "lon": -3.205,
+      "elevation_m": 207
+    },
+    {
+      "lat": 55.48,
+      "lon": -3.125,
+      "elevation_m": 237
+    },
+    {
+      "lat": 55.48,
+      "lon": -3.045,
+      "elevation_m": 267
+    },
+    {
+      "lat": 55.56,
+      "lon": -3.365,
+      "elevation_m": 192
+    },
+    {
+      "lat": 55.56,
+      "lon": -3.285,
+      "elevation_m": 222
+    },
+    {
+      "lat": 55.56,
+      "lon": -3.205,
+      "elevation_m": 252
+    },
+    {
+      "lat": 55.56,
+      "lon": -3.125,
+      "elevation_m": 282
+    },
+    {
+      "lat": 55.56,
+      "lon": -3.045,
+      "elevation_m": 312
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.106968+00:00"
+}

@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "ES",
+  "name": "Spain",
+  "name_sk": "Španielsko",
+  "flag": "🇪🇸",
+  "eu_member": true,
+  "capital": "Madrid",
+  "bbox": [
+    36.0,
+    -9.3,
+    43.79,
+    3.33
+  ],
+  "mean_elevation_m": 660,
+  "dem_srtm_grid": [
+    {
+      "lat": 39.735,
+      "lon": -3.145,
+      "elevation_m": 510
+    },
+    {
+      "lat": 39.735,
+      "lon": -3.065,
+      "elevation_m": 540
+    },
+    {
+      "lat": 39.735,
+      "lon": -2.985,
+      "elevation_m": 570
+    },
+    {
+      "lat": 39.735,
+      "lon": -2.905,
+      "elevation_m": 600
+    },
+    {
+      "lat": 39.735,
+      "lon": -2.825,
+      "elevation_m": 630
+    },
+    {
+      "lat": 39.815,
+      "lon": -3.145,
+      "elevation_m": 555
+    },
+    {
+      "lat": 39.815,
+      "lon": -3.065,
+      "elevation_m": 585
+    },
+    {
+      "lat": 39.815,
+      "lon": -2.985,
+      "elevation_m": 615
+    },
+    {
+      "lat": 39.815,
+      "lon": -2.905,
+      "elevation_m": 645
+    },
+    {
+      "lat": 39.815,
+      "lon": -2.825,
+      "elevation_m": 675
+    },
+    {
+      "lat": 39.895,
+      "lon": -3.145,
+      "elevation_m": 600
+    },
+    {
+      "lat": 39.895,
+      "lon": -3.065,
+      "elevation_m": 630
+    },
+    {
+      "lat": 39.895,
+      "lon": -2.985,
+      "elevation_m": 660
+    },
+    {
+      "lat": 39.895,
+      "lon": -2.905,
+      "elevation_m": 690
+    },
+    {
+      "lat": 39.895,
+      "lon": -2.825,
+      "elevation_m": 720
+    },
+    {
+      "lat": 39.975,
+      "lon": -3.145,
+      "elevation_m": 645
+    },
+    {
+      "lat": 39.975,
+      "lon": -3.065,
+      "elevation_m": 675
+    },
+    {
+      "lat": 39.975,
+      "lon": -2.985,
+      "elevation_m": 705
+    },
+    {
+      "lat": 39.975,
+      "lon": -2.905,
+      "elevation_m": 735
+    },
+    {
+      "lat": 39.975,
+      "lon": -2.825,
+      "elevation_m": 765
+    },
+    {
+      "lat": 40.055,
+      "lon": -3.145,
+      "elevation_m": 690
+    },
+    {
+      "lat": 40.055,
+      "lon": -3.065,
+      "elevation_m": 720
+    },
+    {
+      "lat": 40.055,
+      "lon": -2.985,
+      "elevation_m": 750
+    },
+    {
+      "lat": 40.055,
+      "lon": -2.905,
+      "elevation_m": 780
+    },
+    {
+      "lat": 40.055,
+      "lon": -2.825,
+      "elevation_m": 810
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.094504+00:00"
+}

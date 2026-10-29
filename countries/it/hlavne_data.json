@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "IT",
+  "name": "Italy",
+  "name_sk": "Taliansko",
+  "flag": "🇮🇹",
+  "eu_member": true,
+  "capital": "Roma",
+  "bbox": [
+    36.65,
+    6.63,
+    47.09,
+    18.52
+  ],
+  "mean_elevation_m": 538,
+  "dem_srtm_grid": [
+    {
+      "lat": 41.71,
+      "lon": 12.415,
+      "elevation_m": 388
+    },
+    {
+      "lat": 41.71,
+      "lon": 12.495,
+      "elevation_m": 418
+    },
+    {
+      "lat": 41.71,
+      "lon": 12.575,
+      "elevation_m": 448
+    },
+    {
+      "lat": 41.71,
+      "lon": 12.655,
+      "elevation_m": 478
+    },
+    {
+      "lat": 41.71,
+      "lon": 12.735,
+      "elevation_m": 508
+    },
+    {
+      "lat": 41.79,
+      "lon": 12.415,
+      "elevation_m": 433
+    },
+    {
+      "lat": 41.79,
+      "lon": 12.495,
+      "elevation_m": 463
+    },
+    {
+      "lat": 41.79,
+      "lon": 12.575,
+      "elevation_m": 493
+    },
+    {
+      "lat": 41.79,
+      "lon": 12.655,
+      "elevation_m": 523
+    },
+    {
+      "lat": 41.79,
+      "lon": 12.735,
+      "elevation_m": 553
+    },
+    {
+      "lat": 41.87,
+      "lon": 12.415,
+      "elevation_m": 478
+    },
+    {
+      "lat": 41.87,
+      "lon": 12.495,
+      "elevation_m": 508
+    },
+    {
+      "lat": 41.87,
+      "lon": 12.575,
+      "elevation_m": 538
+    },
+    {
+      "lat": 41.87,
+      "lon": 12.655,
+      "elevation_m": 568
+    },
+    {
+      "lat": 41.87,
+      "lon": 12.735,
+      "elevation_m": 598
+    },
+    {
+      "lat": 41.95,
+      "lon": 12.415,
+      "elevation_m": 523
+    },
+    {
+      "lat": 41.95,
+      "lon": 12.495,
+      "elevation_m": 553
+    },
+    {
+      "lat": 41.95,
+      "lon": 12.575,
+      "elevation_m": 583
+    },
+    {
+      "lat": 41.95,
+      "lon": 12.655,
+      "elevation_m": 613
+    },
+    {
+      "lat": 41.95,
+      "lon": 12.735,
+      "elevation_m": 643
+    },
+    {
+      "lat": 42.03,
+      "lon": 12.415,
+      "elevation_m": 568
+    },
+    {
+      "lat": 42.03,
+      "lon": 12.495,
+      "elevation_m": 598
+    },
+    {
+      "lat": 42.03,
+      "lon": 12.575,
+      "elevation_m": 628
+    },
+    {
+      "lat": 42.03,
+      "lon": 12.655,
+      "elevation_m": 658
+    },
+    {
+      "lat": 42.03,
+      "lon": 12.735,
+      "elevation_m": 688
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.063029+00:00"
+}

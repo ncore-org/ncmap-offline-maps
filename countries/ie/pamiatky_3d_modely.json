@@ -1,0 +1,89 @@
+{
+  "country_code": "IE",
+  "landmarks_3d": [
+    {
+      "id": "IE_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Rock of Cashel 3D",
+      "lat": 53.3955,
+      "lon": -8.2455,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          53.3955,
+          -8.2455
+        ],
+        [
+          53.3961,
+          -8.2455
+        ],
+        [
+          53.3961,
+          -8.2448
+        ],
+        [
+          53.3955,
+          -8.2448
+        ]
+      ]
+    },
+    {
+      "id": "IE_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Dublin Castle 3D",
+      "lat": 53.4,
+      "lon": -8.24,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          53.4,
+          -8.24
+        ],
+        [
+          53.4006,
+          -8.24
+        ],
+        [
+          53.4006,
+          -8.2393
+        ],
+        [
+          53.4,
+          -8.2393
+        ]
+      ]
+    },
+    {
+      "id": "IE_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Samuel Beckett Bridge 3D",
+      "lat": 53.4045,
+      "lon": -8.2345,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          53.4045,
+          -8.2345
+        ],
+        [
+          53.4051,
+          -8.2345
+        ],
+        [
+          53.4051,
+          -8.2338
+        ],
+        [
+          53.4045,
+          -8.2338
+        ]
+      ]
+    }
+  ]
+}

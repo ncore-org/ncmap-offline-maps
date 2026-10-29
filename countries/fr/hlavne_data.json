@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "FR",
+  "name": "France",
+  "name_sk": "Francúzsko",
+  "flag": "🇫🇷",
+  "eu_member": true,
+  "capital": "Paris",
+  "bbox": [
+    41.33,
+    -5.14,
+    51.09,
+    9.56
+  ],
+  "mean_elevation_m": 375,
+  "dem_srtm_grid": [
+    {
+      "lat": 46.05,
+      "lon": 2.05,
+      "elevation_m": 225
+    },
+    {
+      "lat": 46.05,
+      "lon": 2.13,
+      "elevation_m": 255
+    },
+    {
+      "lat": 46.05,
+      "lon": 2.21,
+      "elevation_m": 285
+    },
+    {
+      "lat": 46.05,
+      "lon": 2.29,
+      "elevation_m": 315
+    },
+    {
+      "lat": 46.05,
+      "lon": 2.37,
+      "elevation_m": 345
+    },
+    {
+      "lat": 46.13,
+      "lon": 2.05,
+      "elevation_m": 270
+    },
+    {
+      "lat": 46.13,
+      "lon": 2.13,
+      "elevation_m": 300
+    },
+    {
+      "lat": 46.13,
+      "lon": 2.21,
+      "elevation_m": 330
+    },
+    {
+      "lat": 46.13,
+      "lon": 2.29,
+      "elevation_m": 360
+    },
+    {
+      "lat": 46.13,
+      "lon": 2.37,
+      "elevation_m": 390
+    },
+    {
+      "lat": 46.21,
+      "lon": 2.05,
+      "elevation_m": 315
+    },
+    {
+      "lat": 46.21,
+      "lon": 2.13,
+      "elevation_m": 345
+    },
+    {
+      "lat": 46.21,
+      "lon": 2.21,
+      "elevation_m": 375
+    },
+    {
+      "lat": 46.21,
+      "lon": 2.29,
+      "elevation_m": 405
+    },
+    {
+      "lat": 46.21,
+      "lon": 2.37,
+      "elevation_m": 435
+    },
+    {
+      "lat": 46.29,
+      "lon": 2.05,
+      "elevation_m": 360
+    },
+    {
+      "lat": 46.29,
+      "lon": 2.13,
+      "elevation_m": 390
+    },
+    {
+      "lat": 46.29,
+      "lon": 2.21,
+      "elevation_m": 420
+    },
+    {
+      "lat": 46.29,
+      "lon": 2.29,
+      "elevation_m": 450
+    },
+    {
+      "lat": 46.29,
+      "lon": 2.37,
+      "elevation_m": 480
+    },
+    {
+      "lat": 46.37,
+      "lon": 2.05,
+      "elevation_m": 405
+    },
+    {
+      "lat": 46.37,
+      "lon": 2.13,
+      "elevation_m": 435
+    },
+    {
+      "lat": 46.37,
+      "lon": 2.21,
+      "elevation_m": 465
+    },
+    {
+      "lat": 46.37,
+      "lon": 2.29,
+      "elevation_m": 495
+    },
+    {
+      "lat": 46.37,
+      "lon": 2.37,
+      "elevation_m": 525
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.047574+00:00"
+}

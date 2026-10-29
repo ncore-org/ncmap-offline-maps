@@ -1,0 +1,89 @@
+{
+  "country_code": "BG",
+  "landmarks_3d": [
+    {
+      "id": "BG_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Alexander Nevsky Cathedral 3D",
+      "lat": 42.7205,
+      "lon": 25.4795,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          42.7205,
+          25.4795
+        ],
+        [
+          42.7211,
+          25.4795
+        ],
+        [
+          42.7211,
+          25.4802
+        ],
+        [
+          42.7205,
+          25.4802
+        ]
+      ]
+    },
+    {
+      "id": "BG_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Rila Monastery 3D",
+      "lat": 42.725,
+      "lon": 25.485,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          42.725,
+          25.485
+        ],
+        [
+          42.7256,
+          25.485
+        ],
+        [
+          42.7256,
+          25.4857
+        ],
+        [
+          42.725,
+          25.4857
+        ]
+      ]
+    },
+    {
+      "id": "BG_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Roman Theatre Plovdiv 3D",
+      "lat": 42.7295,
+      "lon": 25.4905,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          42.7295,
+          25.4905
+        ],
+        [
+          42.7301,
+          25.4905
+        ],
+        [
+          42.7301,
+          25.4912
+        ],
+        [
+          42.7295,
+          25.4912
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "country_code": "IE",
+  "terrain_3d_horizon": true,
+  "buildings_3d": [
+    {
+      "id": "IE_b3d_1",
+      "name": "Dublin 3D Block 1583/31",
+      "house_number": "1583/31",
+      "height_m": 14.0,
+      "levels": 4,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          53.391,
+          -8.2444
+        ],
+        [
+          53.39138,
+          -8.2444
+        ],
+        [
+          53.39138,
+          -8.24388
+        ],
+        [
+          53.391,
+          -8.24388
+        ]
+      ]
+    },
+    {
+      "id": "IE_b3d_2",
+      "name": "Dublin 3D Block 1586/33",
+      "house_number": "1586/33",
+      "height_m": 21.5,
+      "levels": 6,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          53.3928,
+          -8.2422
+        ],
+        [
+          53.39318,
+          -8.2422
+        ],
+        [
+          53.39318,
+          -8.24168
+        ],
+        [
+          53.3928,
+          -8.24168
+        ]
+      ]
+    },
+    {
+      "id": "IE_b3d_3",
+      "name": "Dublin 3D Block 1831/2",
+      "house_number": "1831/2",
+      "height_m": 29.0,
+      "levels": 8,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          53.3946,
+          -8.24
+        ],
+        [
+          53.39498,
+          -8.24
+        ],
+        [
+          53.39498,
+          -8.23948
+        ],
+        [
+          53.3946,
+          -8.23948
+        ]
+      ]
+    },
+    {
+      "id": "IE_b3d_4",
+      "name": "Dublin 3D Block 2482/21",
+      "house_number": "2482/21",
+      "height_m": 36.5,
+      "levels": 10,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          53.3964,
+          -8.2378
+        ],
+        [
+          53.39678,
+          -8.2378
+        ],
+        [
+          53.39678,
+          -8.23728
+        ],
+        [
+          53.3964,
+          -8.23728
+        ]
+      ]
+    },
+    {
+      "id": "IE_b3d_5",
+      "name": "Dublin 3D Block 4416/2A",
+      "house_number": "4416/2A",
+      "height_m": 44.0,
+      "levels": 12,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          53.3982,
+          -8.2444
+        ],
+        [
+          53.39858,
+          -8.2444
+        ],
+        [
+          53.39858,
+          -8.24388
+        ],
+        [
+          53.3982,
+          -8.24388
+        ]
+      ]
+    },
+    {
+      "id": "IE_b3d_6",
+      "name": "Dublin 3D Block 1589/39",
+      "house_number": "1589/39",
+      "height_m": 14.0,
+      "levels": 4,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          53.4,
+          -8.2422
+        ],
+        [
+          53.40038,
+          -8.2422
+        ],
+        [
+          53.40038,
+          -8.24168
+        ],
+        [
+          53.4,
+          -8.24168
+        ]
+      ]
+    },
+    {
+      "id": "IE_b3d_7",
+      "name": "Dublin 3D Block 120/4",
+      "house_number": "120/4",
+      "height_m": 21.5,
+      "levels": 6,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          53.4018,
+          -8.24
+        ],
+        [
+          53.40218,
+          -8.24
+        ],
+        [
+          53.40218,
+          -8.23948
+        ],
+        [
+          53.4018,
+          -8.23948
+        ]
+      ]
+    },
+    {
+      "id": "IE_b3d_8",
+      "name": "Dublin 3D Block 122/6",
+      "house_number": "122/6",
+      "height_m": 29.0,
+      "levels": 8,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          53.4036,
+          -8.2378
+        ],
+        [
+          53.40398,
+          -8.2378
+        ],
+        [
+          53.40398,
+          -8.23728
+        ],
+        [
+          53.4036,
+          -8.23728
+        ]
+      ]
+    },
+    {
+      "id": "IE_b3d_9",
+      "name": "Dublin 3D Block 88/12",
+      "house_number": "88/12",
+      "height_m": 36.5,
+      "levels": 10,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          53.4054,
+          -8.2444
+        ],
+        [
+          53.40578,
+          -8.2444
+        ],
+        [
+          53.40578,
+          -8.24388
+        ],
+        [
+          53.4054,
+          -8.24388
+        ]
+      ]
+    },
+    {
+      "id": "IE_b3d_10",
+      "name": "Dublin 3D Block 90/14",
+      "house_number": "90/14",
+      "height_m": 44.0,
+      "levels": 12,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          53.4072,
+          -8.2422
+        ],
+        [
+          53.40758,
+          -8.2422
+        ],
+        [
+          53.40758,
+          -8.24168
+        ],
+        [
+          53.4072,
+          -8.24168
+        ]
+      ]
+    }
+  ]
+}

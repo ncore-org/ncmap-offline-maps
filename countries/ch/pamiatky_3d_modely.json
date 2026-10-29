@@ -1,0 +1,89 @@
+{
+  "country_code": "CH",
+  "landmarks_3d": [
+    {
+      "id": "CH_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Château de Chillon 3D",
+      "lat": 46.8105,
+      "lon": 8.2195,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          46.8105,
+          8.2195
+        ],
+        [
+          46.8111,
+          8.2195
+        ],
+        [
+          46.8111,
+          8.2202
+        ],
+        [
+          46.8105,
+          8.2202
+        ]
+      ]
+    },
+    {
+      "id": "CH_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Kapellbrücke Luzern 3D",
+      "lat": 46.815,
+      "lon": 8.225,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          46.815,
+          8.225
+        ],
+        [
+          46.8156,
+          8.225
+        ],
+        [
+          46.8156,
+          8.2257
+        ],
+        [
+          46.815,
+          8.2257
+        ]
+      ]
+    },
+    {
+      "id": "CH_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Bundeshaus Bern 3D",
+      "lat": 46.8195,
+      "lon": 8.2305,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          46.8195,
+          8.2305
+        ],
+        [
+          46.8201,
+          8.2305
+        ],
+        [
+          46.8201,
+          8.2312
+        ],
+        [
+          46.8195,
+          8.2312
+        ]
+      ]
+    }
+  ]
+}

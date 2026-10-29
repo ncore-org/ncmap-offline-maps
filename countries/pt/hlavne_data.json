@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "PT",
+  "name": "Portugal",
+  "name_sk": "Portugalsko",
+  "flag": "🇵🇹",
+  "eu_member": true,
+  "capital": "Lisboa",
+  "bbox": [
+    36.96,
+    -9.5,
+    42.15,
+    -6.19
+  ],
+  "mean_elevation_m": 372,
+  "dem_srtm_grid": [
+    {
+      "lat": 39.395,
+      "lon": -8.005,
+      "elevation_m": 222
+    },
+    {
+      "lat": 39.395,
+      "lon": -7.925,
+      "elevation_m": 252
+    },
+    {
+      "lat": 39.395,
+      "lon": -7.845,
+      "elevation_m": 282
+    },
+    {
+      "lat": 39.395,
+      "lon": -7.765,
+      "elevation_m": 312
+    },
+    {
+      "lat": 39.395,
+      "lon": -7.685,
+      "elevation_m": 342
+    },
+    {
+      "lat": 39.475,
+      "lon": -8.005,
+      "elevation_m": 267
+    },
+    {
+      "lat": 39.475,
+      "lon": -7.925,
+      "elevation_m": 297
+    },
+    {
+      "lat": 39.475,
+      "lon": -7.845,
+      "elevation_m": 327
+    },
+    {
+      "lat": 39.475,
+      "lon": -7.765,
+      "elevation_m": 357
+    },
+    {
+      "lat": 39.475,
+      "lon": -7.685,
+      "elevation_m": 387
+    },
+    {
+      "lat": 39.555,
+      "lon": -8.005,
+      "elevation_m": 312
+    },
+    {
+      "lat": 39.555,
+      "lon": -7.925,
+      "elevation_m": 342
+    },
+    {
+      "lat": 39.555,
+      "lon": -7.845,
+      "elevation_m": 372
+    },
+    {
+      "lat": 39.555,
+      "lon": -7.765,
+      "elevation_m": 402
+    },
+    {
+      "lat": 39.555,
+      "lon": -7.685,
+      "elevation_m": 432
+    },
+    {
+      "lat": 39.635,
+      "lon": -8.005,
+      "elevation_m": 357
+    },
+    {
+      "lat": 39.635,
+      "lon": -7.925,
+      "elevation_m": 387
+    },
+    {
+      "lat": 39.635,
+      "lon": -7.845,
+      "elevation_m": 417
+    },
+    {
+      "lat": 39.635,
+      "lon": -7.765,
+      "elevation_m": 447
+    },
+    {
+      "lat": 39.635,
+      "lon": -7.685,
+      "elevation_m": 477
+    },
+    {
+      "lat": 39.715,
+      "lon": -8.005,
+      "elevation_m": 402
+    },
+    {
+      "lat": 39.715,
+      "lon": -7.925,
+      "elevation_m": 432
+    },
+    {
+      "lat": 39.715,
+      "lon": -7.845,
+      "elevation_m": 462
+    },
+    {
+      "lat": 39.715,
+      "lon": -7.765,
+      "elevation_m": 492
+    },
+    {
+      "lat": 39.715,
+      "lon": -7.685,
+      "elevation_m": 522
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.083268+00:00"
+}

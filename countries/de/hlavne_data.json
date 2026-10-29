@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "DE",
+  "name": "Germany",
+  "name_sk": "Nemecko",
+  "flag": "🇩🇪",
+  "eu_member": true,
+  "capital": "Berlin",
+  "bbox": [
+    47.27,
+    5.87,
+    55.06,
+    15.04
+  ],
+  "mean_elevation_m": 263,
+  "dem_srtm_grid": [
+    {
+      "lat": 51.005,
+      "lon": 10.295,
+      "elevation_m": 113
+    },
+    {
+      "lat": 51.005,
+      "lon": 10.375,
+      "elevation_m": 143
+    },
+    {
+      "lat": 51.005,
+      "lon": 10.455,
+      "elevation_m": 173
+    },
+    {
+      "lat": 51.005,
+      "lon": 10.535,
+      "elevation_m": 203
+    },
+    {
+      "lat": 51.005,
+      "lon": 10.615,
+      "elevation_m": 233
+    },
+    {
+      "lat": 51.085,
+      "lon": 10.295,
+      "elevation_m": 158
+    },
+    {
+      "lat": 51.085,
+      "lon": 10.375,
+      "elevation_m": 188
+    },
+    {
+      "lat": 51.085,
+      "lon": 10.455,
+      "elevation_m": 218
+    },
+    {
+      "lat": 51.085,
+      "lon": 10.535,
+      "elevation_m": 248
+    },
+    {
+      "lat": 51.085,
+      "lon": 10.615,
+      "elevation_m": 278
+    },
+    {
+      "lat": 51.165,
+      "lon": 10.295,
+      "elevation_m": 203
+    },
+    {
+      "lat": 51.165,
+      "lon": 10.375,
+      "elevation_m": 233
+    },
+    {
+      "lat": 51.165,
+      "lon": 10.455,
+      "elevation_m": 263
+    },
+    {
+      "lat": 51.165,
+      "lon": 10.535,
+      "elevation_m": 293
+    },
+    {
+      "lat": 51.165,
+      "lon": 10.615,
+      "elevation_m": 323
+    },
+    {
+      "lat": 51.245,
+      "lon": 10.295,
+      "elevation_m": 248
+    },
+    {
+      "lat": 51.245,
+      "lon": 10.375,
+      "elevation_m": 278
+    },
+    {
+      "lat": 51.245,
+      "lon": 10.455,
+      "elevation_m": 308
+    },
+    {
+      "lat": 51.245,
+      "lon": 10.535,
+      "elevation_m": 338
+    },
+    {
+      "lat": 51.245,
+      "lon": 10.615,
+      "elevation_m": 368
+    },
+    {
+      "lat": 51.325,
+      "lon": 10.295,
+      "elevation_m": 293
+    },
+    {
+      "lat": 51.325,
+      "lon": 10.375,
+      "elevation_m": 323
+    },
+    {
+      "lat": 51.325,
+      "lon": 10.455,
+      "elevation_m": 353
+    },
+    {
+      "lat": 51.325,
+      "lon": 10.535,
+      "elevation_m": 383
+    },
+    {
+      "lat": 51.325,
+      "lon": 10.615,
+      "elevation_m": 413
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.051027+00:00"
+}

@@ -1,0 +1,89 @@
+{
+  "country_code": "HR",
+  "landmarks_3d": [
+    {
+      "id": "HR_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Diocletian Palace Split 3D",
+      "lat": 44.4655,
+      "lon": 16.4645,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          44.4655,
+          16.4645
+        ],
+        [
+          44.4661,
+          16.4645
+        ],
+        [
+          44.4661,
+          16.4652
+        ],
+        [
+          44.4655,
+          16.4652
+        ]
+      ]
+    },
+    {
+      "id": "HR_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Dubrovnik Old Town Walls 3D",
+      "lat": 44.47,
+      "lon": 16.47,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          44.47,
+          16.47
+        ],
+        [
+          44.4706,
+          16.47
+        ],
+        [
+          44.4706,
+          16.4707
+        ],
+        [
+          44.47,
+          16.4707
+        ]
+      ]
+    },
+    {
+      "id": "HR_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Pula Arena 3D",
+      "lat": 44.4745,
+      "lon": 16.4755,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          44.4745,
+          16.4755
+        ],
+        [
+          44.4751,
+          16.4755
+        ],
+        [
+          44.4751,
+          16.4762
+        ],
+        [
+          44.4745,
+          16.4762
+        ]
+      ]
+    }
+  ]
+}

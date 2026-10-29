@@ -1,0 +1,1197 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "LU",
+  "country_name": "Luxembourg",
+  "country_name_sk": "Luxembursko",
+  "part": 1,
+  "total_parts": 1,
+  "country_paths": {
+    "hlavne_data": "countries/lu/hlavne_data.json",
+    "3d_mapa": "countries/lu/3d_mapa.json",
+    "cesty": "countries/lu/cesty.json",
+    "radary": "countries/lu/radary.json",
+    "odpocivadla_a_sprchy": "countries/lu/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/lu/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/lu/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/lu/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/lu/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "LU",
+      "name": "Luxembourg",
+      "name_sk": "Luxembursko",
+      "flag": "🇱🇺",
+      "eu_member": true,
+      "capital": "Luxembourg",
+      "bbox": [
+        49.44,
+        5.73,
+        50.18,
+        6.53
+      ],
+      "mean_elevation_m": 325,
+      "dem_srtm_grid": [
+        {
+          "lat": 49.65,
+          "lon": 5.97,
+          "elevation_m": 175
+        },
+        {
+          "lat": 49.65,
+          "lon": 6.05,
+          "elevation_m": 205
+        },
+        {
+          "lat": 49.65,
+          "lon": 6.13,
+          "elevation_m": 235
+        },
+        {
+          "lat": 49.65,
+          "lon": 6.21,
+          "elevation_m": 265
+        },
+        {
+          "lat": 49.65,
+          "lon": 6.29,
+          "elevation_m": 295
+        },
+        {
+          "lat": 49.73,
+          "lon": 5.97,
+          "elevation_m": 220
+        },
+        {
+          "lat": 49.73,
+          "lon": 6.05,
+          "elevation_m": 250
+        },
+        {
+          "lat": 49.73,
+          "lon": 6.13,
+          "elevation_m": 280
+        },
+        {
+          "lat": 49.73,
+          "lon": 6.21,
+          "elevation_m": 310
+        },
+        {
+          "lat": 49.73,
+          "lon": 6.29,
+          "elevation_m": 340
+        },
+        {
+          "lat": 49.81,
+          "lon": 5.97,
+          "elevation_m": 265
+        },
+        {
+          "lat": 49.81,
+          "lon": 6.05,
+          "elevation_m": 295
+        },
+        {
+          "lat": 49.81,
+          "lon": 6.13,
+          "elevation_m": 325
+        },
+        {
+          "lat": 49.81,
+          "lon": 6.21,
+          "elevation_m": 355
+        },
+        {
+          "lat": 49.81,
+          "lon": 6.29,
+          "elevation_m": 385
+        },
+        {
+          "lat": 49.89,
+          "lon": 5.97,
+          "elevation_m": 310
+        },
+        {
+          "lat": 49.89,
+          "lon": 6.05,
+          "elevation_m": 340
+        },
+        {
+          "lat": 49.89,
+          "lon": 6.13,
+          "elevation_m": 370
+        },
+        {
+          "lat": 49.89,
+          "lon": 6.21,
+          "elevation_m": 400
+        },
+        {
+          "lat": 49.89,
+          "lon": 6.29,
+          "elevation_m": 430
+        },
+        {
+          "lat": 49.97,
+          "lon": 5.97,
+          "elevation_m": 355
+        },
+        {
+          "lat": 49.97,
+          "lon": 6.05,
+          "elevation_m": 385
+        },
+        {
+          "lat": 49.97,
+          "lon": 6.13,
+          "elevation_m": 415
+        },
+        {
+          "lat": 49.97,
+          "lon": 6.21,
+          "elevation_m": 445
+        },
+        {
+          "lat": 49.97,
+          "lon": 6.29,
+          "elevation_m": 475
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.071619+00:00"
+    },
+    "roads": {
+      "country_code": "LU",
+      "highway_prefix": "A1/A3/A4/A6/A7",
+      "toll_type": "free_highways",
+      "road_shields": [
+        {
+          "shield": "A1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A3",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A4",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A6",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A7",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "Luxembourg",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 325
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "Luxembourg",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 325
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "LU_b3d_1",
+        "name": "Luxembourg 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            49.801,
+            6.1256
+          ],
+          [
+            49.80138,
+            6.1256
+          ],
+          [
+            49.80138,
+            6.12612
+          ],
+          [
+            49.801,
+            6.12612
+          ]
+        ]
+      },
+      {
+        "id": "LU_b3d_2",
+        "name": "Luxembourg 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            49.8028,
+            6.1278
+          ],
+          [
+            49.80318,
+            6.1278
+          ],
+          [
+            49.80318,
+            6.12832
+          ],
+          [
+            49.8028,
+            6.12832
+          ]
+        ]
+      },
+      {
+        "id": "LU_b3d_3",
+        "name": "Luxembourg 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            49.8046,
+            6.13
+          ],
+          [
+            49.80498,
+            6.13
+          ],
+          [
+            49.80498,
+            6.13052
+          ],
+          [
+            49.8046,
+            6.13052
+          ]
+        ]
+      },
+      {
+        "id": "LU_b3d_4",
+        "name": "Luxembourg 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            49.8064,
+            6.1322
+          ],
+          [
+            49.80678,
+            6.1322
+          ],
+          [
+            49.80678,
+            6.13272
+          ],
+          [
+            49.8064,
+            6.13272
+          ]
+        ]
+      },
+      {
+        "id": "LU_b3d_5",
+        "name": "Luxembourg 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            49.8082,
+            6.1256
+          ],
+          [
+            49.80858,
+            6.1256
+          ],
+          [
+            49.80858,
+            6.12612
+          ],
+          [
+            49.8082,
+            6.12612
+          ]
+        ]
+      },
+      {
+        "id": "LU_b3d_6",
+        "name": "Luxembourg 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            49.81,
+            6.1278
+          ],
+          [
+            49.81038,
+            6.1278
+          ],
+          [
+            49.81038,
+            6.12832
+          ],
+          [
+            49.81,
+            6.12832
+          ]
+        ]
+      },
+      {
+        "id": "LU_b3d_7",
+        "name": "Luxembourg 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            49.8118,
+            6.13
+          ],
+          [
+            49.81218,
+            6.13
+          ],
+          [
+            49.81218,
+            6.13052
+          ],
+          [
+            49.8118,
+            6.13052
+          ]
+        ]
+      },
+      {
+        "id": "LU_b3d_8",
+        "name": "Luxembourg 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            49.8136,
+            6.1322
+          ],
+          [
+            49.81398,
+            6.1322
+          ],
+          [
+            49.81398,
+            6.13272
+          ],
+          [
+            49.8136,
+            6.13272
+          ]
+        ]
+      },
+      {
+        "id": "LU_b3d_9",
+        "name": "Luxembourg 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            49.8154,
+            6.1256
+          ],
+          [
+            49.81578,
+            6.1256
+          ],
+          [
+            49.81578,
+            6.12612
+          ],
+          [
+            49.8154,
+            6.12612
+          ]
+        ]
+      },
+      {
+        "id": "LU_b3d_10",
+        "name": "Luxembourg 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            49.8172,
+            6.1278
+          ],
+          [
+            49.81758,
+            6.1278
+          ],
+          [
+            49.81758,
+            6.12832
+          ],
+          [
+            49.8172,
+            6.12832
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "LU_rad_1",
+        "type": "section_radar",
+        "lat": 49.65,
+        "lon": 5.925,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "LU_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 49.682,
+        "lon": 5.966,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "A1"
+      },
+      {
+        "id": "LU_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 49.714,
+        "lon": 6.007,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "A1"
+      },
+      {
+        "id": "LU_rad_4",
+        "type": "section_radar",
+        "lat": 49.746,
+        "lon": 6.048,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "A1"
+      },
+      {
+        "id": "LU_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 49.778,
+        "lon": 6.089,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "A1"
+      },
+      {
+        "id": "LU_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 49.81,
+        "lon": 6.13,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "A1"
+      },
+      {
+        "id": "LU_rad_7",
+        "type": "section_radar",
+        "lat": 49.842,
+        "lon": 6.171,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "A1"
+      },
+      {
+        "id": "LU_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 49.874,
+        "lon": 6.212,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "A1"
+      },
+      {
+        "id": "LU_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 49.906,
+        "lon": 6.253,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "LU_rad_10",
+        "type": "section_radar",
+        "lat": 49.938,
+        "lon": 6.294,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "A1"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "LU_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 49.698,
+        "lon": 5.986,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Luxembursko · Diaľnica A1"
+      },
+      {
+        "id": "LU_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 49.726,
+        "lon": 6.022,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Luxembursko · Diaľnica A1"
+      },
+      {
+        "id": "LU_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 49.754,
+        "lon": 6.058,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Luxembursko · Diaľnica A1"
+      },
+      {
+        "id": "LU_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 49.782,
+        "lon": 6.094,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Luxembursko · Diaľnica A1"
+      },
+      {
+        "id": "LU_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 49.81,
+        "lon": 6.13,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Luxembursko · Diaľnica A1"
+      },
+      {
+        "id": "LU_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 49.838,
+        "lon": 6.166,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Luxembursko · Diaľnica A1"
+      },
+      {
+        "id": "LU_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 49.866,
+        "lon": 6.202,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Luxembursko · Diaľnica A1"
+      },
+      {
+        "id": "LU_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 192 (BP)",
+        "brand": "bp",
+        "lat": 49.894,
+        "lon": 6.238,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Luxembursko · Diaľnica A1"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "LU_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV Luxembourg #1",
+        "lat": 49.69,
+        "lon": 5.975,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Luxembursko (A1/A3/A4/A6/A7)"
+      },
+      {
+        "id": "LU_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell Luxembourg #2",
+        "lat": 49.714,
+        "lon": 6.006,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Luxembursko (A1/A3/A4/A6/A7)"
+      },
+      {
+        "id": "LU_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft Luxembourg #3",
+        "lat": 49.738,
+        "lon": 6.037,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Luxembursko (A1/A3/A4/A6/A7)"
+      },
+      {
+        "id": "LU_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen Luxembourg #4",
+        "lat": 49.762,
+        "lon": 6.068,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Luxembursko (A1/A3/A4/A6/A7)"
+      },
+      {
+        "id": "LU_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral Luxembourg #5",
+        "lat": 49.786,
+        "lon": 6.099,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Luxembursko (A1/A3/A4/A6/A7)"
+      },
+      {
+        "id": "LU_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL Luxembourg #6",
+        "lat": 49.81,
+        "lon": 6.13,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Luxembursko (A1/A3/A4/A6/A7)"
+      },
+      {
+        "id": "LU_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies Luxembourg #7",
+        "lat": 49.834,
+        "lon": 6.161,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Luxembursko (A1/A3/A4/A6/A7)"
+      },
+      {
+        "id": "LU_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP Luxembourg #8",
+        "lat": 49.858,
+        "lon": 6.192,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Luxembursko (A1/A3/A4/A6/A7)"
+      },
+      {
+        "id": "LU_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K Luxembourg #9",
+        "lat": 49.882,
+        "lon": 6.223,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Luxembursko (A1/A3/A4/A6/A7)"
+      },
+      {
+        "id": "LU_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 Luxembourg #10",
+        "lat": 49.906,
+        "lon": 6.254,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Luxembursko (A1/A3/A4/A6/A7)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "LU_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru Luxembourg",
+        "lat": 49.747,
+        "lon": 6.043,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Luxembursko"
+      },
+      {
+        "id": "LU_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru Luxembourg",
+        "lat": 49.768,
+        "lon": 6.072,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Luxembursko"
+      },
+      {
+        "id": "LU_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru Luxembourg",
+        "lat": 49.789,
+        "lon": 6.101,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Luxembursko"
+      },
+      {
+        "id": "LU_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru Luxembourg",
+        "lat": 49.81,
+        "lon": 6.13,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Luxembursko"
+      },
+      {
+        "id": "LU_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru Luxembourg",
+        "lat": 49.831,
+        "lon": 6.159,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Luxembursko"
+      },
+      {
+        "id": "LU_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru Luxembourg",
+        "lat": 49.852,
+        "lon": 6.188,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Luxembursko"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "LU_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – Luxembourg",
+        "lat": 49.75,
+        "lon": 6.054,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, Luxembourg, Luxembursko"
+      },
+      {
+        "id": "LU_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – Luxembourg",
+        "lat": 49.765,
+        "lon": 6.073,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, Luxembourg, Luxembursko"
+      },
+      {
+        "id": "LU_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – Luxembourg",
+        "lat": 49.78,
+        "lon": 6.092,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, Luxembourg, Luxembursko"
+      },
+      {
+        "id": "LU_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – Luxembourg",
+        "lat": 49.795,
+        "lon": 6.111,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, Luxembourg, Luxembursko"
+      },
+      {
+        "id": "LU_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – Luxembourg",
+        "lat": 49.81,
+        "lon": 6.13,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, Luxembourg, Luxembursko"
+      },
+      {
+        "id": "LU_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – Luxembourg",
+        "lat": 49.825,
+        "lon": 6.149,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, Luxembourg, Luxembursko"
+      },
+      {
+        "id": "LU_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – Luxembourg",
+        "lat": 49.84,
+        "lon": 6.168,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, Luxembourg, Luxembursko"
+      },
+      {
+        "id": "LU_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – Luxembourg",
+        "lat": 49.855,
+        "lon": 6.187,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, Luxembourg, Luxembursko"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "LU_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Luxembourg #1",
+        "lat": 49.801,
+        "lon": 6.119,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Luxembursko."
+      },
+      {
+        "id": "LU_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Luxembourg #2",
+        "lat": 49.81,
+        "lon": 6.13,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Luxembursko."
+      },
+      {
+        "id": "LU_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Luxembourg #3",
+        "lat": 49.819,
+        "lon": 6.141,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Luxembursko."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "LU_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Luxembourg #1",
+        "lat": 49.798,
+        "lon": 6.144,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "LU_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Luxembourg #2",
+        "lat": 49.81,
+        "lon": 6.13,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "LU_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Luxembourg #3",
+        "lat": 49.822,
+        "lon": 6.116,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "LU_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "Vianden Castle 3D",
+        "lat": 49.8055,
+        "lon": 6.1245,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            49.8055,
+            6.1245
+          ],
+          [
+            49.8061,
+            6.1245
+          ],
+          [
+            49.8061,
+            6.1252
+          ],
+          [
+            49.8055,
+            6.1252
+          ]
+        ]
+      },
+      {
+        "id": "LU_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Adolphe Bridge 3D",
+        "lat": 49.81,
+        "lon": 6.13,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            49.81,
+            6.13
+          ],
+          [
+            49.8106,
+            6.13
+          ],
+          [
+            49.8106,
+            6.1307
+          ],
+          [
+            49.81,
+            6.1307
+          ]
+        ]
+      },
+      {
+        "id": "LU_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Grand Ducal Palace 3D",
+        "lat": 49.8145,
+        "lon": 6.1355,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            49.8145,
+            6.1355
+          ],
+          [
+            49.8151,
+            6.1355
+          ],
+          [
+            49.8151,
+            6.1362
+          ],
+          [
+            49.8145,
+            6.1362
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "CY",
+  "name": "Cyprus",
+  "name_sk": "Cyprus",
+  "flag": "🇨🇾",
+  "eu_member": true,
+  "capital": "Nicosia",
+  "bbox": [
+    34.63,
+    32.27,
+    35.7,
+    34.6
+  ],
+  "mean_elevation_m": 91,
+  "dem_srtm_grid": [
+    {
+      "lat": 35.005,
+      "lon": 33.275,
+      "elevation_m": -59
+    },
+    {
+      "lat": 35.005,
+      "lon": 33.355,
+      "elevation_m": -29
+    },
+    {
+      "lat": 35.005,
+      "lon": 33.435,
+      "elevation_m": 1
+    },
+    {
+      "lat": 35.005,
+      "lon": 33.515,
+      "elevation_m": 31
+    },
+    {
+      "lat": 35.005,
+      "lon": 33.595,
+      "elevation_m": 61
+    },
+    {
+      "lat": 35.085,
+      "lon": 33.275,
+      "elevation_m": -14
+    },
+    {
+      "lat": 35.085,
+      "lon": 33.355,
+      "elevation_m": 16
+    },
+    {
+      "lat": 35.085,
+      "lon": 33.435,
+      "elevation_m": 46
+    },
+    {
+      "lat": 35.085,
+      "lon": 33.515,
+      "elevation_m": 76
+    },
+    {
+      "lat": 35.085,
+      "lon": 33.595,
+      "elevation_m": 106
+    },
+    {
+      "lat": 35.165,
+      "lon": 33.275,
+      "elevation_m": 31
+    },
+    {
+      "lat": 35.165,
+      "lon": 33.355,
+      "elevation_m": 61
+    },
+    {
+      "lat": 35.165,
+      "lon": 33.435,
+      "elevation_m": 91
+    },
+    {
+      "lat": 35.165,
+      "lon": 33.515,
+      "elevation_m": 121
+    },
+    {
+      "lat": 35.165,
+      "lon": 33.595,
+      "elevation_m": 151
+    },
+    {
+      "lat": 35.245,
+      "lon": 33.275,
+      "elevation_m": 76
+    },
+    {
+      "lat": 35.245,
+      "lon": 33.355,
+      "elevation_m": 106
+    },
+    {
+      "lat": 35.245,
+      "lon": 33.435,
+      "elevation_m": 136
+    },
+    {
+      "lat": 35.245,
+      "lon": 33.515,
+      "elevation_m": 166
+    },
+    {
+      "lat": 35.245,
+      "lon": 33.595,
+      "elevation_m": 196
+    },
+    {
+      "lat": 35.325,
+      "lon": 33.275,
+      "elevation_m": 121
+    },
+    {
+      "lat": 35.325,
+      "lon": 33.355,
+      "elevation_m": 151
+    },
+    {
+      "lat": 35.325,
+      "lon": 33.435,
+      "elevation_m": 181
+    },
+    {
+      "lat": 35.325,
+      "lon": 33.515,
+      "elevation_m": 211
+    },
+    {
+      "lat": 35.325,
+      "lon": 33.595,
+      "elevation_m": 241
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.033819+00:00"
+}

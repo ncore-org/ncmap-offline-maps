@@ -1,0 +1,95 @@
+{
+  "country_code": "DE",
+  "radars": [
+    {
+      "id": "DE_rad_1",
+      "type": "section_radar",
+      "lat": 51.005,
+      "lon": 10.25,
+      "maxspeed": 130,
+      "direction_deg": 0,
+      "highway": "BAB A1-A99"
+    },
+    {
+      "id": "DE_rad_2",
+      "type": "fixed_speed_camera",
+      "lat": 51.037,
+      "lon": 10.291,
+      "maxspeed": 50,
+      "direction_deg": 45,
+      "highway": "BAB A1-A99"
+    },
+    {
+      "id": "DE_rad_3",
+      "type": "fixed_speed_camera",
+      "lat": 51.069,
+      "lon": 10.332,
+      "maxspeed": 130,
+      "direction_deg": 90,
+      "highway": "BAB A1-A99"
+    },
+    {
+      "id": "DE_rad_4",
+      "type": "section_radar",
+      "lat": 51.101,
+      "lon": 10.373,
+      "maxspeed": 90,
+      "direction_deg": 135,
+      "highway": "BAB A1-A99"
+    },
+    {
+      "id": "DE_rad_5",
+      "type": "fixed_speed_camera",
+      "lat": 51.133,
+      "lon": 10.414,
+      "maxspeed": 130,
+      "direction_deg": 180,
+      "highway": "BAB A1-A99"
+    },
+    {
+      "id": "DE_rad_6",
+      "type": "fixed_speed_camera",
+      "lat": 51.165,
+      "lon": 10.455,
+      "maxspeed": 50,
+      "direction_deg": 225,
+      "highway": "BAB A1-A99"
+    },
+    {
+      "id": "DE_rad_7",
+      "type": "section_radar",
+      "lat": 51.197,
+      "lon": 10.496,
+      "maxspeed": 130,
+      "direction_deg": 270,
+      "highway": "BAB A1-A99"
+    },
+    {
+      "id": "DE_rad_8",
+      "type": "fixed_speed_camera",
+      "lat": 51.229,
+      "lon": 10.537,
+      "maxspeed": 50,
+      "direction_deg": 315,
+      "highway": "BAB A1-A99"
+    },
+    {
+      "id": "DE_rad_9",
+      "type": "fixed_speed_camera",
+      "lat": 51.261,
+      "lon": 10.578,
+      "maxspeed": 130,
+      "direction_deg": 0,
+      "highway": "BAB A1-A99"
+    },
+    {
+      "id": "DE_rad_10",
+      "type": "section_radar",
+      "lat": 51.293,
+      "lon": 10.619,
+      "maxspeed": 90,
+      "direction_deg": 45,
+      "highway": "BAB A1-A99"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "country_code": "DE",
+  "landmarks_3d": [
+    {
+      "id": "DE_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Brandenburger Tor Berlin 3D",
+      "lat": 51.1605,
+      "lon": 10.4495,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          51.1605,
+          10.4495
+        ],
+        [
+          51.1611,
+          10.4495
+        ],
+        [
+          51.1611,
+          10.4502
+        ],
+        [
+          51.1605,
+          10.4502
+        ]
+      ]
+    },
+    {
+      "id": "DE_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Kölner Dom 3D",
+      "lat": 51.165,
+      "lon": 10.455,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          51.165,
+          10.455
+        ],
+        [
+          51.1656,
+          10.455
+        ],
+        [
+          51.1656,
+          10.4557
+        ],
+        [
+          51.165,
+          10.4557
+        ]
+      ]
+    },
+    {
+      "id": "DE_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Schloss Neuschwanstein 3D",
+      "lat": 51.1695,
+      "lon": 10.4605,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          51.1695,
+          10.4605
+        ],
+        [
+          51.1701,
+          10.4605
+        ],
+        [
+          51.1701,
+          10.4612
+        ],
+        [
+          51.1695,
+          10.4612
+        ]
+      ]
+    },
+    {
+      "id": "DE_lm3d_4",
+      "kind": "landmark_3d",
+      "name": "Frauenkirche München 3D",
+      "lat": 51.174,
+      "lon": 10.466,
+      "height_m": 102.0,
+      "levels": 24,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          51.174,
+          10.466
+        ],
+        [
+          51.1746,
+          10.466
+        ],
+        [
+          51.1746,
+          10.4667
+        ],
+        [
+          51.174,
+          10.4667
+        ]
+      ]
+    }
+  ]
+}

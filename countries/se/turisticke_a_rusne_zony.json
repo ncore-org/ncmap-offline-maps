@@ -1,0 +1,70 @@
+{
+  "country_code": "SE",
+  "touristic_zones": [
+    {
+      "id": "SE_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Stockholm #1",
+      "lat": 62.191,
+      "lon": 17.624,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Švédsko."
+    },
+    {
+      "id": "SE_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Stockholm #2",
+      "lat": 62.2,
+      "lon": 17.635,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Švédsko."
+    },
+    {
+      "id": "SE_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Stockholm #3",
+      "lat": 62.209,
+      "lon": 17.646,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Švédsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "SE_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Stockholm #1",
+      "lat": 62.188,
+      "lon": 17.649,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "SE_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Stockholm #2",
+      "lat": 62.2,
+      "lon": 17.635,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "SE_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Stockholm #3",
+      "lat": 62.212,
+      "lon": 17.621,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

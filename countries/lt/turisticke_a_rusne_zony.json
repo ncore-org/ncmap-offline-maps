@@ -1,0 +1,70 @@
+{
+  "country_code": "LT",
+  "touristic_zones": [
+    {
+      "id": "LT_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Vilnius #1",
+      "lat": 55.161,
+      "lon": 23.869,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Litva."
+    },
+    {
+      "id": "LT_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Vilnius #2",
+      "lat": 55.17,
+      "lon": 23.88,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Litva."
+    },
+    {
+      "id": "LT_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Vilnius #3",
+      "lat": 55.179,
+      "lon": 23.891,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Litva."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "LT_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Vilnius #1",
+      "lat": 55.158,
+      "lon": 23.894,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "LT_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Vilnius #2",
+      "lat": 55.17,
+      "lon": 23.88,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "LT_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Vilnius #3",
+      "lat": 55.182,
+      "lon": 23.866,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

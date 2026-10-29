@@ -1,0 +1,1219 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "IT",
+  "country_name": "Italy",
+  "country_name_sk": "Taliansko",
+  "part": 2,
+  "total_parts": 3,
+  "country_paths": {
+    "hlavne_data": "countries/it/hlavne_data.json",
+    "3d_mapa": "countries/it/3d_mapa.json",
+    "cesty": "countries/it/cesty.json",
+    "radary": "countries/it/radary.json",
+    "odpocivadla_a_sprchy": "countries/it/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/it/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/it/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/it/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/it/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "IT",
+      "name": "Italy",
+      "name_sk": "Taliansko",
+      "flag": "🇮🇹",
+      "eu_member": true,
+      "capital": "Roma",
+      "bbox": [
+        36.65,
+        6.63,
+        47.09,
+        18.52
+      ],
+      "mean_elevation_m": 538,
+      "dem_srtm_grid": [
+        {
+          "lat": 41.71,
+          "lon": 12.415,
+          "elevation_m": 388
+        },
+        {
+          "lat": 41.71,
+          "lon": 12.495,
+          "elevation_m": 418
+        },
+        {
+          "lat": 41.71,
+          "lon": 12.575,
+          "elevation_m": 448
+        },
+        {
+          "lat": 41.71,
+          "lon": 12.655,
+          "elevation_m": 478
+        },
+        {
+          "lat": 41.71,
+          "lon": 12.735,
+          "elevation_m": 508
+        },
+        {
+          "lat": 41.79,
+          "lon": 12.415,
+          "elevation_m": 433
+        },
+        {
+          "lat": 41.79,
+          "lon": 12.495,
+          "elevation_m": 463
+        },
+        {
+          "lat": 41.79,
+          "lon": 12.575,
+          "elevation_m": 493
+        },
+        {
+          "lat": 41.79,
+          "lon": 12.655,
+          "elevation_m": 523
+        },
+        {
+          "lat": 41.79,
+          "lon": 12.735,
+          "elevation_m": 553
+        },
+        {
+          "lat": 41.87,
+          "lon": 12.415,
+          "elevation_m": 478
+        },
+        {
+          "lat": 41.87,
+          "lon": 12.495,
+          "elevation_m": 508
+        },
+        {
+          "lat": 41.87,
+          "lon": 12.575,
+          "elevation_m": 538
+        },
+        {
+          "lat": 41.87,
+          "lon": 12.655,
+          "elevation_m": 568
+        },
+        {
+          "lat": 41.87,
+          "lon": 12.735,
+          "elevation_m": 598
+        },
+        {
+          "lat": 41.95,
+          "lon": 12.415,
+          "elevation_m": 523
+        },
+        {
+          "lat": 41.95,
+          "lon": 12.495,
+          "elevation_m": 553
+        },
+        {
+          "lat": 41.95,
+          "lon": 12.575,
+          "elevation_m": 583
+        },
+        {
+          "lat": 41.95,
+          "lon": 12.655,
+          "elevation_m": 613
+        },
+        {
+          "lat": 41.95,
+          "lon": 12.735,
+          "elevation_m": 643
+        },
+        {
+          "lat": 42.03,
+          "lon": 12.415,
+          "elevation_m": 568
+        },
+        {
+          "lat": 42.03,
+          "lon": 12.495,
+          "elevation_m": 598
+        },
+        {
+          "lat": 42.03,
+          "lon": 12.575,
+          "elevation_m": 628
+        },
+        {
+          "lat": 42.03,
+          "lon": 12.655,
+          "elevation_m": 658
+        },
+        {
+          "lat": 42.03,
+          "lon": 12.735,
+          "elevation_m": 688
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.063029+00:00"
+    },
+    "roads": {
+      "country_code": "IT",
+      "highway_prefix": "A1/A4/A14/A22",
+      "toll_type": "autostrade_telepass",
+      "road_shields": [
+        {
+          "shield": "A1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A4",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A14",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A22",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "Roma",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 538
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "Roma",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 538
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "IT_b3d_1",
+        "name": "Roma 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            41.861,
+            12.5706
+          ],
+          [
+            41.86138,
+            12.5706
+          ],
+          [
+            41.86138,
+            12.57112
+          ],
+          [
+            41.861,
+            12.57112
+          ]
+        ]
+      },
+      {
+        "id": "IT_b3d_2",
+        "name": "Roma 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            41.8628,
+            12.5728
+          ],
+          [
+            41.86318,
+            12.5728
+          ],
+          [
+            41.86318,
+            12.57332
+          ],
+          [
+            41.8628,
+            12.57332
+          ]
+        ]
+      },
+      {
+        "id": "IT_b3d_3",
+        "name": "Roma 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            41.8646,
+            12.575
+          ],
+          [
+            41.86498,
+            12.575
+          ],
+          [
+            41.86498,
+            12.57552
+          ],
+          [
+            41.8646,
+            12.57552
+          ]
+        ]
+      },
+      {
+        "id": "IT_b3d_4",
+        "name": "Roma 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            41.8664,
+            12.5772
+          ],
+          [
+            41.86678,
+            12.5772
+          ],
+          [
+            41.86678,
+            12.57772
+          ],
+          [
+            41.8664,
+            12.57772
+          ]
+        ]
+      },
+      {
+        "id": "IT_b3d_5",
+        "name": "Roma 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            41.8682,
+            12.5706
+          ],
+          [
+            41.86858,
+            12.5706
+          ],
+          [
+            41.86858,
+            12.57112
+          ],
+          [
+            41.8682,
+            12.57112
+          ]
+        ]
+      },
+      {
+        "id": "IT_b3d_6",
+        "name": "Roma 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            41.87,
+            12.5728
+          ],
+          [
+            41.87038,
+            12.5728
+          ],
+          [
+            41.87038,
+            12.57332
+          ],
+          [
+            41.87,
+            12.57332
+          ]
+        ]
+      },
+      {
+        "id": "IT_b3d_7",
+        "name": "Roma 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            41.8718,
+            12.575
+          ],
+          [
+            41.87218,
+            12.575
+          ],
+          [
+            41.87218,
+            12.57552
+          ],
+          [
+            41.8718,
+            12.57552
+          ]
+        ]
+      },
+      {
+        "id": "IT_b3d_8",
+        "name": "Roma 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            41.8736,
+            12.5772
+          ],
+          [
+            41.87398,
+            12.5772
+          ],
+          [
+            41.87398,
+            12.57772
+          ],
+          [
+            41.8736,
+            12.57772
+          ]
+        ]
+      },
+      {
+        "id": "IT_b3d_9",
+        "name": "Roma 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            41.8754,
+            12.5706
+          ],
+          [
+            41.87578,
+            12.5706
+          ],
+          [
+            41.87578,
+            12.57112
+          ],
+          [
+            41.8754,
+            12.57112
+          ]
+        ]
+      },
+      {
+        "id": "IT_b3d_10",
+        "name": "Roma 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            41.8772,
+            12.5728
+          ],
+          [
+            41.87758,
+            12.5728
+          ],
+          [
+            41.87758,
+            12.57332
+          ],
+          [
+            41.8772,
+            12.57332
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "IT_rad_1",
+        "type": "section_radar",
+        "lat": 41.71,
+        "lon": 12.37,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "IT_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 41.742,
+        "lon": 12.411,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "A1"
+      },
+      {
+        "id": "IT_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 41.774,
+        "lon": 12.452,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "A1"
+      },
+      {
+        "id": "IT_rad_4",
+        "type": "section_radar",
+        "lat": 41.806,
+        "lon": 12.493,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "A1"
+      },
+      {
+        "id": "IT_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 41.838,
+        "lon": 12.534,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "A1"
+      },
+      {
+        "id": "IT_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 41.87,
+        "lon": 12.575,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "A1"
+      },
+      {
+        "id": "IT_rad_7",
+        "type": "section_radar",
+        "lat": 41.902,
+        "lon": 12.616,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "A1"
+      },
+      {
+        "id": "IT_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 41.934,
+        "lon": 12.657,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "A1"
+      },
+      {
+        "id": "IT_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 41.966,
+        "lon": 12.698,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "IT_rad_10",
+        "type": "section_radar",
+        "lat": 41.998,
+        "lon": 12.739,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "A1"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "IT_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 41.758,
+        "lon": 12.431,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Taliansko · Diaľnica A1"
+      },
+      {
+        "id": "IT_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 41.786,
+        "lon": 12.467,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Taliansko · Diaľnica A1"
+      },
+      {
+        "id": "IT_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 41.814,
+        "lon": 12.503,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Taliansko · Diaľnica A1"
+      },
+      {
+        "id": "IT_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 41.842,
+        "lon": 12.539,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Taliansko · Diaľnica A1"
+      },
+      {
+        "id": "IT_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 41.87,
+        "lon": 12.575,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Taliansko · Diaľnica A1"
+      },
+      {
+        "id": "IT_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 41.898,
+        "lon": 12.611,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Taliansko · Diaľnica A1"
+      },
+      {
+        "id": "IT_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 41.926,
+        "lon": 12.647,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Taliansko · Diaľnica A1"
+      },
+      {
+        "id": "IT_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 192 (BP)",
+        "brand": "bp",
+        "lat": 41.954,
+        "lon": 12.683,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Taliansko · Diaľnica A1"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "IT_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV Roma #1",
+        "lat": 41.75,
+        "lon": 12.42,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Taliansko (A1/A4/A14/A22)"
+      },
+      {
+        "id": "IT_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell Roma #2",
+        "lat": 41.774,
+        "lon": 12.451,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Taliansko (A1/A4/A14/A22)"
+      },
+      {
+        "id": "IT_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft Roma #3",
+        "lat": 41.798,
+        "lon": 12.482,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Taliansko (A1/A4/A14/A22)"
+      },
+      {
+        "id": "IT_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen Roma #4",
+        "lat": 41.822,
+        "lon": 12.513,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Taliansko (A1/A4/A14/A22)"
+      },
+      {
+        "id": "IT_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral Roma #5",
+        "lat": 41.846,
+        "lon": 12.544,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Taliansko (A1/A4/A14/A22)"
+      },
+      {
+        "id": "IT_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL Roma #6",
+        "lat": 41.87,
+        "lon": 12.575,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Taliansko (A1/A4/A14/A22)"
+      },
+      {
+        "id": "IT_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies Roma #7",
+        "lat": 41.894,
+        "lon": 12.606,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Taliansko (A1/A4/A14/A22)"
+      },
+      {
+        "id": "IT_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP Roma #8",
+        "lat": 41.918,
+        "lon": 12.637,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Taliansko (A1/A4/A14/A22)"
+      },
+      {
+        "id": "IT_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K Roma #9",
+        "lat": 41.942,
+        "lon": 12.668,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Taliansko (A1/A4/A14/A22)"
+      },
+      {
+        "id": "IT_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 Roma #10",
+        "lat": 41.966,
+        "lon": 12.699,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Taliansko (A1/A4/A14/A22)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "IT_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru Roma",
+        "lat": 41.807,
+        "lon": 12.488,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Taliansko"
+      },
+      {
+        "id": "IT_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru Roma",
+        "lat": 41.828,
+        "lon": 12.517,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Taliansko"
+      },
+      {
+        "id": "IT_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru Roma",
+        "lat": 41.849,
+        "lon": 12.546,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Taliansko"
+      },
+      {
+        "id": "IT_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru Roma",
+        "lat": 41.87,
+        "lon": 12.575,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Taliansko"
+      },
+      {
+        "id": "IT_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru Roma",
+        "lat": 41.891,
+        "lon": 12.604,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Taliansko"
+      },
+      {
+        "id": "IT_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru Roma",
+        "lat": 41.912,
+        "lon": 12.633,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Taliansko"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "IT_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – Roma",
+        "lat": 41.81,
+        "lon": 12.499,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, Roma, Taliansko"
+      },
+      {
+        "id": "IT_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – Roma",
+        "lat": 41.825,
+        "lon": 12.518,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, Roma, Taliansko"
+      },
+      {
+        "id": "IT_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – Roma",
+        "lat": 41.84,
+        "lon": 12.537,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, Roma, Taliansko"
+      },
+      {
+        "id": "IT_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – Roma",
+        "lat": 41.855,
+        "lon": 12.556,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, Roma, Taliansko"
+      },
+      {
+        "id": "IT_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – Roma",
+        "lat": 41.87,
+        "lon": 12.575,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, Roma, Taliansko"
+      },
+      {
+        "id": "IT_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – Roma",
+        "lat": 41.885,
+        "lon": 12.594,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, Roma, Taliansko"
+      },
+      {
+        "id": "IT_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – Roma",
+        "lat": 41.9,
+        "lon": 12.613,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, Roma, Taliansko"
+      },
+      {
+        "id": "IT_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – Roma",
+        "lat": 41.915,
+        "lon": 12.632,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, Roma, Taliansko"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "IT_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Roma #1",
+        "lat": 41.861,
+        "lon": 12.564,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Taliansko."
+      },
+      {
+        "id": "IT_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Roma #2",
+        "lat": 41.87,
+        "lon": 12.575,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Taliansko."
+      },
+      {
+        "id": "IT_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Roma #3",
+        "lat": 41.879,
+        "lon": 12.586,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Taliansko."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "IT_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Roma #1",
+        "lat": 41.858,
+        "lon": 12.589,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "IT_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Roma #2",
+        "lat": 41.87,
+        "lon": 12.575,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "IT_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Roma #3",
+        "lat": 41.882,
+        "lon": 12.561,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "IT_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "Colosseo Roma 3D",
+        "lat": 41.8655,
+        "lon": 12.5695,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            41.8655,
+            12.5695
+          ],
+          [
+            41.8661,
+            12.5695
+          ],
+          [
+            41.8661,
+            12.5702
+          ],
+          [
+            41.8655,
+            12.5702
+          ]
+        ]
+      },
+      {
+        "id": "IT_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Duomo di Milano 3D",
+        "lat": 41.87,
+        "lon": 12.575,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            41.87,
+            12.575
+          ],
+          [
+            41.8706,
+            12.575
+          ],
+          [
+            41.8706,
+            12.5757
+          ],
+          [
+            41.87,
+            12.5757
+          ]
+        ]
+      },
+      {
+        "id": "IT_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Torre di Pisa 3D",
+        "lat": 41.8745,
+        "lon": 12.5805,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            41.8745,
+            12.5805
+          ],
+          [
+            41.8751,
+            12.5805
+          ],
+          [
+            41.8751,
+            12.5812
+          ],
+          [
+            41.8745,
+            12.5812
+          ]
+        ]
+      },
+      {
+        "id": "IT_lm3d_4",
+        "kind": "landmark_3d",
+        "name": "Basilica di San Marco 3D",
+        "lat": 41.879,
+        "lon": 12.586,
+        "height_m": 102.0,
+        "levels": 24,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            41.879,
+            12.586
+          ],
+          [
+            41.8796,
+            12.586
+          ],
+          [
+            41.8796,
+            12.5867
+          ],
+          [
+            41.879,
+            12.5867
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "country_code": "AT",
+  "touristic_zones": [
+    {
+      "id": "AT_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Wien #1",
+      "lat": 47.686,
+      "lon": 13.334,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Rakúsko."
+    },
+    {
+      "id": "AT_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Wien #2",
+      "lat": 47.695,
+      "lon": 13.345,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Rakúsko."
+    },
+    {
+      "id": "AT_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Wien #3",
+      "lat": 47.704,
+      "lon": 13.356,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Rakúsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "AT_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Wien #1",
+      "lat": 47.683,
+      "lon": 13.359,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "AT_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Wien #2",
+      "lat": 47.695,
+      "lon": 13.345,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "AT_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Wien #3",
+      "lat": 47.707,
+      "lon": 13.331,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

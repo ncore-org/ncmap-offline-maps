@@ -1,0 +1,93 @@
+{
+  "country_code": "RO",
+  "businesses_and_companies": [
+    {
+      "id": "RO_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – București",
+      "lat": 45.885,
+      "lon": 24.899,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, București, Rumunsko"
+    },
+    {
+      "id": "RO_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – București",
+      "lat": 45.9,
+      "lon": 24.918,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, București, Rumunsko"
+    },
+    {
+      "id": "RO_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – București",
+      "lat": 45.915,
+      "lon": 24.937,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, București, Rumunsko"
+    },
+    {
+      "id": "RO_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – București",
+      "lat": 45.93,
+      "lon": 24.956,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, București, Rumunsko"
+    },
+    {
+      "id": "RO_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – București",
+      "lat": 45.945,
+      "lon": 24.975,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, București, Rumunsko"
+    },
+    {
+      "id": "RO_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – București",
+      "lat": 45.96,
+      "lon": 24.994,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, București, Rumunsko"
+    },
+    {
+      "id": "RO_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – București",
+      "lat": 45.975,
+      "lon": 25.013,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, București, Rumunsko"
+    },
+    {
+      "id": "RO_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – București",
+      "lat": 45.99,
+      "lon": 25.032,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, București, Rumunsko"
+    }
+  ]
+}

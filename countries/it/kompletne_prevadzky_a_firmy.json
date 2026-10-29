@@ -1,0 +1,93 @@
+{
+  "country_code": "IT",
+  "businesses_and_companies": [
+    {
+      "id": "IT_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – Roma",
+      "lat": 41.81,
+      "lon": 12.499,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, Roma, Taliansko"
+    },
+    {
+      "id": "IT_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – Roma",
+      "lat": 41.825,
+      "lon": 12.518,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, Roma, Taliansko"
+    },
+    {
+      "id": "IT_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – Roma",
+      "lat": 41.84,
+      "lon": 12.537,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, Roma, Taliansko"
+    },
+    {
+      "id": "IT_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – Roma",
+      "lat": 41.855,
+      "lon": 12.556,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, Roma, Taliansko"
+    },
+    {
+      "id": "IT_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – Roma",
+      "lat": 41.87,
+      "lon": 12.575,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, Roma, Taliansko"
+    },
+    {
+      "id": "IT_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – Roma",
+      "lat": 41.885,
+      "lon": 12.594,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, Roma, Taliansko"
+    },
+    {
+      "id": "IT_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – Roma",
+      "lat": 41.9,
+      "lon": 12.613,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, Roma, Taliansko"
+    },
+    {
+      "id": "IT_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – Roma",
+      "lat": 41.915,
+      "lon": 12.632,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, Roma, Taliansko"
+    }
+  ]
+}

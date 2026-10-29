@@ -1,0 +1,1185 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "CA",
+  "country_name": "Canada",
+  "country_name_sk": "Kanada",
+  "part": 1,
+  "total_parts": 3,
+  "country_paths": {
+    "hlavne_data": "countries/ca/hlavne_data.json",
+    "3d_mapa": "countries/ca/3d_mapa.json",
+    "cesty": "countries/ca/cesty.json",
+    "radary": "countries/ca/radary.json",
+    "odpocivadla_a_sprchy": "countries/ca/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/ca/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/ca/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/ca/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/ca/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "CA",
+      "name": "Canada",
+      "name_sk": "Kanada",
+      "flag": "🇨🇦",
+      "eu_member": false,
+      "capital": "Ottawa",
+      "bbox": [
+        42.0,
+        -141.0,
+        65.0,
+        -52.6
+      ],
+      "mean_elevation_m": 487,
+      "dem_srtm_grid": [
+        {
+          "lat": 53.34,
+          "lon": -96.96,
+          "elevation_m": 337
+        },
+        {
+          "lat": 53.34,
+          "lon": -96.88,
+          "elevation_m": 367
+        },
+        {
+          "lat": 53.34,
+          "lon": -96.8,
+          "elevation_m": 397
+        },
+        {
+          "lat": 53.34,
+          "lon": -96.72,
+          "elevation_m": 427
+        },
+        {
+          "lat": 53.34,
+          "lon": -96.64,
+          "elevation_m": 457
+        },
+        {
+          "lat": 53.42,
+          "lon": -96.96,
+          "elevation_m": 382
+        },
+        {
+          "lat": 53.42,
+          "lon": -96.88,
+          "elevation_m": 412
+        },
+        {
+          "lat": 53.42,
+          "lon": -96.8,
+          "elevation_m": 442
+        },
+        {
+          "lat": 53.42,
+          "lon": -96.72,
+          "elevation_m": 472
+        },
+        {
+          "lat": 53.42,
+          "lon": -96.64,
+          "elevation_m": 502
+        },
+        {
+          "lat": 53.5,
+          "lon": -96.96,
+          "elevation_m": 427
+        },
+        {
+          "lat": 53.5,
+          "lon": -96.88,
+          "elevation_m": 457
+        },
+        {
+          "lat": 53.5,
+          "lon": -96.8,
+          "elevation_m": 487
+        },
+        {
+          "lat": 53.5,
+          "lon": -96.72,
+          "elevation_m": 517
+        },
+        {
+          "lat": 53.5,
+          "lon": -96.64,
+          "elevation_m": 547
+        },
+        {
+          "lat": 53.58,
+          "lon": -96.96,
+          "elevation_m": 472
+        },
+        {
+          "lat": 53.58,
+          "lon": -96.88,
+          "elevation_m": 502
+        },
+        {
+          "lat": 53.58,
+          "lon": -96.8,
+          "elevation_m": 532
+        },
+        {
+          "lat": 53.58,
+          "lon": -96.72,
+          "elevation_m": 562
+        },
+        {
+          "lat": 53.58,
+          "lon": -96.64,
+          "elevation_m": 592
+        },
+        {
+          "lat": 53.66,
+          "lon": -96.96,
+          "elevation_m": 517
+        },
+        {
+          "lat": 53.66,
+          "lon": -96.88,
+          "elevation_m": 547
+        },
+        {
+          "lat": 53.66,
+          "lon": -96.8,
+          "elevation_m": 577
+        },
+        {
+          "lat": 53.66,
+          "lon": -96.72,
+          "elevation_m": 607
+        },
+        {
+          "lat": 53.66,
+          "lon": -96.64,
+          "elevation_m": 637
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.112456+00:00"
+    },
+    "roads": {
+      "country_code": "CA",
+      "highway_prefix": "Hwy 401/407/TC-1",
+      "toll_type": "express_toll",
+      "road_shields": [
+        {
+          "shield": "Hwy 401",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "407",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "TC-1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "Ottawa",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 487
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "Ottawa",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 487
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "CA_b3d_1",
+        "name": "Ottawa 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            53.491,
+            -96.8044
+          ],
+          [
+            53.49138,
+            -96.8044
+          ],
+          [
+            53.49138,
+            -96.80388
+          ],
+          [
+            53.491,
+            -96.80388
+          ]
+        ]
+      },
+      {
+        "id": "CA_b3d_2",
+        "name": "Ottawa 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            53.4928,
+            -96.8022
+          ],
+          [
+            53.49318,
+            -96.8022
+          ],
+          [
+            53.49318,
+            -96.80168
+          ],
+          [
+            53.4928,
+            -96.80168
+          ]
+        ]
+      },
+      {
+        "id": "CA_b3d_3",
+        "name": "Ottawa 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            53.4946,
+            -96.8
+          ],
+          [
+            53.49498,
+            -96.8
+          ],
+          [
+            53.49498,
+            -96.79948
+          ],
+          [
+            53.4946,
+            -96.79948
+          ]
+        ]
+      },
+      {
+        "id": "CA_b3d_4",
+        "name": "Ottawa 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            53.4964,
+            -96.7978
+          ],
+          [
+            53.49678,
+            -96.7978
+          ],
+          [
+            53.49678,
+            -96.79728
+          ],
+          [
+            53.4964,
+            -96.79728
+          ]
+        ]
+      },
+      {
+        "id": "CA_b3d_5",
+        "name": "Ottawa 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            53.4982,
+            -96.8044
+          ],
+          [
+            53.49858,
+            -96.8044
+          ],
+          [
+            53.49858,
+            -96.80388
+          ],
+          [
+            53.4982,
+            -96.80388
+          ]
+        ]
+      },
+      {
+        "id": "CA_b3d_6",
+        "name": "Ottawa 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            53.5,
+            -96.8022
+          ],
+          [
+            53.50038,
+            -96.8022
+          ],
+          [
+            53.50038,
+            -96.80168
+          ],
+          [
+            53.5,
+            -96.80168
+          ]
+        ]
+      },
+      {
+        "id": "CA_b3d_7",
+        "name": "Ottawa 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            53.5018,
+            -96.8
+          ],
+          [
+            53.50218,
+            -96.8
+          ],
+          [
+            53.50218,
+            -96.79948
+          ],
+          [
+            53.5018,
+            -96.79948
+          ]
+        ]
+      },
+      {
+        "id": "CA_b3d_8",
+        "name": "Ottawa 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            53.5036,
+            -96.7978
+          ],
+          [
+            53.50398,
+            -96.7978
+          ],
+          [
+            53.50398,
+            -96.79728
+          ],
+          [
+            53.5036,
+            -96.79728
+          ]
+        ]
+      },
+      {
+        "id": "CA_b3d_9",
+        "name": "Ottawa 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            53.5054,
+            -96.8044
+          ],
+          [
+            53.50578,
+            -96.8044
+          ],
+          [
+            53.50578,
+            -96.80388
+          ],
+          [
+            53.5054,
+            -96.80388
+          ]
+        ]
+      },
+      {
+        "id": "CA_b3d_10",
+        "name": "Ottawa 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            53.5072,
+            -96.8022
+          ],
+          [
+            53.50758,
+            -96.8022
+          ],
+          [
+            53.50758,
+            -96.80168
+          ],
+          [
+            53.5072,
+            -96.80168
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "CA_rad_1",
+        "type": "section_radar",
+        "lat": 53.34,
+        "lon": -97.005,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "Hwy 401"
+      },
+      {
+        "id": "CA_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 53.372,
+        "lon": -96.964,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "Hwy 401"
+      },
+      {
+        "id": "CA_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 53.404,
+        "lon": -96.923,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "Hwy 401"
+      },
+      {
+        "id": "CA_rad_4",
+        "type": "section_radar",
+        "lat": 53.436,
+        "lon": -96.882,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "Hwy 401"
+      },
+      {
+        "id": "CA_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 53.468,
+        "lon": -96.841,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "Hwy 401"
+      },
+      {
+        "id": "CA_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 53.5,
+        "lon": -96.8,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "Hwy 401"
+      },
+      {
+        "id": "CA_rad_7",
+        "type": "section_radar",
+        "lat": 53.532,
+        "lon": -96.759,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "Hwy 401"
+      },
+      {
+        "id": "CA_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 53.564,
+        "lon": -96.718,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "Hwy 401"
+      },
+      {
+        "id": "CA_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 53.596,
+        "lon": -96.677,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "Hwy 401"
+      },
+      {
+        "id": "CA_rad_10",
+        "type": "section_radar",
+        "lat": 53.628,
+        "lon": -96.636,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "Hwy 401"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "CA_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Hwy 401 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 53.388,
+        "lon": -96.944,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Kanada · Diaľnica Hwy 401"
+      },
+      {
+        "id": "CA_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Hwy 401 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 53.416,
+        "lon": -96.908,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Kanada · Diaľnica Hwy 401"
+      },
+      {
+        "id": "CA_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Hwy 401 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 53.444,
+        "lon": -96.872,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Kanada · Diaľnica Hwy 401"
+      },
+      {
+        "id": "CA_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Hwy 401 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 53.472,
+        "lon": -96.836,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Kanada · Diaľnica Hwy 401"
+      },
+      {
+        "id": "CA_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Hwy 401 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 53.5,
+        "lon": -96.8,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Kanada · Diaľnica Hwy 401"
+      },
+      {
+        "id": "CA_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Hwy 401 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 53.528,
+        "lon": -96.764,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Kanada · Diaľnica Hwy 401"
+      },
+      {
+        "id": "CA_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Hwy 401 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 53.556,
+        "lon": -96.728,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Kanada · Diaľnica Hwy 401"
+      },
+      {
+        "id": "CA_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy Hwy 401 km 192 (BP)",
+        "brand": "bp",
+        "lat": 53.584,
+        "lon": -96.692,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Kanada · Diaľnica Hwy 401"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "CA_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV Ottawa #1",
+        "lat": 53.38,
+        "lon": -96.955,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Kanada (Hwy 401/407/TC-1)"
+      },
+      {
+        "id": "CA_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell Ottawa #2",
+        "lat": 53.404,
+        "lon": -96.924,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Kanada (Hwy 401/407/TC-1)"
+      },
+      {
+        "id": "CA_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft Ottawa #3",
+        "lat": 53.428,
+        "lon": -96.893,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Kanada (Hwy 401/407/TC-1)"
+      },
+      {
+        "id": "CA_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen Ottawa #4",
+        "lat": 53.452,
+        "lon": -96.862,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Kanada (Hwy 401/407/TC-1)"
+      },
+      {
+        "id": "CA_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral Ottawa #5",
+        "lat": 53.476,
+        "lon": -96.831,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Kanada (Hwy 401/407/TC-1)"
+      },
+      {
+        "id": "CA_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL Ottawa #6",
+        "lat": 53.5,
+        "lon": -96.8,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Kanada (Hwy 401/407/TC-1)"
+      },
+      {
+        "id": "CA_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies Ottawa #7",
+        "lat": 53.524,
+        "lon": -96.769,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Kanada (Hwy 401/407/TC-1)"
+      },
+      {
+        "id": "CA_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP Ottawa #8",
+        "lat": 53.548,
+        "lon": -96.738,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Kanada (Hwy 401/407/TC-1)"
+      },
+      {
+        "id": "CA_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K Ottawa #9",
+        "lat": 53.572,
+        "lon": -96.707,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Kanada (Hwy 401/407/TC-1)"
+      },
+      {
+        "id": "CA_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 Ottawa #10",
+        "lat": 53.596,
+        "lon": -96.676,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Kanada (Hwy 401/407/TC-1)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "CA_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru Ottawa",
+        "lat": 53.437,
+        "lon": -96.887,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Kanada"
+      },
+      {
+        "id": "CA_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru Ottawa",
+        "lat": 53.458,
+        "lon": -96.858,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Kanada"
+      },
+      {
+        "id": "CA_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru Ottawa",
+        "lat": 53.479,
+        "lon": -96.829,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Kanada"
+      },
+      {
+        "id": "CA_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru Ottawa",
+        "lat": 53.5,
+        "lon": -96.8,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Kanada"
+      },
+      {
+        "id": "CA_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru Ottawa",
+        "lat": 53.521,
+        "lon": -96.771,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Kanada"
+      },
+      {
+        "id": "CA_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru Ottawa",
+        "lat": 53.542,
+        "lon": -96.742,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Kanada"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "CA_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – Ottawa",
+        "lat": 53.44,
+        "lon": -96.876,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, Ottawa, Kanada"
+      },
+      {
+        "id": "CA_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – Ottawa",
+        "lat": 53.455,
+        "lon": -96.857,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, Ottawa, Kanada"
+      },
+      {
+        "id": "CA_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – Ottawa",
+        "lat": 53.47,
+        "lon": -96.838,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, Ottawa, Kanada"
+      },
+      {
+        "id": "CA_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – Ottawa",
+        "lat": 53.485,
+        "lon": -96.819,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, Ottawa, Kanada"
+      },
+      {
+        "id": "CA_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – Ottawa",
+        "lat": 53.5,
+        "lon": -96.8,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, Ottawa, Kanada"
+      },
+      {
+        "id": "CA_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – Ottawa",
+        "lat": 53.515,
+        "lon": -96.781,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, Ottawa, Kanada"
+      },
+      {
+        "id": "CA_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – Ottawa",
+        "lat": 53.53,
+        "lon": -96.762,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, Ottawa, Kanada"
+      },
+      {
+        "id": "CA_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – Ottawa",
+        "lat": 53.545,
+        "lon": -96.743,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, Ottawa, Kanada"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "CA_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Ottawa #1",
+        "lat": 53.491,
+        "lon": -96.811,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Kanada."
+      },
+      {
+        "id": "CA_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Ottawa #2",
+        "lat": 53.5,
+        "lon": -96.8,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Kanada."
+      },
+      {
+        "id": "CA_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Ottawa #3",
+        "lat": 53.509,
+        "lon": -96.789,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Kanada."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "CA_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Ottawa #1",
+        "lat": 53.488,
+        "lon": -96.786,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "CA_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Ottawa #2",
+        "lat": 53.5,
+        "lon": -96.8,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "CA_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Ottawa #3",
+        "lat": 53.512,
+        "lon": -96.814,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "CA_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "CN Tower Toronto 3D",
+        "lat": 53.4955,
+        "lon": -96.8055,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            53.4955,
+            -96.8055
+          ],
+          [
+            53.4961,
+            -96.8055
+          ],
+          [
+            53.4961,
+            -96.8048
+          ],
+          [
+            53.4955,
+            -96.8048
+          ]
+        ]
+      },
+      {
+        "id": "CA_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Parliament Hill Ottawa 3D",
+        "lat": 53.5,
+        "lon": -96.8,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            53.5,
+            -96.8
+          ],
+          [
+            53.5006,
+            -96.8
+          ],
+          [
+            53.5006,
+            -96.7993
+          ],
+          [
+            53.5,
+            -96.7993
+          ]
+        ]
+      },
+      {
+        "id": "CA_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Château Frontenac 3D",
+        "lat": 53.5045,
+        "lon": -96.7945,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            53.5045,
+            -96.7945
+          ],
+          [
+            53.5051,
+            -96.7945
+          ],
+          [
+            53.5051,
+            -96.7938
+          ],
+          [
+            53.5045,
+            -96.7938
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "country_code": "NL",
+  "businesses_and_companies": [
+    {
+      "id": "NL_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – Amsterdam",
+      "lat": 52.05,
+      "lon": 5.219,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, Amsterdam, Holandsko"
+    },
+    {
+      "id": "NL_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – Amsterdam",
+      "lat": 52.065,
+      "lon": 5.238,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, Amsterdam, Holandsko"
+    },
+    {
+      "id": "NL_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – Amsterdam",
+      "lat": 52.08,
+      "lon": 5.257,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, Amsterdam, Holandsko"
+    },
+    {
+      "id": "NL_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – Amsterdam",
+      "lat": 52.095,
+      "lon": 5.276,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, Amsterdam, Holandsko"
+    },
+    {
+      "id": "NL_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – Amsterdam",
+      "lat": 52.11,
+      "lon": 5.295,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, Amsterdam, Holandsko"
+    },
+    {
+      "id": "NL_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – Amsterdam",
+      "lat": 52.125,
+      "lon": 5.314,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, Amsterdam, Holandsko"
+    },
+    {
+      "id": "NL_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – Amsterdam",
+      "lat": 52.14,
+      "lon": 5.333,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, Amsterdam, Holandsko"
+    },
+    {
+      "id": "NL_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – Amsterdam",
+      "lat": 52.155,
+      "lon": 5.352,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, Amsterdam, Holandsko"
+    }
+  ]
+}

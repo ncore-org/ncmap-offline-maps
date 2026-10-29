@@ -1,0 +1,93 @@
+{
+  "country_code": "BG",
+  "businesses_and_companies": [
+    {
+      "id": "BG_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – Sofia",
+      "lat": 42.665,
+      "lon": 25.409,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, Sofia, Bulharsko"
+    },
+    {
+      "id": "BG_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – Sofia",
+      "lat": 42.68,
+      "lon": 25.428,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, Sofia, Bulharsko"
+    },
+    {
+      "id": "BG_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – Sofia",
+      "lat": 42.695,
+      "lon": 25.447,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, Sofia, Bulharsko"
+    },
+    {
+      "id": "BG_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – Sofia",
+      "lat": 42.71,
+      "lon": 25.466,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, Sofia, Bulharsko"
+    },
+    {
+      "id": "BG_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – Sofia",
+      "lat": 42.725,
+      "lon": 25.485,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, Sofia, Bulharsko"
+    },
+    {
+      "id": "BG_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – Sofia",
+      "lat": 42.74,
+      "lon": 25.504,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, Sofia, Bulharsko"
+    },
+    {
+      "id": "BG_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – Sofia",
+      "lat": 42.755,
+      "lon": 25.523,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, Sofia, Bulharsko"
+    },
+    {
+      "id": "BG_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – Sofia",
+      "lat": 42.77,
+      "lon": 25.542,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, Sofia, Bulharsko"
+    }
+  ]
+}

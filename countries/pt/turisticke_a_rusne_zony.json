@@ -1,0 +1,70 @@
+{
+  "country_code": "PT",
+  "touristic_zones": [
+    {
+      "id": "PT_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Lisboa #1",
+      "lat": 39.546,
+      "lon": -7.856,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Portugalsko."
+    },
+    {
+      "id": "PT_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Lisboa #2",
+      "lat": 39.555,
+      "lon": -7.845,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Portugalsko."
+    },
+    {
+      "id": "PT_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Lisboa #3",
+      "lat": 39.564,
+      "lon": -7.834,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Portugalsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "PT_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Lisboa #1",
+      "lat": 39.543,
+      "lon": -7.831,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "PT_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Lisboa #2",
+      "lat": 39.555,
+      "lon": -7.845,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "PT_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Lisboa #3",
+      "lat": 39.567,
+      "lon": -7.859,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

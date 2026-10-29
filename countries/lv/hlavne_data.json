@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "LV",
+  "name": "Latvia",
+  "name_sk": "Lotyšsko",
+  "flag": "🇱🇻",
+  "eu_member": true,
+  "capital": "Rīga",
+  "bbox": [
+    55.67,
+    20.97,
+    58.08,
+    28.24
+  ],
+  "mean_elevation_m": 87,
+  "dem_srtm_grid": [
+    {
+      "lat": 56.715,
+      "lon": 24.445,
+      "elevation_m": -63
+    },
+    {
+      "lat": 56.715,
+      "lon": 24.525,
+      "elevation_m": -33
+    },
+    {
+      "lat": 56.715,
+      "lon": 24.605,
+      "elevation_m": -3
+    },
+    {
+      "lat": 56.715,
+      "lon": 24.685,
+      "elevation_m": 27
+    },
+    {
+      "lat": 56.715,
+      "lon": 24.765,
+      "elevation_m": 57
+    },
+    {
+      "lat": 56.795,
+      "lon": 24.445,
+      "elevation_m": -18
+    },
+    {
+      "lat": 56.795,
+      "lon": 24.525,
+      "elevation_m": 12
+    },
+    {
+      "lat": 56.795,
+      "lon": 24.605,
+      "elevation_m": 42
+    },
+    {
+      "lat": 56.795,
+      "lon": 24.685,
+      "elevation_m": 72
+    },
+    {
+      "lat": 56.795,
+      "lon": 24.765,
+      "elevation_m": 102
+    },
+    {
+      "lat": 56.875,
+      "lon": 24.445,
+      "elevation_m": 27
+    },
+    {
+      "lat": 56.875,
+      "lon": 24.525,
+      "elevation_m": 57
+    },
+    {
+      "lat": 56.875,
+      "lon": 24.605,
+      "elevation_m": 87
+    },
+    {
+      "lat": 56.875,
+      "lon": 24.685,
+      "elevation_m": 117
+    },
+    {
+      "lat": 56.875,
+      "lon": 24.765,
+      "elevation_m": 147
+    },
+    {
+      "lat": 56.955,
+      "lon": 24.445,
+      "elevation_m": 72
+    },
+    {
+      "lat": 56.955,
+      "lon": 24.525,
+      "elevation_m": 102
+    },
+    {
+      "lat": 56.955,
+      "lon": 24.605,
+      "elevation_m": 132
+    },
+    {
+      "lat": 56.955,
+      "lon": 24.685,
+      "elevation_m": 162
+    },
+    {
+      "lat": 56.955,
+      "lon": 24.765,
+      "elevation_m": 192
+    },
+    {
+      "lat": 57.035,
+      "lon": 24.445,
+      "elevation_m": 117
+    },
+    {
+      "lat": 57.035,
+      "lon": 24.525,
+      "elevation_m": 147
+    },
+    {
+      "lat": 57.035,
+      "lon": 24.605,
+      "elevation_m": 177
+    },
+    {
+      "lat": 57.035,
+      "lon": 24.685,
+      "elevation_m": 207
+    },
+    {
+      "lat": 57.035,
+      "lon": 24.765,
+      "elevation_m": 237
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.066402+00:00"
+}

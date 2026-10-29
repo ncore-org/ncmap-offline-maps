@@ -1,0 +1,70 @@
+{
+  "country_code": "NL",
+  "touristic_zones": [
+    {
+      "id": "NL_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Amsterdam #1",
+      "lat": 52.101,
+      "lon": 5.284,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Holandsko."
+    },
+    {
+      "id": "NL_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Amsterdam #2",
+      "lat": 52.11,
+      "lon": 5.295,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Holandsko."
+    },
+    {
+      "id": "NL_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Amsterdam #3",
+      "lat": 52.119,
+      "lon": 5.306,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Holandsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "NL_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Amsterdam #1",
+      "lat": 52.098,
+      "lon": 5.309,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "NL_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Amsterdam #2",
+      "lat": 52.11,
+      "lon": 5.295,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "NL_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Amsterdam #3",
+      "lat": 52.122,
+      "lon": 5.281,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

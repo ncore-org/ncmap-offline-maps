@@ -1,0 +1,89 @@
+{
+  "country_code": "DK",
+  "landmarks_3d": [
+    {
+      "id": "DK_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Storebælt Bridge 3D",
+      "lat": 56.1505,
+      "lon": 11.6245,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          56.1505,
+          11.6245
+        ],
+        [
+          56.1511,
+          11.6245
+        ],
+        [
+          56.1511,
+          11.6252
+        ],
+        [
+          56.1505,
+          11.6252
+        ]
+      ]
+    },
+    {
+      "id": "DK_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Christiansborg Palace 3D",
+      "lat": 56.155,
+      "lon": 11.63,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          56.155,
+          11.63
+        ],
+        [
+          56.1556,
+          11.63
+        ],
+        [
+          56.1556,
+          11.6307
+        ],
+        [
+          56.155,
+          11.6307
+        ]
+      ]
+    },
+    {
+      "id": "DK_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Nyhavn Waterfront 3D",
+      "lat": 56.1595,
+      "lon": 11.6355,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          56.1595,
+          11.6355
+        ],
+        [
+          56.1601,
+          11.6355
+        ],
+        [
+          56.1601,
+          11.6362
+        ],
+        [
+          56.1595,
+          11.6362
+        ]
+      ]
+    }
+  ]
+}

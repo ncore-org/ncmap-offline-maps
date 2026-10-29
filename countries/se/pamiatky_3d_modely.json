@@ -1,0 +1,89 @@
+{
+  "country_code": "SE",
+  "landmarks_3d": [
+    {
+      "id": "SE_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Stockholm Palace 3D",
+      "lat": 62.1955,
+      "lon": 17.6295,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          62.1955,
+          17.6295
+        ],
+        [
+          62.1961,
+          17.6295
+        ],
+        [
+          62.1961,
+          17.6302
+        ],
+        [
+          62.1955,
+          17.6302
+        ]
+      ]
+    },
+    {
+      "id": "SE_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Turning Torso Malmö 3D",
+      "lat": 62.2,
+      "lon": 17.635,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          62.2,
+          17.635
+        ],
+        [
+          62.2006,
+          17.635
+        ],
+        [
+          62.2006,
+          17.6357
+        ],
+        [
+          62.2,
+          17.6357
+        ]
+      ]
+    },
+    {
+      "id": "SE_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Öresund Bridge 3D",
+      "lat": 62.2045,
+      "lon": 17.6405,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          62.2045,
+          17.6405
+        ],
+        [
+          62.2051,
+          17.6405
+        ],
+        [
+          62.2051,
+          17.6412
+        ],
+        [
+          62.2045,
+          17.6412
+        ]
+      ]
+    }
+  ]
+}

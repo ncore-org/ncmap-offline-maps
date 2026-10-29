@@ -1,0 +1,89 @@
+{
+  "country_code": "AT",
+  "landmarks_3d": [
+    {
+      "id": "AT_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Stephansdom Wien 3D",
+      "lat": 47.6905,
+      "lon": 13.3395,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          47.6905,
+          13.3395
+        ],
+        [
+          47.6911,
+          13.3395
+        ],
+        [
+          47.6911,
+          13.3402
+        ],
+        [
+          47.6905,
+          13.3402
+        ]
+      ]
+    },
+    {
+      "id": "AT_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Schloss Schönbrunn 3D",
+      "lat": 47.695,
+      "lon": 13.345,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          47.695,
+          13.345
+        ],
+        [
+          47.6956,
+          13.345
+        ],
+        [
+          47.6956,
+          13.3457
+        ],
+        [
+          47.695,
+          13.3457
+        ]
+      ]
+    },
+    {
+      "id": "AT_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Festung Hohensalzburg 3D",
+      "lat": 47.6995,
+      "lon": 13.3505,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          47.6995,
+          13.3505
+        ],
+        [
+          47.7001,
+          13.3505
+        ],
+        [
+          47.7001,
+          13.3512
+        ],
+        [
+          47.6995,
+          13.3512
+        ]
+      ]
+    }
+  ]
+}

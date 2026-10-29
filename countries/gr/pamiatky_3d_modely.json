@@ -1,0 +1,89 @@
+{
+  "country_code": "GR",
+  "landmarks_3d": [
+    {
+      "id": "GR_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Parthenon Acropolis 3D",
+      "lat": 38.2705,
+      "lon": 23.8045,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          38.2705,
+          23.8045
+        ],
+        [
+          38.2711,
+          23.8045
+        ],
+        [
+          38.2711,
+          23.8052
+        ],
+        [
+          38.2705,
+          23.8052
+        ]
+      ]
+    },
+    {
+      "id": "GR_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "White Tower Thessaloniki 3D",
+      "lat": 38.275,
+      "lon": 23.81,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          38.275,
+          23.81
+        ],
+        [
+          38.2756,
+          23.81
+        ],
+        [
+          38.2756,
+          23.8107
+        ],
+        [
+          38.275,
+          23.8107
+        ]
+      ]
+    },
+    {
+      "id": "GR_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Rio-Antirrio Bridge 3D",
+      "lat": 38.2795,
+      "lon": 23.8155,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          38.2795,
+          23.8155
+        ],
+        [
+          38.2801,
+          23.8155
+        ],
+        [
+          38.2801,
+          23.8162
+        ],
+        [
+          38.2795,
+          23.8162
+        ]
+      ]
+    }
+  ]
+}

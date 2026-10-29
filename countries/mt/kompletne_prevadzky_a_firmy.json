@@ -1,0 +1,93 @@
+{
+  "country_code": "MT",
+  "businesses_and_companies": [
+    {
+      "id": "MT_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – Valletta",
+      "lat": 35.88,
+      "lon": 14.304,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, Valletta, Malta"
+    },
+    {
+      "id": "MT_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – Valletta",
+      "lat": 35.895,
+      "lon": 14.323,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, Valletta, Malta"
+    },
+    {
+      "id": "MT_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – Valletta",
+      "lat": 35.91,
+      "lon": 14.342,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, Valletta, Malta"
+    },
+    {
+      "id": "MT_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – Valletta",
+      "lat": 35.925,
+      "lon": 14.361,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, Valletta, Malta"
+    },
+    {
+      "id": "MT_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – Valletta",
+      "lat": 35.94,
+      "lon": 14.38,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, Valletta, Malta"
+    },
+    {
+      "id": "MT_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – Valletta",
+      "lat": 35.955,
+      "lon": 14.399,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, Valletta, Malta"
+    },
+    {
+      "id": "MT_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – Valletta",
+      "lat": 35.97,
+      "lon": 14.418,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, Valletta, Malta"
+    },
+    {
+      "id": "MT_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – Valletta",
+      "lat": 35.985,
+      "lon": 14.437,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, Valletta, Malta"
+    }
+  ]
+}

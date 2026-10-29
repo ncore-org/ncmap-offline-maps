@@ -1,0 +1,93 @@
+{
+  "country_code": "HU",
+  "businesses_and_companies": [
+    {
+      "id": "HU_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – Budapest",
+      "lat": 47.1,
+      "lon": 19.429,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, Budapest, Maďarsko"
+    },
+    {
+      "id": "HU_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – Budapest",
+      "lat": 47.115,
+      "lon": 19.448,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, Budapest, Maďarsko"
+    },
+    {
+      "id": "HU_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – Budapest",
+      "lat": 47.13,
+      "lon": 19.467,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, Budapest, Maďarsko"
+    },
+    {
+      "id": "HU_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – Budapest",
+      "lat": 47.145,
+      "lon": 19.486,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, Budapest, Maďarsko"
+    },
+    {
+      "id": "HU_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – Budapest",
+      "lat": 47.16,
+      "lon": 19.505,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, Budapest, Maďarsko"
+    },
+    {
+      "id": "HU_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – Budapest",
+      "lat": 47.175,
+      "lon": 19.524,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, Budapest, Maďarsko"
+    },
+    {
+      "id": "HU_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – Budapest",
+      "lat": 47.19,
+      "lon": 19.543,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, Budapest, Maďarsko"
+    },
+    {
+      "id": "HU_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – Budapest",
+      "lat": 47.205,
+      "lon": 19.562,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, Budapest, Maďarsko"
+    }
+  ]
+}

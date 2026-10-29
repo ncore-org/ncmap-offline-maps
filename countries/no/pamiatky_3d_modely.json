@@ -1,0 +1,89 @@
+{
+  "country_code": "NO",
+  "landmarks_3d": [
+    {
+      "id": "NO_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Oslo Opera House 3D",
+      "lat": 64.5705,
+      "lon": 17.9045,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          64.5705,
+          17.9045
+        ],
+        [
+          64.5711,
+          17.9045
+        ],
+        [
+          64.5711,
+          17.9052
+        ],
+        [
+          64.5705,
+          17.9052
+        ]
+      ]
+    },
+    {
+      "id": "NO_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Bryggen Bergen 3D",
+      "lat": 64.575,
+      "lon": 17.91,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          64.575,
+          17.91
+        ],
+        [
+          64.5756,
+          17.91
+        ],
+        [
+          64.5756,
+          17.9107
+        ],
+        [
+          64.575,
+          17.9107
+        ]
+      ]
+    },
+    {
+      "id": "NO_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Nidaros Cathedral 3D",
+      "lat": 64.5795,
+      "lon": 17.9155,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          64.5795,
+          17.9155
+        ],
+        [
+          64.5801,
+          17.9155
+        ],
+        [
+          64.5801,
+          17.9162
+        ],
+        [
+          64.5795,
+          17.9162
+        ]
+      ]
+    }
+  ]
+}

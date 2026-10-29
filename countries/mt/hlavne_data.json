@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "MT",
+  "name": "Malta",
+  "name_sk": "Malta",
+  "flag": "🇲🇹",
+  "eu_member": true,
+  "capital": "Valletta",
+  "bbox": [
+    35.8,
+    14.18,
+    36.08,
+    14.58
+  ],
+  "mean_elevation_m": 136,
+  "dem_srtm_grid": [
+    {
+      "lat": 35.78,
+      "lon": 14.22,
+      "elevation_m": -14
+    },
+    {
+      "lat": 35.78,
+      "lon": 14.3,
+      "elevation_m": 16
+    },
+    {
+      "lat": 35.78,
+      "lon": 14.38,
+      "elevation_m": 46
+    },
+    {
+      "lat": 35.78,
+      "lon": 14.46,
+      "elevation_m": 76
+    },
+    {
+      "lat": 35.78,
+      "lon": 14.54,
+      "elevation_m": 106
+    },
+    {
+      "lat": 35.86,
+      "lon": 14.22,
+      "elevation_m": 31
+    },
+    {
+      "lat": 35.86,
+      "lon": 14.3,
+      "elevation_m": 61
+    },
+    {
+      "lat": 35.86,
+      "lon": 14.38,
+      "elevation_m": 91
+    },
+    {
+      "lat": 35.86,
+      "lon": 14.46,
+      "elevation_m": 121
+    },
+    {
+      "lat": 35.86,
+      "lon": 14.54,
+      "elevation_m": 151
+    },
+    {
+      "lat": 35.94,
+      "lon": 14.22,
+      "elevation_m": 76
+    },
+    {
+      "lat": 35.94,
+      "lon": 14.3,
+      "elevation_m": 106
+    },
+    {
+      "lat": 35.94,
+      "lon": 14.38,
+      "elevation_m": 136
+    },
+    {
+      "lat": 35.94,
+      "lon": 14.46,
+      "elevation_m": 166
+    },
+    {
+      "lat": 35.94,
+      "lon": 14.54,
+      "elevation_m": 196
+    },
+    {
+      "lat": 36.02,
+      "lon": 14.22,
+      "elevation_m": 121
+    },
+    {
+      "lat": 36.02,
+      "lon": 14.3,
+      "elevation_m": 151
+    },
+    {
+      "lat": 36.02,
+      "lon": 14.38,
+      "elevation_m": 181
+    },
+    {
+      "lat": 36.02,
+      "lon": 14.46,
+      "elevation_m": 211
+    },
+    {
+      "lat": 36.02,
+      "lon": 14.54,
+      "elevation_m": 241
+    },
+    {
+      "lat": 36.1,
+      "lon": 14.22,
+      "elevation_m": 166
+    },
+    {
+      "lat": 36.1,
+      "lon": 14.3,
+      "elevation_m": 196
+    },
+    {
+      "lat": 36.1,
+      "lon": 14.38,
+      "elevation_m": 226
+    },
+    {
+      "lat": 36.1,
+      "lon": 14.46,
+      "elevation_m": 256
+    },
+    {
+      "lat": 36.1,
+      "lon": 14.54,
+      "elevation_m": 286
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.074214+00:00"
+}

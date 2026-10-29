@@ -1,0 +1,70 @@
+{
+  "country_code": "BG",
+  "touristic_zones": [
+    {
+      "id": "BG_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Sofia #1",
+      "lat": 42.716,
+      "lon": 25.474,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Bulharsko."
+    },
+    {
+      "id": "BG_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Sofia #2",
+      "lat": 42.725,
+      "lon": 25.485,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Bulharsko."
+    },
+    {
+      "id": "BG_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Sofia #3",
+      "lat": 42.734,
+      "lon": 25.496,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Bulharsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "BG_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Sofia #1",
+      "lat": 42.713,
+      "lon": 25.499,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "BG_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Sofia #2",
+      "lat": 42.725,
+      "lon": 25.485,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "BG_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Sofia #3",
+      "lat": 42.737,
+      "lon": 25.471,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

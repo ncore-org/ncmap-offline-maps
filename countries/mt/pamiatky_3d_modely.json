@@ -1,0 +1,89 @@
+{
+  "country_code": "MT",
+  "landmarks_3d": [
+    {
+      "id": "MT_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "St. John's Co-Cathedral Valletta 3D",
+      "lat": 35.9355,
+      "lon": 14.3745,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          35.9355,
+          14.3745
+        ],
+        [
+          35.9361,
+          14.3745
+        ],
+        [
+          35.9361,
+          14.3752
+        ],
+        [
+          35.9355,
+          14.3752
+        ]
+      ]
+    },
+    {
+      "id": "MT_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Mdina Gate 3D",
+      "lat": 35.94,
+      "lon": 14.38,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          35.94,
+          14.38
+        ],
+        [
+          35.9406,
+          14.38
+        ],
+        [
+          35.9406,
+          14.3807
+        ],
+        [
+          35.94,
+          14.3807
+        ]
+      ]
+    },
+    {
+      "id": "MT_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Fort St. Angelo 3D",
+      "lat": 35.9445,
+      "lon": 14.3855,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          35.9445,
+          14.3855
+        ],
+        [
+          35.9451,
+          14.3855
+        ],
+        [
+          35.9451,
+          14.3862
+        ],
+        [
+          35.9445,
+          14.3862
+        ]
+      ]
+    }
+  ]
+}

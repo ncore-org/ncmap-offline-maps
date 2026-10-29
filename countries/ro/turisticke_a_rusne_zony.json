@@ -1,0 +1,70 @@
+{
+  "country_code": "RO",
+  "touristic_zones": [
+    {
+      "id": "RO_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna București #1",
+      "lat": 45.936,
+      "lon": 24.964,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Rumunsko."
+    },
+    {
+      "id": "RO_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna București #2",
+      "lat": 45.945,
+      "lon": 24.975,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Rumunsko."
+    },
+    {
+      "id": "RO_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna București #3",
+      "lat": 45.954,
+      "lon": 24.986,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Rumunsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "RO_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum București #1",
+      "lat": 45.933,
+      "lon": 24.989,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "RO_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum București #2",
+      "lat": 45.945,
+      "lon": 24.975,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "RO_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum București #3",
+      "lat": 45.957,
+      "lon": 24.961,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

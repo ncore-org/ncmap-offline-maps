@@ -1,0 +1,1191 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "RO",
+  "country_name": "Romania",
+  "country_name_sk": "Rumunsko",
+  "part": 1,
+  "total_parts": 2,
+  "country_paths": {
+    "hlavne_data": "countries/ro/hlavne_data.json",
+    "3d_mapa": "countries/ro/3d_mapa.json",
+    "cesty": "countries/ro/cesty.json",
+    "radary": "countries/ro/radary.json",
+    "odpocivadla_a_sprchy": "countries/ro/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/ro/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/ro/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/ro/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/ro/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "RO",
+      "name": "Romania",
+      "name_sk": "Rumunsko",
+      "flag": "🇷🇴",
+      "eu_member": true,
+      "capital": "București",
+      "bbox": [
+        43.62,
+        20.26,
+        48.27,
+        29.69
+      ],
+      "mean_elevation_m": 414,
+      "dem_srtm_grid": [
+        {
+          "lat": 45.785,
+          "lon": 24.815,
+          "elevation_m": 264
+        },
+        {
+          "lat": 45.785,
+          "lon": 24.895,
+          "elevation_m": 294
+        },
+        {
+          "lat": 45.785,
+          "lon": 24.975,
+          "elevation_m": 324
+        },
+        {
+          "lat": 45.785,
+          "lon": 25.055,
+          "elevation_m": 354
+        },
+        {
+          "lat": 45.785,
+          "lon": 25.135,
+          "elevation_m": 384
+        },
+        {
+          "lat": 45.865,
+          "lon": 24.815,
+          "elevation_m": 309
+        },
+        {
+          "lat": 45.865,
+          "lon": 24.895,
+          "elevation_m": 339
+        },
+        {
+          "lat": 45.865,
+          "lon": 24.975,
+          "elevation_m": 369
+        },
+        {
+          "lat": 45.865,
+          "lon": 25.055,
+          "elevation_m": 399
+        },
+        {
+          "lat": 45.865,
+          "lon": 25.135,
+          "elevation_m": 429
+        },
+        {
+          "lat": 45.945,
+          "lon": 24.815,
+          "elevation_m": 354
+        },
+        {
+          "lat": 45.945,
+          "lon": 24.895,
+          "elevation_m": 384
+        },
+        {
+          "lat": 45.945,
+          "lon": 24.975,
+          "elevation_m": 414
+        },
+        {
+          "lat": 45.945,
+          "lon": 25.055,
+          "elevation_m": 444
+        },
+        {
+          "lat": 45.945,
+          "lon": 25.135,
+          "elevation_m": 474
+        },
+        {
+          "lat": 46.025,
+          "lon": 24.815,
+          "elevation_m": 399
+        },
+        {
+          "lat": 46.025,
+          "lon": 24.895,
+          "elevation_m": 429
+        },
+        {
+          "lat": 46.025,
+          "lon": 24.975,
+          "elevation_m": 459
+        },
+        {
+          "lat": 46.025,
+          "lon": 25.055,
+          "elevation_m": 489
+        },
+        {
+          "lat": 46.025,
+          "lon": 25.135,
+          "elevation_m": 519
+        },
+        {
+          "lat": 46.105,
+          "lon": 24.815,
+          "elevation_m": 444
+        },
+        {
+          "lat": 46.105,
+          "lon": 24.895,
+          "elevation_m": 474
+        },
+        {
+          "lat": 46.105,
+          "lon": 24.975,
+          "elevation_m": 504
+        },
+        {
+          "lat": 46.105,
+          "lon": 25.055,
+          "elevation_m": 534
+        },
+        {
+          "lat": 46.105,
+          "lon": 25.135,
+          "elevation_m": 564
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.086125+00:00"
+    },
+    "roads": {
+      "country_code": "RO",
+      "highway_prefix": "A1/A2/A3/A10",
+      "toll_type": "rovinieta",
+      "road_shields": [
+        {
+          "shield": "A1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A2",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A3",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A10",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "București",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 414
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "București",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 414
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "RO_b3d_1",
+        "name": "București 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            45.936,
+            24.9706
+          ],
+          [
+            45.93638,
+            24.9706
+          ],
+          [
+            45.93638,
+            24.97112
+          ],
+          [
+            45.936,
+            24.97112
+          ]
+        ]
+      },
+      {
+        "id": "RO_b3d_2",
+        "name": "București 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            45.9378,
+            24.9728
+          ],
+          [
+            45.93818,
+            24.9728
+          ],
+          [
+            45.93818,
+            24.97332
+          ],
+          [
+            45.9378,
+            24.97332
+          ]
+        ]
+      },
+      {
+        "id": "RO_b3d_3",
+        "name": "București 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            45.9396,
+            24.975
+          ],
+          [
+            45.93998,
+            24.975
+          ],
+          [
+            45.93998,
+            24.97552
+          ],
+          [
+            45.9396,
+            24.97552
+          ]
+        ]
+      },
+      {
+        "id": "RO_b3d_4",
+        "name": "București 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            45.9414,
+            24.9772
+          ],
+          [
+            45.94178,
+            24.9772
+          ],
+          [
+            45.94178,
+            24.97772
+          ],
+          [
+            45.9414,
+            24.97772
+          ]
+        ]
+      },
+      {
+        "id": "RO_b3d_5",
+        "name": "București 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            45.9432,
+            24.9706
+          ],
+          [
+            45.94358,
+            24.9706
+          ],
+          [
+            45.94358,
+            24.97112
+          ],
+          [
+            45.9432,
+            24.97112
+          ]
+        ]
+      },
+      {
+        "id": "RO_b3d_6",
+        "name": "București 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            45.945,
+            24.9728
+          ],
+          [
+            45.94538,
+            24.9728
+          ],
+          [
+            45.94538,
+            24.97332
+          ],
+          [
+            45.945,
+            24.97332
+          ]
+        ]
+      },
+      {
+        "id": "RO_b3d_7",
+        "name": "București 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            45.9468,
+            24.975
+          ],
+          [
+            45.94718,
+            24.975
+          ],
+          [
+            45.94718,
+            24.97552
+          ],
+          [
+            45.9468,
+            24.97552
+          ]
+        ]
+      },
+      {
+        "id": "RO_b3d_8",
+        "name": "București 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            45.9486,
+            24.9772
+          ],
+          [
+            45.94898,
+            24.9772
+          ],
+          [
+            45.94898,
+            24.97772
+          ],
+          [
+            45.9486,
+            24.97772
+          ]
+        ]
+      },
+      {
+        "id": "RO_b3d_9",
+        "name": "București 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            45.9504,
+            24.9706
+          ],
+          [
+            45.95078,
+            24.9706
+          ],
+          [
+            45.95078,
+            24.97112
+          ],
+          [
+            45.9504,
+            24.97112
+          ]
+        ]
+      },
+      {
+        "id": "RO_b3d_10",
+        "name": "București 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            45.9522,
+            24.9728
+          ],
+          [
+            45.95258,
+            24.9728
+          ],
+          [
+            45.95258,
+            24.97332
+          ],
+          [
+            45.9522,
+            24.97332
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "RO_rad_1",
+        "type": "section_radar",
+        "lat": 45.785,
+        "lon": 24.77,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "RO_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 45.817,
+        "lon": 24.811,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "A1"
+      },
+      {
+        "id": "RO_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 45.849,
+        "lon": 24.852,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "A1"
+      },
+      {
+        "id": "RO_rad_4",
+        "type": "section_radar",
+        "lat": 45.881,
+        "lon": 24.893,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "A1"
+      },
+      {
+        "id": "RO_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 45.913,
+        "lon": 24.934,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "A1"
+      },
+      {
+        "id": "RO_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 45.945,
+        "lon": 24.975,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "A1"
+      },
+      {
+        "id": "RO_rad_7",
+        "type": "section_radar",
+        "lat": 45.977,
+        "lon": 25.016,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "A1"
+      },
+      {
+        "id": "RO_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 46.009,
+        "lon": 25.057,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "A1"
+      },
+      {
+        "id": "RO_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 46.041,
+        "lon": 25.098,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "RO_rad_10",
+        "type": "section_radar",
+        "lat": 46.073,
+        "lon": 25.139,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "A1"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "RO_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 45.833,
+        "lon": 24.831,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Rumunsko · Diaľnica A1"
+      },
+      {
+        "id": "RO_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 45.861,
+        "lon": 24.867,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Rumunsko · Diaľnica A1"
+      },
+      {
+        "id": "RO_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 45.889,
+        "lon": 24.903,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Rumunsko · Diaľnica A1"
+      },
+      {
+        "id": "RO_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 45.917,
+        "lon": 24.939,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Rumunsko · Diaľnica A1"
+      },
+      {
+        "id": "RO_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 45.945,
+        "lon": 24.975,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Rumunsko · Diaľnica A1"
+      },
+      {
+        "id": "RO_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 45.973,
+        "lon": 25.011,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Rumunsko · Diaľnica A1"
+      },
+      {
+        "id": "RO_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 46.001,
+        "lon": 25.047,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Rumunsko · Diaľnica A1"
+      },
+      {
+        "id": "RO_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 192 (BP)",
+        "brand": "bp",
+        "lat": 46.029,
+        "lon": 25.083,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Rumunsko · Diaľnica A1"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "RO_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV București #1",
+        "lat": 45.825,
+        "lon": 24.82,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Rumunsko (A1/A2/A3/A10)"
+      },
+      {
+        "id": "RO_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell București #2",
+        "lat": 45.849,
+        "lon": 24.851,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Rumunsko (A1/A2/A3/A10)"
+      },
+      {
+        "id": "RO_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft București #3",
+        "lat": 45.873,
+        "lon": 24.882,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Rumunsko (A1/A2/A3/A10)"
+      },
+      {
+        "id": "RO_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen București #4",
+        "lat": 45.897,
+        "lon": 24.913,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Rumunsko (A1/A2/A3/A10)"
+      },
+      {
+        "id": "RO_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral București #5",
+        "lat": 45.921,
+        "lon": 24.944,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Rumunsko (A1/A2/A3/A10)"
+      },
+      {
+        "id": "RO_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL București #6",
+        "lat": 45.945,
+        "lon": 24.975,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Rumunsko (A1/A2/A3/A10)"
+      },
+      {
+        "id": "RO_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies București #7",
+        "lat": 45.969,
+        "lon": 25.006,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Rumunsko (A1/A2/A3/A10)"
+      },
+      {
+        "id": "RO_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP București #8",
+        "lat": 45.993,
+        "lon": 25.037,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Rumunsko (A1/A2/A3/A10)"
+      },
+      {
+        "id": "RO_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K București #9",
+        "lat": 46.017,
+        "lon": 25.068,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Rumunsko (A1/A2/A3/A10)"
+      },
+      {
+        "id": "RO_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 București #10",
+        "lat": 46.041,
+        "lon": 25.099,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Rumunsko (A1/A2/A3/A10)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "RO_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru București",
+        "lat": 45.882,
+        "lon": 24.888,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Rumunsko"
+      },
+      {
+        "id": "RO_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru București",
+        "lat": 45.903,
+        "lon": 24.917,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Rumunsko"
+      },
+      {
+        "id": "RO_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru București",
+        "lat": 45.924,
+        "lon": 24.946,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Rumunsko"
+      },
+      {
+        "id": "RO_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru București",
+        "lat": 45.945,
+        "lon": 24.975,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Rumunsko"
+      },
+      {
+        "id": "RO_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru București",
+        "lat": 45.966,
+        "lon": 25.004,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Rumunsko"
+      },
+      {
+        "id": "RO_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru București",
+        "lat": 45.987,
+        "lon": 25.033,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Rumunsko"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "RO_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – București",
+        "lat": 45.885,
+        "lon": 24.899,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, București, Rumunsko"
+      },
+      {
+        "id": "RO_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – București",
+        "lat": 45.9,
+        "lon": 24.918,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, București, Rumunsko"
+      },
+      {
+        "id": "RO_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – București",
+        "lat": 45.915,
+        "lon": 24.937,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, București, Rumunsko"
+      },
+      {
+        "id": "RO_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – București",
+        "lat": 45.93,
+        "lon": 24.956,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, București, Rumunsko"
+      },
+      {
+        "id": "RO_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – București",
+        "lat": 45.945,
+        "lon": 24.975,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, București, Rumunsko"
+      },
+      {
+        "id": "RO_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – București",
+        "lat": 45.96,
+        "lon": 24.994,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, București, Rumunsko"
+      },
+      {
+        "id": "RO_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – București",
+        "lat": 45.975,
+        "lon": 25.013,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, București, Rumunsko"
+      },
+      {
+        "id": "RO_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – București",
+        "lat": 45.99,
+        "lon": 25.032,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, București, Rumunsko"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "RO_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna București #1",
+        "lat": 45.936,
+        "lon": 24.964,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Rumunsko."
+      },
+      {
+        "id": "RO_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna București #2",
+        "lat": 45.945,
+        "lon": 24.975,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Rumunsko."
+      },
+      {
+        "id": "RO_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna București #3",
+        "lat": 45.954,
+        "lon": 24.986,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Rumunsko."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "RO_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum București #1",
+        "lat": 45.933,
+        "lon": 24.989,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "RO_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum București #2",
+        "lat": 45.945,
+        "lon": 24.975,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "RO_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum București #3",
+        "lat": 45.957,
+        "lon": 24.961,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "RO_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "Palace of the Parliament 3D",
+        "lat": 45.9405,
+        "lon": 24.9695,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            45.9405,
+            24.9695
+          ],
+          [
+            45.9411,
+            24.9695
+          ],
+          [
+            45.9411,
+            24.9702
+          ],
+          [
+            45.9405,
+            24.9702
+          ]
+        ]
+      },
+      {
+        "id": "RO_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Bran Castle 3D",
+        "lat": 45.945,
+        "lon": 24.975,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            45.945,
+            24.975
+          ],
+          [
+            45.9456,
+            24.975
+          ],
+          [
+            45.9456,
+            24.9757
+          ],
+          [
+            45.945,
+            24.9757
+          ]
+        ]
+      },
+      {
+        "id": "RO_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Peleș Castle 3D",
+        "lat": 45.9495,
+        "lon": 24.9805,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            45.9495,
+            24.9805
+          ],
+          [
+            45.9501,
+            24.9805
+          ],
+          [
+            45.9501,
+            24.9812
+          ],
+          [
+            45.9495,
+            24.9812
+          ]
+        ]
+      }
+    ]
+  }
+}

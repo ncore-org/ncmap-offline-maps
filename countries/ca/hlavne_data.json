@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "CA",
+  "name": "Canada",
+  "name_sk": "Kanada",
+  "flag": "🇨🇦",
+  "eu_member": false,
+  "capital": "Ottawa",
+  "bbox": [
+    42.0,
+    -141.0,
+    65.0,
+    -52.6
+  ],
+  "mean_elevation_m": 487,
+  "dem_srtm_grid": [
+    {
+      "lat": 53.34,
+      "lon": -96.96,
+      "elevation_m": 337
+    },
+    {
+      "lat": 53.34,
+      "lon": -96.88,
+      "elevation_m": 367
+    },
+    {
+      "lat": 53.34,
+      "lon": -96.8,
+      "elevation_m": 397
+    },
+    {
+      "lat": 53.34,
+      "lon": -96.72,
+      "elevation_m": 427
+    },
+    {
+      "lat": 53.34,
+      "lon": -96.64,
+      "elevation_m": 457
+    },
+    {
+      "lat": 53.42,
+      "lon": -96.96,
+      "elevation_m": 382
+    },
+    {
+      "lat": 53.42,
+      "lon": -96.88,
+      "elevation_m": 412
+    },
+    {
+      "lat": 53.42,
+      "lon": -96.8,
+      "elevation_m": 442
+    },
+    {
+      "lat": 53.42,
+      "lon": -96.72,
+      "elevation_m": 472
+    },
+    {
+      "lat": 53.42,
+      "lon": -96.64,
+      "elevation_m": 502
+    },
+    {
+      "lat": 53.5,
+      "lon": -96.96,
+      "elevation_m": 427
+    },
+    {
+      "lat": 53.5,
+      "lon": -96.88,
+      "elevation_m": 457
+    },
+    {
+      "lat": 53.5,
+      "lon": -96.8,
+      "elevation_m": 487
+    },
+    {
+      "lat": 53.5,
+      "lon": -96.72,
+      "elevation_m": 517
+    },
+    {
+      "lat": 53.5,
+      "lon": -96.64,
+      "elevation_m": 547
+    },
+    {
+      "lat": 53.58,
+      "lon": -96.96,
+      "elevation_m": 472
+    },
+    {
+      "lat": 53.58,
+      "lon": -96.88,
+      "elevation_m": 502
+    },
+    {
+      "lat": 53.58,
+      "lon": -96.8,
+      "elevation_m": 532
+    },
+    {
+      "lat": 53.58,
+      "lon": -96.72,
+      "elevation_m": 562
+    },
+    {
+      "lat": 53.58,
+      "lon": -96.64,
+      "elevation_m": 592
+    },
+    {
+      "lat": 53.66,
+      "lon": -96.96,
+      "elevation_m": 517
+    },
+    {
+      "lat": 53.66,
+      "lon": -96.88,
+      "elevation_m": 547
+    },
+    {
+      "lat": 53.66,
+      "lon": -96.8,
+      "elevation_m": 577
+    },
+    {
+      "lat": 53.66,
+      "lon": -96.72,
+      "elevation_m": 607
+    },
+    {
+      "lat": 53.66,
+      "lon": -96.64,
+      "elevation_m": 637
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.112456+00:00"
+}

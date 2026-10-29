@@ -1,0 +1,89 @@
+{
+  "country_code": "EE",
+  "landmarks_3d": [
+    {
+      "id": "EE_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Toompea Castle Tallinn 3D",
+      "lat": 58.5905,
+      "lon": 24.9795,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          58.5905,
+          24.9795
+        ],
+        [
+          58.5911,
+          24.9795
+        ],
+        [
+          58.5911,
+          24.9802
+        ],
+        [
+          58.5905,
+          24.9802
+        ]
+      ]
+    },
+    {
+      "id": "EE_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "St. Olaf's Church 3D",
+      "lat": 58.595,
+      "lon": 24.985,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          58.595,
+          24.985
+        ],
+        [
+          58.5956,
+          24.985
+        ],
+        [
+          58.5956,
+          24.9857
+        ],
+        [
+          58.595,
+          24.9857
+        ]
+      ]
+    },
+    {
+      "id": "EE_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Alexander Nevsky Tallinn 3D",
+      "lat": 58.5995,
+      "lon": 24.9905,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          58.5995,
+          24.9905
+        ],
+        [
+          58.6001,
+          24.9905
+        ],
+        [
+          58.6001,
+          24.9912
+        ],
+        [
+          58.5995,
+          24.9912
+        ]
+      ]
+    }
+  ]
+}

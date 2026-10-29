@@ -1,0 +1,1197 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "CZ",
+  "country_name": "Czechia",
+  "country_name_sk": "Česko",
+  "part": 2,
+  "total_parts": 2,
+  "country_paths": {
+    "hlavne_data": "countries/cz/hlavne_data.json",
+    "3d_mapa": "countries/cz/3d_mapa.json",
+    "cesty": "countries/cz/cesty.json",
+    "radary": "countries/cz/radary.json",
+    "odpocivadla_a_sprchy": "countries/cz/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/cz/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/cz/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/cz/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/cz/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "CZ",
+      "name": "Czechia",
+      "name_sk": "Česko",
+      "flag": "🇨🇿",
+      "eu_member": true,
+      "capital": "Praha",
+      "bbox": [
+        48.55,
+        12.09,
+        51.06,
+        18.86
+      ],
+      "mean_elevation_m": 430,
+      "dem_srtm_grid": [
+        {
+          "lat": 49.645,
+          "lon": 15.315,
+          "elevation_m": 280
+        },
+        {
+          "lat": 49.645,
+          "lon": 15.395,
+          "elevation_m": 310
+        },
+        {
+          "lat": 49.645,
+          "lon": 15.475,
+          "elevation_m": 340
+        },
+        {
+          "lat": 49.645,
+          "lon": 15.555,
+          "elevation_m": 370
+        },
+        {
+          "lat": 49.645,
+          "lon": 15.635,
+          "elevation_m": 400
+        },
+        {
+          "lat": 49.725,
+          "lon": 15.315,
+          "elevation_m": 325
+        },
+        {
+          "lat": 49.725,
+          "lon": 15.395,
+          "elevation_m": 355
+        },
+        {
+          "lat": 49.725,
+          "lon": 15.475,
+          "elevation_m": 385
+        },
+        {
+          "lat": 49.725,
+          "lon": 15.555,
+          "elevation_m": 415
+        },
+        {
+          "lat": 49.725,
+          "lon": 15.635,
+          "elevation_m": 445
+        },
+        {
+          "lat": 49.805,
+          "lon": 15.315,
+          "elevation_m": 370
+        },
+        {
+          "lat": 49.805,
+          "lon": 15.395,
+          "elevation_m": 400
+        },
+        {
+          "lat": 49.805,
+          "lon": 15.475,
+          "elevation_m": 430
+        },
+        {
+          "lat": 49.805,
+          "lon": 15.555,
+          "elevation_m": 460
+        },
+        {
+          "lat": 49.805,
+          "lon": 15.635,
+          "elevation_m": 490
+        },
+        {
+          "lat": 49.885,
+          "lon": 15.315,
+          "elevation_m": 415
+        },
+        {
+          "lat": 49.885,
+          "lon": 15.395,
+          "elevation_m": 445
+        },
+        {
+          "lat": 49.885,
+          "lon": 15.475,
+          "elevation_m": 475
+        },
+        {
+          "lat": 49.885,
+          "lon": 15.555,
+          "elevation_m": 505
+        },
+        {
+          "lat": 49.885,
+          "lon": 15.635,
+          "elevation_m": 535
+        },
+        {
+          "lat": 49.965,
+          "lon": 15.315,
+          "elevation_m": 460
+        },
+        {
+          "lat": 49.965,
+          "lon": 15.395,
+          "elevation_m": 490
+        },
+        {
+          "lat": 49.965,
+          "lon": 15.475,
+          "elevation_m": 520
+        },
+        {
+          "lat": 49.965,
+          "lon": 15.555,
+          "elevation_m": 550
+        },
+        {
+          "lat": 49.965,
+          "lon": 15.635,
+          "elevation_m": 580
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.036414+00:00"
+    },
+    "roads": {
+      "country_code": "CZ",
+      "highway_prefix": "D1/D2/D5/D8/D11",
+      "toll_type": "e_dalnice_vignette",
+      "road_shields": [
+        {
+          "shield": "D1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "D2",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "D5",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "D8",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "D11",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "Praha",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 430
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "Praha",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 430
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "CZ_b3d_1",
+        "name": "Praha 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            49.796,
+            15.4706
+          ],
+          [
+            49.79638,
+            15.4706
+          ],
+          [
+            49.79638,
+            15.47112
+          ],
+          [
+            49.796,
+            15.47112
+          ]
+        ]
+      },
+      {
+        "id": "CZ_b3d_2",
+        "name": "Praha 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            49.7978,
+            15.4728
+          ],
+          [
+            49.79818,
+            15.4728
+          ],
+          [
+            49.79818,
+            15.47332
+          ],
+          [
+            49.7978,
+            15.47332
+          ]
+        ]
+      },
+      {
+        "id": "CZ_b3d_3",
+        "name": "Praha 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            49.7996,
+            15.475
+          ],
+          [
+            49.79998,
+            15.475
+          ],
+          [
+            49.79998,
+            15.47552
+          ],
+          [
+            49.7996,
+            15.47552
+          ]
+        ]
+      },
+      {
+        "id": "CZ_b3d_4",
+        "name": "Praha 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            49.8014,
+            15.4772
+          ],
+          [
+            49.80178,
+            15.4772
+          ],
+          [
+            49.80178,
+            15.47772
+          ],
+          [
+            49.8014,
+            15.47772
+          ]
+        ]
+      },
+      {
+        "id": "CZ_b3d_5",
+        "name": "Praha 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            49.8032,
+            15.4706
+          ],
+          [
+            49.80358,
+            15.4706
+          ],
+          [
+            49.80358,
+            15.47112
+          ],
+          [
+            49.8032,
+            15.47112
+          ]
+        ]
+      },
+      {
+        "id": "CZ_b3d_6",
+        "name": "Praha 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            49.805,
+            15.4728
+          ],
+          [
+            49.80538,
+            15.4728
+          ],
+          [
+            49.80538,
+            15.47332
+          ],
+          [
+            49.805,
+            15.47332
+          ]
+        ]
+      },
+      {
+        "id": "CZ_b3d_7",
+        "name": "Praha 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            49.8068,
+            15.475
+          ],
+          [
+            49.80718,
+            15.475
+          ],
+          [
+            49.80718,
+            15.47552
+          ],
+          [
+            49.8068,
+            15.47552
+          ]
+        ]
+      },
+      {
+        "id": "CZ_b3d_8",
+        "name": "Praha 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            49.8086,
+            15.4772
+          ],
+          [
+            49.80898,
+            15.4772
+          ],
+          [
+            49.80898,
+            15.47772
+          ],
+          [
+            49.8086,
+            15.47772
+          ]
+        ]
+      },
+      {
+        "id": "CZ_b3d_9",
+        "name": "Praha 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            49.8104,
+            15.4706
+          ],
+          [
+            49.81078,
+            15.4706
+          ],
+          [
+            49.81078,
+            15.47112
+          ],
+          [
+            49.8104,
+            15.47112
+          ]
+        ]
+      },
+      {
+        "id": "CZ_b3d_10",
+        "name": "Praha 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            49.8122,
+            15.4728
+          ],
+          [
+            49.81258,
+            15.4728
+          ],
+          [
+            49.81258,
+            15.47332
+          ],
+          [
+            49.8122,
+            15.47332
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "CZ_rad_1",
+        "type": "section_radar",
+        "lat": 49.645,
+        "lon": 15.27,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "D1"
+      },
+      {
+        "id": "CZ_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 49.677,
+        "lon": 15.311,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "D1"
+      },
+      {
+        "id": "CZ_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 49.709,
+        "lon": 15.352,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "D1"
+      },
+      {
+        "id": "CZ_rad_4",
+        "type": "section_radar",
+        "lat": 49.741,
+        "lon": 15.393,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "D1"
+      },
+      {
+        "id": "CZ_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 49.773,
+        "lon": 15.434,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "D1"
+      },
+      {
+        "id": "CZ_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 49.805,
+        "lon": 15.475,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "D1"
+      },
+      {
+        "id": "CZ_rad_7",
+        "type": "section_radar",
+        "lat": 49.837,
+        "lon": 15.516,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "D1"
+      },
+      {
+        "id": "CZ_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 49.869,
+        "lon": 15.557,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "D1"
+      },
+      {
+        "id": "CZ_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 49.901,
+        "lon": 15.598,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "D1"
+      },
+      {
+        "id": "CZ_rad_10",
+        "type": "section_radar",
+        "lat": 49.933,
+        "lon": 15.639,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "D1"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "CZ_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy D1 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 49.693,
+        "lon": 15.331,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Česko · Diaľnica D1"
+      },
+      {
+        "id": "CZ_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy D1 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 49.721,
+        "lon": 15.367,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Česko · Diaľnica D1"
+      },
+      {
+        "id": "CZ_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy D1 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 49.749,
+        "lon": 15.403,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Česko · Diaľnica D1"
+      },
+      {
+        "id": "CZ_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy D1 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 49.777,
+        "lon": 15.439,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Česko · Diaľnica D1"
+      },
+      {
+        "id": "CZ_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy D1 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 49.805,
+        "lon": 15.475,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Česko · Diaľnica D1"
+      },
+      {
+        "id": "CZ_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy D1 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 49.833,
+        "lon": 15.511,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Česko · Diaľnica D1"
+      },
+      {
+        "id": "CZ_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy D1 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 49.861,
+        "lon": 15.547,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Česko · Diaľnica D1"
+      },
+      {
+        "id": "CZ_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy D1 km 192 (BP)",
+        "brand": "bp",
+        "lat": 49.889,
+        "lon": 15.583,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Česko · Diaľnica D1"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "CZ_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV Praha #1",
+        "lat": 49.685,
+        "lon": 15.32,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Česko (D1/D2/D5/D8/D11)"
+      },
+      {
+        "id": "CZ_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell Praha #2",
+        "lat": 49.709,
+        "lon": 15.351,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Česko (D1/D2/D5/D8/D11)"
+      },
+      {
+        "id": "CZ_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft Praha #3",
+        "lat": 49.733,
+        "lon": 15.382,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Česko (D1/D2/D5/D8/D11)"
+      },
+      {
+        "id": "CZ_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen Praha #4",
+        "lat": 49.757,
+        "lon": 15.413,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Česko (D1/D2/D5/D8/D11)"
+      },
+      {
+        "id": "CZ_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral Praha #5",
+        "lat": 49.781,
+        "lon": 15.444,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Česko (D1/D2/D5/D8/D11)"
+      },
+      {
+        "id": "CZ_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL Praha #6",
+        "lat": 49.805,
+        "lon": 15.475,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Česko (D1/D2/D5/D8/D11)"
+      },
+      {
+        "id": "CZ_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies Praha #7",
+        "lat": 49.829,
+        "lon": 15.506,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Česko (D1/D2/D5/D8/D11)"
+      },
+      {
+        "id": "CZ_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP Praha #8",
+        "lat": 49.853,
+        "lon": 15.537,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Česko (D1/D2/D5/D8/D11)"
+      },
+      {
+        "id": "CZ_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K Praha #9",
+        "lat": 49.877,
+        "lon": 15.568,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Česko (D1/D2/D5/D8/D11)"
+      },
+      {
+        "id": "CZ_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 Praha #10",
+        "lat": 49.901,
+        "lon": 15.599,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Česko (D1/D2/D5/D8/D11)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "CZ_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru Praha",
+        "lat": 49.742,
+        "lon": 15.388,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Česko"
+      },
+      {
+        "id": "CZ_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru Praha",
+        "lat": 49.763,
+        "lon": 15.417,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Česko"
+      },
+      {
+        "id": "CZ_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru Praha",
+        "lat": 49.784,
+        "lon": 15.446,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Česko"
+      },
+      {
+        "id": "CZ_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru Praha",
+        "lat": 49.805,
+        "lon": 15.475,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Česko"
+      },
+      {
+        "id": "CZ_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru Praha",
+        "lat": 49.826,
+        "lon": 15.504,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Česko"
+      },
+      {
+        "id": "CZ_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru Praha",
+        "lat": 49.847,
+        "lon": 15.533,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Česko"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "CZ_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – Praha",
+        "lat": 49.745,
+        "lon": 15.399,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, Praha, Česko"
+      },
+      {
+        "id": "CZ_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – Praha",
+        "lat": 49.76,
+        "lon": 15.418,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, Praha, Česko"
+      },
+      {
+        "id": "CZ_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – Praha",
+        "lat": 49.775,
+        "lon": 15.437,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, Praha, Česko"
+      },
+      {
+        "id": "CZ_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – Praha",
+        "lat": 49.79,
+        "lon": 15.456,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, Praha, Česko"
+      },
+      {
+        "id": "CZ_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – Praha",
+        "lat": 49.805,
+        "lon": 15.475,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, Praha, Česko"
+      },
+      {
+        "id": "CZ_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – Praha",
+        "lat": 49.82,
+        "lon": 15.494,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, Praha, Česko"
+      },
+      {
+        "id": "CZ_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – Praha",
+        "lat": 49.835,
+        "lon": 15.513,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, Praha, Česko"
+      },
+      {
+        "id": "CZ_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – Praha",
+        "lat": 49.85,
+        "lon": 15.532,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, Praha, Česko"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "CZ_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Praha #1",
+        "lat": 49.796,
+        "lon": 15.464,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Česko."
+      },
+      {
+        "id": "CZ_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Praha #2",
+        "lat": 49.805,
+        "lon": 15.475,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Česko."
+      },
+      {
+        "id": "CZ_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Praha #3",
+        "lat": 49.814,
+        "lon": 15.486,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Česko."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "CZ_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Praha #1",
+        "lat": 49.793,
+        "lon": 15.489,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "CZ_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Praha #2",
+        "lat": 49.805,
+        "lon": 15.475,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "CZ_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Praha #3",
+        "lat": 49.817,
+        "lon": 15.461,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "CZ_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "Pražský hrad & Katedrála sv. Víta 3D",
+        "lat": 49.8005,
+        "lon": 15.4695,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            49.8005,
+            15.4695
+          ],
+          [
+            49.8011,
+            15.4695
+          ],
+          [
+            49.8011,
+            15.4702
+          ],
+          [
+            49.8005,
+            15.4702
+          ]
+        ]
+      },
+      {
+        "id": "CZ_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Karlův most 3D",
+        "lat": 49.805,
+        "lon": 15.475,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            49.805,
+            15.475
+          ],
+          [
+            49.8056,
+            15.475
+          ],
+          [
+            49.8056,
+            15.4757
+          ],
+          [
+            49.805,
+            15.4757
+          ]
+        ]
+      },
+      {
+        "id": "CZ_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Chrám sv. Barbory Kutná Hora 3D",
+        "lat": 49.8095,
+        "lon": 15.4805,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            49.8095,
+            15.4805
+          ],
+          [
+            49.8101,
+            15.4805
+          ],
+          [
+            49.8101,
+            15.4812
+          ],
+          [
+            49.8095,
+            15.4812
+          ]
+        ]
+      }
+    ]
+  }
+}

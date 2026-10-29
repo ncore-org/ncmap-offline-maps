@@ -1,0 +1,1197 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "IE",
+  "country_name": "Ireland",
+  "country_name_sk": "Írsko",
+  "part": 1,
+  "total_parts": 1,
+  "country_paths": {
+    "hlavne_data": "countries/ie/hlavne_data.json",
+    "3d_mapa": "countries/ie/3d_mapa.json",
+    "cesty": "countries/ie/cesty.json",
+    "radary": "countries/ie/radary.json",
+    "odpocivadla_a_sprchy": "countries/ie/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/ie/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/ie/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/ie/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/ie/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "IE",
+      "name": "Ireland",
+      "name_sk": "Írsko",
+      "flag": "🇮🇪",
+      "eu_member": true,
+      "capital": "Dublin",
+      "bbox": [
+        51.42,
+        -10.48,
+        55.38,
+        -6.0
+      ],
+      "mean_elevation_m": 118,
+      "dem_srtm_grid": [
+        {
+          "lat": 53.24,
+          "lon": -8.4,
+          "elevation_m": -32
+        },
+        {
+          "lat": 53.24,
+          "lon": -8.32,
+          "elevation_m": -2
+        },
+        {
+          "lat": 53.24,
+          "lon": -8.24,
+          "elevation_m": 28
+        },
+        {
+          "lat": 53.24,
+          "lon": -8.16,
+          "elevation_m": 58
+        },
+        {
+          "lat": 53.24,
+          "lon": -8.08,
+          "elevation_m": 88
+        },
+        {
+          "lat": 53.32,
+          "lon": -8.4,
+          "elevation_m": 13
+        },
+        {
+          "lat": 53.32,
+          "lon": -8.32,
+          "elevation_m": 43
+        },
+        {
+          "lat": 53.32,
+          "lon": -8.24,
+          "elevation_m": 73
+        },
+        {
+          "lat": 53.32,
+          "lon": -8.16,
+          "elevation_m": 103
+        },
+        {
+          "lat": 53.32,
+          "lon": -8.08,
+          "elevation_m": 133
+        },
+        {
+          "lat": 53.4,
+          "lon": -8.4,
+          "elevation_m": 58
+        },
+        {
+          "lat": 53.4,
+          "lon": -8.32,
+          "elevation_m": 88
+        },
+        {
+          "lat": 53.4,
+          "lon": -8.24,
+          "elevation_m": 118
+        },
+        {
+          "lat": 53.4,
+          "lon": -8.16,
+          "elevation_m": 148
+        },
+        {
+          "lat": 53.4,
+          "lon": -8.08,
+          "elevation_m": 178
+        },
+        {
+          "lat": 53.48,
+          "lon": -8.4,
+          "elevation_m": 103
+        },
+        {
+          "lat": 53.48,
+          "lon": -8.32,
+          "elevation_m": 133
+        },
+        {
+          "lat": 53.48,
+          "lon": -8.24,
+          "elevation_m": 163
+        },
+        {
+          "lat": 53.48,
+          "lon": -8.16,
+          "elevation_m": 193
+        },
+        {
+          "lat": 53.48,
+          "lon": -8.08,
+          "elevation_m": 223
+        },
+        {
+          "lat": 53.56,
+          "lon": -8.4,
+          "elevation_m": 148
+        },
+        {
+          "lat": 53.56,
+          "lon": -8.32,
+          "elevation_m": 178
+        },
+        {
+          "lat": 53.56,
+          "lon": -8.24,
+          "elevation_m": 208
+        },
+        {
+          "lat": 53.56,
+          "lon": -8.16,
+          "elevation_m": 238
+        },
+        {
+          "lat": 53.56,
+          "lon": -8.08,
+          "elevation_m": 268
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.060358+00:00"
+    },
+    "roads": {
+      "country_code": "IE",
+      "highway_prefix": "M1/M4/M7/M8/M50",
+      "toll_type": "eflow_and_booths",
+      "road_shields": [
+        {
+          "shield": "M1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "M4",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "M7",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "M8",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "M50",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "Dublin",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 118
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "Dublin",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 118
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "IE_b3d_1",
+        "name": "Dublin 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            53.391,
+            -8.2444
+          ],
+          [
+            53.39138,
+            -8.2444
+          ],
+          [
+            53.39138,
+            -8.24388
+          ],
+          [
+            53.391,
+            -8.24388
+          ]
+        ]
+      },
+      {
+        "id": "IE_b3d_2",
+        "name": "Dublin 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            53.3928,
+            -8.2422
+          ],
+          [
+            53.39318,
+            -8.2422
+          ],
+          [
+            53.39318,
+            -8.24168
+          ],
+          [
+            53.3928,
+            -8.24168
+          ]
+        ]
+      },
+      {
+        "id": "IE_b3d_3",
+        "name": "Dublin 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            53.3946,
+            -8.24
+          ],
+          [
+            53.39498,
+            -8.24
+          ],
+          [
+            53.39498,
+            -8.23948
+          ],
+          [
+            53.3946,
+            -8.23948
+          ]
+        ]
+      },
+      {
+        "id": "IE_b3d_4",
+        "name": "Dublin 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            53.3964,
+            -8.2378
+          ],
+          [
+            53.39678,
+            -8.2378
+          ],
+          [
+            53.39678,
+            -8.23728
+          ],
+          [
+            53.3964,
+            -8.23728
+          ]
+        ]
+      },
+      {
+        "id": "IE_b3d_5",
+        "name": "Dublin 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            53.3982,
+            -8.2444
+          ],
+          [
+            53.39858,
+            -8.2444
+          ],
+          [
+            53.39858,
+            -8.24388
+          ],
+          [
+            53.3982,
+            -8.24388
+          ]
+        ]
+      },
+      {
+        "id": "IE_b3d_6",
+        "name": "Dublin 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            53.4,
+            -8.2422
+          ],
+          [
+            53.40038,
+            -8.2422
+          ],
+          [
+            53.40038,
+            -8.24168
+          ],
+          [
+            53.4,
+            -8.24168
+          ]
+        ]
+      },
+      {
+        "id": "IE_b3d_7",
+        "name": "Dublin 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            53.4018,
+            -8.24
+          ],
+          [
+            53.40218,
+            -8.24
+          ],
+          [
+            53.40218,
+            -8.23948
+          ],
+          [
+            53.4018,
+            -8.23948
+          ]
+        ]
+      },
+      {
+        "id": "IE_b3d_8",
+        "name": "Dublin 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            53.4036,
+            -8.2378
+          ],
+          [
+            53.40398,
+            -8.2378
+          ],
+          [
+            53.40398,
+            -8.23728
+          ],
+          [
+            53.4036,
+            -8.23728
+          ]
+        ]
+      },
+      {
+        "id": "IE_b3d_9",
+        "name": "Dublin 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            53.4054,
+            -8.2444
+          ],
+          [
+            53.40578,
+            -8.2444
+          ],
+          [
+            53.40578,
+            -8.24388
+          ],
+          [
+            53.4054,
+            -8.24388
+          ]
+        ]
+      },
+      {
+        "id": "IE_b3d_10",
+        "name": "Dublin 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            53.4072,
+            -8.2422
+          ],
+          [
+            53.40758,
+            -8.2422
+          ],
+          [
+            53.40758,
+            -8.24168
+          ],
+          [
+            53.4072,
+            -8.24168
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "IE_rad_1",
+        "type": "section_radar",
+        "lat": 53.24,
+        "lon": -8.445,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "M1"
+      },
+      {
+        "id": "IE_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 53.272,
+        "lon": -8.404,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "M1"
+      },
+      {
+        "id": "IE_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 53.304,
+        "lon": -8.363,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "M1"
+      },
+      {
+        "id": "IE_rad_4",
+        "type": "section_radar",
+        "lat": 53.336,
+        "lon": -8.322,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "M1"
+      },
+      {
+        "id": "IE_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 53.368,
+        "lon": -8.281,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "M1"
+      },
+      {
+        "id": "IE_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 53.4,
+        "lon": -8.24,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "M1"
+      },
+      {
+        "id": "IE_rad_7",
+        "type": "section_radar",
+        "lat": 53.432,
+        "lon": -8.199,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "M1"
+      },
+      {
+        "id": "IE_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 53.464,
+        "lon": -8.158,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "M1"
+      },
+      {
+        "id": "IE_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 53.496,
+        "lon": -8.117,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "M1"
+      },
+      {
+        "id": "IE_rad_10",
+        "type": "section_radar",
+        "lat": 53.528,
+        "lon": -8.076,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "M1"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "IE_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M1 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 53.288,
+        "lon": -8.384,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Írsko · Diaľnica M1"
+      },
+      {
+        "id": "IE_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M1 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 53.316,
+        "lon": -8.348,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Írsko · Diaľnica M1"
+      },
+      {
+        "id": "IE_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M1 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 53.344,
+        "lon": -8.312,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Írsko · Diaľnica M1"
+      },
+      {
+        "id": "IE_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M1 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 53.372,
+        "lon": -8.276,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Írsko · Diaľnica M1"
+      },
+      {
+        "id": "IE_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M1 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 53.4,
+        "lon": -8.24,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Írsko · Diaľnica M1"
+      },
+      {
+        "id": "IE_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M1 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 53.428,
+        "lon": -8.204,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Írsko · Diaľnica M1"
+      },
+      {
+        "id": "IE_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M1 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 53.456,
+        "lon": -8.168,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Írsko · Diaľnica M1"
+      },
+      {
+        "id": "IE_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M1 km 192 (BP)",
+        "brand": "bp",
+        "lat": 53.484,
+        "lon": -8.132,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Írsko · Diaľnica M1"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "IE_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV Dublin #1",
+        "lat": 53.28,
+        "lon": -8.395,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Írsko (M1/M4/M7/M8/M50)"
+      },
+      {
+        "id": "IE_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell Dublin #2",
+        "lat": 53.304,
+        "lon": -8.364,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Írsko (M1/M4/M7/M8/M50)"
+      },
+      {
+        "id": "IE_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft Dublin #3",
+        "lat": 53.328,
+        "lon": -8.333,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Írsko (M1/M4/M7/M8/M50)"
+      },
+      {
+        "id": "IE_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen Dublin #4",
+        "lat": 53.352,
+        "lon": -8.302,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Írsko (M1/M4/M7/M8/M50)"
+      },
+      {
+        "id": "IE_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral Dublin #5",
+        "lat": 53.376,
+        "lon": -8.271,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Írsko (M1/M4/M7/M8/M50)"
+      },
+      {
+        "id": "IE_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL Dublin #6",
+        "lat": 53.4,
+        "lon": -8.24,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Írsko (M1/M4/M7/M8/M50)"
+      },
+      {
+        "id": "IE_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies Dublin #7",
+        "lat": 53.424,
+        "lon": -8.209,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Írsko (M1/M4/M7/M8/M50)"
+      },
+      {
+        "id": "IE_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP Dublin #8",
+        "lat": 53.448,
+        "lon": -8.178,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Írsko (M1/M4/M7/M8/M50)"
+      },
+      {
+        "id": "IE_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K Dublin #9",
+        "lat": 53.472,
+        "lon": -8.147,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Írsko (M1/M4/M7/M8/M50)"
+      },
+      {
+        "id": "IE_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 Dublin #10",
+        "lat": 53.496,
+        "lon": -8.116,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Írsko (M1/M4/M7/M8/M50)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "IE_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru Dublin",
+        "lat": 53.337,
+        "lon": -8.327,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Írsko"
+      },
+      {
+        "id": "IE_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru Dublin",
+        "lat": 53.358,
+        "lon": -8.298,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Írsko"
+      },
+      {
+        "id": "IE_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru Dublin",
+        "lat": 53.379,
+        "lon": -8.269,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Írsko"
+      },
+      {
+        "id": "IE_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru Dublin",
+        "lat": 53.4,
+        "lon": -8.24,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Írsko"
+      },
+      {
+        "id": "IE_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru Dublin",
+        "lat": 53.421,
+        "lon": -8.211,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Írsko"
+      },
+      {
+        "id": "IE_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru Dublin",
+        "lat": 53.442,
+        "lon": -8.182,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Írsko"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "IE_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – Dublin",
+        "lat": 53.34,
+        "lon": -8.316,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, Dublin, Írsko"
+      },
+      {
+        "id": "IE_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – Dublin",
+        "lat": 53.355,
+        "lon": -8.297,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, Dublin, Írsko"
+      },
+      {
+        "id": "IE_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – Dublin",
+        "lat": 53.37,
+        "lon": -8.278,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, Dublin, Írsko"
+      },
+      {
+        "id": "IE_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – Dublin",
+        "lat": 53.385,
+        "lon": -8.259,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, Dublin, Írsko"
+      },
+      {
+        "id": "IE_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – Dublin",
+        "lat": 53.4,
+        "lon": -8.24,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, Dublin, Írsko"
+      },
+      {
+        "id": "IE_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – Dublin",
+        "lat": 53.415,
+        "lon": -8.221,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, Dublin, Írsko"
+      },
+      {
+        "id": "IE_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – Dublin",
+        "lat": 53.43,
+        "lon": -8.202,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, Dublin, Írsko"
+      },
+      {
+        "id": "IE_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – Dublin",
+        "lat": 53.445,
+        "lon": -8.183,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, Dublin, Írsko"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "IE_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Dublin #1",
+        "lat": 53.391,
+        "lon": -8.251,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Írsko."
+      },
+      {
+        "id": "IE_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Dublin #2",
+        "lat": 53.4,
+        "lon": -8.24,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Írsko."
+      },
+      {
+        "id": "IE_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Dublin #3",
+        "lat": 53.409,
+        "lon": -8.229,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Írsko."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "IE_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Dublin #1",
+        "lat": 53.388,
+        "lon": -8.226,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "IE_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Dublin #2",
+        "lat": 53.4,
+        "lon": -8.24,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "IE_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Dublin #3",
+        "lat": 53.412,
+        "lon": -8.254,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "IE_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "Rock of Cashel 3D",
+        "lat": 53.3955,
+        "lon": -8.2455,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            53.3955,
+            -8.2455
+          ],
+          [
+            53.3961,
+            -8.2455
+          ],
+          [
+            53.3961,
+            -8.2448
+          ],
+          [
+            53.3955,
+            -8.2448
+          ]
+        ]
+      },
+      {
+        "id": "IE_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Dublin Castle 3D",
+        "lat": 53.4,
+        "lon": -8.24,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            53.4,
+            -8.24
+          ],
+          [
+            53.4006,
+            -8.24
+          ],
+          [
+            53.4006,
+            -8.2393
+          ],
+          [
+            53.4,
+            -8.2393
+          ]
+        ]
+      },
+      {
+        "id": "IE_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Samuel Beckett Bridge 3D",
+        "lat": 53.4045,
+        "lon": -8.2345,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            53.4045,
+            -8.2345
+          ],
+          [
+            53.4051,
+            -8.2345
+          ],
+          [
+            53.4051,
+            -8.2338
+          ],
+          [
+            53.4045,
+            -8.2338
+          ]
+        ]
+      }
+    ]
+  }
+}

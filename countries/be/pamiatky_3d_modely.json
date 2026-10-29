@@ -1,0 +1,89 @@
+{
+  "country_code": "BE",
+  "landmarks_3d": [
+    {
+      "id": "BE_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Atomium Brussels 3D",
+      "lat": 50.4955,
+      "lon": 4.4645,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          50.4955,
+          4.4645
+        ],
+        [
+          50.4961,
+          4.4645
+        ],
+        [
+          50.4961,
+          4.4652
+        ],
+        [
+          50.4955,
+          4.4652
+        ]
+      ]
+    },
+    {
+      "id": "BE_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Grand-Place Town Hall 3D",
+      "lat": 50.5,
+      "lon": 4.47,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          50.5,
+          4.47
+        ],
+        [
+          50.5006,
+          4.47
+        ],
+        [
+          50.5006,
+          4.4707
+        ],
+        [
+          50.5,
+          4.4707
+        ]
+      ]
+    },
+    {
+      "id": "BE_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Belfort van Brugge 3D",
+      "lat": 50.5045,
+      "lon": 4.4755,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          50.5045,
+          4.4755
+        ],
+        [
+          50.5051,
+          4.4755
+        ],
+        [
+          50.5051,
+          4.4762
+        ],
+        [
+          50.5045,
+          4.4762
+        ]
+      ]
+    }
+  ]
+}

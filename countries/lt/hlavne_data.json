@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "LT",
+  "name": "Lithuania",
+  "name_sk": "Litva",
+  "flag": "🇱🇹",
+  "eu_member": true,
+  "capital": "Vilnius",
+  "bbox": [
+    53.89,
+    20.93,
+    56.45,
+    26.83
+  ],
+  "mean_elevation_m": 110,
+  "dem_srtm_grid": [
+    {
+      "lat": 55.01,
+      "lon": 23.72,
+      "elevation_m": -40
+    },
+    {
+      "lat": 55.01,
+      "lon": 23.8,
+      "elevation_m": -10
+    },
+    {
+      "lat": 55.01,
+      "lon": 23.88,
+      "elevation_m": 20
+    },
+    {
+      "lat": 55.01,
+      "lon": 23.96,
+      "elevation_m": 50
+    },
+    {
+      "lat": 55.01,
+      "lon": 24.04,
+      "elevation_m": 80
+    },
+    {
+      "lat": 55.09,
+      "lon": 23.72,
+      "elevation_m": 5
+    },
+    {
+      "lat": 55.09,
+      "lon": 23.8,
+      "elevation_m": 35
+    },
+    {
+      "lat": 55.09,
+      "lon": 23.88,
+      "elevation_m": 65
+    },
+    {
+      "lat": 55.09,
+      "lon": 23.96,
+      "elevation_m": 95
+    },
+    {
+      "lat": 55.09,
+      "lon": 24.04,
+      "elevation_m": 125
+    },
+    {
+      "lat": 55.17,
+      "lon": 23.72,
+      "elevation_m": 50
+    },
+    {
+      "lat": 55.17,
+      "lon": 23.8,
+      "elevation_m": 80
+    },
+    {
+      "lat": 55.17,
+      "lon": 23.88,
+      "elevation_m": 110
+    },
+    {
+      "lat": 55.17,
+      "lon": 23.96,
+      "elevation_m": 140
+    },
+    {
+      "lat": 55.17,
+      "lon": 24.04,
+      "elevation_m": 170
+    },
+    {
+      "lat": 55.25,
+      "lon": 23.72,
+      "elevation_m": 95
+    },
+    {
+      "lat": 55.25,
+      "lon": 23.8,
+      "elevation_m": 125
+    },
+    {
+      "lat": 55.25,
+      "lon": 23.88,
+      "elevation_m": 155
+    },
+    {
+      "lat": 55.25,
+      "lon": 23.96,
+      "elevation_m": 185
+    },
+    {
+      "lat": 55.25,
+      "lon": 24.04,
+      "elevation_m": 215
+    },
+    {
+      "lat": 55.33,
+      "lon": 23.72,
+      "elevation_m": 140
+    },
+    {
+      "lat": 55.33,
+      "lon": 23.8,
+      "elevation_m": 170
+    },
+    {
+      "lat": 55.33,
+      "lon": 23.88,
+      "elevation_m": 200
+    },
+    {
+      "lat": 55.33,
+      "lon": 23.96,
+      "elevation_m": 230
+    },
+    {
+      "lat": 55.33,
+      "lon": 24.04,
+      "elevation_m": 260
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.068941+00:00"
+}

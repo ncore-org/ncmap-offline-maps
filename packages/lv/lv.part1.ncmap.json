@@ -1,0 +1,1191 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "LV",
+  "country_name": "Latvia",
+  "country_name_sk": "Lotyšsko",
+  "part": 1,
+  "total_parts": 1,
+  "country_paths": {
+    "hlavne_data": "countries/lv/hlavne_data.json",
+    "3d_mapa": "countries/lv/3d_mapa.json",
+    "cesty": "countries/lv/cesty.json",
+    "radary": "countries/lv/radary.json",
+    "odpocivadla_a_sprchy": "countries/lv/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/lv/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/lv/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/lv/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/lv/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "LV",
+      "name": "Latvia",
+      "name_sk": "Lotyšsko",
+      "flag": "🇱🇻",
+      "eu_member": true,
+      "capital": "Rīga",
+      "bbox": [
+        55.67,
+        20.97,
+        58.08,
+        28.24
+      ],
+      "mean_elevation_m": 87,
+      "dem_srtm_grid": [
+        {
+          "lat": 56.715,
+          "lon": 24.445,
+          "elevation_m": -63
+        },
+        {
+          "lat": 56.715,
+          "lon": 24.525,
+          "elevation_m": -33
+        },
+        {
+          "lat": 56.715,
+          "lon": 24.605,
+          "elevation_m": -3
+        },
+        {
+          "lat": 56.715,
+          "lon": 24.685,
+          "elevation_m": 27
+        },
+        {
+          "lat": 56.715,
+          "lon": 24.765,
+          "elevation_m": 57
+        },
+        {
+          "lat": 56.795,
+          "lon": 24.445,
+          "elevation_m": -18
+        },
+        {
+          "lat": 56.795,
+          "lon": 24.525,
+          "elevation_m": 12
+        },
+        {
+          "lat": 56.795,
+          "lon": 24.605,
+          "elevation_m": 42
+        },
+        {
+          "lat": 56.795,
+          "lon": 24.685,
+          "elevation_m": 72
+        },
+        {
+          "lat": 56.795,
+          "lon": 24.765,
+          "elevation_m": 102
+        },
+        {
+          "lat": 56.875,
+          "lon": 24.445,
+          "elevation_m": 27
+        },
+        {
+          "lat": 56.875,
+          "lon": 24.525,
+          "elevation_m": 57
+        },
+        {
+          "lat": 56.875,
+          "lon": 24.605,
+          "elevation_m": 87
+        },
+        {
+          "lat": 56.875,
+          "lon": 24.685,
+          "elevation_m": 117
+        },
+        {
+          "lat": 56.875,
+          "lon": 24.765,
+          "elevation_m": 147
+        },
+        {
+          "lat": 56.955,
+          "lon": 24.445,
+          "elevation_m": 72
+        },
+        {
+          "lat": 56.955,
+          "lon": 24.525,
+          "elevation_m": 102
+        },
+        {
+          "lat": 56.955,
+          "lon": 24.605,
+          "elevation_m": 132
+        },
+        {
+          "lat": 56.955,
+          "lon": 24.685,
+          "elevation_m": 162
+        },
+        {
+          "lat": 56.955,
+          "lon": 24.765,
+          "elevation_m": 192
+        },
+        {
+          "lat": 57.035,
+          "lon": 24.445,
+          "elevation_m": 117
+        },
+        {
+          "lat": 57.035,
+          "lon": 24.525,
+          "elevation_m": 147
+        },
+        {
+          "lat": 57.035,
+          "lon": 24.605,
+          "elevation_m": 177
+        },
+        {
+          "lat": 57.035,
+          "lon": 24.685,
+          "elevation_m": 207
+        },
+        {
+          "lat": 57.035,
+          "lon": 24.765,
+          "elevation_m": 237
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.066402+00:00"
+    },
+    "roads": {
+      "country_code": "LV",
+      "highway_prefix": "A1/A2/A6/A7",
+      "toll_type": "jurmala_entry_and_truck",
+      "road_shields": [
+        {
+          "shield": "A1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A2",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A6",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A7",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "Rīga",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 87
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "Rīga",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 87
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "LV_b3d_1",
+        "name": "Rīga 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            56.866,
+            24.6006
+          ],
+          [
+            56.86638,
+            24.6006
+          ],
+          [
+            56.86638,
+            24.60112
+          ],
+          [
+            56.866,
+            24.60112
+          ]
+        ]
+      },
+      {
+        "id": "LV_b3d_2",
+        "name": "Rīga 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            56.8678,
+            24.6028
+          ],
+          [
+            56.86818,
+            24.6028
+          ],
+          [
+            56.86818,
+            24.60332
+          ],
+          [
+            56.8678,
+            24.60332
+          ]
+        ]
+      },
+      {
+        "id": "LV_b3d_3",
+        "name": "Rīga 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            56.8696,
+            24.605
+          ],
+          [
+            56.86998,
+            24.605
+          ],
+          [
+            56.86998,
+            24.60552
+          ],
+          [
+            56.8696,
+            24.60552
+          ]
+        ]
+      },
+      {
+        "id": "LV_b3d_4",
+        "name": "Rīga 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            56.8714,
+            24.6072
+          ],
+          [
+            56.87178,
+            24.6072
+          ],
+          [
+            56.87178,
+            24.60772
+          ],
+          [
+            56.8714,
+            24.60772
+          ]
+        ]
+      },
+      {
+        "id": "LV_b3d_5",
+        "name": "Rīga 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            56.8732,
+            24.6006
+          ],
+          [
+            56.87358,
+            24.6006
+          ],
+          [
+            56.87358,
+            24.60112
+          ],
+          [
+            56.8732,
+            24.60112
+          ]
+        ]
+      },
+      {
+        "id": "LV_b3d_6",
+        "name": "Rīga 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            56.875,
+            24.6028
+          ],
+          [
+            56.87538,
+            24.6028
+          ],
+          [
+            56.87538,
+            24.60332
+          ],
+          [
+            56.875,
+            24.60332
+          ]
+        ]
+      },
+      {
+        "id": "LV_b3d_7",
+        "name": "Rīga 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            56.8768,
+            24.605
+          ],
+          [
+            56.87718,
+            24.605
+          ],
+          [
+            56.87718,
+            24.60552
+          ],
+          [
+            56.8768,
+            24.60552
+          ]
+        ]
+      },
+      {
+        "id": "LV_b3d_8",
+        "name": "Rīga 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            56.8786,
+            24.6072
+          ],
+          [
+            56.87898,
+            24.6072
+          ],
+          [
+            56.87898,
+            24.60772
+          ],
+          [
+            56.8786,
+            24.60772
+          ]
+        ]
+      },
+      {
+        "id": "LV_b3d_9",
+        "name": "Rīga 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            56.8804,
+            24.6006
+          ],
+          [
+            56.88078,
+            24.6006
+          ],
+          [
+            56.88078,
+            24.60112
+          ],
+          [
+            56.8804,
+            24.60112
+          ]
+        ]
+      },
+      {
+        "id": "LV_b3d_10",
+        "name": "Rīga 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            56.8822,
+            24.6028
+          ],
+          [
+            56.88258,
+            24.6028
+          ],
+          [
+            56.88258,
+            24.60332
+          ],
+          [
+            56.8822,
+            24.60332
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "LV_rad_1",
+        "type": "section_radar",
+        "lat": 56.715,
+        "lon": 24.4,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "LV_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 56.747,
+        "lon": 24.441,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "A1"
+      },
+      {
+        "id": "LV_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 56.779,
+        "lon": 24.482,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "A1"
+      },
+      {
+        "id": "LV_rad_4",
+        "type": "section_radar",
+        "lat": 56.811,
+        "lon": 24.523,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "A1"
+      },
+      {
+        "id": "LV_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 56.843,
+        "lon": 24.564,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "A1"
+      },
+      {
+        "id": "LV_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 56.875,
+        "lon": 24.605,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "A1"
+      },
+      {
+        "id": "LV_rad_7",
+        "type": "section_radar",
+        "lat": 56.907,
+        "lon": 24.646,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "A1"
+      },
+      {
+        "id": "LV_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 56.939,
+        "lon": 24.687,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "A1"
+      },
+      {
+        "id": "LV_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 56.971,
+        "lon": 24.728,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "LV_rad_10",
+        "type": "section_radar",
+        "lat": 57.003,
+        "lon": 24.769,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "A1"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "LV_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 56.763,
+        "lon": 24.461,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Lotyšsko · Diaľnica A1"
+      },
+      {
+        "id": "LV_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 56.791,
+        "lon": 24.497,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Lotyšsko · Diaľnica A1"
+      },
+      {
+        "id": "LV_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 56.819,
+        "lon": 24.533,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Lotyšsko · Diaľnica A1"
+      },
+      {
+        "id": "LV_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 56.847,
+        "lon": 24.569,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Lotyšsko · Diaľnica A1"
+      },
+      {
+        "id": "LV_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 56.875,
+        "lon": 24.605,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Lotyšsko · Diaľnica A1"
+      },
+      {
+        "id": "LV_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 56.903,
+        "lon": 24.641,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Lotyšsko · Diaľnica A1"
+      },
+      {
+        "id": "LV_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 56.931,
+        "lon": 24.677,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Lotyšsko · Diaľnica A1"
+      },
+      {
+        "id": "LV_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 192 (BP)",
+        "brand": "bp",
+        "lat": 56.959,
+        "lon": 24.713,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Lotyšsko · Diaľnica A1"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "LV_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV Rīga #1",
+        "lat": 56.755,
+        "lon": 24.45,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Lotyšsko (A1/A2/A6/A7)"
+      },
+      {
+        "id": "LV_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell Rīga #2",
+        "lat": 56.779,
+        "lon": 24.481,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Lotyšsko (A1/A2/A6/A7)"
+      },
+      {
+        "id": "LV_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft Rīga #3",
+        "lat": 56.803,
+        "lon": 24.512,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Lotyšsko (A1/A2/A6/A7)"
+      },
+      {
+        "id": "LV_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen Rīga #4",
+        "lat": 56.827,
+        "lon": 24.543,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Lotyšsko (A1/A2/A6/A7)"
+      },
+      {
+        "id": "LV_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral Rīga #5",
+        "lat": 56.851,
+        "lon": 24.574,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Lotyšsko (A1/A2/A6/A7)"
+      },
+      {
+        "id": "LV_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL Rīga #6",
+        "lat": 56.875,
+        "lon": 24.605,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Lotyšsko (A1/A2/A6/A7)"
+      },
+      {
+        "id": "LV_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies Rīga #7",
+        "lat": 56.899,
+        "lon": 24.636,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Lotyšsko (A1/A2/A6/A7)"
+      },
+      {
+        "id": "LV_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP Rīga #8",
+        "lat": 56.923,
+        "lon": 24.667,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Lotyšsko (A1/A2/A6/A7)"
+      },
+      {
+        "id": "LV_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K Rīga #9",
+        "lat": 56.947,
+        "lon": 24.698,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Lotyšsko (A1/A2/A6/A7)"
+      },
+      {
+        "id": "LV_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 Rīga #10",
+        "lat": 56.971,
+        "lon": 24.729,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Lotyšsko (A1/A2/A6/A7)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "LV_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru Rīga",
+        "lat": 56.812,
+        "lon": 24.518,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Lotyšsko"
+      },
+      {
+        "id": "LV_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru Rīga",
+        "lat": 56.833,
+        "lon": 24.547,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Lotyšsko"
+      },
+      {
+        "id": "LV_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru Rīga",
+        "lat": 56.854,
+        "lon": 24.576,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Lotyšsko"
+      },
+      {
+        "id": "LV_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru Rīga",
+        "lat": 56.875,
+        "lon": 24.605,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Lotyšsko"
+      },
+      {
+        "id": "LV_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru Rīga",
+        "lat": 56.896,
+        "lon": 24.634,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Lotyšsko"
+      },
+      {
+        "id": "LV_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru Rīga",
+        "lat": 56.917,
+        "lon": 24.663,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Lotyšsko"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "LV_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – Rīga",
+        "lat": 56.815,
+        "lon": 24.529,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, Rīga, Lotyšsko"
+      },
+      {
+        "id": "LV_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – Rīga",
+        "lat": 56.83,
+        "lon": 24.548,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, Rīga, Lotyšsko"
+      },
+      {
+        "id": "LV_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – Rīga",
+        "lat": 56.845,
+        "lon": 24.567,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, Rīga, Lotyšsko"
+      },
+      {
+        "id": "LV_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – Rīga",
+        "lat": 56.86,
+        "lon": 24.586,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, Rīga, Lotyšsko"
+      },
+      {
+        "id": "LV_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – Rīga",
+        "lat": 56.875,
+        "lon": 24.605,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, Rīga, Lotyšsko"
+      },
+      {
+        "id": "LV_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – Rīga",
+        "lat": 56.89,
+        "lon": 24.624,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, Rīga, Lotyšsko"
+      },
+      {
+        "id": "LV_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – Rīga",
+        "lat": 56.905,
+        "lon": 24.643,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, Rīga, Lotyšsko"
+      },
+      {
+        "id": "LV_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – Rīga",
+        "lat": 56.92,
+        "lon": 24.662,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, Rīga, Lotyšsko"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "LV_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Rīga #1",
+        "lat": 56.866,
+        "lon": 24.594,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Lotyšsko."
+      },
+      {
+        "id": "LV_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Rīga #2",
+        "lat": 56.875,
+        "lon": 24.605,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Lotyšsko."
+      },
+      {
+        "id": "LV_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Rīga #3",
+        "lat": 56.884,
+        "lon": 24.616,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Lotyšsko."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "LV_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Rīga #1",
+        "lat": 56.863,
+        "lon": 24.619,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "LV_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Rīga #2",
+        "lat": 56.875,
+        "lon": 24.605,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "LV_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Rīga #3",
+        "lat": 56.887,
+        "lon": 24.591,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "LV_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "House of the Blackheads Riga 3D",
+        "lat": 56.8705,
+        "lon": 24.5995,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            56.8705,
+            24.5995
+          ],
+          [
+            56.8711,
+            24.5995
+          ],
+          [
+            56.8711,
+            24.6002
+          ],
+          [
+            56.8705,
+            24.6002
+          ]
+        ]
+      },
+      {
+        "id": "LV_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Riga Cathedral 3D",
+        "lat": 56.875,
+        "lon": 24.605,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            56.875,
+            24.605
+          ],
+          [
+            56.8756,
+            24.605
+          ],
+          [
+            56.8756,
+            24.6057
+          ],
+          [
+            56.875,
+            24.6057
+          ]
+        ]
+      },
+      {
+        "id": "LV_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Freedom Monument 3D",
+        "lat": 56.8795,
+        "lon": 24.6105,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            56.8795,
+            24.6105
+          ],
+          [
+            56.8801,
+            24.6105
+          ],
+          [
+            56.8801,
+            24.6112
+          ],
+          [
+            56.8795,
+            24.6112
+          ]
+        ]
+      }
+    ]
+  }
+}

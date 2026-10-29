@@ -1,0 +1,93 @@
+{
+  "country_code": "CZ",
+  "businesses_and_companies": [
+    {
+      "id": "CZ_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – Praha",
+      "lat": 49.745,
+      "lon": 15.399,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, Praha, Česko"
+    },
+    {
+      "id": "CZ_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – Praha",
+      "lat": 49.76,
+      "lon": 15.418,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, Praha, Česko"
+    },
+    {
+      "id": "CZ_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – Praha",
+      "lat": 49.775,
+      "lon": 15.437,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, Praha, Česko"
+    },
+    {
+      "id": "CZ_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – Praha",
+      "lat": 49.79,
+      "lon": 15.456,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, Praha, Česko"
+    },
+    {
+      "id": "CZ_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – Praha",
+      "lat": 49.805,
+      "lon": 15.475,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, Praha, Česko"
+    },
+    {
+      "id": "CZ_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – Praha",
+      "lat": 49.82,
+      "lon": 15.494,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, Praha, Česko"
+    },
+    {
+      "id": "CZ_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – Praha",
+      "lat": 49.835,
+      "lon": 15.513,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, Praha, Česko"
+    },
+    {
+      "id": "CZ_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – Praha",
+      "lat": 49.85,
+      "lon": 15.532,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, Praha, Česko"
+    }
+  ]
+}

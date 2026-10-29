@@ -1,0 +1,70 @@
+{
+  "country_code": "FI",
+  "touristic_zones": [
+    {
+      "id": "FI_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Helsinki #1",
+      "lat": 64.941,
+      "lon": 26.059,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Fínsko."
+    },
+    {
+      "id": "FI_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Helsinki #2",
+      "lat": 64.95,
+      "lon": 26.07,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Fínsko."
+    },
+    {
+      "id": "FI_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Helsinki #3",
+      "lat": 64.959,
+      "lon": 26.081,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Fínsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "FI_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Helsinki #1",
+      "lat": 64.938,
+      "lon": 26.084,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "FI_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Helsinki #2",
+      "lat": 64.95,
+      "lon": 26.07,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "FI_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Helsinki #3",
+      "lat": 64.962,
+      "lon": 26.056,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "country_code": "IE",
+  "touristic_zones": [
+    {
+      "id": "IE_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Dublin #1",
+      "lat": 53.391,
+      "lon": -8.251,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Írsko."
+    },
+    {
+      "id": "IE_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Dublin #2",
+      "lat": 53.4,
+      "lon": -8.24,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Írsko."
+    },
+    {
+      "id": "IE_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Dublin #3",
+      "lat": 53.409,
+      "lon": -8.229,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Írsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "IE_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Dublin #1",
+      "lat": 53.388,
+      "lon": -8.226,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "IE_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Dublin #2",
+      "lat": 53.4,
+      "lon": -8.24,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "IE_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Dublin #3",
+      "lat": 53.412,
+      "lon": -8.254,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

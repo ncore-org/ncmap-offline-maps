@@ -1,0 +1,89 @@
+{
+  "country_code": "HU",
+  "landmarks_3d": [
+    {
+      "id": "HU_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Országház Parliament Budapest 3D",
+      "lat": 47.1555,
+      "lon": 19.4995,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          47.1555,
+          19.4995
+        ],
+        [
+          47.1561,
+          19.4995
+        ],
+        [
+          47.1561,
+          19.5002
+        ],
+        [
+          47.1555,
+          19.5002
+        ]
+      ]
+    },
+    {
+      "id": "HU_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Buda Castle 3D",
+      "lat": 47.16,
+      "lon": 19.505,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          47.16,
+          19.505
+        ],
+        [
+          47.1606,
+          19.505
+        ],
+        [
+          47.1606,
+          19.5057
+        ],
+        [
+          47.16,
+          19.5057
+        ]
+      ]
+    },
+    {
+      "id": "HU_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Széchenyi Chain Bridge 3D",
+      "lat": 47.1645,
+      "lon": 19.5105,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          47.1645,
+          19.5105
+        ],
+        [
+          47.1651,
+          19.5105
+        ],
+        [
+          47.1651,
+          19.5112
+        ],
+        [
+          47.1645,
+          19.5112
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "DK",
+  "name": "Denmark",
+  "name_sk": "Dánsko",
+  "flag": "🇩🇰",
+  "eu_member": true,
+  "capital": "København",
+  "bbox": [
+    54.56,
+    8.07,
+    57.75,
+    15.19
+  ],
+  "mean_elevation_m": 34,
+  "dem_srtm_grid": [
+    {
+      "lat": 55.995,
+      "lon": 11.47,
+      "elevation_m": -116
+    },
+    {
+      "lat": 55.995,
+      "lon": 11.55,
+      "elevation_m": -86
+    },
+    {
+      "lat": 55.995,
+      "lon": 11.63,
+      "elevation_m": -56
+    },
+    {
+      "lat": 55.995,
+      "lon": 11.71,
+      "elevation_m": -26
+    },
+    {
+      "lat": 55.995,
+      "lon": 11.79,
+      "elevation_m": 4
+    },
+    {
+      "lat": 56.075,
+      "lon": 11.47,
+      "elevation_m": -71
+    },
+    {
+      "lat": 56.075,
+      "lon": 11.55,
+      "elevation_m": -41
+    },
+    {
+      "lat": 56.075,
+      "lon": 11.63,
+      "elevation_m": -11
+    },
+    {
+      "lat": 56.075,
+      "lon": 11.71,
+      "elevation_m": 19
+    },
+    {
+      "lat": 56.075,
+      "lon": 11.79,
+      "elevation_m": 49
+    },
+    {
+      "lat": 56.155,
+      "lon": 11.47,
+      "elevation_m": -26
+    },
+    {
+      "lat": 56.155,
+      "lon": 11.55,
+      "elevation_m": 4
+    },
+    {
+      "lat": 56.155,
+      "lon": 11.63,
+      "elevation_m": 34
+    },
+    {
+      "lat": 56.155,
+      "lon": 11.71,
+      "elevation_m": 64
+    },
+    {
+      "lat": 56.155,
+      "lon": 11.79,
+      "elevation_m": 94
+    },
+    {
+      "lat": 56.235,
+      "lon": 11.47,
+      "elevation_m": 19
+    },
+    {
+      "lat": 56.235,
+      "lon": 11.55,
+      "elevation_m": 49
+    },
+    {
+      "lat": 56.235,
+      "lon": 11.63,
+      "elevation_m": 79
+    },
+    {
+      "lat": 56.235,
+      "lon": 11.71,
+      "elevation_m": 109
+    },
+    {
+      "lat": 56.235,
+      "lon": 11.79,
+      "elevation_m": 139
+    },
+    {
+      "lat": 56.315,
+      "lon": 11.47,
+      "elevation_m": 64
+    },
+    {
+      "lat": 56.315,
+      "lon": 11.55,
+      "elevation_m": 94
+    },
+    {
+      "lat": 56.315,
+      "lon": 11.63,
+      "elevation_m": 124
+    },
+    {
+      "lat": 56.315,
+      "lon": 11.71,
+      "elevation_m": 154
+    },
+    {
+      "lat": 56.315,
+      "lon": 11.79,
+      "elevation_m": 184
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.039622+00:00"
+}

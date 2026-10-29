@@ -1,0 +1,93 @@
+{
+  "country_code": "FI",
+  "businesses_and_companies": [
+    {
+      "id": "FI_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – Helsinki",
+      "lat": 64.89,
+      "lon": 25.994,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, Helsinki, Fínsko"
+    },
+    {
+      "id": "FI_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – Helsinki",
+      "lat": 64.905,
+      "lon": 26.013,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, Helsinki, Fínsko"
+    },
+    {
+      "id": "FI_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – Helsinki",
+      "lat": 64.92,
+      "lon": 26.032,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, Helsinki, Fínsko"
+    },
+    {
+      "id": "FI_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – Helsinki",
+      "lat": 64.935,
+      "lon": 26.051,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, Helsinki, Fínsko"
+    },
+    {
+      "id": "FI_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – Helsinki",
+      "lat": 64.95,
+      "lon": 26.07,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, Helsinki, Fínsko"
+    },
+    {
+      "id": "FI_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – Helsinki",
+      "lat": 64.965,
+      "lon": 26.089,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, Helsinki, Fínsko"
+    },
+    {
+      "id": "FI_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – Helsinki",
+      "lat": 64.98,
+      "lon": 26.108,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, Helsinki, Fínsko"
+    },
+    {
+      "id": "FI_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – Helsinki",
+      "lat": 64.995,
+      "lon": 26.127,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, Helsinki, Fínsko"
+    }
+  ]
+}

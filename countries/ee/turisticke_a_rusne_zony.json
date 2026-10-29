@@ -1,0 +1,70 @@
+{
+  "country_code": "EE",
+  "touristic_zones": [
+    {
+      "id": "EE_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Tallinn #1",
+      "lat": 58.586,
+      "lon": 24.974,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Estónsko."
+    },
+    {
+      "id": "EE_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Tallinn #2",
+      "lat": 58.595,
+      "lon": 24.985,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Estónsko."
+    },
+    {
+      "id": "EE_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Tallinn #3",
+      "lat": 58.604,
+      "lon": 24.996,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Estónsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "EE_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Tallinn #1",
+      "lat": 58.583,
+      "lon": 24.999,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "EE_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Tallinn #2",
+      "lat": 58.595,
+      "lon": 24.985,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "EE_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Tallinn #3",
+      "lat": 58.607,
+      "lon": 24.971,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

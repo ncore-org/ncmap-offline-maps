@@ -1,0 +1,70 @@
+{
+  "country_code": "BE",
+  "touristic_zones": [
+    {
+      "id": "BE_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Bruxelles #1",
+      "lat": 50.491,
+      "lon": 4.459,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Belgicko."
+    },
+    {
+      "id": "BE_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Bruxelles #2",
+      "lat": 50.5,
+      "lon": 4.47,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Belgicko."
+    },
+    {
+      "id": "BE_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Bruxelles #3",
+      "lat": 50.509,
+      "lon": 4.481,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Belgicko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "BE_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Bruxelles #1",
+      "lat": 50.488,
+      "lon": 4.484,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "BE_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Bruxelles #2",
+      "lat": 50.5,
+      "lon": 4.47,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "BE_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Bruxelles #3",
+      "lat": 50.512,
+      "lon": 4.456,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

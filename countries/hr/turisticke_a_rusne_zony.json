@@ -1,0 +1,70 @@
+{
+  "country_code": "HR",
+  "touristic_zones": [
+    {
+      "id": "HR_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Zagreb #1",
+      "lat": 44.461,
+      "lon": 16.459,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Chorvátsko."
+    },
+    {
+      "id": "HR_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Zagreb #2",
+      "lat": 44.47,
+      "lon": 16.47,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Chorvátsko."
+    },
+    {
+      "id": "HR_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Zagreb #3",
+      "lat": 44.479,
+      "lon": 16.481,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Chorvátsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "HR_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Zagreb #1",
+      "lat": 44.458,
+      "lon": 16.484,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "HR_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Zagreb #2",
+      "lat": 44.47,
+      "lon": 16.47,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "HR_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Zagreb #3",
+      "lat": 44.482,
+      "lon": 16.456,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

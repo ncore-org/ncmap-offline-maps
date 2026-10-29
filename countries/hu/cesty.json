@@ -1,0 +1,75 @@
+{
+  "country_code": "HU",
+  "highway_prefix": "M0/M1/M3/M5/M7",
+  "toll_type": "e_matrica",
+  "road_shields": [
+    {
+      "shield": "M0",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "M1",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "M3",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "M5",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "M7",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "66",
+      "type": "primary",
+      "maxspeed_kmh": 90,
+      "lanes": 2
+    },
+    {
+      "shield": "3096",
+      "type": "secondary",
+      "maxspeed_kmh": 50,
+      "lanes": 2
+    }
+  ],
+  "addressed_streets": [
+    {
+      "street": "Obrancov mieru",
+      "city": "Budapest",
+      "house_numbers": [
+        "1583/31",
+        "1586/33",
+        "1831/2",
+        "2482/21",
+        "4416/2A",
+        "1589/39"
+      ],
+      "elevation_m": 143
+    },
+    {
+      "street": "Hlavná ulica",
+      "city": "Budapest",
+      "house_numbers": [
+        "102/1",
+        "104/3",
+        "108/5",
+        "112/7"
+      ],
+      "elevation_m": 143
+    }
+  ]
+}

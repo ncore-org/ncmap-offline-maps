@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "BG",
+  "name": "Bulgaria",
+  "name_sk": "Bulharsko",
+  "flag": "🇧🇬",
+  "eu_member": true,
+  "capital": "Sofia",
+  "bbox": [
+    41.23,
+    22.36,
+    44.22,
+    28.61
+  ],
+  "mean_elevation_m": 470,
+  "dem_srtm_grid": [
+    {
+      "lat": 42.565,
+      "lon": 25.325,
+      "elevation_m": 320
+    },
+    {
+      "lat": 42.565,
+      "lon": 25.405,
+      "elevation_m": 350
+    },
+    {
+      "lat": 42.565,
+      "lon": 25.485,
+      "elevation_m": 380
+    },
+    {
+      "lat": 42.565,
+      "lon": 25.565,
+      "elevation_m": 410
+    },
+    {
+      "lat": 42.565,
+      "lon": 25.645,
+      "elevation_m": 440
+    },
+    {
+      "lat": 42.645,
+      "lon": 25.325,
+      "elevation_m": 365
+    },
+    {
+      "lat": 42.645,
+      "lon": 25.405,
+      "elevation_m": 395
+    },
+    {
+      "lat": 42.645,
+      "lon": 25.485,
+      "elevation_m": 425
+    },
+    {
+      "lat": 42.645,
+      "lon": 25.565,
+      "elevation_m": 455
+    },
+    {
+      "lat": 42.645,
+      "lon": 25.645,
+      "elevation_m": 485
+    },
+    {
+      "lat": 42.725,
+      "lon": 25.325,
+      "elevation_m": 410
+    },
+    {
+      "lat": 42.725,
+      "lon": 25.405,
+      "elevation_m": 440
+    },
+    {
+      "lat": 42.725,
+      "lon": 25.485,
+      "elevation_m": 470
+    },
+    {
+      "lat": 42.725,
+      "lon": 25.565,
+      "elevation_m": 500
+    },
+    {
+      "lat": 42.725,
+      "lon": 25.645,
+      "elevation_m": 530
+    },
+    {
+      "lat": 42.805,
+      "lon": 25.325,
+      "elevation_m": 455
+    },
+    {
+      "lat": 42.805,
+      "lon": 25.405,
+      "elevation_m": 485
+    },
+    {
+      "lat": 42.805,
+      "lon": 25.485,
+      "elevation_m": 515
+    },
+    {
+      "lat": 42.805,
+      "lon": 25.565,
+      "elevation_m": 545
+    },
+    {
+      "lat": 42.805,
+      "lon": 25.645,
+      "elevation_m": 575
+    },
+    {
+      "lat": 42.885,
+      "lon": 25.325,
+      "elevation_m": 500
+    },
+    {
+      "lat": 42.885,
+      "lon": 25.405,
+      "elevation_m": 530
+    },
+    {
+      "lat": 42.885,
+      "lon": 25.485,
+      "elevation_m": 560
+    },
+    {
+      "lat": 42.885,
+      "lon": 25.565,
+      "elevation_m": 590
+    },
+    {
+      "lat": 42.885,
+      "lon": 25.645,
+      "elevation_m": 620
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.028970+00:00"
+}

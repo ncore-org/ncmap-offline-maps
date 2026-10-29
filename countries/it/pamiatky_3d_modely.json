@@ -1,0 +1,117 @@
+{
+  "country_code": "IT",
+  "landmarks_3d": [
+    {
+      "id": "IT_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Colosseo Roma 3D",
+      "lat": 41.8655,
+      "lon": 12.5695,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          41.8655,
+          12.5695
+        ],
+        [
+          41.8661,
+          12.5695
+        ],
+        [
+          41.8661,
+          12.5702
+        ],
+        [
+          41.8655,
+          12.5702
+        ]
+      ]
+    },
+    {
+      "id": "IT_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Duomo di Milano 3D",
+      "lat": 41.87,
+      "lon": 12.575,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          41.87,
+          12.575
+        ],
+        [
+          41.8706,
+          12.575
+        ],
+        [
+          41.8706,
+          12.5757
+        ],
+        [
+          41.87,
+          12.5757
+        ]
+      ]
+    },
+    {
+      "id": "IT_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Torre di Pisa 3D",
+      "lat": 41.8745,
+      "lon": 12.5805,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          41.8745,
+          12.5805
+        ],
+        [
+          41.8751,
+          12.5805
+        ],
+        [
+          41.8751,
+          12.5812
+        ],
+        [
+          41.8745,
+          12.5812
+        ]
+      ]
+    },
+    {
+      "id": "IT_lm3d_4",
+      "kind": "landmark_3d",
+      "name": "Basilica di San Marco 3D",
+      "lat": 41.879,
+      "lon": 12.586,
+      "height_m": 102.0,
+      "levels": 24,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          41.879,
+          12.586
+        ],
+        [
+          41.8796,
+          12.586
+        ],
+        [
+          41.8796,
+          12.5867
+        ],
+        [
+          41.879,
+          12.5867
+        ]
+      ]
+    }
+  ]
+}

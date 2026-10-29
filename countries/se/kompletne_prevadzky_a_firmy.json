@@ -1,0 +1,93 @@
+{
+  "country_code": "SE",
+  "businesses_and_companies": [
+    {
+      "id": "SE_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – Stockholm",
+      "lat": 62.14,
+      "lon": 17.559,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, Stockholm, Švédsko"
+    },
+    {
+      "id": "SE_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – Stockholm",
+      "lat": 62.155,
+      "lon": 17.578,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, Stockholm, Švédsko"
+    },
+    {
+      "id": "SE_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – Stockholm",
+      "lat": 62.17,
+      "lon": 17.597,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, Stockholm, Švédsko"
+    },
+    {
+      "id": "SE_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – Stockholm",
+      "lat": 62.185,
+      "lon": 17.616,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, Stockholm, Švédsko"
+    },
+    {
+      "id": "SE_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – Stockholm",
+      "lat": 62.2,
+      "lon": 17.635,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, Stockholm, Švédsko"
+    },
+    {
+      "id": "SE_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – Stockholm",
+      "lat": 62.215,
+      "lon": 17.654,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, Stockholm, Švédsko"
+    },
+    {
+      "id": "SE_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – Stockholm",
+      "lat": 62.23,
+      "lon": 17.673,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, Stockholm, Švédsko"
+    },
+    {
+      "id": "SE_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – Stockholm",
+      "lat": 62.245,
+      "lon": 17.692,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, Stockholm, Švédsko"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "country_code": "CZ",
+  "radars": [
+    {
+      "id": "CZ_rad_1",
+      "type": "section_radar",
+      "lat": 49.645,
+      "lon": 15.27,
+      "maxspeed": 130,
+      "direction_deg": 0,
+      "highway": "D1"
+    },
+    {
+      "id": "CZ_rad_2",
+      "type": "fixed_speed_camera",
+      "lat": 49.677,
+      "lon": 15.311,
+      "maxspeed": 50,
+      "direction_deg": 45,
+      "highway": "D1"
+    },
+    {
+      "id": "CZ_rad_3",
+      "type": "fixed_speed_camera",
+      "lat": 49.709,
+      "lon": 15.352,
+      "maxspeed": 130,
+      "direction_deg": 90,
+      "highway": "D1"
+    },
+    {
+      "id": "CZ_rad_4",
+      "type": "section_radar",
+      "lat": 49.741,
+      "lon": 15.393,
+      "maxspeed": 90,
+      "direction_deg": 135,
+      "highway": "D1"
+    },
+    {
+      "id": "CZ_rad_5",
+      "type": "fixed_speed_camera",
+      "lat": 49.773,
+      "lon": 15.434,
+      "maxspeed": 130,
+      "direction_deg": 180,
+      "highway": "D1"
+    },
+    {
+      "id": "CZ_rad_6",
+      "type": "fixed_speed_camera",
+      "lat": 49.805,
+      "lon": 15.475,
+      "maxspeed": 50,
+      "direction_deg": 225,
+      "highway": "D1"
+    },
+    {
+      "id": "CZ_rad_7",
+      "type": "section_radar",
+      "lat": 49.837,
+      "lon": 15.516,
+      "maxspeed": 130,
+      "direction_deg": 270,
+      "highway": "D1"
+    },
+    {
+      "id": "CZ_rad_8",
+      "type": "fixed_speed_camera",
+      "lat": 49.869,
+      "lon": 15.557,
+      "maxspeed": 50,
+      "direction_deg": 315,
+      "highway": "D1"
+    },
+    {
+      "id": "CZ_rad_9",
+      "type": "fixed_speed_camera",
+      "lat": 49.901,
+      "lon": 15.598,
+      "maxspeed": 130,
+      "direction_deg": 0,
+      "highway": "D1"
+    },
+    {
+      "id": "CZ_rad_10",
+      "type": "section_radar",
+      "lat": 49.933,
+      "lon": 15.639,
+      "maxspeed": 90,
+      "direction_deg": 45,
+      "highway": "D1"
+    }
+  ]
+}

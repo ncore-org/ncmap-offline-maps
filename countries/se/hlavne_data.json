@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "SE",
+  "name": "Sweden",
+  "name_sk": "Švédsko",
+  "flag": "🇸🇪",
+  "eu_member": true,
+  "capital": "Stockholm",
+  "bbox": [
+    55.34,
+    11.11,
+    69.06,
+    24.16
+  ],
+  "mean_elevation_m": 320,
+  "dem_srtm_grid": [
+    {
+      "lat": 62.04,
+      "lon": 17.475,
+      "elevation_m": 170
+    },
+    {
+      "lat": 62.04,
+      "lon": 17.555,
+      "elevation_m": 200
+    },
+    {
+      "lat": 62.04,
+      "lon": 17.635,
+      "elevation_m": 230
+    },
+    {
+      "lat": 62.04,
+      "lon": 17.715,
+      "elevation_m": 260
+    },
+    {
+      "lat": 62.04,
+      "lon": 17.795,
+      "elevation_m": 290
+    },
+    {
+      "lat": 62.12,
+      "lon": 17.475,
+      "elevation_m": 215
+    },
+    {
+      "lat": 62.12,
+      "lon": 17.555,
+      "elevation_m": 245
+    },
+    {
+      "lat": 62.12,
+      "lon": 17.635,
+      "elevation_m": 275
+    },
+    {
+      "lat": 62.12,
+      "lon": 17.715,
+      "elevation_m": 305
+    },
+    {
+      "lat": 62.12,
+      "lon": 17.795,
+      "elevation_m": 335
+    },
+    {
+      "lat": 62.2,
+      "lon": 17.475,
+      "elevation_m": 260
+    },
+    {
+      "lat": 62.2,
+      "lon": 17.555,
+      "elevation_m": 290
+    },
+    {
+      "lat": 62.2,
+      "lon": 17.635,
+      "elevation_m": 320
+    },
+    {
+      "lat": 62.2,
+      "lon": 17.715,
+      "elevation_m": 350
+    },
+    {
+      "lat": 62.2,
+      "lon": 17.795,
+      "elevation_m": 380
+    },
+    {
+      "lat": 62.28,
+      "lon": 17.475,
+      "elevation_m": 305
+    },
+    {
+      "lat": 62.28,
+      "lon": 17.555,
+      "elevation_m": 335
+    },
+    {
+      "lat": 62.28,
+      "lon": 17.635,
+      "elevation_m": 365
+    },
+    {
+      "lat": 62.28,
+      "lon": 17.715,
+      "elevation_m": 395
+    },
+    {
+      "lat": 62.28,
+      "lon": 17.795,
+      "elevation_m": 425
+    },
+    {
+      "lat": 62.36,
+      "lon": 17.475,
+      "elevation_m": 350
+    },
+    {
+      "lat": 62.36,
+      "lon": 17.555,
+      "elevation_m": 380
+    },
+    {
+      "lat": 62.36,
+      "lon": 17.635,
+      "elevation_m": 410
+    },
+    {
+      "lat": 62.36,
+      "lon": 17.715,
+      "elevation_m": 440
+    },
+    {
+      "lat": 62.36,
+      "lon": 17.795,
+      "elevation_m": 470
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.097811+00:00"
+}

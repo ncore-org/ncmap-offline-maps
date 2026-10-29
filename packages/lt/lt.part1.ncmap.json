@@ -1,0 +1,1191 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "LT",
+  "country_name": "Lithuania",
+  "country_name_sk": "Litva",
+  "part": 1,
+  "total_parts": 1,
+  "country_paths": {
+    "hlavne_data": "countries/lt/hlavne_data.json",
+    "3d_mapa": "countries/lt/3d_mapa.json",
+    "cesty": "countries/lt/cesty.json",
+    "radary": "countries/lt/radary.json",
+    "odpocivadla_a_sprchy": "countries/lt/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/lt/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/lt/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/lt/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/lt/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "LT",
+      "name": "Lithuania",
+      "name_sk": "Litva",
+      "flag": "🇱🇹",
+      "eu_member": true,
+      "capital": "Vilnius",
+      "bbox": [
+        53.89,
+        20.93,
+        56.45,
+        26.83
+      ],
+      "mean_elevation_m": 110,
+      "dem_srtm_grid": [
+        {
+          "lat": 55.01,
+          "lon": 23.72,
+          "elevation_m": -40
+        },
+        {
+          "lat": 55.01,
+          "lon": 23.8,
+          "elevation_m": -10
+        },
+        {
+          "lat": 55.01,
+          "lon": 23.88,
+          "elevation_m": 20
+        },
+        {
+          "lat": 55.01,
+          "lon": 23.96,
+          "elevation_m": 50
+        },
+        {
+          "lat": 55.01,
+          "lon": 24.04,
+          "elevation_m": 80
+        },
+        {
+          "lat": 55.09,
+          "lon": 23.72,
+          "elevation_m": 5
+        },
+        {
+          "lat": 55.09,
+          "lon": 23.8,
+          "elevation_m": 35
+        },
+        {
+          "lat": 55.09,
+          "lon": 23.88,
+          "elevation_m": 65
+        },
+        {
+          "lat": 55.09,
+          "lon": 23.96,
+          "elevation_m": 95
+        },
+        {
+          "lat": 55.09,
+          "lon": 24.04,
+          "elevation_m": 125
+        },
+        {
+          "lat": 55.17,
+          "lon": 23.72,
+          "elevation_m": 50
+        },
+        {
+          "lat": 55.17,
+          "lon": 23.8,
+          "elevation_m": 80
+        },
+        {
+          "lat": 55.17,
+          "lon": 23.88,
+          "elevation_m": 110
+        },
+        {
+          "lat": 55.17,
+          "lon": 23.96,
+          "elevation_m": 140
+        },
+        {
+          "lat": 55.17,
+          "lon": 24.04,
+          "elevation_m": 170
+        },
+        {
+          "lat": 55.25,
+          "lon": 23.72,
+          "elevation_m": 95
+        },
+        {
+          "lat": 55.25,
+          "lon": 23.8,
+          "elevation_m": 125
+        },
+        {
+          "lat": 55.25,
+          "lon": 23.88,
+          "elevation_m": 155
+        },
+        {
+          "lat": 55.25,
+          "lon": 23.96,
+          "elevation_m": 185
+        },
+        {
+          "lat": 55.25,
+          "lon": 24.04,
+          "elevation_m": 215
+        },
+        {
+          "lat": 55.33,
+          "lon": 23.72,
+          "elevation_m": 140
+        },
+        {
+          "lat": 55.33,
+          "lon": 23.8,
+          "elevation_m": 170
+        },
+        {
+          "lat": 55.33,
+          "lon": 23.88,
+          "elevation_m": 200
+        },
+        {
+          "lat": 55.33,
+          "lon": 23.96,
+          "elevation_m": 230
+        },
+        {
+          "lat": 55.33,
+          "lon": 24.04,
+          "elevation_m": 260
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.068941+00:00"
+    },
+    "roads": {
+      "country_code": "LT",
+      "highway_prefix": "A1/A2/A5/E67",
+      "toll_type": "commercial_vignette",
+      "road_shields": [
+        {
+          "shield": "A1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A2",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A5",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "E67",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "Vilnius",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 110
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "Vilnius",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 110
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "LT_b3d_1",
+        "name": "Vilnius 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            55.161,
+            23.8756
+          ],
+          [
+            55.16138,
+            23.8756
+          ],
+          [
+            55.16138,
+            23.87612
+          ],
+          [
+            55.161,
+            23.87612
+          ]
+        ]
+      },
+      {
+        "id": "LT_b3d_2",
+        "name": "Vilnius 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            55.1628,
+            23.8778
+          ],
+          [
+            55.16318,
+            23.8778
+          ],
+          [
+            55.16318,
+            23.87832
+          ],
+          [
+            55.1628,
+            23.87832
+          ]
+        ]
+      },
+      {
+        "id": "LT_b3d_3",
+        "name": "Vilnius 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            55.1646,
+            23.88
+          ],
+          [
+            55.16498,
+            23.88
+          ],
+          [
+            55.16498,
+            23.88052
+          ],
+          [
+            55.1646,
+            23.88052
+          ]
+        ]
+      },
+      {
+        "id": "LT_b3d_4",
+        "name": "Vilnius 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            55.1664,
+            23.8822
+          ],
+          [
+            55.16678,
+            23.8822
+          ],
+          [
+            55.16678,
+            23.88272
+          ],
+          [
+            55.1664,
+            23.88272
+          ]
+        ]
+      },
+      {
+        "id": "LT_b3d_5",
+        "name": "Vilnius 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            55.1682,
+            23.8756
+          ],
+          [
+            55.16858,
+            23.8756
+          ],
+          [
+            55.16858,
+            23.87612
+          ],
+          [
+            55.1682,
+            23.87612
+          ]
+        ]
+      },
+      {
+        "id": "LT_b3d_6",
+        "name": "Vilnius 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            55.17,
+            23.8778
+          ],
+          [
+            55.17038,
+            23.8778
+          ],
+          [
+            55.17038,
+            23.87832
+          ],
+          [
+            55.17,
+            23.87832
+          ]
+        ]
+      },
+      {
+        "id": "LT_b3d_7",
+        "name": "Vilnius 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            55.1718,
+            23.88
+          ],
+          [
+            55.17218,
+            23.88
+          ],
+          [
+            55.17218,
+            23.88052
+          ],
+          [
+            55.1718,
+            23.88052
+          ]
+        ]
+      },
+      {
+        "id": "LT_b3d_8",
+        "name": "Vilnius 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            55.1736,
+            23.8822
+          ],
+          [
+            55.17398,
+            23.8822
+          ],
+          [
+            55.17398,
+            23.88272
+          ],
+          [
+            55.1736,
+            23.88272
+          ]
+        ]
+      },
+      {
+        "id": "LT_b3d_9",
+        "name": "Vilnius 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            55.1754,
+            23.8756
+          ],
+          [
+            55.17578,
+            23.8756
+          ],
+          [
+            55.17578,
+            23.87612
+          ],
+          [
+            55.1754,
+            23.87612
+          ]
+        ]
+      },
+      {
+        "id": "LT_b3d_10",
+        "name": "Vilnius 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            55.1772,
+            23.8778
+          ],
+          [
+            55.17758,
+            23.8778
+          ],
+          [
+            55.17758,
+            23.87832
+          ],
+          [
+            55.1772,
+            23.87832
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "LT_rad_1",
+        "type": "section_radar",
+        "lat": 55.01,
+        "lon": 23.675,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "LT_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 55.042,
+        "lon": 23.716,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "A1"
+      },
+      {
+        "id": "LT_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 55.074,
+        "lon": 23.757,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "A1"
+      },
+      {
+        "id": "LT_rad_4",
+        "type": "section_radar",
+        "lat": 55.106,
+        "lon": 23.798,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "A1"
+      },
+      {
+        "id": "LT_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 55.138,
+        "lon": 23.839,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "A1"
+      },
+      {
+        "id": "LT_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 55.17,
+        "lon": 23.88,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "A1"
+      },
+      {
+        "id": "LT_rad_7",
+        "type": "section_radar",
+        "lat": 55.202,
+        "lon": 23.921,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "A1"
+      },
+      {
+        "id": "LT_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 55.234,
+        "lon": 23.962,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "A1"
+      },
+      {
+        "id": "LT_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 55.266,
+        "lon": 24.003,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "LT_rad_10",
+        "type": "section_radar",
+        "lat": 55.298,
+        "lon": 24.044,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "A1"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "LT_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 55.058,
+        "lon": 23.736,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Litva · Diaľnica A1"
+      },
+      {
+        "id": "LT_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 55.086,
+        "lon": 23.772,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Litva · Diaľnica A1"
+      },
+      {
+        "id": "LT_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 55.114,
+        "lon": 23.808,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Litva · Diaľnica A1"
+      },
+      {
+        "id": "LT_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 55.142,
+        "lon": 23.844,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Litva · Diaľnica A1"
+      },
+      {
+        "id": "LT_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 55.17,
+        "lon": 23.88,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Litva · Diaľnica A1"
+      },
+      {
+        "id": "LT_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 55.198,
+        "lon": 23.916,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Litva · Diaľnica A1"
+      },
+      {
+        "id": "LT_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 55.226,
+        "lon": 23.952,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Litva · Diaľnica A1"
+      },
+      {
+        "id": "LT_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 192 (BP)",
+        "brand": "bp",
+        "lat": 55.254,
+        "lon": 23.988,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Litva · Diaľnica A1"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "LT_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV Vilnius #1",
+        "lat": 55.05,
+        "lon": 23.725,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Litva (A1/A2/A5/E67)"
+      },
+      {
+        "id": "LT_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell Vilnius #2",
+        "lat": 55.074,
+        "lon": 23.756,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Litva (A1/A2/A5/E67)"
+      },
+      {
+        "id": "LT_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft Vilnius #3",
+        "lat": 55.098,
+        "lon": 23.787,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Litva (A1/A2/A5/E67)"
+      },
+      {
+        "id": "LT_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen Vilnius #4",
+        "lat": 55.122,
+        "lon": 23.818,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Litva (A1/A2/A5/E67)"
+      },
+      {
+        "id": "LT_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral Vilnius #5",
+        "lat": 55.146,
+        "lon": 23.849,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Litva (A1/A2/A5/E67)"
+      },
+      {
+        "id": "LT_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL Vilnius #6",
+        "lat": 55.17,
+        "lon": 23.88,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Litva (A1/A2/A5/E67)"
+      },
+      {
+        "id": "LT_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies Vilnius #7",
+        "lat": 55.194,
+        "lon": 23.911,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Litva (A1/A2/A5/E67)"
+      },
+      {
+        "id": "LT_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP Vilnius #8",
+        "lat": 55.218,
+        "lon": 23.942,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Litva (A1/A2/A5/E67)"
+      },
+      {
+        "id": "LT_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K Vilnius #9",
+        "lat": 55.242,
+        "lon": 23.973,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Litva (A1/A2/A5/E67)"
+      },
+      {
+        "id": "LT_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 Vilnius #10",
+        "lat": 55.266,
+        "lon": 24.004,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Litva (A1/A2/A5/E67)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "LT_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru Vilnius",
+        "lat": 55.107,
+        "lon": 23.793,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Litva"
+      },
+      {
+        "id": "LT_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru Vilnius",
+        "lat": 55.128,
+        "lon": 23.822,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Litva"
+      },
+      {
+        "id": "LT_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru Vilnius",
+        "lat": 55.149,
+        "lon": 23.851,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Litva"
+      },
+      {
+        "id": "LT_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru Vilnius",
+        "lat": 55.17,
+        "lon": 23.88,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Litva"
+      },
+      {
+        "id": "LT_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru Vilnius",
+        "lat": 55.191,
+        "lon": 23.909,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Litva"
+      },
+      {
+        "id": "LT_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru Vilnius",
+        "lat": 55.212,
+        "lon": 23.938,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Litva"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "LT_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – Vilnius",
+        "lat": 55.11,
+        "lon": 23.804,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, Vilnius, Litva"
+      },
+      {
+        "id": "LT_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – Vilnius",
+        "lat": 55.125,
+        "lon": 23.823,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, Vilnius, Litva"
+      },
+      {
+        "id": "LT_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – Vilnius",
+        "lat": 55.14,
+        "lon": 23.842,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, Vilnius, Litva"
+      },
+      {
+        "id": "LT_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – Vilnius",
+        "lat": 55.155,
+        "lon": 23.861,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, Vilnius, Litva"
+      },
+      {
+        "id": "LT_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – Vilnius",
+        "lat": 55.17,
+        "lon": 23.88,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, Vilnius, Litva"
+      },
+      {
+        "id": "LT_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – Vilnius",
+        "lat": 55.185,
+        "lon": 23.899,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, Vilnius, Litva"
+      },
+      {
+        "id": "LT_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – Vilnius",
+        "lat": 55.2,
+        "lon": 23.918,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, Vilnius, Litva"
+      },
+      {
+        "id": "LT_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – Vilnius",
+        "lat": 55.215,
+        "lon": 23.937,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, Vilnius, Litva"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "LT_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Vilnius #1",
+        "lat": 55.161,
+        "lon": 23.869,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Litva."
+      },
+      {
+        "id": "LT_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Vilnius #2",
+        "lat": 55.17,
+        "lon": 23.88,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Litva."
+      },
+      {
+        "id": "LT_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Vilnius #3",
+        "lat": 55.179,
+        "lon": 23.891,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Litva."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "LT_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Vilnius #1",
+        "lat": 55.158,
+        "lon": 23.894,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "LT_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Vilnius #2",
+        "lat": 55.17,
+        "lon": 23.88,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "LT_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Vilnius #3",
+        "lat": 55.182,
+        "lon": 23.866,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "LT_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "Gediminas Tower Vilnius 3D",
+        "lat": 55.1655,
+        "lon": 23.8745,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            55.1655,
+            23.8745
+          ],
+          [
+            55.1661,
+            23.8745
+          ],
+          [
+            55.1661,
+            23.8752
+          ],
+          [
+            55.1655,
+            23.8752
+          ]
+        ]
+      },
+      {
+        "id": "LT_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Trakai Island Castle 3D",
+        "lat": 55.17,
+        "lon": 23.88,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            55.17,
+            23.88
+          ],
+          [
+            55.1706,
+            23.88
+          ],
+          [
+            55.1706,
+            23.8807
+          ],
+          [
+            55.17,
+            23.8807
+          ]
+        ]
+      },
+      {
+        "id": "LT_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Vilnius Cathedral 3D",
+        "lat": 55.1745,
+        "lon": 23.8855,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            55.1745,
+            23.8855
+          ],
+          [
+            55.1751,
+            23.8855
+          ],
+          [
+            55.1751,
+            23.8862
+          ],
+          [
+            55.1745,
+            23.8862
+          ]
+        ]
+      }
+    ]
+  }
+}

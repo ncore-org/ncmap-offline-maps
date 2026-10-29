@@ -1,0 +1,266 @@
+{
+  "country_code": "SI",
+  "terrain_3d_horizon": true,
+  "buildings_3d": [
+    {
+      "id": "SI_b3d_1",
+      "name": "Ljubljana 3D Block 1583/31",
+      "house_number": "1583/31",
+      "height_m": 14.0,
+      "levels": 4,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          46.141,
+          14.9856
+        ],
+        [
+          46.14138,
+          14.9856
+        ],
+        [
+          46.14138,
+          14.98612
+        ],
+        [
+          46.141,
+          14.98612
+        ]
+      ]
+    },
+    {
+      "id": "SI_b3d_2",
+      "name": "Ljubljana 3D Block 1586/33",
+      "house_number": "1586/33",
+      "height_m": 21.5,
+      "levels": 6,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          46.1428,
+          14.9878
+        ],
+        [
+          46.14318,
+          14.9878
+        ],
+        [
+          46.14318,
+          14.98832
+        ],
+        [
+          46.1428,
+          14.98832
+        ]
+      ]
+    },
+    {
+      "id": "SI_b3d_3",
+      "name": "Ljubljana 3D Block 1831/2",
+      "house_number": "1831/2",
+      "height_m": 29.0,
+      "levels": 8,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          46.1446,
+          14.99
+        ],
+        [
+          46.14498,
+          14.99
+        ],
+        [
+          46.14498,
+          14.99052
+        ],
+        [
+          46.1446,
+          14.99052
+        ]
+      ]
+    },
+    {
+      "id": "SI_b3d_4",
+      "name": "Ljubljana 3D Block 2482/21",
+      "house_number": "2482/21",
+      "height_m": 36.5,
+      "levels": 10,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          46.1464,
+          14.9922
+        ],
+        [
+          46.14678,
+          14.9922
+        ],
+        [
+          46.14678,
+          14.99272
+        ],
+        [
+          46.1464,
+          14.99272
+        ]
+      ]
+    },
+    {
+      "id": "SI_b3d_5",
+      "name": "Ljubljana 3D Block 4416/2A",
+      "house_number": "4416/2A",
+      "height_m": 44.0,
+      "levels": 12,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          46.1482,
+          14.9856
+        ],
+        [
+          46.14858,
+          14.9856
+        ],
+        [
+          46.14858,
+          14.98612
+        ],
+        [
+          46.1482,
+          14.98612
+        ]
+      ]
+    },
+    {
+      "id": "SI_b3d_6",
+      "name": "Ljubljana 3D Block 1589/39",
+      "house_number": "1589/39",
+      "height_m": 14.0,
+      "levels": 4,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          46.15,
+          14.9878
+        ],
+        [
+          46.15038,
+          14.9878
+        ],
+        [
+          46.15038,
+          14.98832
+        ],
+        [
+          46.15,
+          14.98832
+        ]
+      ]
+    },
+    {
+      "id": "SI_b3d_7",
+      "name": "Ljubljana 3D Block 120/4",
+      "house_number": "120/4",
+      "height_m": 21.5,
+      "levels": 6,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          46.1518,
+          14.99
+        ],
+        [
+          46.15218,
+          14.99
+        ],
+        [
+          46.15218,
+          14.99052
+        ],
+        [
+          46.1518,
+          14.99052
+        ]
+      ]
+    },
+    {
+      "id": "SI_b3d_8",
+      "name": "Ljubljana 3D Block 122/6",
+      "house_number": "122/6",
+      "height_m": 29.0,
+      "levels": 8,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          46.1536,
+          14.9922
+        ],
+        [
+          46.15398,
+          14.9922
+        ],
+        [
+          46.15398,
+          14.99272
+        ],
+        [
+          46.1536,
+          14.99272
+        ]
+      ]
+    },
+    {
+      "id": "SI_b3d_9",
+      "name": "Ljubljana 3D Block 88/12",
+      "house_number": "88/12",
+      "height_m": 36.5,
+      "levels": 10,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          46.1554,
+          14.9856
+        ],
+        [
+          46.15578,
+          14.9856
+        ],
+        [
+          46.15578,
+          14.98612
+        ],
+        [
+          46.1554,
+          14.98612
+        ]
+      ]
+    },
+    {
+      "id": "SI_b3d_10",
+      "name": "Ljubljana 3D Block 90/14",
+      "house_number": "90/14",
+      "height_m": 44.0,
+      "levels": 12,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          46.1572,
+          14.9878
+        ],
+        [
+          46.15758,
+          14.9878
+        ],
+        [
+          46.15758,
+          14.98832
+        ],
+        [
+          46.1572,
+          14.98832
+        ]
+      ]
+    }
+  ]
+}

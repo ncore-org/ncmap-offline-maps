@@ -1,0 +1,89 @@
+{
+  "country_code": "SI",
+  "landmarks_3d": [
+    {
+      "id": "SI_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Ljubljana Castle 3D",
+      "lat": 46.1455,
+      "lon": 14.9845,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          46.1455,
+          14.9845
+        ],
+        [
+          46.1461,
+          14.9845
+        ],
+        [
+          46.1461,
+          14.9852
+        ],
+        [
+          46.1455,
+          14.9852
+        ]
+      ]
+    },
+    {
+      "id": "SI_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Bled Island Church 3D",
+      "lat": 46.15,
+      "lon": 14.99,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          46.15,
+          14.99
+        ],
+        [
+          46.1506,
+          14.99
+        ],
+        [
+          46.1506,
+          14.9907
+        ],
+        [
+          46.15,
+          14.9907
+        ]
+      ]
+    },
+    {
+      "id": "SI_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Predjama Castle 3D",
+      "lat": 46.1545,
+      "lon": 14.9955,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          46.1545,
+          14.9955
+        ],
+        [
+          46.1551,
+          14.9955
+        ],
+        [
+          46.1551,
+          14.9962
+        ],
+        [
+          46.1545,
+          14.9962
+        ]
+      ]
+    }
+  ]
+}

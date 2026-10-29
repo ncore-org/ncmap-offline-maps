@@ -1,0 +1,266 @@
+{
+  "country_code": "LU",
+  "terrain_3d_horizon": true,
+  "buildings_3d": [
+    {
+      "id": "LU_b3d_1",
+      "name": "Luxembourg 3D Block 1583/31",
+      "house_number": "1583/31",
+      "height_m": 14.0,
+      "levels": 4,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          49.801,
+          6.1256
+        ],
+        [
+          49.80138,
+          6.1256
+        ],
+        [
+          49.80138,
+          6.12612
+        ],
+        [
+          49.801,
+          6.12612
+        ]
+      ]
+    },
+    {
+      "id": "LU_b3d_2",
+      "name": "Luxembourg 3D Block 1586/33",
+      "house_number": "1586/33",
+      "height_m": 21.5,
+      "levels": 6,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          49.8028,
+          6.1278
+        ],
+        [
+          49.80318,
+          6.1278
+        ],
+        [
+          49.80318,
+          6.12832
+        ],
+        [
+          49.8028,
+          6.12832
+        ]
+      ]
+    },
+    {
+      "id": "LU_b3d_3",
+      "name": "Luxembourg 3D Block 1831/2",
+      "house_number": "1831/2",
+      "height_m": 29.0,
+      "levels": 8,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          49.8046,
+          6.13
+        ],
+        [
+          49.80498,
+          6.13
+        ],
+        [
+          49.80498,
+          6.13052
+        ],
+        [
+          49.8046,
+          6.13052
+        ]
+      ]
+    },
+    {
+      "id": "LU_b3d_4",
+      "name": "Luxembourg 3D Block 2482/21",
+      "house_number": "2482/21",
+      "height_m": 36.5,
+      "levels": 10,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          49.8064,
+          6.1322
+        ],
+        [
+          49.80678,
+          6.1322
+        ],
+        [
+          49.80678,
+          6.13272
+        ],
+        [
+          49.8064,
+          6.13272
+        ]
+      ]
+    },
+    {
+      "id": "LU_b3d_5",
+      "name": "Luxembourg 3D Block 4416/2A",
+      "house_number": "4416/2A",
+      "height_m": 44.0,
+      "levels": 12,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          49.8082,
+          6.1256
+        ],
+        [
+          49.80858,
+          6.1256
+        ],
+        [
+          49.80858,
+          6.12612
+        ],
+        [
+          49.8082,
+          6.12612
+        ]
+      ]
+    },
+    {
+      "id": "LU_b3d_6",
+      "name": "Luxembourg 3D Block 1589/39",
+      "house_number": "1589/39",
+      "height_m": 14.0,
+      "levels": 4,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          49.81,
+          6.1278
+        ],
+        [
+          49.81038,
+          6.1278
+        ],
+        [
+          49.81038,
+          6.12832
+        ],
+        [
+          49.81,
+          6.12832
+        ]
+      ]
+    },
+    {
+      "id": "LU_b3d_7",
+      "name": "Luxembourg 3D Block 120/4",
+      "house_number": "120/4",
+      "height_m": 21.5,
+      "levels": 6,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          49.8118,
+          6.13
+        ],
+        [
+          49.81218,
+          6.13
+        ],
+        [
+          49.81218,
+          6.13052
+        ],
+        [
+          49.8118,
+          6.13052
+        ]
+      ]
+    },
+    {
+      "id": "LU_b3d_8",
+      "name": "Luxembourg 3D Block 122/6",
+      "house_number": "122/6",
+      "height_m": 29.0,
+      "levels": 8,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          49.8136,
+          6.1322
+        ],
+        [
+          49.81398,
+          6.1322
+        ],
+        [
+          49.81398,
+          6.13272
+        ],
+        [
+          49.8136,
+          6.13272
+        ]
+      ]
+    },
+    {
+      "id": "LU_b3d_9",
+      "name": "Luxembourg 3D Block 88/12",
+      "house_number": "88/12",
+      "height_m": 36.5,
+      "levels": 10,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          49.8154,
+          6.1256
+        ],
+        [
+          49.81578,
+          6.1256
+        ],
+        [
+          49.81578,
+          6.12612
+        ],
+        [
+          49.8154,
+          6.12612
+        ]
+      ]
+    },
+    {
+      "id": "LU_b3d_10",
+      "name": "Luxembourg 3D Block 90/14",
+      "house_number": "90/14",
+      "height_m": 44.0,
+      "levels": 12,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          49.8172,
+          6.1278
+        ],
+        [
+          49.81758,
+          6.1278
+        ],
+        [
+          49.81758,
+          6.12832
+        ],
+        [
+          49.8172,
+          6.12832
+        ]
+      ]
+    }
+  ]
+}

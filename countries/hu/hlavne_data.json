@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "HU",
+  "name": "Hungary",
+  "name_sk": "Maďarsko",
+  "flag": "🇭🇺",
+  "eu_member": true,
+  "capital": "Budapest",
+  "bbox": [
+    45.74,
+    16.11,
+    48.58,
+    22.9
+  ],
+  "mean_elevation_m": 143,
+  "dem_srtm_grid": [
+    {
+      "lat": 47.0,
+      "lon": 19.345,
+      "elevation_m": -7
+    },
+    {
+      "lat": 47.0,
+      "lon": 19.425,
+      "elevation_m": 23
+    },
+    {
+      "lat": 47.0,
+      "lon": 19.505,
+      "elevation_m": 53
+    },
+    {
+      "lat": 47.0,
+      "lon": 19.585,
+      "elevation_m": 83
+    },
+    {
+      "lat": 47.0,
+      "lon": 19.665,
+      "elevation_m": 113
+    },
+    {
+      "lat": 47.08,
+      "lon": 19.345,
+      "elevation_m": 38
+    },
+    {
+      "lat": 47.08,
+      "lon": 19.425,
+      "elevation_m": 68
+    },
+    {
+      "lat": 47.08,
+      "lon": 19.505,
+      "elevation_m": 98
+    },
+    {
+      "lat": 47.08,
+      "lon": 19.585,
+      "elevation_m": 128
+    },
+    {
+      "lat": 47.08,
+      "lon": 19.665,
+      "elevation_m": 158
+    },
+    {
+      "lat": 47.16,
+      "lon": 19.345,
+      "elevation_m": 83
+    },
+    {
+      "lat": 47.16,
+      "lon": 19.425,
+      "elevation_m": 113
+    },
+    {
+      "lat": 47.16,
+      "lon": 19.505,
+      "elevation_m": 143
+    },
+    {
+      "lat": 47.16,
+      "lon": 19.585,
+      "elevation_m": 173
+    },
+    {
+      "lat": 47.16,
+      "lon": 19.665,
+      "elevation_m": 203
+    },
+    {
+      "lat": 47.24,
+      "lon": 19.345,
+      "elevation_m": 128
+    },
+    {
+      "lat": 47.24,
+      "lon": 19.425,
+      "elevation_m": 158
+    },
+    {
+      "lat": 47.24,
+      "lon": 19.505,
+      "elevation_m": 188
+    },
+    {
+      "lat": 47.24,
+      "lon": 19.585,
+      "elevation_m": 218
+    },
+    {
+      "lat": 47.24,
+      "lon": 19.665,
+      "elevation_m": 248
+    },
+    {
+      "lat": 47.32,
+      "lon": 19.345,
+      "elevation_m": 173
+    },
+    {
+      "lat": 47.32,
+      "lon": 19.425,
+      "elevation_m": 203
+    },
+    {
+      "lat": 47.32,
+      "lon": 19.505,
+      "elevation_m": 233
+    },
+    {
+      "lat": 47.32,
+      "lon": 19.585,
+      "elevation_m": 263
+    },
+    {
+      "lat": 47.32,
+      "lon": 19.665,
+      "elevation_m": 293
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.057894+00:00"
+}

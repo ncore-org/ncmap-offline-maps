@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "AT",
+  "name": "Austria",
+  "name_sk": "Rakúsko",
+  "flag": "🇦🇹",
+  "eu_member": true,
+  "capital": "Wien",
+  "bbox": [
+    46.37,
+    9.53,
+    49.02,
+    17.16
+  ],
+  "mean_elevation_m": 635,
+  "dem_srtm_grid": [
+    {
+      "lat": 47.535,
+      "lon": 13.185,
+      "elevation_m": 485
+    },
+    {
+      "lat": 47.535,
+      "lon": 13.265,
+      "elevation_m": 515
+    },
+    {
+      "lat": 47.535,
+      "lon": 13.345,
+      "elevation_m": 545
+    },
+    {
+      "lat": 47.535,
+      "lon": 13.425,
+      "elevation_m": 575
+    },
+    {
+      "lat": 47.535,
+      "lon": 13.505,
+      "elevation_m": 605
+    },
+    {
+      "lat": 47.615,
+      "lon": 13.185,
+      "elevation_m": 530
+    },
+    {
+      "lat": 47.615,
+      "lon": 13.265,
+      "elevation_m": 560
+    },
+    {
+      "lat": 47.615,
+      "lon": 13.345,
+      "elevation_m": 590
+    },
+    {
+      "lat": 47.615,
+      "lon": 13.425,
+      "elevation_m": 620
+    },
+    {
+      "lat": 47.615,
+      "lon": 13.505,
+      "elevation_m": 650
+    },
+    {
+      "lat": 47.695,
+      "lon": 13.185,
+      "elevation_m": 575
+    },
+    {
+      "lat": 47.695,
+      "lon": 13.265,
+      "elevation_m": 605
+    },
+    {
+      "lat": 47.695,
+      "lon": 13.345,
+      "elevation_m": 635
+    },
+    {
+      "lat": 47.695,
+      "lon": 13.425,
+      "elevation_m": 665
+    },
+    {
+      "lat": 47.695,
+      "lon": 13.505,
+      "elevation_m": 695
+    },
+    {
+      "lat": 47.775,
+      "lon": 13.185,
+      "elevation_m": 620
+    },
+    {
+      "lat": 47.775,
+      "lon": 13.265,
+      "elevation_m": 650
+    },
+    {
+      "lat": 47.775,
+      "lon": 13.345,
+      "elevation_m": 680
+    },
+    {
+      "lat": 47.775,
+      "lon": 13.425,
+      "elevation_m": 710
+    },
+    {
+      "lat": 47.775,
+      "lon": 13.505,
+      "elevation_m": 740
+    },
+    {
+      "lat": 47.855,
+      "lon": 13.185,
+      "elevation_m": 665
+    },
+    {
+      "lat": 47.855,
+      "lon": 13.265,
+      "elevation_m": 695
+    },
+    {
+      "lat": 47.855,
+      "lon": 13.345,
+      "elevation_m": 725
+    },
+    {
+      "lat": 47.855,
+      "lon": 13.425,
+      "elevation_m": 755
+    },
+    {
+      "lat": 47.855,
+      "lon": 13.505,
+      "elevation_m": 785
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.022525+00:00"
+}

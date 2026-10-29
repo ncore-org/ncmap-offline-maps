@@ -1,0 +1,266 @@
+{
+  "country_code": "GB",
+  "terrain_3d_horizon": true,
+  "buildings_3d": [
+    {
+      "id": "GB_b3d_1",
+      "name": "London 3D Block 1583/31",
+      "house_number": "1583/31",
+      "height_m": 14.0,
+      "levels": 4,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          55.391,
+          -3.2094
+        ],
+        [
+          55.39138,
+          -3.2094
+        ],
+        [
+          55.39138,
+          -3.20888
+        ],
+        [
+          55.391,
+          -3.20888
+        ]
+      ]
+    },
+    {
+      "id": "GB_b3d_2",
+      "name": "London 3D Block 1586/33",
+      "house_number": "1586/33",
+      "height_m": 21.5,
+      "levels": 6,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          55.3928,
+          -3.2072
+        ],
+        [
+          55.39318,
+          -3.2072
+        ],
+        [
+          55.39318,
+          -3.20668
+        ],
+        [
+          55.3928,
+          -3.20668
+        ]
+      ]
+    },
+    {
+      "id": "GB_b3d_3",
+      "name": "London 3D Block 1831/2",
+      "house_number": "1831/2",
+      "height_m": 29.0,
+      "levels": 8,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          55.3946,
+          -3.205
+        ],
+        [
+          55.39498,
+          -3.205
+        ],
+        [
+          55.39498,
+          -3.20448
+        ],
+        [
+          55.3946,
+          -3.20448
+        ]
+      ]
+    },
+    {
+      "id": "GB_b3d_4",
+      "name": "London 3D Block 2482/21",
+      "house_number": "2482/21",
+      "height_m": 36.5,
+      "levels": 10,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          55.3964,
+          -3.2028
+        ],
+        [
+          55.39678,
+          -3.2028
+        ],
+        [
+          55.39678,
+          -3.20228
+        ],
+        [
+          55.3964,
+          -3.20228
+        ]
+      ]
+    },
+    {
+      "id": "GB_b3d_5",
+      "name": "London 3D Block 4416/2A",
+      "house_number": "4416/2A",
+      "height_m": 44.0,
+      "levels": 12,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          55.3982,
+          -3.2094
+        ],
+        [
+          55.39858,
+          -3.2094
+        ],
+        [
+          55.39858,
+          -3.20888
+        ],
+        [
+          55.3982,
+          -3.20888
+        ]
+      ]
+    },
+    {
+      "id": "GB_b3d_6",
+      "name": "London 3D Block 1589/39",
+      "house_number": "1589/39",
+      "height_m": 14.0,
+      "levels": 4,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          55.4,
+          -3.2072
+        ],
+        [
+          55.40038,
+          -3.2072
+        ],
+        [
+          55.40038,
+          -3.20668
+        ],
+        [
+          55.4,
+          -3.20668
+        ]
+      ]
+    },
+    {
+      "id": "GB_b3d_7",
+      "name": "London 3D Block 120/4",
+      "house_number": "120/4",
+      "height_m": 21.5,
+      "levels": 6,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          55.4018,
+          -3.205
+        ],
+        [
+          55.40218,
+          -3.205
+        ],
+        [
+          55.40218,
+          -3.20448
+        ],
+        [
+          55.4018,
+          -3.20448
+        ]
+      ]
+    },
+    {
+      "id": "GB_b3d_8",
+      "name": "London 3D Block 122/6",
+      "house_number": "122/6",
+      "height_m": 29.0,
+      "levels": 8,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          55.4036,
+          -3.2028
+        ],
+        [
+          55.40398,
+          -3.2028
+        ],
+        [
+          55.40398,
+          -3.20228
+        ],
+        [
+          55.4036,
+          -3.20228
+        ]
+      ]
+    },
+    {
+      "id": "GB_b3d_9",
+      "name": "London 3D Block 88/12",
+      "house_number": "88/12",
+      "height_m": 36.5,
+      "levels": 10,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          55.4054,
+          -3.2094
+        ],
+        [
+          55.40578,
+          -3.2094
+        ],
+        [
+          55.40578,
+          -3.20888
+        ],
+        [
+          55.4054,
+          -3.20888
+        ]
+      ]
+    },
+    {
+      "id": "GB_b3d_10",
+      "name": "London 3D Block 90/14",
+      "house_number": "90/14",
+      "height_m": 44.0,
+      "levels": 12,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          55.4072,
+          -3.2072
+        ],
+        [
+          55.40758,
+          -3.2072
+        ],
+        [
+          55.40758,
+          -3.20668
+        ],
+        [
+          55.4072,
+          -3.20668
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "AD",
+  "name": "Andorra",
+  "name_sk": "Andorra",
+  "flag": "🇦🇩",
+  "eu_member": false,
+  "capital": "Andorra la Vella",
+  "bbox": [
+    42.42,
+    1.41,
+    42.65,
+    1.78
+  ],
+  "mean_elevation_m": 1996,
+  "dem_srtm_grid": [
+    {
+      "lat": 42.375,
+      "lon": 1.435,
+      "elevation_m": 1846
+    },
+    {
+      "lat": 42.375,
+      "lon": 1.515,
+      "elevation_m": 1876
+    },
+    {
+      "lat": 42.375,
+      "lon": 1.595,
+      "elevation_m": 1906
+    },
+    {
+      "lat": 42.375,
+      "lon": 1.675,
+      "elevation_m": 1936
+    },
+    {
+      "lat": 42.375,
+      "lon": 1.755,
+      "elevation_m": 1966
+    },
+    {
+      "lat": 42.455,
+      "lon": 1.435,
+      "elevation_m": 1891
+    },
+    {
+      "lat": 42.455,
+      "lon": 1.515,
+      "elevation_m": 1921
+    },
+    {
+      "lat": 42.455,
+      "lon": 1.595,
+      "elevation_m": 1951
+    },
+    {
+      "lat": 42.455,
+      "lon": 1.675,
+      "elevation_m": 1981
+    },
+    {
+      "lat": 42.455,
+      "lon": 1.755,
+      "elevation_m": 2011
+    },
+    {
+      "lat": 42.535,
+      "lon": 1.435,
+      "elevation_m": 1936
+    },
+    {
+      "lat": 42.535,
+      "lon": 1.515,
+      "elevation_m": 1966
+    },
+    {
+      "lat": 42.535,
+      "lon": 1.595,
+      "elevation_m": 1996
+    },
+    {
+      "lat": 42.535,
+      "lon": 1.675,
+      "elevation_m": 2026
+    },
+    {
+      "lat": 42.535,
+      "lon": 1.755,
+      "elevation_m": 2056
+    },
+    {
+      "lat": 42.615,
+      "lon": 1.435,
+      "elevation_m": 1981
+    },
+    {
+      "lat": 42.615,
+      "lon": 1.515,
+      "elevation_m": 2011
+    },
+    {
+      "lat": 42.615,
+      "lon": 1.595,
+      "elevation_m": 2041
+    },
+    {
+      "lat": 42.615,
+      "lon": 1.675,
+      "elevation_m": 2071
+    },
+    {
+      "lat": 42.615,
+      "lon": 1.755,
+      "elevation_m": 2101
+    },
+    {
+      "lat": 42.695,
+      "lon": 1.435,
+      "elevation_m": 2026
+    },
+    {
+      "lat": 42.695,
+      "lon": 1.515,
+      "elevation_m": 2056
+    },
+    {
+      "lat": 42.695,
+      "lon": 1.595,
+      "elevation_m": 2086
+    },
+    {
+      "lat": 42.695,
+      "lon": 1.675,
+      "elevation_m": 2116
+    },
+    {
+      "lat": 42.695,
+      "lon": 1.755,
+      "elevation_m": 2146
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.109975+00:00"
+}

@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "NL",
+  "name": "Netherlands",
+  "name_sk": "Holandsko",
+  "flag": "🇳🇱",
+  "eu_member": true,
+  "capital": "Amsterdam",
+  "bbox": [
+    50.75,
+    3.36,
+    53.47,
+    7.23
+  ],
+  "mean_elevation_m": 30,
+  "dem_srtm_grid": [
+    {
+      "lat": 51.95,
+      "lon": 5.135,
+      "elevation_m": -120
+    },
+    {
+      "lat": 51.95,
+      "lon": 5.215,
+      "elevation_m": -90
+    },
+    {
+      "lat": 51.95,
+      "lon": 5.295,
+      "elevation_m": -60
+    },
+    {
+      "lat": 51.95,
+      "lon": 5.375,
+      "elevation_m": -30
+    },
+    {
+      "lat": 51.95,
+      "lon": 5.455,
+      "elevation_m": 0
+    },
+    {
+      "lat": 52.03,
+      "lon": 5.135,
+      "elevation_m": -75
+    },
+    {
+      "lat": 52.03,
+      "lon": 5.215,
+      "elevation_m": -45
+    },
+    {
+      "lat": 52.03,
+      "lon": 5.295,
+      "elevation_m": -15
+    },
+    {
+      "lat": 52.03,
+      "lon": 5.375,
+      "elevation_m": 15
+    },
+    {
+      "lat": 52.03,
+      "lon": 5.455,
+      "elevation_m": 45
+    },
+    {
+      "lat": 52.11,
+      "lon": 5.135,
+      "elevation_m": -30
+    },
+    {
+      "lat": 52.11,
+      "lon": 5.215,
+      "elevation_m": 0
+    },
+    {
+      "lat": 52.11,
+      "lon": 5.295,
+      "elevation_m": 30
+    },
+    {
+      "lat": 52.11,
+      "lon": 5.375,
+      "elevation_m": 60
+    },
+    {
+      "lat": 52.11,
+      "lon": 5.455,
+      "elevation_m": 90
+    },
+    {
+      "lat": 52.19,
+      "lon": 5.135,
+      "elevation_m": 15
+    },
+    {
+      "lat": 52.19,
+      "lon": 5.215,
+      "elevation_m": 45
+    },
+    {
+      "lat": 52.19,
+      "lon": 5.295,
+      "elevation_m": 75
+    },
+    {
+      "lat": 52.19,
+      "lon": 5.375,
+      "elevation_m": 105
+    },
+    {
+      "lat": 52.19,
+      "lon": 5.455,
+      "elevation_m": 135
+    },
+    {
+      "lat": 52.27,
+      "lon": 5.135,
+      "elevation_m": 60
+    },
+    {
+      "lat": 52.27,
+      "lon": 5.215,
+      "elevation_m": 90
+    },
+    {
+      "lat": 52.27,
+      "lon": 5.295,
+      "elevation_m": 120
+    },
+    {
+      "lat": 52.27,
+      "lon": 5.375,
+      "elevation_m": 150
+    },
+    {
+      "lat": 52.27,
+      "lon": 5.455,
+      "elevation_m": 180
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.076651+00:00"
+}

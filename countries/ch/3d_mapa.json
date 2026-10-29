@@ -1,0 +1,266 @@
+{
+  "country_code": "CH",
+  "terrain_3d_horizon": true,
+  "buildings_3d": [
+    {
+      "id": "CH_b3d_1",
+      "name": "Bern 3D Block 1583/31",
+      "house_number": "1583/31",
+      "height_m": 14.0,
+      "levels": 4,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          46.806,
+          8.2206
+        ],
+        [
+          46.80638,
+          8.2206
+        ],
+        [
+          46.80638,
+          8.22112
+        ],
+        [
+          46.806,
+          8.22112
+        ]
+      ]
+    },
+    {
+      "id": "CH_b3d_2",
+      "name": "Bern 3D Block 1586/33",
+      "house_number": "1586/33",
+      "height_m": 21.5,
+      "levels": 6,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          46.8078,
+          8.2228
+        ],
+        [
+          46.80818,
+          8.2228
+        ],
+        [
+          46.80818,
+          8.22332
+        ],
+        [
+          46.8078,
+          8.22332
+        ]
+      ]
+    },
+    {
+      "id": "CH_b3d_3",
+      "name": "Bern 3D Block 1831/2",
+      "house_number": "1831/2",
+      "height_m": 29.0,
+      "levels": 8,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          46.8096,
+          8.225
+        ],
+        [
+          46.80998,
+          8.225
+        ],
+        [
+          46.80998,
+          8.22552
+        ],
+        [
+          46.8096,
+          8.22552
+        ]
+      ]
+    },
+    {
+      "id": "CH_b3d_4",
+      "name": "Bern 3D Block 2482/21",
+      "house_number": "2482/21",
+      "height_m": 36.5,
+      "levels": 10,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          46.8114,
+          8.2272
+        ],
+        [
+          46.81178,
+          8.2272
+        ],
+        [
+          46.81178,
+          8.22772
+        ],
+        [
+          46.8114,
+          8.22772
+        ]
+      ]
+    },
+    {
+      "id": "CH_b3d_5",
+      "name": "Bern 3D Block 4416/2A",
+      "house_number": "4416/2A",
+      "height_m": 44.0,
+      "levels": 12,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          46.8132,
+          8.2206
+        ],
+        [
+          46.81358,
+          8.2206
+        ],
+        [
+          46.81358,
+          8.22112
+        ],
+        [
+          46.8132,
+          8.22112
+        ]
+      ]
+    },
+    {
+      "id": "CH_b3d_6",
+      "name": "Bern 3D Block 1589/39",
+      "house_number": "1589/39",
+      "height_m": 14.0,
+      "levels": 4,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          46.815,
+          8.2228
+        ],
+        [
+          46.81538,
+          8.2228
+        ],
+        [
+          46.81538,
+          8.22332
+        ],
+        [
+          46.815,
+          8.22332
+        ]
+      ]
+    },
+    {
+      "id": "CH_b3d_7",
+      "name": "Bern 3D Block 120/4",
+      "house_number": "120/4",
+      "height_m": 21.5,
+      "levels": 6,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          46.8168,
+          8.225
+        ],
+        [
+          46.81718,
+          8.225
+        ],
+        [
+          46.81718,
+          8.22552
+        ],
+        [
+          46.8168,
+          8.22552
+        ]
+      ]
+    },
+    {
+      "id": "CH_b3d_8",
+      "name": "Bern 3D Block 122/6",
+      "house_number": "122/6",
+      "height_m": 29.0,
+      "levels": 8,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          46.8186,
+          8.2272
+        ],
+        [
+          46.81898,
+          8.2272
+        ],
+        [
+          46.81898,
+          8.22772
+        ],
+        [
+          46.8186,
+          8.22772
+        ]
+      ]
+    },
+    {
+      "id": "CH_b3d_9",
+      "name": "Bern 3D Block 88/12",
+      "house_number": "88/12",
+      "height_m": 36.5,
+      "levels": 10,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          46.8204,
+          8.2206
+        ],
+        [
+          46.82078,
+          8.2206
+        ],
+        [
+          46.82078,
+          8.22112
+        ],
+        [
+          46.8204,
+          8.22112
+        ]
+      ]
+    },
+    {
+      "id": "CH_b3d_10",
+      "name": "Bern 3D Block 90/14",
+      "house_number": "90/14",
+      "height_m": 44.0,
+      "levels": 12,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          46.8222,
+          8.2228
+        ],
+        [
+          46.82258,
+          8.2228
+        ],
+        [
+          46.82258,
+          8.22332
+        ],
+        [
+          46.8222,
+          8.22332
+        ]
+      ]
+    }
+  ]
+}

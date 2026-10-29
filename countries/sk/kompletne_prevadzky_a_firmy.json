@@ -1,0 +1,93 @@
+{
+  "country_code": "SK",
+  "businesses_and_companies": [
+    {
+      "id": "SK_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – Bratislava",
+      "lat": 48.61,
+      "lon": 19.619,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, Bratislava, Slovensko"
+    },
+    {
+      "id": "SK_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – Bratislava",
+      "lat": 48.625,
+      "lon": 19.638,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, Bratislava, Slovensko"
+    },
+    {
+      "id": "SK_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – Bratislava",
+      "lat": 48.64,
+      "lon": 19.657,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, Bratislava, Slovensko"
+    },
+    {
+      "id": "SK_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – Bratislava",
+      "lat": 48.655,
+      "lon": 19.676,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, Bratislava, Slovensko"
+    },
+    {
+      "id": "SK_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – Bratislava",
+      "lat": 48.67,
+      "lon": 19.695,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, Bratislava, Slovensko"
+    },
+    {
+      "id": "SK_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – Bratislava",
+      "lat": 48.685,
+      "lon": 19.714,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, Bratislava, Slovensko"
+    },
+    {
+      "id": "SK_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – Bratislava",
+      "lat": 48.7,
+      "lon": 19.733,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, Bratislava, Slovensko"
+    },
+    {
+      "id": "SK_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – Bratislava",
+      "lat": 48.715,
+      "lon": 19.752,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, Bratislava, Slovensko"
+    }
+  ]
+}

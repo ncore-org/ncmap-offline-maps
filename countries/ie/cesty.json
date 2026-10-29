@@ -1,0 +1,75 @@
+{
+  "country_code": "IE",
+  "highway_prefix": "M1/M4/M7/M8/M50",
+  "toll_type": "eflow_and_booths",
+  "road_shields": [
+    {
+      "shield": "M1",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "M4",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "M7",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "M8",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "M50",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "66",
+      "type": "primary",
+      "maxspeed_kmh": 90,
+      "lanes": 2
+    },
+    {
+      "shield": "3096",
+      "type": "secondary",
+      "maxspeed_kmh": 50,
+      "lanes": 2
+    }
+  ],
+  "addressed_streets": [
+    {
+      "street": "Obrancov mieru",
+      "city": "Dublin",
+      "house_numbers": [
+        "1583/31",
+        "1586/33",
+        "1831/2",
+        "2482/21",
+        "4416/2A",
+        "1589/39"
+      ],
+      "elevation_m": 118
+    },
+    {
+      "street": "Hlavná ulica",
+      "city": "Dublin",
+      "house_numbers": [
+        "102/1",
+        "104/3",
+        "108/5",
+        "112/7"
+      ],
+      "elevation_m": 118
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country_code": "ES",
+  "highway_prefix": "AP-7/A-1/A-2/A-3/A-4",
+  "toll_type": "autopista_peaje",
+  "road_shields": [
+    {
+      "shield": "AP-7",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "A-1",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "A-2",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "A-3",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "A-4",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "66",
+      "type": "primary",
+      "maxspeed_kmh": 90,
+      "lanes": 2
+    },
+    {
+      "shield": "3096",
+      "type": "secondary",
+      "maxspeed_kmh": 50,
+      "lanes": 2
+    }
+  ],
+  "addressed_streets": [
+    {
+      "street": "Obrancov mieru",
+      "city": "Madrid",
+      "house_numbers": [
+        "1583/31",
+        "1586/33",
+        "1831/2",
+        "2482/21",
+        "4416/2A",
+        "1589/39"
+      ],
+      "elevation_m": 660
+    },
+    {
+      "street": "Hlavná ulica",
+      "city": "Madrid",
+      "house_numbers": [
+        "102/1",
+        "104/3",
+        "108/5",
+        "112/7"
+      ],
+      "elevation_m": 660
+    }
+  ]
+}

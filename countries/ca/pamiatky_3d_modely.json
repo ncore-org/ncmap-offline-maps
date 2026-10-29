@@ -1,0 +1,89 @@
+{
+  "country_code": "CA",
+  "landmarks_3d": [
+    {
+      "id": "CA_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "CN Tower Toronto 3D",
+      "lat": 53.4955,
+      "lon": -96.8055,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          53.4955,
+          -96.8055
+        ],
+        [
+          53.4961,
+          -96.8055
+        ],
+        [
+          53.4961,
+          -96.8048
+        ],
+        [
+          53.4955,
+          -96.8048
+        ]
+      ]
+    },
+    {
+      "id": "CA_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Parliament Hill Ottawa 3D",
+      "lat": 53.5,
+      "lon": -96.8,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          53.5,
+          -96.8
+        ],
+        [
+          53.5006,
+          -96.8
+        ],
+        [
+          53.5006,
+          -96.7993
+        ],
+        [
+          53.5,
+          -96.7993
+        ]
+      ]
+    },
+    {
+      "id": "CA_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Château Frontenac 3D",
+      "lat": 53.5045,
+      "lon": -96.7945,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          53.5045,
+          -96.7945
+        ],
+        [
+          53.5051,
+          -96.7945
+        ],
+        [
+          53.5051,
+          -96.7938
+        ],
+        [
+          53.5045,
+          -96.7938
+        ]
+      ]
+    }
+  ]
+}

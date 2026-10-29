@@ -1,0 +1,70 @@
+{
+  "country_code": "MT",
+  "touristic_zones": [
+    {
+      "id": "MT_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Valletta #1",
+      "lat": 35.931,
+      "lon": 14.369,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Malta."
+    },
+    {
+      "id": "MT_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Valletta #2",
+      "lat": 35.94,
+      "lon": 14.38,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Malta."
+    },
+    {
+      "id": "MT_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Valletta #3",
+      "lat": 35.949,
+      "lon": 14.391,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Malta."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "MT_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Valletta #1",
+      "lat": 35.928,
+      "lon": 14.394,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "MT_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Valletta #2",
+      "lat": 35.94,
+      "lon": 14.38,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "MT_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Valletta #3",
+      "lat": 35.952,
+      "lon": 14.366,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

@@ -1,0 +1,1197 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "NL",
+  "country_name": "Netherlands",
+  "country_name_sk": "Holandsko",
+  "part": 1,
+  "total_parts": 2,
+  "country_paths": {
+    "hlavne_data": "countries/nl/hlavne_data.json",
+    "3d_mapa": "countries/nl/3d_mapa.json",
+    "cesty": "countries/nl/cesty.json",
+    "radary": "countries/nl/radary.json",
+    "odpocivadla_a_sprchy": "countries/nl/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/nl/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/nl/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/nl/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/nl/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "NL",
+      "name": "Netherlands",
+      "name_sk": "Holandsko",
+      "flag": "🇳🇱",
+      "eu_member": true,
+      "capital": "Amsterdam",
+      "bbox": [
+        50.75,
+        3.36,
+        53.47,
+        7.23
+      ],
+      "mean_elevation_m": 30,
+      "dem_srtm_grid": [
+        {
+          "lat": 51.95,
+          "lon": 5.135,
+          "elevation_m": -120
+        },
+        {
+          "lat": 51.95,
+          "lon": 5.215,
+          "elevation_m": -90
+        },
+        {
+          "lat": 51.95,
+          "lon": 5.295,
+          "elevation_m": -60
+        },
+        {
+          "lat": 51.95,
+          "lon": 5.375,
+          "elevation_m": -30
+        },
+        {
+          "lat": 51.95,
+          "lon": 5.455,
+          "elevation_m": 0
+        },
+        {
+          "lat": 52.03,
+          "lon": 5.135,
+          "elevation_m": -75
+        },
+        {
+          "lat": 52.03,
+          "lon": 5.215,
+          "elevation_m": -45
+        },
+        {
+          "lat": 52.03,
+          "lon": 5.295,
+          "elevation_m": -15
+        },
+        {
+          "lat": 52.03,
+          "lon": 5.375,
+          "elevation_m": 15
+        },
+        {
+          "lat": 52.03,
+          "lon": 5.455,
+          "elevation_m": 45
+        },
+        {
+          "lat": 52.11,
+          "lon": 5.135,
+          "elevation_m": -30
+        },
+        {
+          "lat": 52.11,
+          "lon": 5.215,
+          "elevation_m": 0
+        },
+        {
+          "lat": 52.11,
+          "lon": 5.295,
+          "elevation_m": 30
+        },
+        {
+          "lat": 52.11,
+          "lon": 5.375,
+          "elevation_m": 60
+        },
+        {
+          "lat": 52.11,
+          "lon": 5.455,
+          "elevation_m": 90
+        },
+        {
+          "lat": 52.19,
+          "lon": 5.135,
+          "elevation_m": 15
+        },
+        {
+          "lat": 52.19,
+          "lon": 5.215,
+          "elevation_m": 45
+        },
+        {
+          "lat": 52.19,
+          "lon": 5.295,
+          "elevation_m": 75
+        },
+        {
+          "lat": 52.19,
+          "lon": 5.375,
+          "elevation_m": 105
+        },
+        {
+          "lat": 52.19,
+          "lon": 5.455,
+          "elevation_m": 135
+        },
+        {
+          "lat": 52.27,
+          "lon": 5.135,
+          "elevation_m": 60
+        },
+        {
+          "lat": 52.27,
+          "lon": 5.215,
+          "elevation_m": 90
+        },
+        {
+          "lat": 52.27,
+          "lon": 5.295,
+          "elevation_m": 120
+        },
+        {
+          "lat": 52.27,
+          "lon": 5.375,
+          "elevation_m": 150
+        },
+        {
+          "lat": 52.27,
+          "lon": 5.455,
+          "elevation_m": 180
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.076651+00:00"
+    },
+    "roads": {
+      "country_code": "NL",
+      "highway_prefix": "A1/A2/A4/A12/A16",
+      "toll_type": "tunnel_toll_kiltunnel",
+      "road_shields": [
+        {
+          "shield": "A1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A2",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A4",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A12",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A16",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "Amsterdam",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 30
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "Amsterdam",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 30
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "NL_b3d_1",
+        "name": "Amsterdam 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            52.101,
+            5.2906
+          ],
+          [
+            52.10138,
+            5.2906
+          ],
+          [
+            52.10138,
+            5.29112
+          ],
+          [
+            52.101,
+            5.29112
+          ]
+        ]
+      },
+      {
+        "id": "NL_b3d_2",
+        "name": "Amsterdam 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            52.1028,
+            5.2928
+          ],
+          [
+            52.10318,
+            5.2928
+          ],
+          [
+            52.10318,
+            5.29332
+          ],
+          [
+            52.1028,
+            5.29332
+          ]
+        ]
+      },
+      {
+        "id": "NL_b3d_3",
+        "name": "Amsterdam 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            52.1046,
+            5.295
+          ],
+          [
+            52.10498,
+            5.295
+          ],
+          [
+            52.10498,
+            5.29552
+          ],
+          [
+            52.1046,
+            5.29552
+          ]
+        ]
+      },
+      {
+        "id": "NL_b3d_4",
+        "name": "Amsterdam 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            52.1064,
+            5.2972
+          ],
+          [
+            52.10678,
+            5.2972
+          ],
+          [
+            52.10678,
+            5.29772
+          ],
+          [
+            52.1064,
+            5.29772
+          ]
+        ]
+      },
+      {
+        "id": "NL_b3d_5",
+        "name": "Amsterdam 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            52.1082,
+            5.2906
+          ],
+          [
+            52.10858,
+            5.2906
+          ],
+          [
+            52.10858,
+            5.29112
+          ],
+          [
+            52.1082,
+            5.29112
+          ]
+        ]
+      },
+      {
+        "id": "NL_b3d_6",
+        "name": "Amsterdam 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            52.11,
+            5.2928
+          ],
+          [
+            52.11038,
+            5.2928
+          ],
+          [
+            52.11038,
+            5.29332
+          ],
+          [
+            52.11,
+            5.29332
+          ]
+        ]
+      },
+      {
+        "id": "NL_b3d_7",
+        "name": "Amsterdam 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            52.1118,
+            5.295
+          ],
+          [
+            52.11218,
+            5.295
+          ],
+          [
+            52.11218,
+            5.29552
+          ],
+          [
+            52.1118,
+            5.29552
+          ]
+        ]
+      },
+      {
+        "id": "NL_b3d_8",
+        "name": "Amsterdam 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            52.1136,
+            5.2972
+          ],
+          [
+            52.11398,
+            5.2972
+          ],
+          [
+            52.11398,
+            5.29772
+          ],
+          [
+            52.1136,
+            5.29772
+          ]
+        ]
+      },
+      {
+        "id": "NL_b3d_9",
+        "name": "Amsterdam 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            52.1154,
+            5.2906
+          ],
+          [
+            52.11578,
+            5.2906
+          ],
+          [
+            52.11578,
+            5.29112
+          ],
+          [
+            52.1154,
+            5.29112
+          ]
+        ]
+      },
+      {
+        "id": "NL_b3d_10",
+        "name": "Amsterdam 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            52.1172,
+            5.2928
+          ],
+          [
+            52.11758,
+            5.2928
+          ],
+          [
+            52.11758,
+            5.29332
+          ],
+          [
+            52.1172,
+            5.29332
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "NL_rad_1",
+        "type": "section_radar",
+        "lat": 51.95,
+        "lon": 5.09,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "NL_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 51.982,
+        "lon": 5.131,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "A1"
+      },
+      {
+        "id": "NL_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 52.014,
+        "lon": 5.172,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "A1"
+      },
+      {
+        "id": "NL_rad_4",
+        "type": "section_radar",
+        "lat": 52.046,
+        "lon": 5.213,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "A1"
+      },
+      {
+        "id": "NL_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 52.078,
+        "lon": 5.254,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "A1"
+      },
+      {
+        "id": "NL_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 52.11,
+        "lon": 5.295,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "A1"
+      },
+      {
+        "id": "NL_rad_7",
+        "type": "section_radar",
+        "lat": 52.142,
+        "lon": 5.336,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "A1"
+      },
+      {
+        "id": "NL_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 52.174,
+        "lon": 5.377,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "A1"
+      },
+      {
+        "id": "NL_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 52.206,
+        "lon": 5.418,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "NL_rad_10",
+        "type": "section_radar",
+        "lat": 52.238,
+        "lon": 5.459,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "A1"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "NL_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 51.998,
+        "lon": 5.151,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Holandsko · Diaľnica A1"
+      },
+      {
+        "id": "NL_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 52.026,
+        "lon": 5.187,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Holandsko · Diaľnica A1"
+      },
+      {
+        "id": "NL_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 52.054,
+        "lon": 5.223,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Holandsko · Diaľnica A1"
+      },
+      {
+        "id": "NL_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 52.082,
+        "lon": 5.259,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Holandsko · Diaľnica A1"
+      },
+      {
+        "id": "NL_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 52.11,
+        "lon": 5.295,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Holandsko · Diaľnica A1"
+      },
+      {
+        "id": "NL_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 52.138,
+        "lon": 5.331,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Holandsko · Diaľnica A1"
+      },
+      {
+        "id": "NL_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 52.166,
+        "lon": 5.367,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Holandsko · Diaľnica A1"
+      },
+      {
+        "id": "NL_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 192 (BP)",
+        "brand": "bp",
+        "lat": 52.194,
+        "lon": 5.403,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Holandsko · Diaľnica A1"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "NL_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV Amsterdam #1",
+        "lat": 51.99,
+        "lon": 5.14,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Holandsko (A1/A2/A4/A12/A16)"
+      },
+      {
+        "id": "NL_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell Amsterdam #2",
+        "lat": 52.014,
+        "lon": 5.171,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Holandsko (A1/A2/A4/A12/A16)"
+      },
+      {
+        "id": "NL_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft Amsterdam #3",
+        "lat": 52.038,
+        "lon": 5.202,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Holandsko (A1/A2/A4/A12/A16)"
+      },
+      {
+        "id": "NL_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen Amsterdam #4",
+        "lat": 52.062,
+        "lon": 5.233,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Holandsko (A1/A2/A4/A12/A16)"
+      },
+      {
+        "id": "NL_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral Amsterdam #5",
+        "lat": 52.086,
+        "lon": 5.264,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Holandsko (A1/A2/A4/A12/A16)"
+      },
+      {
+        "id": "NL_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL Amsterdam #6",
+        "lat": 52.11,
+        "lon": 5.295,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Holandsko (A1/A2/A4/A12/A16)"
+      },
+      {
+        "id": "NL_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies Amsterdam #7",
+        "lat": 52.134,
+        "lon": 5.326,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Holandsko (A1/A2/A4/A12/A16)"
+      },
+      {
+        "id": "NL_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP Amsterdam #8",
+        "lat": 52.158,
+        "lon": 5.357,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Holandsko (A1/A2/A4/A12/A16)"
+      },
+      {
+        "id": "NL_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K Amsterdam #9",
+        "lat": 52.182,
+        "lon": 5.388,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Holandsko (A1/A2/A4/A12/A16)"
+      },
+      {
+        "id": "NL_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 Amsterdam #10",
+        "lat": 52.206,
+        "lon": 5.419,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Holandsko (A1/A2/A4/A12/A16)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "NL_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru Amsterdam",
+        "lat": 52.047,
+        "lon": 5.208,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Holandsko"
+      },
+      {
+        "id": "NL_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru Amsterdam",
+        "lat": 52.068,
+        "lon": 5.237,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Holandsko"
+      },
+      {
+        "id": "NL_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru Amsterdam",
+        "lat": 52.089,
+        "lon": 5.266,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Holandsko"
+      },
+      {
+        "id": "NL_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru Amsterdam",
+        "lat": 52.11,
+        "lon": 5.295,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Holandsko"
+      },
+      {
+        "id": "NL_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru Amsterdam",
+        "lat": 52.131,
+        "lon": 5.324,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Holandsko"
+      },
+      {
+        "id": "NL_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru Amsterdam",
+        "lat": 52.152,
+        "lon": 5.353,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Holandsko"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "NL_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – Amsterdam",
+        "lat": 52.05,
+        "lon": 5.219,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, Amsterdam, Holandsko"
+      },
+      {
+        "id": "NL_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – Amsterdam",
+        "lat": 52.065,
+        "lon": 5.238,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, Amsterdam, Holandsko"
+      },
+      {
+        "id": "NL_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – Amsterdam",
+        "lat": 52.08,
+        "lon": 5.257,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, Amsterdam, Holandsko"
+      },
+      {
+        "id": "NL_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – Amsterdam",
+        "lat": 52.095,
+        "lon": 5.276,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, Amsterdam, Holandsko"
+      },
+      {
+        "id": "NL_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – Amsterdam",
+        "lat": 52.11,
+        "lon": 5.295,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, Amsterdam, Holandsko"
+      },
+      {
+        "id": "NL_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – Amsterdam",
+        "lat": 52.125,
+        "lon": 5.314,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, Amsterdam, Holandsko"
+      },
+      {
+        "id": "NL_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – Amsterdam",
+        "lat": 52.14,
+        "lon": 5.333,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, Amsterdam, Holandsko"
+      },
+      {
+        "id": "NL_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – Amsterdam",
+        "lat": 52.155,
+        "lon": 5.352,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, Amsterdam, Holandsko"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "NL_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Amsterdam #1",
+        "lat": 52.101,
+        "lon": 5.284,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Holandsko."
+      },
+      {
+        "id": "NL_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Amsterdam #2",
+        "lat": 52.11,
+        "lon": 5.295,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Holandsko."
+      },
+      {
+        "id": "NL_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Amsterdam #3",
+        "lat": 52.119,
+        "lon": 5.306,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Holandsko."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "NL_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Amsterdam #1",
+        "lat": 52.098,
+        "lon": 5.309,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "NL_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Amsterdam #2",
+        "lat": 52.11,
+        "lon": 5.295,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "NL_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Amsterdam #3",
+        "lat": 52.122,
+        "lon": 5.281,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "NL_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "Rijksmuseum Amsterdam 3D",
+        "lat": 52.1055,
+        "lon": 5.2895,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            52.1055,
+            5.2895
+          ],
+          [
+            52.1061,
+            5.2895
+          ],
+          [
+            52.1061,
+            5.2902
+          ],
+          [
+            52.1055,
+            5.2902
+          ]
+        ]
+      },
+      {
+        "id": "NL_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Erasmusbrug Rotterdam 3D",
+        "lat": 52.11,
+        "lon": 5.295,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            52.11,
+            5.295
+          ],
+          [
+            52.1106,
+            5.295
+          ],
+          [
+            52.1106,
+            5.2957
+          ],
+          [
+            52.11,
+            5.2957
+          ]
+        ]
+      },
+      {
+        "id": "NL_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Dom Tower Utrecht 3D",
+        "lat": 52.1145,
+        "lon": 5.3005,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            52.1145,
+            5.3005
+          ],
+          [
+            52.1151,
+            5.3005
+          ],
+          [
+            52.1151,
+            5.3012
+          ],
+          [
+            52.1145,
+            5.3012
+          ]
+        ]
+      }
+    ]
+  }
+}

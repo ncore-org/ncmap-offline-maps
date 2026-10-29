@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "CH",
+  "name": "Switzerland",
+  "name_sk": "Švajčiarsko",
+  "flag": "🇨🇭",
+  "eu_member": false,
+  "capital": "Bern",
+  "bbox": [
+    45.82,
+    5.96,
+    47.81,
+    10.49
+  ],
+  "mean_elevation_m": 1350,
+  "dem_srtm_grid": [
+    {
+      "lat": 46.655,
+      "lon": 8.065,
+      "elevation_m": 1200
+    },
+    {
+      "lat": 46.655,
+      "lon": 8.145,
+      "elevation_m": 1230
+    },
+    {
+      "lat": 46.655,
+      "lon": 8.225,
+      "elevation_m": 1260
+    },
+    {
+      "lat": 46.655,
+      "lon": 8.305,
+      "elevation_m": 1290
+    },
+    {
+      "lat": 46.655,
+      "lon": 8.385,
+      "elevation_m": 1320
+    },
+    {
+      "lat": 46.735,
+      "lon": 8.065,
+      "elevation_m": 1245
+    },
+    {
+      "lat": 46.735,
+      "lon": 8.145,
+      "elevation_m": 1275
+    },
+    {
+      "lat": 46.735,
+      "lon": 8.225,
+      "elevation_m": 1305
+    },
+    {
+      "lat": 46.735,
+      "lon": 8.305,
+      "elevation_m": 1335
+    },
+    {
+      "lat": 46.735,
+      "lon": 8.385,
+      "elevation_m": 1365
+    },
+    {
+      "lat": 46.815,
+      "lon": 8.065,
+      "elevation_m": 1290
+    },
+    {
+      "lat": 46.815,
+      "lon": 8.145,
+      "elevation_m": 1320
+    },
+    {
+      "lat": 46.815,
+      "lon": 8.225,
+      "elevation_m": 1350
+    },
+    {
+      "lat": 46.815,
+      "lon": 8.305,
+      "elevation_m": 1380
+    },
+    {
+      "lat": 46.815,
+      "lon": 8.385,
+      "elevation_m": 1410
+    },
+    {
+      "lat": 46.895,
+      "lon": 8.065,
+      "elevation_m": 1335
+    },
+    {
+      "lat": 46.895,
+      "lon": 8.145,
+      "elevation_m": 1365
+    },
+    {
+      "lat": 46.895,
+      "lon": 8.225,
+      "elevation_m": 1395
+    },
+    {
+      "lat": 46.895,
+      "lon": 8.305,
+      "elevation_m": 1425
+    },
+    {
+      "lat": 46.895,
+      "lon": 8.385,
+      "elevation_m": 1455
+    },
+    {
+      "lat": 46.975,
+      "lon": 8.065,
+      "elevation_m": 1380
+    },
+    {
+      "lat": 46.975,
+      "lon": 8.145,
+      "elevation_m": 1410
+    },
+    {
+      "lat": 46.975,
+      "lon": 8.225,
+      "elevation_m": 1440
+    },
+    {
+      "lat": 46.975,
+      "lon": 8.305,
+      "elevation_m": 1470
+    },
+    {
+      "lat": 46.975,
+      "lon": 8.385,
+      "elevation_m": 1500
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.100747+00:00"
+}

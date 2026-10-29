@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "GR",
+  "name": "Greece",
+  "name_sk": "Grécko",
+  "flag": "🇬🇷",
+  "eu_member": true,
+  "capital": "Athína",
+  "bbox": [
+    34.8,
+    19.37,
+    41.75,
+    28.25
+  ],
+  "mean_elevation_m": 498,
+  "dem_srtm_grid": [
+    {
+      "lat": 38.115,
+      "lon": 23.65,
+      "elevation_m": 348
+    },
+    {
+      "lat": 38.115,
+      "lon": 23.73,
+      "elevation_m": 378
+    },
+    {
+      "lat": 38.115,
+      "lon": 23.81,
+      "elevation_m": 408
+    },
+    {
+      "lat": 38.115,
+      "lon": 23.89,
+      "elevation_m": 438
+    },
+    {
+      "lat": 38.115,
+      "lon": 23.97,
+      "elevation_m": 468
+    },
+    {
+      "lat": 38.195,
+      "lon": 23.65,
+      "elevation_m": 393
+    },
+    {
+      "lat": 38.195,
+      "lon": 23.73,
+      "elevation_m": 423
+    },
+    {
+      "lat": 38.195,
+      "lon": 23.81,
+      "elevation_m": 453
+    },
+    {
+      "lat": 38.195,
+      "lon": 23.89,
+      "elevation_m": 483
+    },
+    {
+      "lat": 38.195,
+      "lon": 23.97,
+      "elevation_m": 513
+    },
+    {
+      "lat": 38.275,
+      "lon": 23.65,
+      "elevation_m": 438
+    },
+    {
+      "lat": 38.275,
+      "lon": 23.73,
+      "elevation_m": 468
+    },
+    {
+      "lat": 38.275,
+      "lon": 23.81,
+      "elevation_m": 498
+    },
+    {
+      "lat": 38.275,
+      "lon": 23.89,
+      "elevation_m": 528
+    },
+    {
+      "lat": 38.275,
+      "lon": 23.97,
+      "elevation_m": 558
+    },
+    {
+      "lat": 38.355,
+      "lon": 23.65,
+      "elevation_m": 483
+    },
+    {
+      "lat": 38.355,
+      "lon": 23.73,
+      "elevation_m": 513
+    },
+    {
+      "lat": 38.355,
+      "lon": 23.81,
+      "elevation_m": 543
+    },
+    {
+      "lat": 38.355,
+      "lon": 23.89,
+      "elevation_m": 573
+    },
+    {
+      "lat": 38.355,
+      "lon": 23.97,
+      "elevation_m": 603
+    },
+    {
+      "lat": 38.435,
+      "lon": 23.65,
+      "elevation_m": 528
+    },
+    {
+      "lat": 38.435,
+      "lon": 23.73,
+      "elevation_m": 558
+    },
+    {
+      "lat": 38.435,
+      "lon": 23.81,
+      "elevation_m": 588
+    },
+    {
+      "lat": 38.435,
+      "lon": 23.89,
+      "elevation_m": 618
+    },
+    {
+      "lat": 38.435,
+      "lon": 23.97,
+      "elevation_m": 648
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.055271+00:00"
+}

@@ -1,0 +1,95 @@
+{
+  "country_code": "GB",
+  "radars": [
+    {
+      "id": "GB_rad_1",
+      "type": "section_radar",
+      "lat": 55.24,
+      "lon": -3.41,
+      "maxspeed": 130,
+      "direction_deg": 0,
+      "highway": "M1"
+    },
+    {
+      "id": "GB_rad_2",
+      "type": "fixed_speed_camera",
+      "lat": 55.272,
+      "lon": -3.369,
+      "maxspeed": 50,
+      "direction_deg": 45,
+      "highway": "M1"
+    },
+    {
+      "id": "GB_rad_3",
+      "type": "fixed_speed_camera",
+      "lat": 55.304,
+      "lon": -3.328,
+      "maxspeed": 130,
+      "direction_deg": 90,
+      "highway": "M1"
+    },
+    {
+      "id": "GB_rad_4",
+      "type": "section_radar",
+      "lat": 55.336,
+      "lon": -3.287,
+      "maxspeed": 90,
+      "direction_deg": 135,
+      "highway": "M1"
+    },
+    {
+      "id": "GB_rad_5",
+      "type": "fixed_speed_camera",
+      "lat": 55.368,
+      "lon": -3.246,
+      "maxspeed": 130,
+      "direction_deg": 180,
+      "highway": "M1"
+    },
+    {
+      "id": "GB_rad_6",
+      "type": "fixed_speed_camera",
+      "lat": 55.4,
+      "lon": -3.205,
+      "maxspeed": 50,
+      "direction_deg": 225,
+      "highway": "M1"
+    },
+    {
+      "id": "GB_rad_7",
+      "type": "section_radar",
+      "lat": 55.432,
+      "lon": -3.164,
+      "maxspeed": 130,
+      "direction_deg": 270,
+      "highway": "M1"
+    },
+    {
+      "id": "GB_rad_8",
+      "type": "fixed_speed_camera",
+      "lat": 55.464,
+      "lon": -3.123,
+      "maxspeed": 50,
+      "direction_deg": 315,
+      "highway": "M1"
+    },
+    {
+      "id": "GB_rad_9",
+      "type": "fixed_speed_camera",
+      "lat": 55.496,
+      "lon": -3.082,
+      "maxspeed": 130,
+      "direction_deg": 0,
+      "highway": "M1"
+    },
+    {
+      "id": "GB_rad_10",
+      "type": "section_radar",
+      "lat": 55.528,
+      "lon": -3.041,
+      "maxspeed": 90,
+      "direction_deg": 45,
+      "highway": "M1"
+    }
+  ]
+}

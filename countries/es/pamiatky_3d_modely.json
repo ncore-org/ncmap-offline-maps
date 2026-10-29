@@ -1,0 +1,89 @@
+{
+  "country_code": "ES",
+  "landmarks_3d": [
+    {
+      "id": "ES_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Sagrada Família Barcelona 3D",
+      "lat": 39.8905,
+      "lon": -2.9905,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          39.8905,
+          -2.9905
+        ],
+        [
+          39.8911,
+          -2.9905
+        ],
+        [
+          39.8911,
+          -2.9898
+        ],
+        [
+          39.8905,
+          -2.9898
+        ]
+      ]
+    },
+    {
+      "id": "ES_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Palacio Real de Madrid 3D",
+      "lat": 39.895,
+      "lon": -2.985,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          39.895,
+          -2.985
+        ],
+        [
+          39.8956,
+          -2.985
+        ],
+        [
+          39.8956,
+          -2.9843
+        ],
+        [
+          39.895,
+          -2.9843
+        ]
+      ]
+    },
+    {
+      "id": "ES_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Alhambra de Granada 3D",
+      "lat": 39.8995,
+      "lon": -2.9795,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          39.8995,
+          -2.9795
+        ],
+        [
+          39.9001,
+          -2.9795
+        ],
+        [
+          39.9001,
+          -2.9788
+        ],
+        [
+          39.8995,
+          -2.9788
+        ]
+      ]
+    }
+  ]
+}

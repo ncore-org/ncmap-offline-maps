@@ -1,0 +1,63 @@
+{
+  "country_code": "CA",
+  "highway_prefix": "Hwy 401/407/TC-1",
+  "toll_type": "express_toll",
+  "road_shields": [
+    {
+      "shield": "Hwy 401",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "407",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "TC-1",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "66",
+      "type": "primary",
+      "maxspeed_kmh": 90,
+      "lanes": 2
+    },
+    {
+      "shield": "3096",
+      "type": "secondary",
+      "maxspeed_kmh": 50,
+      "lanes": 2
+    }
+  ],
+  "addressed_streets": [
+    {
+      "street": "Obrancov mieru",
+      "city": "Ottawa",
+      "house_numbers": [
+        "1583/31",
+        "1586/33",
+        "1831/2",
+        "2482/21",
+        "4416/2A",
+        "1589/39"
+      ],
+      "elevation_m": 487
+    },
+    {
+      "street": "Hlavná ulica",
+      "city": "Ottawa",
+      "house_numbers": [
+        "102/1",
+        "104/3",
+        "108/5",
+        "112/7"
+      ],
+      "elevation_m": 487
+    }
+  ]
+}

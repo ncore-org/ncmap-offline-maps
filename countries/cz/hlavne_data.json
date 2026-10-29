@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "CZ",
+  "name": "Czechia",
+  "name_sk": "Česko",
+  "flag": "🇨🇿",
+  "eu_member": true,
+  "capital": "Praha",
+  "bbox": [
+    48.55,
+    12.09,
+    51.06,
+    18.86
+  ],
+  "mean_elevation_m": 430,
+  "dem_srtm_grid": [
+    {
+      "lat": 49.645,
+      "lon": 15.315,
+      "elevation_m": 280
+    },
+    {
+      "lat": 49.645,
+      "lon": 15.395,
+      "elevation_m": 310
+    },
+    {
+      "lat": 49.645,
+      "lon": 15.475,
+      "elevation_m": 340
+    },
+    {
+      "lat": 49.645,
+      "lon": 15.555,
+      "elevation_m": 370
+    },
+    {
+      "lat": 49.645,
+      "lon": 15.635,
+      "elevation_m": 400
+    },
+    {
+      "lat": 49.725,
+      "lon": 15.315,
+      "elevation_m": 325
+    },
+    {
+      "lat": 49.725,
+      "lon": 15.395,
+      "elevation_m": 355
+    },
+    {
+      "lat": 49.725,
+      "lon": 15.475,
+      "elevation_m": 385
+    },
+    {
+      "lat": 49.725,
+      "lon": 15.555,
+      "elevation_m": 415
+    },
+    {
+      "lat": 49.725,
+      "lon": 15.635,
+      "elevation_m": 445
+    },
+    {
+      "lat": 49.805,
+      "lon": 15.315,
+      "elevation_m": 370
+    },
+    {
+      "lat": 49.805,
+      "lon": 15.395,
+      "elevation_m": 400
+    },
+    {
+      "lat": 49.805,
+      "lon": 15.475,
+      "elevation_m": 430
+    },
+    {
+      "lat": 49.805,
+      "lon": 15.555,
+      "elevation_m": 460
+    },
+    {
+      "lat": 49.805,
+      "lon": 15.635,
+      "elevation_m": 490
+    },
+    {
+      "lat": 49.885,
+      "lon": 15.315,
+      "elevation_m": 415
+    },
+    {
+      "lat": 49.885,
+      "lon": 15.395,
+      "elevation_m": 445
+    },
+    {
+      "lat": 49.885,
+      "lon": 15.475,
+      "elevation_m": 475
+    },
+    {
+      "lat": 49.885,
+      "lon": 15.555,
+      "elevation_m": 505
+    },
+    {
+      "lat": 49.885,
+      "lon": 15.635,
+      "elevation_m": 535
+    },
+    {
+      "lat": 49.965,
+      "lon": 15.315,
+      "elevation_m": 460
+    },
+    {
+      "lat": 49.965,
+      "lon": 15.395,
+      "elevation_m": 490
+    },
+    {
+      "lat": 49.965,
+      "lon": 15.475,
+      "elevation_m": 520
+    },
+    {
+      "lat": 49.965,
+      "lon": 15.555,
+      "elevation_m": 550
+    },
+    {
+      "lat": 49.965,
+      "lon": 15.635,
+      "elevation_m": 580
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.036414+00:00"
+}

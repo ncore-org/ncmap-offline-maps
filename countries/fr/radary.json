@@ -1,0 +1,95 @@
+{
+  "country_code": "FR",
+  "radars": [
+    {
+      "id": "FR_rad_1",
+      "type": "section_radar",
+      "lat": 46.05,
+      "lon": 2.005,
+      "maxspeed": 130,
+      "direction_deg": 0,
+      "highway": "A1"
+    },
+    {
+      "id": "FR_rad_2",
+      "type": "fixed_speed_camera",
+      "lat": 46.082,
+      "lon": 2.046,
+      "maxspeed": 50,
+      "direction_deg": 45,
+      "highway": "A1"
+    },
+    {
+      "id": "FR_rad_3",
+      "type": "fixed_speed_camera",
+      "lat": 46.114,
+      "lon": 2.087,
+      "maxspeed": 130,
+      "direction_deg": 90,
+      "highway": "A1"
+    },
+    {
+      "id": "FR_rad_4",
+      "type": "section_radar",
+      "lat": 46.146,
+      "lon": 2.128,
+      "maxspeed": 90,
+      "direction_deg": 135,
+      "highway": "A1"
+    },
+    {
+      "id": "FR_rad_5",
+      "type": "fixed_speed_camera",
+      "lat": 46.178,
+      "lon": 2.169,
+      "maxspeed": 130,
+      "direction_deg": 180,
+      "highway": "A1"
+    },
+    {
+      "id": "FR_rad_6",
+      "type": "fixed_speed_camera",
+      "lat": 46.21,
+      "lon": 2.21,
+      "maxspeed": 50,
+      "direction_deg": 225,
+      "highway": "A1"
+    },
+    {
+      "id": "FR_rad_7",
+      "type": "section_radar",
+      "lat": 46.242,
+      "lon": 2.251,
+      "maxspeed": 130,
+      "direction_deg": 270,
+      "highway": "A1"
+    },
+    {
+      "id": "FR_rad_8",
+      "type": "fixed_speed_camera",
+      "lat": 46.274,
+      "lon": 2.292,
+      "maxspeed": 50,
+      "direction_deg": 315,
+      "highway": "A1"
+    },
+    {
+      "id": "FR_rad_9",
+      "type": "fixed_speed_camera",
+      "lat": 46.306,
+      "lon": 2.333,
+      "maxspeed": 130,
+      "direction_deg": 0,
+      "highway": "A1"
+    },
+    {
+      "id": "FR_rad_10",
+      "type": "section_radar",
+      "lat": 46.338,
+      "lon": 2.374,
+      "maxspeed": 90,
+      "direction_deg": 45,
+      "highway": "A1"
+    }
+  ]
+}

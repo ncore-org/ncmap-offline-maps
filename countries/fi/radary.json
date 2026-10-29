@@ -1,0 +1,95 @@
+{
+  "country_code": "FI",
+  "radars": [
+    {
+      "id": "FI_rad_1",
+      "type": "section_radar",
+      "lat": 64.79,
+      "lon": 25.865,
+      "maxspeed": 130,
+      "direction_deg": 0,
+      "highway": "Vt1"
+    },
+    {
+      "id": "FI_rad_2",
+      "type": "fixed_speed_camera",
+      "lat": 64.822,
+      "lon": 25.906,
+      "maxspeed": 50,
+      "direction_deg": 45,
+      "highway": "Vt1"
+    },
+    {
+      "id": "FI_rad_3",
+      "type": "fixed_speed_camera",
+      "lat": 64.854,
+      "lon": 25.947,
+      "maxspeed": 130,
+      "direction_deg": 90,
+      "highway": "Vt1"
+    },
+    {
+      "id": "FI_rad_4",
+      "type": "section_radar",
+      "lat": 64.886,
+      "lon": 25.988,
+      "maxspeed": 90,
+      "direction_deg": 135,
+      "highway": "Vt1"
+    },
+    {
+      "id": "FI_rad_5",
+      "type": "fixed_speed_camera",
+      "lat": 64.918,
+      "lon": 26.029,
+      "maxspeed": 130,
+      "direction_deg": 180,
+      "highway": "Vt1"
+    },
+    {
+      "id": "FI_rad_6",
+      "type": "fixed_speed_camera",
+      "lat": 64.95,
+      "lon": 26.07,
+      "maxspeed": 50,
+      "direction_deg": 225,
+      "highway": "Vt1"
+    },
+    {
+      "id": "FI_rad_7",
+      "type": "section_radar",
+      "lat": 64.982,
+      "lon": 26.111,
+      "maxspeed": 130,
+      "direction_deg": 270,
+      "highway": "Vt1"
+    },
+    {
+      "id": "FI_rad_8",
+      "type": "fixed_speed_camera",
+      "lat": 65.014,
+      "lon": 26.152,
+      "maxspeed": 50,
+      "direction_deg": 315,
+      "highway": "Vt1"
+    },
+    {
+      "id": "FI_rad_9",
+      "type": "fixed_speed_camera",
+      "lat": 65.046,
+      "lon": 26.193,
+      "maxspeed": 130,
+      "direction_deg": 0,
+      "highway": "Vt1"
+    },
+    {
+      "id": "FI_rad_10",
+      "type": "section_radar",
+      "lat": 65.078,
+      "lon": 26.234,
+      "maxspeed": 90,
+      "direction_deg": 45,
+      "highway": "Vt1"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "country_code": "GR",
+  "businesses_and_companies": [
+    {
+      "id": "GR_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – Athína",
+      "lat": 38.215,
+      "lon": 23.734,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, Athína, Grécko"
+    },
+    {
+      "id": "GR_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – Athína",
+      "lat": 38.23,
+      "lon": 23.753,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, Athína, Grécko"
+    },
+    {
+      "id": "GR_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – Athína",
+      "lat": 38.245,
+      "lon": 23.772,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, Athína, Grécko"
+    },
+    {
+      "id": "GR_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – Athína",
+      "lat": 38.26,
+      "lon": 23.791,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, Athína, Grécko"
+    },
+    {
+      "id": "GR_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – Athína",
+      "lat": 38.275,
+      "lon": 23.81,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, Athína, Grécko"
+    },
+    {
+      "id": "GR_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – Athína",
+      "lat": 38.29,
+      "lon": 23.829,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, Athína, Grécko"
+    },
+    {
+      "id": "GR_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – Athína",
+      "lat": 38.305,
+      "lon": 23.848,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, Athína, Grécko"
+    },
+    {
+      "id": "GR_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – Athína",
+      "lat": 38.32,
+      "lon": 23.867,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, Athína, Grécko"
+    }
+  ]
+}

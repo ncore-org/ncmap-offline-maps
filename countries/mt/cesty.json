@@ -1,0 +1,57 @@
+{
+  "country_code": "MT",
+  "highway_prefix": "Route 1/Route 7",
+  "toll_type": "cva_valletta",
+  "road_shields": [
+    {
+      "shield": "Route 1",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "Route 7",
+      "type": "motorway",
+      "maxspeed_kmh": 130,
+      "lanes": 3
+    },
+    {
+      "shield": "66",
+      "type": "primary",
+      "maxspeed_kmh": 90,
+      "lanes": 2
+    },
+    {
+      "shield": "3096",
+      "type": "secondary",
+      "maxspeed_kmh": 50,
+      "lanes": 2
+    }
+  ],
+  "addressed_streets": [
+    {
+      "street": "Obrancov mieru",
+      "city": "Valletta",
+      "house_numbers": [
+        "1583/31",
+        "1586/33",
+        "1831/2",
+        "2482/21",
+        "4416/2A",
+        "1589/39"
+      ],
+      "elevation_m": 136
+    },
+    {
+      "street": "Hlavná ulica",
+      "city": "Valletta",
+      "house_numbers": [
+        "102/1",
+        "104/3",
+        "108/5",
+        "112/7"
+      ],
+      "elevation_m": 136
+    }
+  ]
+}

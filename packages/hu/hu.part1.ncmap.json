@@ -1,0 +1,1197 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "HU",
+  "country_name": "Hungary",
+  "country_name_sk": "Maďarsko",
+  "part": 1,
+  "total_parts": 1,
+  "country_paths": {
+    "hlavne_data": "countries/hu/hlavne_data.json",
+    "3d_mapa": "countries/hu/3d_mapa.json",
+    "cesty": "countries/hu/cesty.json",
+    "radary": "countries/hu/radary.json",
+    "odpocivadla_a_sprchy": "countries/hu/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/hu/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/hu/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/hu/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/hu/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "HU",
+      "name": "Hungary",
+      "name_sk": "Maďarsko",
+      "flag": "🇭🇺",
+      "eu_member": true,
+      "capital": "Budapest",
+      "bbox": [
+        45.74,
+        16.11,
+        48.58,
+        22.9
+      ],
+      "mean_elevation_m": 143,
+      "dem_srtm_grid": [
+        {
+          "lat": 47.0,
+          "lon": 19.345,
+          "elevation_m": -7
+        },
+        {
+          "lat": 47.0,
+          "lon": 19.425,
+          "elevation_m": 23
+        },
+        {
+          "lat": 47.0,
+          "lon": 19.505,
+          "elevation_m": 53
+        },
+        {
+          "lat": 47.0,
+          "lon": 19.585,
+          "elevation_m": 83
+        },
+        {
+          "lat": 47.0,
+          "lon": 19.665,
+          "elevation_m": 113
+        },
+        {
+          "lat": 47.08,
+          "lon": 19.345,
+          "elevation_m": 38
+        },
+        {
+          "lat": 47.08,
+          "lon": 19.425,
+          "elevation_m": 68
+        },
+        {
+          "lat": 47.08,
+          "lon": 19.505,
+          "elevation_m": 98
+        },
+        {
+          "lat": 47.08,
+          "lon": 19.585,
+          "elevation_m": 128
+        },
+        {
+          "lat": 47.08,
+          "lon": 19.665,
+          "elevation_m": 158
+        },
+        {
+          "lat": 47.16,
+          "lon": 19.345,
+          "elevation_m": 83
+        },
+        {
+          "lat": 47.16,
+          "lon": 19.425,
+          "elevation_m": 113
+        },
+        {
+          "lat": 47.16,
+          "lon": 19.505,
+          "elevation_m": 143
+        },
+        {
+          "lat": 47.16,
+          "lon": 19.585,
+          "elevation_m": 173
+        },
+        {
+          "lat": 47.16,
+          "lon": 19.665,
+          "elevation_m": 203
+        },
+        {
+          "lat": 47.24,
+          "lon": 19.345,
+          "elevation_m": 128
+        },
+        {
+          "lat": 47.24,
+          "lon": 19.425,
+          "elevation_m": 158
+        },
+        {
+          "lat": 47.24,
+          "lon": 19.505,
+          "elevation_m": 188
+        },
+        {
+          "lat": 47.24,
+          "lon": 19.585,
+          "elevation_m": 218
+        },
+        {
+          "lat": 47.24,
+          "lon": 19.665,
+          "elevation_m": 248
+        },
+        {
+          "lat": 47.32,
+          "lon": 19.345,
+          "elevation_m": 173
+        },
+        {
+          "lat": 47.32,
+          "lon": 19.425,
+          "elevation_m": 203
+        },
+        {
+          "lat": 47.32,
+          "lon": 19.505,
+          "elevation_m": 233
+        },
+        {
+          "lat": 47.32,
+          "lon": 19.585,
+          "elevation_m": 263
+        },
+        {
+          "lat": 47.32,
+          "lon": 19.665,
+          "elevation_m": 293
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.057894+00:00"
+    },
+    "roads": {
+      "country_code": "HU",
+      "highway_prefix": "M0/M1/M3/M5/M7",
+      "toll_type": "e_matrica",
+      "road_shields": [
+        {
+          "shield": "M0",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "M1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "M3",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "M5",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "M7",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "Budapest",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 143
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "Budapest",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 143
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "HU_b3d_1",
+        "name": "Budapest 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            47.151,
+            19.5006
+          ],
+          [
+            47.15138,
+            19.5006
+          ],
+          [
+            47.15138,
+            19.50112
+          ],
+          [
+            47.151,
+            19.50112
+          ]
+        ]
+      },
+      {
+        "id": "HU_b3d_2",
+        "name": "Budapest 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            47.1528,
+            19.5028
+          ],
+          [
+            47.15318,
+            19.5028
+          ],
+          [
+            47.15318,
+            19.50332
+          ],
+          [
+            47.1528,
+            19.50332
+          ]
+        ]
+      },
+      {
+        "id": "HU_b3d_3",
+        "name": "Budapest 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            47.1546,
+            19.505
+          ],
+          [
+            47.15498,
+            19.505
+          ],
+          [
+            47.15498,
+            19.50552
+          ],
+          [
+            47.1546,
+            19.50552
+          ]
+        ]
+      },
+      {
+        "id": "HU_b3d_4",
+        "name": "Budapest 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            47.1564,
+            19.5072
+          ],
+          [
+            47.15678,
+            19.5072
+          ],
+          [
+            47.15678,
+            19.50772
+          ],
+          [
+            47.1564,
+            19.50772
+          ]
+        ]
+      },
+      {
+        "id": "HU_b3d_5",
+        "name": "Budapest 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            47.1582,
+            19.5006
+          ],
+          [
+            47.15858,
+            19.5006
+          ],
+          [
+            47.15858,
+            19.50112
+          ],
+          [
+            47.1582,
+            19.50112
+          ]
+        ]
+      },
+      {
+        "id": "HU_b3d_6",
+        "name": "Budapest 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            47.16,
+            19.5028
+          ],
+          [
+            47.16038,
+            19.5028
+          ],
+          [
+            47.16038,
+            19.50332
+          ],
+          [
+            47.16,
+            19.50332
+          ]
+        ]
+      },
+      {
+        "id": "HU_b3d_7",
+        "name": "Budapest 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            47.1618,
+            19.505
+          ],
+          [
+            47.16218,
+            19.505
+          ],
+          [
+            47.16218,
+            19.50552
+          ],
+          [
+            47.1618,
+            19.50552
+          ]
+        ]
+      },
+      {
+        "id": "HU_b3d_8",
+        "name": "Budapest 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            47.1636,
+            19.5072
+          ],
+          [
+            47.16398,
+            19.5072
+          ],
+          [
+            47.16398,
+            19.50772
+          ],
+          [
+            47.1636,
+            19.50772
+          ]
+        ]
+      },
+      {
+        "id": "HU_b3d_9",
+        "name": "Budapest 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            47.1654,
+            19.5006
+          ],
+          [
+            47.16578,
+            19.5006
+          ],
+          [
+            47.16578,
+            19.50112
+          ],
+          [
+            47.1654,
+            19.50112
+          ]
+        ]
+      },
+      {
+        "id": "HU_b3d_10",
+        "name": "Budapest 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            47.1672,
+            19.5028
+          ],
+          [
+            47.16758,
+            19.5028
+          ],
+          [
+            47.16758,
+            19.50332
+          ],
+          [
+            47.1672,
+            19.50332
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "HU_rad_1",
+        "type": "section_radar",
+        "lat": 47.0,
+        "lon": 19.3,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "M0"
+      },
+      {
+        "id": "HU_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 47.032,
+        "lon": 19.341,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "M0"
+      },
+      {
+        "id": "HU_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 47.064,
+        "lon": 19.382,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "M0"
+      },
+      {
+        "id": "HU_rad_4",
+        "type": "section_radar",
+        "lat": 47.096,
+        "lon": 19.423,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "M0"
+      },
+      {
+        "id": "HU_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 47.128,
+        "lon": 19.464,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "M0"
+      },
+      {
+        "id": "HU_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 47.16,
+        "lon": 19.505,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "M0"
+      },
+      {
+        "id": "HU_rad_7",
+        "type": "section_radar",
+        "lat": 47.192,
+        "lon": 19.546,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "M0"
+      },
+      {
+        "id": "HU_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 47.224,
+        "lon": 19.587,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "M0"
+      },
+      {
+        "id": "HU_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 47.256,
+        "lon": 19.628,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "M0"
+      },
+      {
+        "id": "HU_rad_10",
+        "type": "section_radar",
+        "lat": 47.288,
+        "lon": 19.669,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "M0"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "HU_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M0 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 47.048,
+        "lon": 19.361,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Maďarsko · Diaľnica M0"
+      },
+      {
+        "id": "HU_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M0 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 47.076,
+        "lon": 19.397,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Maďarsko · Diaľnica M0"
+      },
+      {
+        "id": "HU_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M0 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 47.104,
+        "lon": 19.433,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Maďarsko · Diaľnica M0"
+      },
+      {
+        "id": "HU_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M0 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 47.132,
+        "lon": 19.469,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Maďarsko · Diaľnica M0"
+      },
+      {
+        "id": "HU_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M0 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 47.16,
+        "lon": 19.505,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Maďarsko · Diaľnica M0"
+      },
+      {
+        "id": "HU_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M0 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 47.188,
+        "lon": 19.541,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Maďarsko · Diaľnica M0"
+      },
+      {
+        "id": "HU_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M0 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 47.216,
+        "lon": 19.577,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Maďarsko · Diaľnica M0"
+      },
+      {
+        "id": "HU_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy M0 km 192 (BP)",
+        "brand": "bp",
+        "lat": 47.244,
+        "lon": 19.613,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Maďarsko · Diaľnica M0"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "HU_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV Budapest #1",
+        "lat": 47.04,
+        "lon": 19.35,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Maďarsko (M0/M1/M3/M5/M7)"
+      },
+      {
+        "id": "HU_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell Budapest #2",
+        "lat": 47.064,
+        "lon": 19.381,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Maďarsko (M0/M1/M3/M5/M7)"
+      },
+      {
+        "id": "HU_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft Budapest #3",
+        "lat": 47.088,
+        "lon": 19.412,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Maďarsko (M0/M1/M3/M5/M7)"
+      },
+      {
+        "id": "HU_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen Budapest #4",
+        "lat": 47.112,
+        "lon": 19.443,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Maďarsko (M0/M1/M3/M5/M7)"
+      },
+      {
+        "id": "HU_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral Budapest #5",
+        "lat": 47.136,
+        "lon": 19.474,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Maďarsko (M0/M1/M3/M5/M7)"
+      },
+      {
+        "id": "HU_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL Budapest #6",
+        "lat": 47.16,
+        "lon": 19.505,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Maďarsko (M0/M1/M3/M5/M7)"
+      },
+      {
+        "id": "HU_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies Budapest #7",
+        "lat": 47.184,
+        "lon": 19.536,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Maďarsko (M0/M1/M3/M5/M7)"
+      },
+      {
+        "id": "HU_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP Budapest #8",
+        "lat": 47.208,
+        "lon": 19.567,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Maďarsko (M0/M1/M3/M5/M7)"
+      },
+      {
+        "id": "HU_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K Budapest #9",
+        "lat": 47.232,
+        "lon": 19.598,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Maďarsko (M0/M1/M3/M5/M7)"
+      },
+      {
+        "id": "HU_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 Budapest #10",
+        "lat": 47.256,
+        "lon": 19.629,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Maďarsko (M0/M1/M3/M5/M7)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "HU_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru Budapest",
+        "lat": 47.097,
+        "lon": 19.418,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Maďarsko"
+      },
+      {
+        "id": "HU_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru Budapest",
+        "lat": 47.118,
+        "lon": 19.447,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Maďarsko"
+      },
+      {
+        "id": "HU_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru Budapest",
+        "lat": 47.139,
+        "lon": 19.476,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Maďarsko"
+      },
+      {
+        "id": "HU_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru Budapest",
+        "lat": 47.16,
+        "lon": 19.505,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Maďarsko"
+      },
+      {
+        "id": "HU_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru Budapest",
+        "lat": 47.181,
+        "lon": 19.534,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Maďarsko"
+      },
+      {
+        "id": "HU_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru Budapest",
+        "lat": 47.202,
+        "lon": 19.563,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Maďarsko"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "HU_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – Budapest",
+        "lat": 47.1,
+        "lon": 19.429,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, Budapest, Maďarsko"
+      },
+      {
+        "id": "HU_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – Budapest",
+        "lat": 47.115,
+        "lon": 19.448,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, Budapest, Maďarsko"
+      },
+      {
+        "id": "HU_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – Budapest",
+        "lat": 47.13,
+        "lon": 19.467,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, Budapest, Maďarsko"
+      },
+      {
+        "id": "HU_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – Budapest",
+        "lat": 47.145,
+        "lon": 19.486,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, Budapest, Maďarsko"
+      },
+      {
+        "id": "HU_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – Budapest",
+        "lat": 47.16,
+        "lon": 19.505,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, Budapest, Maďarsko"
+      },
+      {
+        "id": "HU_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – Budapest",
+        "lat": 47.175,
+        "lon": 19.524,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, Budapest, Maďarsko"
+      },
+      {
+        "id": "HU_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – Budapest",
+        "lat": 47.19,
+        "lon": 19.543,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, Budapest, Maďarsko"
+      },
+      {
+        "id": "HU_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – Budapest",
+        "lat": 47.205,
+        "lon": 19.562,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, Budapest, Maďarsko"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "HU_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Budapest #1",
+        "lat": 47.151,
+        "lon": 19.494,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Maďarsko."
+      },
+      {
+        "id": "HU_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Budapest #2",
+        "lat": 47.16,
+        "lon": 19.505,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Maďarsko."
+      },
+      {
+        "id": "HU_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Budapest #3",
+        "lat": 47.169,
+        "lon": 19.516,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Maďarsko."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "HU_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Budapest #1",
+        "lat": 47.148,
+        "lon": 19.519,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "HU_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Budapest #2",
+        "lat": 47.16,
+        "lon": 19.505,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "HU_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Budapest #3",
+        "lat": 47.172,
+        "lon": 19.491,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "HU_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "Országház Parliament Budapest 3D",
+        "lat": 47.1555,
+        "lon": 19.4995,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            47.1555,
+            19.4995
+          ],
+          [
+            47.1561,
+            19.4995
+          ],
+          [
+            47.1561,
+            19.5002
+          ],
+          [
+            47.1555,
+            19.5002
+          ]
+        ]
+      },
+      {
+        "id": "HU_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Buda Castle 3D",
+        "lat": 47.16,
+        "lon": 19.505,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            47.16,
+            19.505
+          ],
+          [
+            47.1606,
+            19.505
+          ],
+          [
+            47.1606,
+            19.5057
+          ],
+          [
+            47.16,
+            19.5057
+          ]
+        ]
+      },
+      {
+        "id": "HU_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Széchenyi Chain Bridge 3D",
+        "lat": 47.1645,
+        "lon": 19.5105,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            47.1645,
+            19.5105
+          ],
+          [
+            47.1651,
+            19.5105
+          ],
+          [
+            47.1651,
+            19.5112
+          ],
+          [
+            47.1645,
+            19.5112
+          ]
+        ]
+      }
+    ]
+  }
+}

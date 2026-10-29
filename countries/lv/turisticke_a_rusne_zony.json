@@ -1,0 +1,70 @@
+{
+  "country_code": "LV",
+  "touristic_zones": [
+    {
+      "id": "LV_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Rīga #1",
+      "lat": 56.866,
+      "lon": 24.594,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Lotyšsko."
+    },
+    {
+      "id": "LV_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Rīga #2",
+      "lat": 56.875,
+      "lon": 24.605,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Lotyšsko."
+    },
+    {
+      "id": "LV_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Rīga #3",
+      "lat": 56.884,
+      "lon": 24.616,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Lotyšsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "LV_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Rīga #1",
+      "lat": 56.863,
+      "lon": 24.619,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "LV_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Rīga #2",
+      "lat": 56.875,
+      "lon": 24.605,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "LV_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Rīga #3",
+      "lat": 56.887,
+      "lon": 24.591,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

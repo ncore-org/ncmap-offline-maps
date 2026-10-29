@@ -1,0 +1,70 @@
+{
+  "country_code": "HU",
+  "touristic_zones": [
+    {
+      "id": "HU_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Budapest #1",
+      "lat": 47.151,
+      "lon": 19.494,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Maďarsko."
+    },
+    {
+      "id": "HU_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Budapest #2",
+      "lat": 47.16,
+      "lon": 19.505,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Maďarsko."
+    },
+    {
+      "id": "HU_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Budapest #3",
+      "lat": 47.169,
+      "lon": 19.516,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Maďarsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "HU_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Budapest #1",
+      "lat": 47.148,
+      "lon": 19.519,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "HU_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Budapest #2",
+      "lat": 47.16,
+      "lon": 19.505,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "HU_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Budapest #3",
+      "lat": 47.172,
+      "lon": 19.491,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

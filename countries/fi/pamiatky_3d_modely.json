@@ -1,0 +1,89 @@
+{
+  "country_code": "FI",
+  "landmarks_3d": [
+    {
+      "id": "FI_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Helsinki Cathedral 3D",
+      "lat": 64.9455,
+      "lon": 26.0645,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          64.9455,
+          26.0645
+        ],
+        [
+          64.9461,
+          26.0645
+        ],
+        [
+          64.9461,
+          26.0652
+        ],
+        [
+          64.9455,
+          26.0652
+        ]
+      ]
+    },
+    {
+      "id": "FI_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Suomenlinna Sea Fortress 3D",
+      "lat": 64.95,
+      "lon": 26.07,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          64.95,
+          26.07
+        ],
+        [
+          64.9506,
+          26.07
+        ],
+        [
+          64.9506,
+          26.0707
+        ],
+        [
+          64.95,
+          26.0707
+        ]
+      ]
+    },
+    {
+      "id": "FI_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Olavinlinna Castle 3D",
+      "lat": 64.9545,
+      "lon": 26.0755,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          64.9545,
+          26.0755
+        ],
+        [
+          64.9551,
+          26.0755
+        ],
+        [
+          64.9551,
+          26.0762
+        ],
+        [
+          64.9545,
+          26.0762
+        ]
+      ]
+    }
+  ]
+}

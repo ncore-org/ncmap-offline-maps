@@ -1,0 +1,117 @@
+{
+  "country_code": "SK",
+  "landmarks_3d": [
+    {
+      "id": "SK_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Bratislavský hrad 3D",
+      "lat": 48.6655,
+      "lon": 19.6895,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          48.6655,
+          19.6895
+        ],
+        [
+          48.6661,
+          19.6895
+        ],
+        [
+          48.6661,
+          19.6902
+        ],
+        [
+          48.6655,
+          19.6902
+        ]
+      ]
+    },
+    {
+      "id": "SK_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Spišský hrad 3D",
+      "lat": 48.67,
+      "lon": 19.695,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          48.67,
+          19.695
+        ],
+        [
+          48.6706,
+          19.695
+        ],
+        [
+          48.6706,
+          19.6957
+        ],
+        [
+          48.67,
+          19.6957
+        ]
+      ]
+    },
+    {
+      "id": "SK_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Kežmarský hrad & Vysoké Tatry 3D",
+      "lat": 48.6745,
+      "lon": 19.7005,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          48.6745,
+          19.7005
+        ],
+        [
+          48.6751,
+          19.7005
+        ],
+        [
+          48.6751,
+          19.7012
+        ],
+        [
+          48.6745,
+          19.7012
+        ]
+      ]
+    },
+    {
+      "id": "SK_lm3d_4",
+      "kind": "landmark_3d",
+      "name": "Dóm sv. Alžbety Košice 3D",
+      "lat": 48.679,
+      "lon": 19.706,
+      "height_m": 102.0,
+      "levels": 24,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          48.679,
+          19.706
+        ],
+        [
+          48.6796,
+          19.706
+        ],
+        [
+          48.6796,
+          19.7067
+        ],
+        [
+          48.679,
+          19.7067
+        ]
+      ]
+    }
+  ]
+}

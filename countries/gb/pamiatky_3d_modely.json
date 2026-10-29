@@ -1,0 +1,89 @@
+{
+  "country_code": "GB",
+  "landmarks_3d": [
+    {
+      "id": "GB_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Elizabeth Tower Big Ben 3D",
+      "lat": 55.3955,
+      "lon": -3.2105,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          55.3955,
+          -3.2105
+        ],
+        [
+          55.3961,
+          -3.2105
+        ],
+        [
+          55.3961,
+          -3.2098
+        ],
+        [
+          55.3955,
+          -3.2098
+        ]
+      ]
+    },
+    {
+      "id": "GB_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Tower Bridge 3D",
+      "lat": 55.4,
+      "lon": -3.205,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          55.4,
+          -3.205
+        ],
+        [
+          55.4006,
+          -3.205
+        ],
+        [
+          55.4006,
+          -3.2043
+        ],
+        [
+          55.4,
+          -3.2043
+        ]
+      ]
+    },
+    {
+      "id": "GB_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Edinburgh Castle 3D",
+      "lat": 55.4045,
+      "lon": -3.1995,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          55.4045,
+          -3.1995
+        ],
+        [
+          55.4051,
+          -3.1995
+        ],
+        [
+          55.4051,
+          -3.1988
+        ],
+        [
+          55.4045,
+          -3.1988
+        ]
+      ]
+    }
+  ]
+}

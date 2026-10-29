@@ -1,0 +1,70 @@
+{
+  "country_code": "ES",
+  "touristic_zones": [
+    {
+      "id": "ES_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Madrid #1",
+      "lat": 39.886,
+      "lon": -2.996,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Španielsko."
+    },
+    {
+      "id": "ES_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Madrid #2",
+      "lat": 39.895,
+      "lon": -2.985,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Španielsko."
+    },
+    {
+      "id": "ES_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Madrid #3",
+      "lat": 39.904,
+      "lon": -2.974,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Španielsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "ES_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Madrid #1",
+      "lat": 39.883,
+      "lon": -2.971,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "ES_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Madrid #2",
+      "lat": 39.895,
+      "lon": -2.985,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "ES_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Madrid #3",
+      "lat": 39.907,
+      "lon": -2.999,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

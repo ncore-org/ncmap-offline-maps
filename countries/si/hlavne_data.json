@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "SI",
+  "name": "Slovenia",
+  "name_sk": "Slovinsko",
+  "flag": "🇸🇮",
+  "eu_member": true,
+  "capital": "Ljubljana",
+  "bbox": [
+    45.42,
+    13.38,
+    46.88,
+    16.6
+  ],
+  "mean_elevation_m": 492,
+  "dem_srtm_grid": [
+    {
+      "lat": 45.99,
+      "lon": 14.83,
+      "elevation_m": 342
+    },
+    {
+      "lat": 45.99,
+      "lon": 14.91,
+      "elevation_m": 372
+    },
+    {
+      "lat": 45.99,
+      "lon": 14.99,
+      "elevation_m": 402
+    },
+    {
+      "lat": 45.99,
+      "lon": 15.07,
+      "elevation_m": 432
+    },
+    {
+      "lat": 45.99,
+      "lon": 15.15,
+      "elevation_m": 462
+    },
+    {
+      "lat": 46.07,
+      "lon": 14.83,
+      "elevation_m": 387
+    },
+    {
+      "lat": 46.07,
+      "lon": 14.91,
+      "elevation_m": 417
+    },
+    {
+      "lat": 46.07,
+      "lon": 14.99,
+      "elevation_m": 447
+    },
+    {
+      "lat": 46.07,
+      "lon": 15.07,
+      "elevation_m": 477
+    },
+    {
+      "lat": 46.07,
+      "lon": 15.15,
+      "elevation_m": 507
+    },
+    {
+      "lat": 46.15,
+      "lon": 14.83,
+      "elevation_m": 432
+    },
+    {
+      "lat": 46.15,
+      "lon": 14.91,
+      "elevation_m": 462
+    },
+    {
+      "lat": 46.15,
+      "lon": 14.99,
+      "elevation_m": 492
+    },
+    {
+      "lat": 46.15,
+      "lon": 15.07,
+      "elevation_m": 522
+    },
+    {
+      "lat": 46.15,
+      "lon": 15.15,
+      "elevation_m": 552
+    },
+    {
+      "lat": 46.23,
+      "lon": 14.83,
+      "elevation_m": 477
+    },
+    {
+      "lat": 46.23,
+      "lon": 14.91,
+      "elevation_m": 507
+    },
+    {
+      "lat": 46.23,
+      "lon": 14.99,
+      "elevation_m": 537
+    },
+    {
+      "lat": 46.23,
+      "lon": 15.07,
+      "elevation_m": 567
+    },
+    {
+      "lat": 46.23,
+      "lon": 15.15,
+      "elevation_m": 597
+    },
+    {
+      "lat": 46.31,
+      "lon": 14.83,
+      "elevation_m": 522
+    },
+    {
+      "lat": 46.31,
+      "lon": 14.91,
+      "elevation_m": 552
+    },
+    {
+      "lat": 46.31,
+      "lon": 14.99,
+      "elevation_m": 582
+    },
+    {
+      "lat": 46.31,
+      "lon": 15.07,
+      "elevation_m": 612
+    },
+    {
+      "lat": 46.31,
+      "lon": 15.15,
+      "elevation_m": 642
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.091973+00:00"
+}

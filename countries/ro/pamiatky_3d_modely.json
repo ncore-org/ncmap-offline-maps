@@ -1,0 +1,89 @@
+{
+  "country_code": "RO",
+  "landmarks_3d": [
+    {
+      "id": "RO_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Palace of the Parliament 3D",
+      "lat": 45.9405,
+      "lon": 24.9695,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          45.9405,
+          24.9695
+        ],
+        [
+          45.9411,
+          24.9695
+        ],
+        [
+          45.9411,
+          24.9702
+        ],
+        [
+          45.9405,
+          24.9702
+        ]
+      ]
+    },
+    {
+      "id": "RO_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Bran Castle 3D",
+      "lat": 45.945,
+      "lon": 24.975,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          45.945,
+          24.975
+        ],
+        [
+          45.9456,
+          24.975
+        ],
+        [
+          45.9456,
+          24.9757
+        ],
+        [
+          45.945,
+          24.9757
+        ]
+      ]
+    },
+    {
+      "id": "RO_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Peleș Castle 3D",
+      "lat": 45.9495,
+      "lon": 24.9805,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          45.9495,
+          24.9805
+        ],
+        [
+          45.9501,
+          24.9805
+        ],
+        [
+          45.9501,
+          24.9812
+        ],
+        [
+          45.9495,
+          24.9812
+        ]
+      ]
+    }
+  ]
+}

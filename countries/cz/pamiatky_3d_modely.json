@@ -1,0 +1,89 @@
+{
+  "country_code": "CZ",
+  "landmarks_3d": [
+    {
+      "id": "CZ_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Pražský hrad & Katedrála sv. Víta 3D",
+      "lat": 49.8005,
+      "lon": 15.4695,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          49.8005,
+          15.4695
+        ],
+        [
+          49.8011,
+          15.4695
+        ],
+        [
+          49.8011,
+          15.4702
+        ],
+        [
+          49.8005,
+          15.4702
+        ]
+      ]
+    },
+    {
+      "id": "CZ_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Karlův most 3D",
+      "lat": 49.805,
+      "lon": 15.475,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          49.805,
+          15.475
+        ],
+        [
+          49.8056,
+          15.475
+        ],
+        [
+          49.8056,
+          15.4757
+        ],
+        [
+          49.805,
+          15.4757
+        ]
+      ]
+    },
+    {
+      "id": "CZ_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Chrám sv. Barbory Kutná Hora 3D",
+      "lat": 49.8095,
+      "lon": 15.4805,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          49.8095,
+          15.4805
+        ],
+        [
+          49.8101,
+          15.4805
+        ],
+        [
+          49.8101,
+          15.4812
+        ],
+        [
+          49.8095,
+          15.4812
+        ]
+      ]
+    }
+  ]
+}

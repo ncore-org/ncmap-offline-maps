@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "BE",
+  "name": "Belgium",
+  "name_sk": "Belgicko",
+  "flag": "🇧🇪",
+  "eu_member": true,
+  "capital": "Bruxelles",
+  "bbox": [
+    49.5,
+    2.54,
+    51.5,
+    6.4
+  ],
+  "mean_elevation_m": 181,
+  "dem_srtm_grid": [
+    {
+      "lat": 50.34,
+      "lon": 4.31,
+      "elevation_m": 31
+    },
+    {
+      "lat": 50.34,
+      "lon": 4.39,
+      "elevation_m": 61
+    },
+    {
+      "lat": 50.34,
+      "lon": 4.47,
+      "elevation_m": 91
+    },
+    {
+      "lat": 50.34,
+      "lon": 4.55,
+      "elevation_m": 121
+    },
+    {
+      "lat": 50.34,
+      "lon": 4.63,
+      "elevation_m": 151
+    },
+    {
+      "lat": 50.42,
+      "lon": 4.31,
+      "elevation_m": 76
+    },
+    {
+      "lat": 50.42,
+      "lon": 4.39,
+      "elevation_m": 106
+    },
+    {
+      "lat": 50.42,
+      "lon": 4.47,
+      "elevation_m": 136
+    },
+    {
+      "lat": 50.42,
+      "lon": 4.55,
+      "elevation_m": 166
+    },
+    {
+      "lat": 50.42,
+      "lon": 4.63,
+      "elevation_m": 196
+    },
+    {
+      "lat": 50.5,
+      "lon": 4.31,
+      "elevation_m": 121
+    },
+    {
+      "lat": 50.5,
+      "lon": 4.39,
+      "elevation_m": 151
+    },
+    {
+      "lat": 50.5,
+      "lon": 4.47,
+      "elevation_m": 181
+    },
+    {
+      "lat": 50.5,
+      "lon": 4.55,
+      "elevation_m": 211
+    },
+    {
+      "lat": 50.5,
+      "lon": 4.63,
+      "elevation_m": 241
+    },
+    {
+      "lat": 50.58,
+      "lon": 4.31,
+      "elevation_m": 166
+    },
+    {
+      "lat": 50.58,
+      "lon": 4.39,
+      "elevation_m": 196
+    },
+    {
+      "lat": 50.58,
+      "lon": 4.47,
+      "elevation_m": 226
+    },
+    {
+      "lat": 50.58,
+      "lon": 4.55,
+      "elevation_m": 256
+    },
+    {
+      "lat": 50.58,
+      "lon": 4.63,
+      "elevation_m": 286
+    },
+    {
+      "lat": 50.66,
+      "lon": 4.31,
+      "elevation_m": 211
+    },
+    {
+      "lat": 50.66,
+      "lon": 4.39,
+      "elevation_m": 241
+    },
+    {
+      "lat": 50.66,
+      "lon": 4.47,
+      "elevation_m": 271
+    },
+    {
+      "lat": 50.66,
+      "lon": 4.55,
+      "elevation_m": 301
+    },
+    {
+      "lat": 50.66,
+      "lon": 4.63,
+      "elevation_m": 331
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.026475+00:00"
+}

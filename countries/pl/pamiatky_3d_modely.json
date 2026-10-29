@@ -1,0 +1,89 @@
+{
+  "country_code": "PL",
+  "landmarks_3d": [
+    {
+      "id": "PL_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Zamek Królewski na Wawelu 3D",
+      "lat": 51.9155,
+      "lon": 19.1295,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          51.9155,
+          19.1295
+        ],
+        [
+          51.9161,
+          19.1295
+        ],
+        [
+          51.9161,
+          19.1302
+        ],
+        [
+          51.9155,
+          19.1302
+        ]
+      ]
+    },
+    {
+      "id": "PL_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Pałac Kultury i Nauki 3D",
+      "lat": 51.92,
+      "lon": 19.135,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          51.92,
+          19.135
+        ],
+        [
+          51.9206,
+          19.135
+        ],
+        [
+          51.9206,
+          19.1357
+        ],
+        [
+          51.92,
+          19.1357
+        ]
+      ]
+    },
+    {
+      "id": "PL_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Malbork Castle 3D",
+      "lat": 51.9245,
+      "lon": 19.1405,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          51.9245,
+          19.1405
+        ],
+        [
+          51.9251,
+          19.1405
+        ],
+        [
+          51.9251,
+          19.1412
+        ],
+        [
+          51.9245,
+          19.1412
+        ]
+      ]
+    }
+  ]
+}

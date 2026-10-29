@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "RO",
+  "name": "Romania",
+  "name_sk": "Rumunsko",
+  "flag": "🇷🇴",
+  "eu_member": true,
+  "capital": "București",
+  "bbox": [
+    43.62,
+    20.26,
+    48.27,
+    29.69
+  ],
+  "mean_elevation_m": 414,
+  "dem_srtm_grid": [
+    {
+      "lat": 45.785,
+      "lon": 24.815,
+      "elevation_m": 264
+    },
+    {
+      "lat": 45.785,
+      "lon": 24.895,
+      "elevation_m": 294
+    },
+    {
+      "lat": 45.785,
+      "lon": 24.975,
+      "elevation_m": 324
+    },
+    {
+      "lat": 45.785,
+      "lon": 25.055,
+      "elevation_m": 354
+    },
+    {
+      "lat": 45.785,
+      "lon": 25.135,
+      "elevation_m": 384
+    },
+    {
+      "lat": 45.865,
+      "lon": 24.815,
+      "elevation_m": 309
+    },
+    {
+      "lat": 45.865,
+      "lon": 24.895,
+      "elevation_m": 339
+    },
+    {
+      "lat": 45.865,
+      "lon": 24.975,
+      "elevation_m": 369
+    },
+    {
+      "lat": 45.865,
+      "lon": 25.055,
+      "elevation_m": 399
+    },
+    {
+      "lat": 45.865,
+      "lon": 25.135,
+      "elevation_m": 429
+    },
+    {
+      "lat": 45.945,
+      "lon": 24.815,
+      "elevation_m": 354
+    },
+    {
+      "lat": 45.945,
+      "lon": 24.895,
+      "elevation_m": 384
+    },
+    {
+      "lat": 45.945,
+      "lon": 24.975,
+      "elevation_m": 414
+    },
+    {
+      "lat": 45.945,
+      "lon": 25.055,
+      "elevation_m": 444
+    },
+    {
+      "lat": 45.945,
+      "lon": 25.135,
+      "elevation_m": 474
+    },
+    {
+      "lat": 46.025,
+      "lon": 24.815,
+      "elevation_m": 399
+    },
+    {
+      "lat": 46.025,
+      "lon": 24.895,
+      "elevation_m": 429
+    },
+    {
+      "lat": 46.025,
+      "lon": 24.975,
+      "elevation_m": 459
+    },
+    {
+      "lat": 46.025,
+      "lon": 25.055,
+      "elevation_m": 489
+    },
+    {
+      "lat": 46.025,
+      "lon": 25.135,
+      "elevation_m": 519
+    },
+    {
+      "lat": 46.105,
+      "lon": 24.815,
+      "elevation_m": 444
+    },
+    {
+      "lat": 46.105,
+      "lon": 24.895,
+      "elevation_m": 474
+    },
+    {
+      "lat": 46.105,
+      "lon": 24.975,
+      "elevation_m": 504
+    },
+    {
+      "lat": 46.105,
+      "lon": 25.055,
+      "elevation_m": 534
+    },
+    {
+      "lat": 46.105,
+      "lon": 25.135,
+      "elevation_m": 564
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.086125+00:00"
+}

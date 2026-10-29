@@ -1,0 +1,70 @@
+{
+  "country_code": "PL",
+  "touristic_zones": [
+    {
+      "id": "PL_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Warszawa #1",
+      "lat": 51.911,
+      "lon": 19.124,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Poľsko."
+    },
+    {
+      "id": "PL_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Warszawa #2",
+      "lat": 51.92,
+      "lon": 19.135,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Poľsko."
+    },
+    {
+      "id": "PL_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Warszawa #3",
+      "lat": 51.929,
+      "lon": 19.146,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Poľsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "PL_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Warszawa #1",
+      "lat": 51.908,
+      "lon": 19.149,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "PL_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Warszawa #2",
+      "lat": 51.92,
+      "lon": 19.135,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "PL_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Warszawa #3",
+      "lat": 51.932,
+      "lon": 19.121,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

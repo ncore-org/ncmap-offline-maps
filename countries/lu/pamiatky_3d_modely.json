@@ -1,0 +1,89 @@
+{
+  "country_code": "LU",
+  "landmarks_3d": [
+    {
+      "id": "LU_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Vianden Castle 3D",
+      "lat": 49.8055,
+      "lon": 6.1245,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          49.8055,
+          6.1245
+        ],
+        [
+          49.8061,
+          6.1245
+        ],
+        [
+          49.8061,
+          6.1252
+        ],
+        [
+          49.8055,
+          6.1252
+        ]
+      ]
+    },
+    {
+      "id": "LU_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Adolphe Bridge 3D",
+      "lat": 49.81,
+      "lon": 6.13,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          49.81,
+          6.13
+        ],
+        [
+          49.8106,
+          6.13
+        ],
+        [
+          49.8106,
+          6.1307
+        ],
+        [
+          49.81,
+          6.1307
+        ]
+      ]
+    },
+    {
+      "id": "LU_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Grand Ducal Palace 3D",
+      "lat": 49.8145,
+      "lon": 6.1355,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          49.8145,
+          6.1355
+        ],
+        [
+          49.8151,
+          6.1355
+        ],
+        [
+          49.8151,
+          6.1362
+        ],
+        [
+          49.8145,
+          6.1362
+        ]
+      ]
+    }
+  ]
+}

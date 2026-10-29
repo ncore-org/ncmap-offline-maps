@@ -1,0 +1,93 @@
+{
+  "country_code": "CA",
+  "businesses_and_companies": [
+    {
+      "id": "CA_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – Ottawa",
+      "lat": 53.44,
+      "lon": -96.876,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, Ottawa, Kanada"
+    },
+    {
+      "id": "CA_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – Ottawa",
+      "lat": 53.455,
+      "lon": -96.857,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, Ottawa, Kanada"
+    },
+    {
+      "id": "CA_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – Ottawa",
+      "lat": 53.47,
+      "lon": -96.838,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, Ottawa, Kanada"
+    },
+    {
+      "id": "CA_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – Ottawa",
+      "lat": 53.485,
+      "lon": -96.819,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, Ottawa, Kanada"
+    },
+    {
+      "id": "CA_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – Ottawa",
+      "lat": 53.5,
+      "lon": -96.8,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, Ottawa, Kanada"
+    },
+    {
+      "id": "CA_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – Ottawa",
+      "lat": 53.515,
+      "lon": -96.781,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, Ottawa, Kanada"
+    },
+    {
+      "id": "CA_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – Ottawa",
+      "lat": 53.53,
+      "lon": -96.762,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, Ottawa, Kanada"
+    },
+    {
+      "id": "CA_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – Ottawa",
+      "lat": 53.545,
+      "lon": -96.743,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, Ottawa, Kanada"
+    }
+  ]
+}

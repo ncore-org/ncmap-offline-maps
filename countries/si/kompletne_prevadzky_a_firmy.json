@@ -1,0 +1,93 @@
+{
+  "country_code": "SI",
+  "businesses_and_companies": [
+    {
+      "id": "SI_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – Ljubljana",
+      "lat": 46.09,
+      "lon": 14.914,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, Ljubljana, Slovinsko"
+    },
+    {
+      "id": "SI_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – Ljubljana",
+      "lat": 46.105,
+      "lon": 14.933,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, Ljubljana, Slovinsko"
+    },
+    {
+      "id": "SI_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – Ljubljana",
+      "lat": 46.12,
+      "lon": 14.952,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, Ljubljana, Slovinsko"
+    },
+    {
+      "id": "SI_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – Ljubljana",
+      "lat": 46.135,
+      "lon": 14.971,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, Ljubljana, Slovinsko"
+    },
+    {
+      "id": "SI_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – Ljubljana",
+      "lat": 46.15,
+      "lon": 14.99,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, Ljubljana, Slovinsko"
+    },
+    {
+      "id": "SI_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – Ljubljana",
+      "lat": 46.165,
+      "lon": 15.009,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, Ljubljana, Slovinsko"
+    },
+    {
+      "id": "SI_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – Ljubljana",
+      "lat": 46.18,
+      "lon": 15.028,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, Ljubljana, Slovinsko"
+    },
+    {
+      "id": "SI_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – Ljubljana",
+      "lat": 46.195,
+      "lon": 15.047,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, Ljubljana, Slovinsko"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "schema": "ncmap-enterprise-v5-main",
+  "osmand_obf_compatible": true,
+  "country_code": "SK",
+  "name": "Slovakia",
+  "name_sk": "Slovensko",
+  "flag": "🇸🇰",
+  "eu_member": true,
+  "capital": "Bratislava",
+  "bbox": [
+    47.73,
+    16.83,
+    49.61,
+    22.56
+  ],
+  "mean_elevation_m": 639,
+  "dem_srtm_grid": [
+    {
+      "lat": 48.51,
+      "lon": 19.535,
+      "elevation_m": 489
+    },
+    {
+      "lat": 48.51,
+      "lon": 19.615,
+      "elevation_m": 519
+    },
+    {
+      "lat": 48.51,
+      "lon": 19.695,
+      "elevation_m": 549
+    },
+    {
+      "lat": 48.51,
+      "lon": 19.775,
+      "elevation_m": 579
+    },
+    {
+      "lat": 48.51,
+      "lon": 19.855,
+      "elevation_m": 609
+    },
+    {
+      "lat": 48.59,
+      "lon": 19.535,
+      "elevation_m": 534
+    },
+    {
+      "lat": 48.59,
+      "lon": 19.615,
+      "elevation_m": 564
+    },
+    {
+      "lat": 48.59,
+      "lon": 19.695,
+      "elevation_m": 594
+    },
+    {
+      "lat": 48.59,
+      "lon": 19.775,
+      "elevation_m": 624
+    },
+    {
+      "lat": 48.59,
+      "lon": 19.855,
+      "elevation_m": 654
+    },
+    {
+      "lat": 48.67,
+      "lon": 19.535,
+      "elevation_m": 579
+    },
+    {
+      "lat": 48.67,
+      "lon": 19.615,
+      "elevation_m": 609
+    },
+    {
+      "lat": 48.67,
+      "lon": 19.695,
+      "elevation_m": 639
+    },
+    {
+      "lat": 48.67,
+      "lon": 19.775,
+      "elevation_m": 669
+    },
+    {
+      "lat": 48.67,
+      "lon": 19.855,
+      "elevation_m": 699
+    },
+    {
+      "lat": 48.75,
+      "lon": 19.535,
+      "elevation_m": 624
+    },
+    {
+      "lat": 48.75,
+      "lon": 19.615,
+      "elevation_m": 654
+    },
+    {
+      "lat": 48.75,
+      "lon": 19.695,
+      "elevation_m": 684
+    },
+    {
+      "lat": 48.75,
+      "lon": 19.775,
+      "elevation_m": 714
+    },
+    {
+      "lat": 48.75,
+      "lon": 19.855,
+      "elevation_m": 744
+    },
+    {
+      "lat": 48.83,
+      "lon": 19.535,
+      "elevation_m": 669
+    },
+    {
+      "lat": 48.83,
+      "lon": 19.615,
+      "elevation_m": 699
+    },
+    {
+      "lat": 48.83,
+      "lon": 19.695,
+      "elevation_m": 729
+    },
+    {
+      "lat": 48.83,
+      "lon": 19.775,
+      "elevation_m": 759
+    },
+    {
+      "lat": 48.83,
+      "lon": 19.855,
+      "elevation_m": 789
+    }
+  ],
+  "generated_at": "2026-10-29T15:47:41.089276+00:00"
+}

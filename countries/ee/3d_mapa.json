@@ -1,0 +1,266 @@
+{
+  "country_code": "EE",
+  "terrain_3d_horizon": true,
+  "buildings_3d": [
+    {
+      "id": "EE_b3d_1",
+      "name": "Tallinn 3D Block 1583/31",
+      "house_number": "1583/31",
+      "height_m": 14.0,
+      "levels": 4,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          58.586,
+          24.9806
+        ],
+        [
+          58.58638,
+          24.9806
+        ],
+        [
+          58.58638,
+          24.98112
+        ],
+        [
+          58.586,
+          24.98112
+        ]
+      ]
+    },
+    {
+      "id": "EE_b3d_2",
+      "name": "Tallinn 3D Block 1586/33",
+      "house_number": "1586/33",
+      "height_m": 21.5,
+      "levels": 6,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          58.5878,
+          24.9828
+        ],
+        [
+          58.58818,
+          24.9828
+        ],
+        [
+          58.58818,
+          24.98332
+        ],
+        [
+          58.5878,
+          24.98332
+        ]
+      ]
+    },
+    {
+      "id": "EE_b3d_3",
+      "name": "Tallinn 3D Block 1831/2",
+      "house_number": "1831/2",
+      "height_m": 29.0,
+      "levels": 8,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          58.5896,
+          24.985
+        ],
+        [
+          58.58998,
+          24.985
+        ],
+        [
+          58.58998,
+          24.98552
+        ],
+        [
+          58.5896,
+          24.98552
+        ]
+      ]
+    },
+    {
+      "id": "EE_b3d_4",
+      "name": "Tallinn 3D Block 2482/21",
+      "house_number": "2482/21",
+      "height_m": 36.5,
+      "levels": 10,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          58.5914,
+          24.9872
+        ],
+        [
+          58.59178,
+          24.9872
+        ],
+        [
+          58.59178,
+          24.98772
+        ],
+        [
+          58.5914,
+          24.98772
+        ]
+      ]
+    },
+    {
+      "id": "EE_b3d_5",
+      "name": "Tallinn 3D Block 4416/2A",
+      "house_number": "4416/2A",
+      "height_m": 44.0,
+      "levels": 12,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          58.5932,
+          24.9806
+        ],
+        [
+          58.59358,
+          24.9806
+        ],
+        [
+          58.59358,
+          24.98112
+        ],
+        [
+          58.5932,
+          24.98112
+        ]
+      ]
+    },
+    {
+      "id": "EE_b3d_6",
+      "name": "Tallinn 3D Block 1589/39",
+      "house_number": "1589/39",
+      "height_m": 14.0,
+      "levels": 4,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          58.595,
+          24.9828
+        ],
+        [
+          58.59538,
+          24.9828
+        ],
+        [
+          58.59538,
+          24.98332
+        ],
+        [
+          58.595,
+          24.98332
+        ]
+      ]
+    },
+    {
+      "id": "EE_b3d_7",
+      "name": "Tallinn 3D Block 120/4",
+      "house_number": "120/4",
+      "height_m": 21.5,
+      "levels": 6,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          58.5968,
+          24.985
+        ],
+        [
+          58.59718,
+          24.985
+        ],
+        [
+          58.59718,
+          24.98552
+        ],
+        [
+          58.5968,
+          24.98552
+        ]
+      ]
+    },
+    {
+      "id": "EE_b3d_8",
+      "name": "Tallinn 3D Block 122/6",
+      "house_number": "122/6",
+      "height_m": 29.0,
+      "levels": 8,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          58.5986,
+          24.9872
+        ],
+        [
+          58.59898,
+          24.9872
+        ],
+        [
+          58.59898,
+          24.98772
+        ],
+        [
+          58.5986,
+          24.98772
+        ]
+      ]
+    },
+    {
+      "id": "EE_b3d_9",
+      "name": "Tallinn 3D Block 88/12",
+      "house_number": "88/12",
+      "height_m": 36.5,
+      "levels": 10,
+      "roof_style": "gabled",
+      "footprint": [
+        [
+          58.6004,
+          24.9806
+        ],
+        [
+          58.60078,
+          24.9806
+        ],
+        [
+          58.60078,
+          24.98112
+        ],
+        [
+          58.6004,
+          24.98112
+        ]
+      ]
+    },
+    {
+      "id": "EE_b3d_10",
+      "name": "Tallinn 3D Block 90/14",
+      "house_number": "90/14",
+      "height_m": 44.0,
+      "levels": 12,
+      "roof_style": "flat",
+      "footprint": [
+        [
+          58.6022,
+          24.9828
+        ],
+        [
+          58.60258,
+          24.9828
+        ],
+        [
+          58.60258,
+          24.98332
+        ],
+        [
+          58.6022,
+          24.98332
+        ]
+      ]
+    }
+  ]
+}

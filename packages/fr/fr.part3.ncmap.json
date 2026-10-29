@@ -1,0 +1,1231 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "FR",
+  "country_name": "France",
+  "country_name_sk": "Francúzsko",
+  "part": 3,
+  "total_parts": 3,
+  "country_paths": {
+    "hlavne_data": "countries/fr/hlavne_data.json",
+    "3d_mapa": "countries/fr/3d_mapa.json",
+    "cesty": "countries/fr/cesty.json",
+    "radary": "countries/fr/radary.json",
+    "odpocivadla_a_sprchy": "countries/fr/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/fr/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/fr/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/fr/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/fr/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "FR",
+      "name": "France",
+      "name_sk": "Francúzsko",
+      "flag": "🇫🇷",
+      "eu_member": true,
+      "capital": "Paris",
+      "bbox": [
+        41.33,
+        -5.14,
+        51.09,
+        9.56
+      ],
+      "mean_elevation_m": 375,
+      "dem_srtm_grid": [
+        {
+          "lat": 46.05,
+          "lon": 2.05,
+          "elevation_m": 225
+        },
+        {
+          "lat": 46.05,
+          "lon": 2.13,
+          "elevation_m": 255
+        },
+        {
+          "lat": 46.05,
+          "lon": 2.21,
+          "elevation_m": 285
+        },
+        {
+          "lat": 46.05,
+          "lon": 2.29,
+          "elevation_m": 315
+        },
+        {
+          "lat": 46.05,
+          "lon": 2.37,
+          "elevation_m": 345
+        },
+        {
+          "lat": 46.13,
+          "lon": 2.05,
+          "elevation_m": 270
+        },
+        {
+          "lat": 46.13,
+          "lon": 2.13,
+          "elevation_m": 300
+        },
+        {
+          "lat": 46.13,
+          "lon": 2.21,
+          "elevation_m": 330
+        },
+        {
+          "lat": 46.13,
+          "lon": 2.29,
+          "elevation_m": 360
+        },
+        {
+          "lat": 46.13,
+          "lon": 2.37,
+          "elevation_m": 390
+        },
+        {
+          "lat": 46.21,
+          "lon": 2.05,
+          "elevation_m": 315
+        },
+        {
+          "lat": 46.21,
+          "lon": 2.13,
+          "elevation_m": 345
+        },
+        {
+          "lat": 46.21,
+          "lon": 2.21,
+          "elevation_m": 375
+        },
+        {
+          "lat": 46.21,
+          "lon": 2.29,
+          "elevation_m": 405
+        },
+        {
+          "lat": 46.21,
+          "lon": 2.37,
+          "elevation_m": 435
+        },
+        {
+          "lat": 46.29,
+          "lon": 2.05,
+          "elevation_m": 360
+        },
+        {
+          "lat": 46.29,
+          "lon": 2.13,
+          "elevation_m": 390
+        },
+        {
+          "lat": 46.29,
+          "lon": 2.21,
+          "elevation_m": 420
+        },
+        {
+          "lat": 46.29,
+          "lon": 2.29,
+          "elevation_m": 450
+        },
+        {
+          "lat": 46.29,
+          "lon": 2.37,
+          "elevation_m": 480
+        },
+        {
+          "lat": 46.37,
+          "lon": 2.05,
+          "elevation_m": 405
+        },
+        {
+          "lat": 46.37,
+          "lon": 2.13,
+          "elevation_m": 435
+        },
+        {
+          "lat": 46.37,
+          "lon": 2.21,
+          "elevation_m": 465
+        },
+        {
+          "lat": 46.37,
+          "lon": 2.29,
+          "elevation_m": 495
+        },
+        {
+          "lat": 46.37,
+          "lon": 2.37,
+          "elevation_m": 525
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.047574+00:00"
+    },
+    "roads": {
+      "country_code": "FR",
+      "highway_prefix": "A1/A4/A6/A7/A9/A10",
+      "toll_type": "peage_toll_booths",
+      "road_shields": [
+        {
+          "shield": "A1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A4",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A6",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A7",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A9",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A10",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "Paris",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 375
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "Paris",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 375
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "FR_b3d_1",
+        "name": "Paris 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            46.201,
+            2.2056
+          ],
+          [
+            46.20138,
+            2.2056
+          ],
+          [
+            46.20138,
+            2.20612
+          ],
+          [
+            46.201,
+            2.20612
+          ]
+        ]
+      },
+      {
+        "id": "FR_b3d_2",
+        "name": "Paris 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            46.2028,
+            2.2078
+          ],
+          [
+            46.20318,
+            2.2078
+          ],
+          [
+            46.20318,
+            2.20832
+          ],
+          [
+            46.2028,
+            2.20832
+          ]
+        ]
+      },
+      {
+        "id": "FR_b3d_3",
+        "name": "Paris 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            46.2046,
+            2.21
+          ],
+          [
+            46.20498,
+            2.21
+          ],
+          [
+            46.20498,
+            2.21052
+          ],
+          [
+            46.2046,
+            2.21052
+          ]
+        ]
+      },
+      {
+        "id": "FR_b3d_4",
+        "name": "Paris 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            46.2064,
+            2.2122
+          ],
+          [
+            46.20678,
+            2.2122
+          ],
+          [
+            46.20678,
+            2.21272
+          ],
+          [
+            46.2064,
+            2.21272
+          ]
+        ]
+      },
+      {
+        "id": "FR_b3d_5",
+        "name": "Paris 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            46.2082,
+            2.2056
+          ],
+          [
+            46.20858,
+            2.2056
+          ],
+          [
+            46.20858,
+            2.20612
+          ],
+          [
+            46.2082,
+            2.20612
+          ]
+        ]
+      },
+      {
+        "id": "FR_b3d_6",
+        "name": "Paris 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            46.21,
+            2.2078
+          ],
+          [
+            46.21038,
+            2.2078
+          ],
+          [
+            46.21038,
+            2.20832
+          ],
+          [
+            46.21,
+            2.20832
+          ]
+        ]
+      },
+      {
+        "id": "FR_b3d_7",
+        "name": "Paris 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            46.2118,
+            2.21
+          ],
+          [
+            46.21218,
+            2.21
+          ],
+          [
+            46.21218,
+            2.21052
+          ],
+          [
+            46.2118,
+            2.21052
+          ]
+        ]
+      },
+      {
+        "id": "FR_b3d_8",
+        "name": "Paris 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            46.2136,
+            2.2122
+          ],
+          [
+            46.21398,
+            2.2122
+          ],
+          [
+            46.21398,
+            2.21272
+          ],
+          [
+            46.2136,
+            2.21272
+          ]
+        ]
+      },
+      {
+        "id": "FR_b3d_9",
+        "name": "Paris 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            46.2154,
+            2.2056
+          ],
+          [
+            46.21578,
+            2.2056
+          ],
+          [
+            46.21578,
+            2.20612
+          ],
+          [
+            46.2154,
+            2.20612
+          ]
+        ]
+      },
+      {
+        "id": "FR_b3d_10",
+        "name": "Paris 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            46.2172,
+            2.2078
+          ],
+          [
+            46.21758,
+            2.2078
+          ],
+          [
+            46.21758,
+            2.20832
+          ],
+          [
+            46.2172,
+            2.20832
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "FR_rad_1",
+        "type": "section_radar",
+        "lat": 46.05,
+        "lon": 2.005,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "FR_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 46.082,
+        "lon": 2.046,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "A1"
+      },
+      {
+        "id": "FR_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 46.114,
+        "lon": 2.087,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "A1"
+      },
+      {
+        "id": "FR_rad_4",
+        "type": "section_radar",
+        "lat": 46.146,
+        "lon": 2.128,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "A1"
+      },
+      {
+        "id": "FR_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 46.178,
+        "lon": 2.169,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "A1"
+      },
+      {
+        "id": "FR_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 46.21,
+        "lon": 2.21,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "A1"
+      },
+      {
+        "id": "FR_rad_7",
+        "type": "section_radar",
+        "lat": 46.242,
+        "lon": 2.251,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "A1"
+      },
+      {
+        "id": "FR_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 46.274,
+        "lon": 2.292,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "A1"
+      },
+      {
+        "id": "FR_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 46.306,
+        "lon": 2.333,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "FR_rad_10",
+        "type": "section_radar",
+        "lat": 46.338,
+        "lon": 2.374,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "A1"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "FR_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 46.098,
+        "lon": 2.066,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Francúzsko · Diaľnica A1"
+      },
+      {
+        "id": "FR_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 46.126,
+        "lon": 2.102,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Francúzsko · Diaľnica A1"
+      },
+      {
+        "id": "FR_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 46.154,
+        "lon": 2.138,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Francúzsko · Diaľnica A1"
+      },
+      {
+        "id": "FR_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 46.182,
+        "lon": 2.174,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Francúzsko · Diaľnica A1"
+      },
+      {
+        "id": "FR_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 46.21,
+        "lon": 2.21,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Francúzsko · Diaľnica A1"
+      },
+      {
+        "id": "FR_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 46.238,
+        "lon": 2.246,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Francúzsko · Diaľnica A1"
+      },
+      {
+        "id": "FR_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 46.266,
+        "lon": 2.282,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Francúzsko · Diaľnica A1"
+      },
+      {
+        "id": "FR_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 192 (BP)",
+        "brand": "bp",
+        "lat": 46.294,
+        "lon": 2.318,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Francúzsko · Diaľnica A1"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "FR_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV Paris #1",
+        "lat": 46.09,
+        "lon": 2.055,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Francúzsko (A1/A4/A6/A7/A9/A10)"
+      },
+      {
+        "id": "FR_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell Paris #2",
+        "lat": 46.114,
+        "lon": 2.086,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Francúzsko (A1/A4/A6/A7/A9/A10)"
+      },
+      {
+        "id": "FR_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft Paris #3",
+        "lat": 46.138,
+        "lon": 2.117,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Francúzsko (A1/A4/A6/A7/A9/A10)"
+      },
+      {
+        "id": "FR_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen Paris #4",
+        "lat": 46.162,
+        "lon": 2.148,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Francúzsko (A1/A4/A6/A7/A9/A10)"
+      },
+      {
+        "id": "FR_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral Paris #5",
+        "lat": 46.186,
+        "lon": 2.179,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Francúzsko (A1/A4/A6/A7/A9/A10)"
+      },
+      {
+        "id": "FR_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL Paris #6",
+        "lat": 46.21,
+        "lon": 2.21,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Francúzsko (A1/A4/A6/A7/A9/A10)"
+      },
+      {
+        "id": "FR_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies Paris #7",
+        "lat": 46.234,
+        "lon": 2.241,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Francúzsko (A1/A4/A6/A7/A9/A10)"
+      },
+      {
+        "id": "FR_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP Paris #8",
+        "lat": 46.258,
+        "lon": 2.272,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Francúzsko (A1/A4/A6/A7/A9/A10)"
+      },
+      {
+        "id": "FR_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K Paris #9",
+        "lat": 46.282,
+        "lon": 2.303,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Francúzsko (A1/A4/A6/A7/A9/A10)"
+      },
+      {
+        "id": "FR_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 Paris #10",
+        "lat": 46.306,
+        "lon": 2.334,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Francúzsko (A1/A4/A6/A7/A9/A10)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "FR_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru Paris",
+        "lat": 46.147,
+        "lon": 2.123,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Francúzsko"
+      },
+      {
+        "id": "FR_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru Paris",
+        "lat": 46.168,
+        "lon": 2.152,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Francúzsko"
+      },
+      {
+        "id": "FR_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru Paris",
+        "lat": 46.189,
+        "lon": 2.181,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Francúzsko"
+      },
+      {
+        "id": "FR_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru Paris",
+        "lat": 46.21,
+        "lon": 2.21,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Francúzsko"
+      },
+      {
+        "id": "FR_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru Paris",
+        "lat": 46.231,
+        "lon": 2.239,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Francúzsko"
+      },
+      {
+        "id": "FR_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru Paris",
+        "lat": 46.252,
+        "lon": 2.268,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Francúzsko"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "FR_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – Paris",
+        "lat": 46.15,
+        "lon": 2.134,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, Paris, Francúzsko"
+      },
+      {
+        "id": "FR_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – Paris",
+        "lat": 46.165,
+        "lon": 2.153,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, Paris, Francúzsko"
+      },
+      {
+        "id": "FR_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – Paris",
+        "lat": 46.18,
+        "lon": 2.172,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, Paris, Francúzsko"
+      },
+      {
+        "id": "FR_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – Paris",
+        "lat": 46.195,
+        "lon": 2.191,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, Paris, Francúzsko"
+      },
+      {
+        "id": "FR_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – Paris",
+        "lat": 46.21,
+        "lon": 2.21,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, Paris, Francúzsko"
+      },
+      {
+        "id": "FR_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – Paris",
+        "lat": 46.225,
+        "lon": 2.229,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, Paris, Francúzsko"
+      },
+      {
+        "id": "FR_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – Paris",
+        "lat": 46.24,
+        "lon": 2.248,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, Paris, Francúzsko"
+      },
+      {
+        "id": "FR_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – Paris",
+        "lat": 46.255,
+        "lon": 2.267,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, Paris, Francúzsko"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "FR_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Paris #1",
+        "lat": 46.201,
+        "lon": 2.199,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Francúzsko."
+      },
+      {
+        "id": "FR_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Paris #2",
+        "lat": 46.21,
+        "lon": 2.21,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Francúzsko."
+      },
+      {
+        "id": "FR_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Paris #3",
+        "lat": 46.219,
+        "lon": 2.221,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Francúzsko."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "FR_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Paris #1",
+        "lat": 46.198,
+        "lon": 2.224,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "FR_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Paris #2",
+        "lat": 46.21,
+        "lon": 2.21,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "FR_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Paris #3",
+        "lat": 46.222,
+        "lon": 2.196,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "FR_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "Tour Eiffel Paris 3D",
+        "lat": 46.2055,
+        "lon": 2.2045,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            46.2055,
+            2.2045
+          ],
+          [
+            46.2061,
+            2.2045
+          ],
+          [
+            46.2061,
+            2.2052
+          ],
+          [
+            46.2055,
+            2.2052
+          ]
+        ]
+      },
+      {
+        "id": "FR_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Arc de Triomphe 3D",
+        "lat": 46.21,
+        "lon": 2.21,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            46.21,
+            2.21
+          ],
+          [
+            46.2106,
+            2.21
+          ],
+          [
+            46.2106,
+            2.2107
+          ],
+          [
+            46.21,
+            2.2107
+          ]
+        ]
+      },
+      {
+        "id": "FR_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Cathédrale Notre-Dame de Paris 3D",
+        "lat": 46.2145,
+        "lon": 2.2155,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            46.2145,
+            2.2155
+          ],
+          [
+            46.2151,
+            2.2155
+          ],
+          [
+            46.2151,
+            2.2162
+          ],
+          [
+            46.2145,
+            2.2162
+          ]
+        ]
+      },
+      {
+        "id": "FR_lm3d_4",
+        "kind": "landmark_3d",
+        "name": "Mont-Saint-Michel 3D",
+        "lat": 46.219,
+        "lon": 2.221,
+        "height_m": 102.0,
+        "levels": 24,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            46.219,
+            2.221
+          ],
+          [
+            46.2196,
+            2.221
+          ],
+          [
+            46.2196,
+            2.2217
+          ],
+          [
+            46.219,
+            2.2217
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "country_code": "PT",
+  "landmarks_3d": [
+    {
+      "id": "PT_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Torre de Belém 3D",
+      "lat": 39.5505,
+      "lon": -7.8505,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          39.5505,
+          -7.8505
+        ],
+        [
+          39.5511,
+          -7.8505
+        ],
+        [
+          39.5511,
+          -7.8498
+        ],
+        [
+          39.5505,
+          -7.8498
+        ]
+      ]
+    },
+    {
+      "id": "PT_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Ponte 25 de Abril 3D",
+      "lat": 39.555,
+      "lon": -7.845,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          39.555,
+          -7.845
+        ],
+        [
+          39.5556,
+          -7.845
+        ],
+        [
+          39.5556,
+          -7.8443
+        ],
+        [
+          39.555,
+          -7.8443
+        ]
+      ]
+    },
+    {
+      "id": "PT_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Palácio da Pena Sintra 3D",
+      "lat": 39.5595,
+      "lon": -7.8395,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          39.5595,
+          -7.8395
+        ],
+        [
+          39.5601,
+          -7.8395
+        ],
+        [
+          39.5601,
+          -7.8388
+        ],
+        [
+          39.5595,
+          -7.8388
+        ]
+      ]
+    }
+  ]
+}

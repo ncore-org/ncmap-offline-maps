@@ -1,0 +1,89 @@
+{
+  "country_code": "CY",
+  "landmarks_3d": [
+    {
+      "id": "CY_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Venetian Walls Nicosia 3D",
+      "lat": 35.1605,
+      "lon": 33.4295,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          35.1605,
+          33.4295
+        ],
+        [
+          35.1611,
+          33.4295
+        ],
+        [
+          35.1611,
+          33.4302
+        ],
+        [
+          35.1605,
+          33.4302
+        ]
+      ]
+    },
+    {
+      "id": "CY_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Kourion Amphitheatre 3D",
+      "lat": 35.165,
+      "lon": 33.435,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          35.165,
+          33.435
+        ],
+        [
+          35.1656,
+          33.435
+        ],
+        [
+          35.1656,
+          33.4357
+        ],
+        [
+          35.165,
+          33.4357
+        ]
+      ]
+    },
+    {
+      "id": "CY_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Paphos Castle 3D",
+      "lat": 35.1695,
+      "lon": 33.4405,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          35.1695,
+          33.4405
+        ],
+        [
+          35.1701,
+          33.4405
+        ],
+        [
+          35.1701,
+          33.4412
+        ],
+        [
+          35.1695,
+          33.4412
+        ]
+      ]
+    }
+  ]
+}

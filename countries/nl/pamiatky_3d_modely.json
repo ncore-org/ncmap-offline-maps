@@ -1,0 +1,89 @@
+{
+  "country_code": "NL",
+  "landmarks_3d": [
+    {
+      "id": "NL_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "Rijksmuseum Amsterdam 3D",
+      "lat": 52.1055,
+      "lon": 5.2895,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          52.1055,
+          5.2895
+        ],
+        [
+          52.1061,
+          5.2895
+        ],
+        [
+          52.1061,
+          5.2902
+        ],
+        [
+          52.1055,
+          5.2902
+        ]
+      ]
+    },
+    {
+      "id": "NL_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Erasmusbrug Rotterdam 3D",
+      "lat": 52.11,
+      "lon": 5.295,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          52.11,
+          5.295
+        ],
+        [
+          52.1106,
+          5.295
+        ],
+        [
+          52.1106,
+          5.2957
+        ],
+        [
+          52.11,
+          5.2957
+        ]
+      ]
+    },
+    {
+      "id": "NL_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Dom Tower Utrecht 3D",
+      "lat": 52.1145,
+      "lon": 5.3005,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          52.1145,
+          5.3005
+        ],
+        [
+          52.1151,
+          5.3005
+        ],
+        [
+          52.1151,
+          5.3012
+        ],
+        [
+          52.1145,
+          5.3012
+        ]
+      ]
+    }
+  ]
+}

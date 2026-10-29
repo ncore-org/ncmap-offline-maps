@@ -1,0 +1,93 @@
+{
+  "country_code": "ES",
+  "businesses_and_companies": [
+    {
+      "id": "ES_biz_1",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Kaufland Logistics & Hypermarket – Madrid",
+      "lat": 39.835,
+      "lon": -3.061,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 1, Madrid, Španielsko"
+    },
+    {
+      "id": "ES_biz_2",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Lidl Enterprise Store & EV FastCharge – Madrid",
+      "lat": 39.85,
+      "lon": -3.042,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 2, Madrid, Španielsko"
+    },
+    {
+      "id": "ES_biz_3",
+      "kind": "business",
+      "category": "supermarket",
+      "name": "Tesco Extra 24/7 & Pharmacy – Madrid",
+      "lat": 39.865,
+      "lon": -3.023,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 3, Madrid, Španielsko"
+    },
+    {
+      "id": "ES_biz_4",
+      "kind": "business",
+      "category": "retail_chain",
+      "name": "IKEA Home & Bistro – Madrid",
+      "lat": 39.88,
+      "lon": -3.004,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 4, Madrid, Španielsko"
+    },
+    {
+      "id": "ES_biz_5",
+      "kind": "business",
+      "category": "auto_service",
+      "name": "Bosch Car Service & Diagnostics – Madrid",
+      "lat": 39.895,
+      "lon": -2.985,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 5, Madrid, Španielsko"
+    },
+    {
+      "id": "ES_biz_6",
+      "kind": "business",
+      "category": "truck_service",
+      "name": "Mercedes-Benz Truck & Van Center – Madrid",
+      "lat": 39.91,
+      "lon": -2.966,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 6, Madrid, Španielsko"
+    },
+    {
+      "id": "ES_biz_7",
+      "kind": "business",
+      "category": "van_service",
+      "name": "Renault Pro+ Service (Trafic / Master) – Madrid",
+      "lat": 39.925,
+      "lon": -2.947,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 7, Madrid, Španielsko"
+    },
+    {
+      "id": "ES_biz_8",
+      "kind": "business",
+      "category": "ev_charging",
+      "name": "Ionity 350kW Ultra-Fast Hub – Madrid",
+      "lat": 39.94,
+      "lon": -2.928,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "parking_available": true,
+      "address": "Priemyselná zóna 8, Madrid, Španielsko"
+    }
+  ]
+}

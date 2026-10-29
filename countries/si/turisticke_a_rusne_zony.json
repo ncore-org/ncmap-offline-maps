@@ -1,0 +1,70 @@
+{
+  "country_code": "SI",
+  "touristic_zones": [
+    {
+      "id": "SI_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Ljubljana #1",
+      "lat": 46.141,
+      "lon": 14.979,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Slovinsko."
+    },
+    {
+      "id": "SI_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Ljubljana #2",
+      "lat": 46.15,
+      "lon": 14.99,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Slovinsko."
+    },
+    {
+      "id": "SI_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Ljubljana #3",
+      "lat": 46.159,
+      "lon": 15.001,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Slovinsko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "SI_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Ljubljana #1",
+      "lat": 46.138,
+      "lon": 15.004,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "SI_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Ljubljana #2",
+      "lat": 46.15,
+      "lon": 14.99,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "SI_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Ljubljana #3",
+      "lat": 46.162,
+      "lon": 14.976,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

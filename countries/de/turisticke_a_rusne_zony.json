@@ -1,0 +1,70 @@
+{
+  "country_code": "DE",
+  "touristic_zones": [
+    {
+      "id": "DE_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Berlin #1",
+      "lat": 51.156,
+      "lon": 10.444,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Nemecko."
+    },
+    {
+      "id": "DE_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Berlin #2",
+      "lat": 51.165,
+      "lon": 10.455,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Nemecko."
+    },
+    {
+      "id": "DE_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Berlin #3",
+      "lat": 51.174,
+      "lon": 10.466,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Nemecko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "DE_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Berlin #1",
+      "lat": 51.153,
+      "lon": 10.469,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "DE_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Berlin #2",
+      "lat": 51.165,
+      "lon": 10.455,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "DE_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Berlin #3",
+      "lat": 51.177,
+      "lon": 10.441,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

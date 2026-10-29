@@ -1,0 +1,70 @@
+{
+  "country_code": "CZ",
+  "touristic_zones": [
+    {
+      "id": "CZ_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Praha #1",
+      "lat": 49.796,
+      "lon": 15.464,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Česko."
+    },
+    {
+      "id": "CZ_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Praha #2",
+      "lat": 49.805,
+      "lon": 15.475,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Česko."
+    },
+    {
+      "id": "CZ_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Praha #3",
+      "lat": 49.814,
+      "lon": 15.486,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Česko."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "CZ_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Praha #1",
+      "lat": 49.793,
+      "lon": 15.489,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "CZ_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Praha #2",
+      "lat": 49.805,
+      "lon": 15.475,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "CZ_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Praha #3",
+      "lat": 49.817,
+      "lon": 15.461,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

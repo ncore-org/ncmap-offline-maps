@@ -1,0 +1,70 @@
+{
+  "country_code": "CA",
+  "touristic_zones": [
+    {
+      "id": "CA_tour_1",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Ottawa #1",
+      "lat": 53.491,
+      "lon": -96.811,
+      "radius_m": 850,
+      "unesco_heritage": true,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Kanada."
+    },
+    {
+      "id": "CA_tour_2",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Ottawa #2",
+      "lat": 53.5,
+      "lon": -96.8,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Kanada."
+    },
+    {
+      "id": "CA_tour_3",
+      "kind": "touristic_zone",
+      "name": "Historická & Turistická zóna Ottawa #3",
+      "lat": 53.509,
+      "lon": -96.789,
+      "radius_m": 850,
+      "unesco_heritage": false,
+      "pedestrian_priority": true,
+      "description": "Hlavná pamiatková a turistická zóna v krajine Kanada."
+    }
+  ],
+  "busy_zones": [
+    {
+      "id": "CA_busy_1",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Ottawa #1",
+      "lat": 53.488,
+      "lon": -96.786,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "CA_busy_2",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Ottawa #2",
+      "lat": 53.5,
+      "lon": -96.8,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    },
+    {
+      "id": "CA_busy_3",
+      "kind": "busy_zone",
+      "name": "Rušná zóna & Obchodné centrum Ottawa #3",
+      "lat": 53.512,
+      "lon": -96.814,
+      "radius_m": 650,
+      "congestion_index": 0.78,
+      "peak_hours": "07:30-09:30, 15:30-18:30"
+    }
+  ]
+}

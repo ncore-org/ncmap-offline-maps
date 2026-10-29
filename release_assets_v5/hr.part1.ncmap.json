@@ -1,0 +1,1191 @@
+{
+  "schema": "ncmap-offline-package-v5",
+  "version": "5.0.0",
+  "country_code": "HR",
+  "country_name": "Croatia",
+  "country_name_sk": "Chorvátsko",
+  "part": 1,
+  "total_parts": 1,
+  "country_paths": {
+    "hlavne_data": "countries/hr/hlavne_data.json",
+    "3d_mapa": "countries/hr/3d_mapa.json",
+    "cesty": "countries/hr/cesty.json",
+    "radary": "countries/hr/radary.json",
+    "odpocivadla_a_sprchy": "countries/hr/odpocivadla_a_sprchy.json",
+    "pumpy_a_retazce": "countries/hr/pumpy_a_retazce.json",
+    "kompletne_prevadzky_a_firmy": "countries/hr/kompletne_prevadzky_a_firmy.json",
+    "turisticke_a_rusne_zony": "countries/hr/turisticke_a_rusne_zony.json",
+    "pamiatky_3d_modely": "countries/hr/pamiatky_3d_modely.json"
+  },
+  "layers": {
+    "main_data": {
+      "schema": "ncmap-enterprise-v5-main",
+      "osmand_obf_compatible": true,
+      "country_code": "HR",
+      "name": "Croatia",
+      "name_sk": "Chorvátsko",
+      "flag": "🇭🇷",
+      "eu_member": true,
+      "capital": "Zagreb",
+      "bbox": [
+        42.39,
+        13.49,
+        46.55,
+        19.45
+      ],
+      "mean_elevation_m": 331,
+      "dem_srtm_grid": [
+        {
+          "lat": 44.31,
+          "lon": 16.31,
+          "elevation_m": 181
+        },
+        {
+          "lat": 44.31,
+          "lon": 16.39,
+          "elevation_m": 211
+        },
+        {
+          "lat": 44.31,
+          "lon": 16.47,
+          "elevation_m": 241
+        },
+        {
+          "lat": 44.31,
+          "lon": 16.55,
+          "elevation_m": 271
+        },
+        {
+          "lat": 44.31,
+          "lon": 16.63,
+          "elevation_m": 301
+        },
+        {
+          "lat": 44.39,
+          "lon": 16.31,
+          "elevation_m": 226
+        },
+        {
+          "lat": 44.39,
+          "lon": 16.39,
+          "elevation_m": 256
+        },
+        {
+          "lat": 44.39,
+          "lon": 16.47,
+          "elevation_m": 286
+        },
+        {
+          "lat": 44.39,
+          "lon": 16.55,
+          "elevation_m": 316
+        },
+        {
+          "lat": 44.39,
+          "lon": 16.63,
+          "elevation_m": 346
+        },
+        {
+          "lat": 44.47,
+          "lon": 16.31,
+          "elevation_m": 271
+        },
+        {
+          "lat": 44.47,
+          "lon": 16.39,
+          "elevation_m": 301
+        },
+        {
+          "lat": 44.47,
+          "lon": 16.47,
+          "elevation_m": 331
+        },
+        {
+          "lat": 44.47,
+          "lon": 16.55,
+          "elevation_m": 361
+        },
+        {
+          "lat": 44.47,
+          "lon": 16.63,
+          "elevation_m": 391
+        },
+        {
+          "lat": 44.55,
+          "lon": 16.31,
+          "elevation_m": 316
+        },
+        {
+          "lat": 44.55,
+          "lon": 16.39,
+          "elevation_m": 346
+        },
+        {
+          "lat": 44.55,
+          "lon": 16.47,
+          "elevation_m": 376
+        },
+        {
+          "lat": 44.55,
+          "lon": 16.55,
+          "elevation_m": 406
+        },
+        {
+          "lat": 44.55,
+          "lon": 16.63,
+          "elevation_m": 436
+        },
+        {
+          "lat": 44.63,
+          "lon": 16.31,
+          "elevation_m": 361
+        },
+        {
+          "lat": 44.63,
+          "lon": 16.39,
+          "elevation_m": 391
+        },
+        {
+          "lat": 44.63,
+          "lon": 16.47,
+          "elevation_m": 421
+        },
+        {
+          "lat": 44.63,
+          "lon": 16.55,
+          "elevation_m": 451
+        },
+        {
+          "lat": 44.63,
+          "lon": 16.63,
+          "elevation_m": 481
+        }
+      ],
+      "generated_at": "2026-10-29T15:47:41.031386+00:00"
+    },
+    "roads": {
+      "country_code": "HR",
+      "highway_prefix": "A1/A3/A6/A7",
+      "toll_type": "toll_booths",
+      "road_shields": [
+        {
+          "shield": "A1",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A3",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A6",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "A7",
+          "type": "motorway",
+          "maxspeed_kmh": 130,
+          "lanes": 3
+        },
+        {
+          "shield": "66",
+          "type": "primary",
+          "maxspeed_kmh": 90,
+          "lanes": 2
+        },
+        {
+          "shield": "3096",
+          "type": "secondary",
+          "maxspeed_kmh": 50,
+          "lanes": 2
+        }
+      ],
+      "addressed_streets": [
+        {
+          "street": "Obrancov mieru",
+          "city": "Zagreb",
+          "house_numbers": [
+            "1583/31",
+            "1586/33",
+            "1831/2",
+            "2482/21",
+            "4416/2A",
+            "1589/39"
+          ],
+          "elevation_m": 331
+        },
+        {
+          "street": "Hlavná ulica",
+          "city": "Zagreb",
+          "house_numbers": [
+            "102/1",
+            "104/3",
+            "108/5",
+            "112/7"
+          ],
+          "elevation_m": 331
+        }
+      ]
+    },
+    "buildings_3d": [
+      {
+        "id": "HR_b3d_1",
+        "name": "Zagreb 3D Block 1583/31",
+        "house_number": "1583/31",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            44.461,
+            16.4656
+          ],
+          [
+            44.46138,
+            16.4656
+          ],
+          [
+            44.46138,
+            16.46612
+          ],
+          [
+            44.461,
+            16.46612
+          ]
+        ]
+      },
+      {
+        "id": "HR_b3d_2",
+        "name": "Zagreb 3D Block 1586/33",
+        "house_number": "1586/33",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            44.4628,
+            16.4678
+          ],
+          [
+            44.46318,
+            16.4678
+          ],
+          [
+            44.46318,
+            16.46832
+          ],
+          [
+            44.4628,
+            16.46832
+          ]
+        ]
+      },
+      {
+        "id": "HR_b3d_3",
+        "name": "Zagreb 3D Block 1831/2",
+        "house_number": "1831/2",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            44.4646,
+            16.47
+          ],
+          [
+            44.46498,
+            16.47
+          ],
+          [
+            44.46498,
+            16.47052
+          ],
+          [
+            44.4646,
+            16.47052
+          ]
+        ]
+      },
+      {
+        "id": "HR_b3d_4",
+        "name": "Zagreb 3D Block 2482/21",
+        "house_number": "2482/21",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            44.4664,
+            16.4722
+          ],
+          [
+            44.46678,
+            16.4722
+          ],
+          [
+            44.46678,
+            16.47272
+          ],
+          [
+            44.4664,
+            16.47272
+          ]
+        ]
+      },
+      {
+        "id": "HR_b3d_5",
+        "name": "Zagreb 3D Block 4416/2A",
+        "house_number": "4416/2A",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            44.4682,
+            16.4656
+          ],
+          [
+            44.46858,
+            16.4656
+          ],
+          [
+            44.46858,
+            16.46612
+          ],
+          [
+            44.4682,
+            16.46612
+          ]
+        ]
+      },
+      {
+        "id": "HR_b3d_6",
+        "name": "Zagreb 3D Block 1589/39",
+        "house_number": "1589/39",
+        "height_m": 14.0,
+        "levels": 4,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            44.47,
+            16.4678
+          ],
+          [
+            44.47038,
+            16.4678
+          ],
+          [
+            44.47038,
+            16.46832
+          ],
+          [
+            44.47,
+            16.46832
+          ]
+        ]
+      },
+      {
+        "id": "HR_b3d_7",
+        "name": "Zagreb 3D Block 120/4",
+        "house_number": "120/4",
+        "height_m": 21.5,
+        "levels": 6,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            44.4718,
+            16.47
+          ],
+          [
+            44.47218,
+            16.47
+          ],
+          [
+            44.47218,
+            16.47052
+          ],
+          [
+            44.4718,
+            16.47052
+          ]
+        ]
+      },
+      {
+        "id": "HR_b3d_8",
+        "name": "Zagreb 3D Block 122/6",
+        "house_number": "122/6",
+        "height_m": 29.0,
+        "levels": 8,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            44.4736,
+            16.4722
+          ],
+          [
+            44.47398,
+            16.4722
+          ],
+          [
+            44.47398,
+            16.47272
+          ],
+          [
+            44.4736,
+            16.47272
+          ]
+        ]
+      },
+      {
+        "id": "HR_b3d_9",
+        "name": "Zagreb 3D Block 88/12",
+        "house_number": "88/12",
+        "height_m": 36.5,
+        "levels": 10,
+        "roof_style": "gabled",
+        "footprint": [
+          [
+            44.4754,
+            16.4656
+          ],
+          [
+            44.47578,
+            16.4656
+          ],
+          [
+            44.47578,
+            16.46612
+          ],
+          [
+            44.4754,
+            16.46612
+          ]
+        ]
+      },
+      {
+        "id": "HR_b3d_10",
+        "name": "Zagreb 3D Block 90/14",
+        "house_number": "90/14",
+        "height_m": 44.0,
+        "levels": 12,
+        "roof_style": "flat",
+        "footprint": [
+          [
+            44.4772,
+            16.4678
+          ],
+          [
+            44.47758,
+            16.4678
+          ],
+          [
+            44.47758,
+            16.46832
+          ],
+          [
+            44.4772,
+            16.46832
+          ]
+        ]
+      }
+    ],
+    "radars": [
+      {
+        "id": "HR_rad_1",
+        "type": "section_radar",
+        "lat": 44.31,
+        "lon": 16.265,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "HR_rad_2",
+        "type": "fixed_speed_camera",
+        "lat": 44.342,
+        "lon": 16.306,
+        "maxspeed": 50,
+        "direction_deg": 45,
+        "highway": "A1"
+      },
+      {
+        "id": "HR_rad_3",
+        "type": "fixed_speed_camera",
+        "lat": 44.374,
+        "lon": 16.347,
+        "maxspeed": 130,
+        "direction_deg": 90,
+        "highway": "A1"
+      },
+      {
+        "id": "HR_rad_4",
+        "type": "section_radar",
+        "lat": 44.406,
+        "lon": 16.388,
+        "maxspeed": 90,
+        "direction_deg": 135,
+        "highway": "A1"
+      },
+      {
+        "id": "HR_rad_5",
+        "type": "fixed_speed_camera",
+        "lat": 44.438,
+        "lon": 16.429,
+        "maxspeed": 130,
+        "direction_deg": 180,
+        "highway": "A1"
+      },
+      {
+        "id": "HR_rad_6",
+        "type": "fixed_speed_camera",
+        "lat": 44.47,
+        "lon": 16.47,
+        "maxspeed": 50,
+        "direction_deg": 225,
+        "highway": "A1"
+      },
+      {
+        "id": "HR_rad_7",
+        "type": "section_radar",
+        "lat": 44.502,
+        "lon": 16.511,
+        "maxspeed": 130,
+        "direction_deg": 270,
+        "highway": "A1"
+      },
+      {
+        "id": "HR_rad_8",
+        "type": "fixed_speed_camera",
+        "lat": 44.534,
+        "lon": 16.552,
+        "maxspeed": 50,
+        "direction_deg": 315,
+        "highway": "A1"
+      },
+      {
+        "id": "HR_rad_9",
+        "type": "fixed_speed_camera",
+        "lat": 44.566,
+        "lon": 16.593,
+        "maxspeed": 130,
+        "direction_deg": 0,
+        "highway": "A1"
+      },
+      {
+        "id": "HR_rad_10",
+        "type": "section_radar",
+        "lat": 44.598,
+        "lon": 16.634,
+        "maxspeed": 90,
+        "direction_deg": 45,
+        "highway": "A1"
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "HR_rest_shower_1",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 24 (OMV)",
+        "brand": "omv",
+        "lat": 44.358,
+        "lon": 16.326,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 35,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Chorvátsko · Diaľnica A1"
+      },
+      {
+        "id": "HR_rest_shower_2",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 48 (Shell)",
+        "brand": "shell",
+        "lat": 44.386,
+        "lon": 16.362,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 45,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Chorvátsko · Diaľnica A1"
+      },
+      {
+        "id": "HR_rest_shower_3",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 72 (Slovnaft)",
+        "brand": "slovnaft",
+        "lat": 44.414,
+        "lon": 16.398,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 55,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Chorvátsko · Diaľnica A1"
+      },
+      {
+        "id": "HR_rest_shower_4",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 96 (Orlen)",
+        "brand": "orlen",
+        "lat": 44.442,
+        "lon": 16.434,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 65,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Chorvátsko · Diaľnica A1"
+      },
+      {
+        "id": "HR_rest_shower_5",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 120 (Aral)",
+        "brand": "aral",
+        "lat": 44.47,
+        "lon": 16.47,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 3,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 75,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Chorvátsko · Diaľnica A1"
+      },
+      {
+        "id": "HR_rest_shower_6",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 144 (MOL)",
+        "brand": "mol",
+        "lat": 44.498,
+        "lon": 16.506,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 85,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Chorvátsko · Diaľnica A1"
+      },
+      {
+        "id": "HR_rest_shower_7",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 168 (TotalEnergies)",
+        "brand": "totalenergies",
+        "lat": 44.526,
+        "lon": 16.542,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 5,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 95,
+        "wifi": true,
+        "wc_free": true,
+        "address": "Chorvátsko · Diaľnica A1"
+      },
+      {
+        "id": "HR_rest_shower_8",
+        "kind": "rest_shower",
+        "name": "Odpočívadlo & Sprchy A1 km 192 (BP)",
+        "brand": "bp",
+        "lat": 44.554,
+        "lon": 16.578,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 6,
+        "shower_open_24h": true,
+        "hot_water": true,
+        "truck_parking_spaces": 105,
+        "wifi": true,
+        "wc_free": false,
+        "address": "Chorvátsko · Diaľnica A1"
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "HR_fuel_1",
+        "kind": "fuel",
+        "brand": "omv",
+        "name": "OMV Zagreb #1",
+        "lat": 44.35,
+        "lon": 16.315,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Chorvátsko (A1/A3/A6/A7)"
+      },
+      {
+        "id": "HR_fuel_2",
+        "kind": "fuel",
+        "brand": "shell",
+        "name": "Shell Zagreb #2",
+        "lat": 44.374,
+        "lon": 16.346,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Chorvátsko (A1/A3/A6/A7)"
+      },
+      {
+        "id": "HR_fuel_3",
+        "kind": "fuel",
+        "brand": "slovnaft",
+        "name": "Slovnaft Zagreb #3",
+        "lat": 44.398,
+        "lon": 16.377,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Chorvátsko (A1/A3/A6/A7)"
+      },
+      {
+        "id": "HR_fuel_4",
+        "kind": "fuel",
+        "brand": "orlen",
+        "name": "Orlen Zagreb #4",
+        "lat": 44.422,
+        "lon": 16.408,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Chorvátsko (A1/A3/A6/A7)"
+      },
+      {
+        "id": "HR_fuel_5",
+        "kind": "fuel",
+        "brand": "aral",
+        "name": "Aral Zagreb #5",
+        "lat": 44.446,
+        "lon": 16.439,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Chorvátsko (A1/A3/A6/A7)"
+      },
+      {
+        "id": "HR_fuel_6",
+        "kind": "fuel",
+        "brand": "mol",
+        "name": "MOL Zagreb #6",
+        "lat": 44.47,
+        "lon": 16.47,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.52,
+        "petrol95_eur": 1.58,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Chorvátsko (A1/A3/A6/A7)"
+      },
+      {
+        "id": "HR_fuel_7",
+        "kind": "fuel",
+        "brand": "totalenergies",
+        "name": "TotalEnergies Zagreb #7",
+        "lat": 44.494,
+        "lon": 16.501,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.55,
+        "petrol95_eur": 1.61,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Chorvátsko (A1/A3/A6/A7)"
+      },
+      {
+        "id": "HR_fuel_8",
+        "kind": "fuel",
+        "brand": "bp",
+        "name": "BP Zagreb #8",
+        "lat": 44.518,
+        "lon": 16.532,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.58,
+        "petrol95_eur": 1.64,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Chorvátsko (A1/A3/A6/A7)"
+      },
+      {
+        "id": "HR_fuel_9",
+        "kind": "fuel",
+        "brand": "circle k",
+        "name": "Circle K Zagreb #9",
+        "lat": 44.542,
+        "lon": 16.563,
+        "has_shower": true,
+        "sprcha": true,
+        "diesel_eur": 1.61,
+        "petrol95_eur": 1.67,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Chorvátsko (A1/A3/A6/A7)"
+      },
+      {
+        "id": "HR_fuel_10",
+        "kind": "fuel",
+        "brand": "q8",
+        "name": "Q8 Zagreb #10",
+        "lat": 44.566,
+        "lon": 16.594,
+        "has_shower": false,
+        "sprcha": false,
+        "diesel_eur": 1.64,
+        "petrol95_eur": 1.7,
+        "lpg_eur": 0.79,
+        "adblue": true,
+        "address": "Chorvátsko (A1/A3/A6/A7)"
+      }
+    ],
+    "food_chains": [
+      {
+        "id": "HR_food_1",
+        "kind": "food",
+        "brand": "mcdonalds",
+        "name": "McDonald's Drive-Thru Zagreb",
+        "lat": 44.407,
+        "lon": 16.383,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Chorvátsko"
+      },
+      {
+        "id": "HR_food_2",
+        "kind": "food",
+        "brand": "kfc",
+        "name": "KFC Drive-Thru Zagreb",
+        "lat": 44.428,
+        "lon": 16.412,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Chorvátsko"
+      },
+      {
+        "id": "HR_food_3",
+        "kind": "food",
+        "brand": "subway",
+        "name": "Subway Drive-Thru Zagreb",
+        "lat": 44.449,
+        "lon": 16.441,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Chorvátsko"
+      },
+      {
+        "id": "HR_food_4",
+        "kind": "food",
+        "brand": "burger_king",
+        "name": "Burger King Drive-Thru Zagreb",
+        "lat": 44.47,
+        "lon": 16.47,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Chorvátsko"
+      },
+      {
+        "id": "HR_food_5",
+        "kind": "food",
+        "brand": "starbucks",
+        "name": "Starbucks Drive-Thru Zagreb",
+        "lat": 44.491,
+        "lon": 16.499,
+        "drive_thru": true,
+        "open_24h": true,
+        "address": "Chorvátsko"
+      },
+      {
+        "id": "HR_food_6",
+        "kind": "food",
+        "brand": "costa_coffee",
+        "name": "Costa Coffee Drive-Thru Zagreb",
+        "lat": 44.512,
+        "lon": 16.528,
+        "drive_thru": true,
+        "open_24h": false,
+        "address": "Chorvátsko"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "HR_biz_1",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Kaufland Logistics & Hypermarket – Zagreb",
+        "lat": 44.41,
+        "lon": 16.394,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 1, Zagreb, Chorvátsko"
+      },
+      {
+        "id": "HR_biz_2",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Lidl Enterprise Store & EV FastCharge – Zagreb",
+        "lat": 44.425,
+        "lon": 16.413,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 2, Zagreb, Chorvátsko"
+      },
+      {
+        "id": "HR_biz_3",
+        "kind": "business",
+        "category": "supermarket",
+        "name": "Tesco Extra 24/7 & Pharmacy – Zagreb",
+        "lat": 44.44,
+        "lon": 16.432,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 3, Zagreb, Chorvátsko"
+      },
+      {
+        "id": "HR_biz_4",
+        "kind": "business",
+        "category": "retail_chain",
+        "name": "IKEA Home & Bistro – Zagreb",
+        "lat": 44.455,
+        "lon": 16.451,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 4, Zagreb, Chorvátsko"
+      },
+      {
+        "id": "HR_biz_5",
+        "kind": "business",
+        "category": "auto_service",
+        "name": "Bosch Car Service & Diagnostics – Zagreb",
+        "lat": 44.47,
+        "lon": 16.47,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 5, Zagreb, Chorvátsko"
+      },
+      {
+        "id": "HR_biz_6",
+        "kind": "business",
+        "category": "truck_service",
+        "name": "Mercedes-Benz Truck & Van Center – Zagreb",
+        "lat": 44.485,
+        "lon": 16.489,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 6, Zagreb, Chorvátsko"
+      },
+      {
+        "id": "HR_biz_7",
+        "kind": "business",
+        "category": "van_service",
+        "name": "Renault Pro+ Service (Trafic / Master) – Zagreb",
+        "lat": 44.5,
+        "lon": 16.508,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 7, Zagreb, Chorvátsko"
+      },
+      {
+        "id": "HR_biz_8",
+        "kind": "business",
+        "category": "ev_charging",
+        "name": "Ionity 350kW Ultra-Fast Hub – Zagreb",
+        "lat": 44.515,
+        "lon": 16.527,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "parking_available": true,
+        "address": "Priemyselná zóna 8, Zagreb, Chorvátsko"
+      }
+    ],
+    "touristic_zones": [
+      {
+        "id": "HR_tour_1",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Zagreb #1",
+        "lat": 44.461,
+        "lon": 16.459,
+        "radius_m": 850,
+        "unesco_heritage": true,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Chorvátsko."
+      },
+      {
+        "id": "HR_tour_2",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Zagreb #2",
+        "lat": 44.47,
+        "lon": 16.47,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Chorvátsko."
+      },
+      {
+        "id": "HR_tour_3",
+        "kind": "touristic_zone",
+        "name": "Historická & Turistická zóna Zagreb #3",
+        "lat": 44.479,
+        "lon": 16.481,
+        "radius_m": 850,
+        "unesco_heritage": false,
+        "pedestrian_priority": true,
+        "description": "Hlavná pamiatková a turistická zóna v krajine Chorvátsko."
+      }
+    ],
+    "busy_zones": [
+      {
+        "id": "HR_busy_1",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Zagreb #1",
+        "lat": 44.458,
+        "lon": 16.484,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "HR_busy_2",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Zagreb #2",
+        "lat": 44.47,
+        "lon": 16.47,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      },
+      {
+        "id": "HR_busy_3",
+        "kind": "busy_zone",
+        "name": "Rušná zóna & Obchodné centrum Zagreb #3",
+        "lat": 44.482,
+        "lon": 16.456,
+        "radius_m": 650,
+        "congestion_index": 0.78,
+        "peak_hours": "07:30-09:30, 15:30-18:30"
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "HR_lm3d_1",
+        "kind": "landmark_3d",
+        "name": "Diocletian Palace Split 3D",
+        "lat": 44.4655,
+        "lon": 16.4645,
+        "height_m": 48.0,
+        "levels": 12,
+        "mesh_Preset": "gothic_spire_3d",
+        "footprint": [
+          [
+            44.4655,
+            16.4645
+          ],
+          [
+            44.4661,
+            16.4645
+          ],
+          [
+            44.4661,
+            16.4652
+          ],
+          [
+            44.4655,
+            16.4652
+          ]
+        ]
+      },
+      {
+        "id": "HR_lm3d_2",
+        "kind": "landmark_3d",
+        "name": "Dubrovnik Old Town Walls 3D",
+        "lat": 44.47,
+        "lon": 16.47,
+        "height_m": 66.0,
+        "levels": 16,
+        "mesh_Preset": "castle_fortress_3d",
+        "footprint": [
+          [
+            44.47,
+            16.47
+          ],
+          [
+            44.4706,
+            16.47
+          ],
+          [
+            44.4706,
+            16.4707
+          ],
+          [
+            44.47,
+            16.4707
+          ]
+        ]
+      },
+      {
+        "id": "HR_lm3d_3",
+        "kind": "landmark_3d",
+        "name": "Pula Arena 3D",
+        "lat": 44.4745,
+        "lon": 16.4755,
+        "height_m": 84.0,
+        "levels": 20,
+        "mesh_Preset": "monument_dome_3d",
+        "footprint": [
+          [
+            44.4745,
+            16.4755
+          ],
+          [
+            44.4751,
+            16.4755
+          ],
+          [
+            44.4751,
+            16.4762
+          ],
+          [
+            44.4745,
+            16.4762
+          ]
+        ]
+      }
+    ]
+  }
+}

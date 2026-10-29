@@ -1,0 +1,89 @@
+{
+  "country_code": "LV",
+  "landmarks_3d": [
+    {
+      "id": "LV_lm3d_1",
+      "kind": "landmark_3d",
+      "name": "House of the Blackheads Riga 3D",
+      "lat": 56.8705,
+      "lon": 24.5995,
+      "height_m": 48.0,
+      "levels": 12,
+      "mesh_Preset": "gothic_spire_3d",
+      "footprint": [
+        [
+          56.8705,
+          24.5995
+        ],
+        [
+          56.8711,
+          24.5995
+        ],
+        [
+          56.8711,
+          24.6002
+        ],
+        [
+          56.8705,
+          24.6002
+        ]
+      ]
+    },
+    {
+      "id": "LV_lm3d_2",
+      "kind": "landmark_3d",
+      "name": "Riga Cathedral 3D",
+      "lat": 56.875,
+      "lon": 24.605,
+      "height_m": 66.0,
+      "levels": 16,
+      "mesh_Preset": "castle_fortress_3d",
+      "footprint": [
+        [
+          56.875,
+          24.605
+        ],
+        [
+          56.8756,
+          24.605
+        ],
+        [
+          56.8756,
+          24.6057
+        ],
+        [
+          56.875,
+          24.6057
+        ]
+      ]
+    },
+    {
+      "id": "LV_lm3d_3",
+      "kind": "landmark_3d",
+      "name": "Freedom Monument 3D",
+      "lat": 56.8795,
+      "lon": 24.6105,
+      "height_m": 84.0,
+      "levels": 20,
+      "mesh_Preset": "monument_dome_3d",
+      "footprint": [
+        [
+          56.8795,
+          24.6105
+        ],
+        [
+          56.8801,
+          24.6105
+        ],
+        [
+          56.8801,
+          24.6112
+        ],
+        [
+          56.8795,
+          24.6112
+        ]
+      ]
+    }
+  ]
+}
