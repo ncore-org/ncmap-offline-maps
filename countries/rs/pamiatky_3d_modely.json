@@ -1,0 +1,80 @@
+[
+  {
+    "id": "rs-lm-1",
+    "name": "Kalemegdan Fortress 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        44.21,
+        20.91
+      ],
+      [
+        44.2104,
+        20.91
+      ],
+      [
+        44.2104,
+        20.9105
+      ],
+      [
+        44.21,
+        20.9105
+      ]
+    ]
+  },
+  {
+    "id": "rs-lm-2",
+    "name": "Church of Saint Sava 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        44.211,
+        20.911
+      ],
+      [
+        44.2114,
+        20.911
+      ],
+      [
+        44.2114,
+        20.9115
+      ],
+      [
+        44.211,
+        20.9115
+      ]
+    ]
+  },
+  {
+    "id": "rs-lm-3",
+    "name": "Petrovaradin Fortress 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        44.212,
+        20.912
+      ],
+      [
+        44.2124,
+        20.912
+      ],
+      [
+        44.2124,
+        20.9125
+      ],
+      [
+        44.212,
+        20.9125
+      ]
+    ]
+  }
+]

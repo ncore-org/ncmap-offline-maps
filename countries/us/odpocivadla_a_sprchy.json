@@ -1,0 +1,13 @@
+[
+  {
+    "id": "us-shower-1",
+    "name": "Diaľničné odpočívadlo Washington, D.C. + Sprchy 🚿",
+    "brand": "rest_shower",
+    "lat": 36.97,
+    "lon": -95.85,
+    "has_shower": true,
+    "sprcha": true,
+    "shower_count": 4,
+    "truck_parking_spaces": 60
+  }
+]

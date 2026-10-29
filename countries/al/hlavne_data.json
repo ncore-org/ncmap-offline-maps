@@ -1,0 +1,26 @@
+{
+  "country": {
+    "code": "AL",
+    "name": "Albania",
+    "nameSk": "Albánsko",
+    "flag": "🇦🇱",
+    "sizeMb": 138.0,
+    "parts": 1,
+    "toll": "rruga_e_kombit_toll",
+    "hw": "A1/A2/A3/SH1",
+    "bbox": [
+      39.64,
+      19.26,
+      42.66,
+      21.06
+    ],
+    "eu": false,
+    "capital": "Tiranë",
+    "landmarks": [
+      "Skanderbeg Square Tirana 3D",
+      "Berat Castle 3D",
+      "Rozafa Castle 3D"
+    ]
+  },
+  "version": "6.0.0"
+}

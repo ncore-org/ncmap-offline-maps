@@ -1,0 +1,26 @@
+{
+  "country": {
+    "code": "US",
+    "name": "United States (OsmAnd US Pack)",
+    "nameSk": "USA (OsmAnd balík)",
+    "flag": "🇺🇸",
+    "sizeMb": 4680.0,
+    "parts": 4,
+    "toll": "ezpass_sunpass",
+    "hw": "I-95/I-80/I-10/I-5",
+    "bbox": [
+      24.52,
+      -124.77,
+      49.38,
+      -66.95
+    ],
+    "eu": false,
+    "capital": "Washington, D.C.",
+    "landmarks": [
+      "Empire State Building 3D",
+      "Golden Gate Bridge 3D",
+      "U.S. Capitol 3D"
+    ]
+  },
+  "version": "6.0.0"
+}

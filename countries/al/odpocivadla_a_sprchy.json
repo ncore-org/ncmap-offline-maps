@@ -1,0 +1,13 @@
+[
+  {
+    "id": "al-shower-1",
+    "name": "Diaľničné odpočívadlo Tiranë + Sprchy 🚿",
+    "brand": "rest_shower",
+    "lat": 41.17,
+    "lon": 20.17,
+    "has_shower": true,
+    "sprcha": true,
+    "shower_count": 4,
+    "truck_parking_spaces": 60
+  }
+]

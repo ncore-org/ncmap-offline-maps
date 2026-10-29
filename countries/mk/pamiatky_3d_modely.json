@@ -1,0 +1,80 @@
+[
+  {
+    "id": "mk-lm-1",
+    "name": "Skopje Fortress Kale 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        41.61,
+        21.74
+      ],
+      [
+        41.6104,
+        21.74
+      ],
+      [
+        41.6104,
+        21.7405
+      ],
+      [
+        41.61,
+        21.7405
+      ]
+    ]
+  },
+  {
+    "id": "mk-lm-2",
+    "name": "Church of St. John at Kaneo 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        41.611,
+        21.741
+      ],
+      [
+        41.6114,
+        21.741
+      ],
+      [
+        41.6114,
+        21.7415
+      ],
+      [
+        41.611,
+        21.7415
+      ]
+    ]
+  },
+  {
+    "id": "mk-lm-3",
+    "name": "Stone Bridge Skopje 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        41.612,
+        21.742
+      ],
+      [
+        41.6124,
+        21.742
+      ],
+      [
+        41.6124,
+        21.7425
+      ],
+      [
+        41.612,
+        21.7425
+      ]
+    ]
+  }
+]

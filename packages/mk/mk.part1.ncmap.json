@@ -1,0 +1,127 @@
+{
+  "country": "MK",
+  "name": "North Macedonia",
+  "part": 1,
+  "totalParts": 1,
+  "version": "6.0.0-maps",
+  "layers": {
+    "radars": [
+      {
+        "id": "mk-rad-1",
+        "lat": 41.65,
+        "lon": 21.78,
+        "maxspeed": 130
+      },
+      {
+        "id": "mk-rad-2",
+        "lat": 41.58,
+        "lon": 21.72,
+        "maxspeed": 90
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "mk-shower-1",
+        "name": "Diaľničné odpočívadlo Skopje + Sprchy 🚿",
+        "brand": "rest_shower",
+        "lat": 41.63,
+        "lon": 21.75,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "truck_parking_spaces": 60
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "mk-fuel-1",
+        "name": "Shell TruckStop Skopje + Sprcha 🚿",
+        "brand": "shell",
+        "lat": 41.62,
+        "lon": 21.73,
+        "has_shower": true,
+        "sprcha": true
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "mk-lm-1",
+        "name": "Skopje Fortress Kale 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            41.61,
+            21.74
+          ],
+          [
+            41.6104,
+            21.74
+          ],
+          [
+            41.6104,
+            21.7405
+          ],
+          [
+            41.61,
+            21.7405
+          ]
+        ]
+      },
+      {
+        "id": "mk-lm-2",
+        "name": "Church of St. John at Kaneo 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            41.611,
+            21.741
+          ],
+          [
+            41.6114,
+            21.741
+          ],
+          [
+            41.6114,
+            21.7415
+          ],
+          [
+            41.611,
+            21.7415
+          ]
+        ]
+      },
+      {
+        "id": "mk-lm-3",
+        "name": "Stone Bridge Skopje 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            41.612,
+            21.742
+          ],
+          [
+            41.6124,
+            21.742
+          ],
+          [
+            41.6124,
+            21.7425
+          ],
+          [
+            41.612,
+            21.7425
+          ]
+        ]
+      }
+    ]
+  }
+}

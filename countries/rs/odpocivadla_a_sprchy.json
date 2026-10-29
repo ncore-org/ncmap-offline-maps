@@ -1,0 +1,13 @@
+[
+  {
+    "id": "rs-shower-1",
+    "name": "Diaľničné odpočívadlo Beograd + Sprchy 🚿",
+    "brand": "rest_shower",
+    "lat": 44.23,
+    "lon": 20.92,
+    "has_shower": true,
+    "sprcha": true,
+    "shower_count": 4,
+    "truck_parking_spaces": 60
+  }
+]

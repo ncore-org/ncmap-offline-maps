@@ -1,0 +1,13 @@
+[
+  {
+    "id": "mk-shower-1",
+    "name": "Diaľničné odpočívadlo Skopje + Sprchy 🚿",
+    "brand": "rest_shower",
+    "lat": 41.63,
+    "lon": 21.75,
+    "has_shower": true,
+    "sprcha": true,
+    "shower_count": 4,
+    "truck_parking_spaces": 60
+  }
+]

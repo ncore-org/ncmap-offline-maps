@@ -1,0 +1,80 @@
+[
+  {
+    "id": "al-lm-1",
+    "name": "Skanderbeg Square Tirana 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        41.15,
+        20.16
+      ],
+      [
+        41.1504,
+        20.16
+      ],
+      [
+        41.1504,
+        20.1605
+      ],
+      [
+        41.15,
+        20.1605
+      ]
+    ]
+  },
+  {
+    "id": "al-lm-2",
+    "name": "Berat Castle 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        41.151,
+        20.161
+      ],
+      [
+        41.1514,
+        20.161
+      ],
+      [
+        41.1514,
+        20.1615
+      ],
+      [
+        41.151,
+        20.1615
+      ]
+    ]
+  },
+  {
+    "id": "al-lm-3",
+    "name": "Rozafa Castle 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        41.152,
+        20.162
+      ],
+      [
+        41.1524,
+        20.162
+      ],
+      [
+        41.1524,
+        20.1625
+      ],
+      [
+        41.152,
+        20.1625
+      ]
+    ]
+  }
+]

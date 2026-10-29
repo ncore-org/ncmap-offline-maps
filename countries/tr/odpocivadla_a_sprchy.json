@@ -1,0 +1,13 @@
+[
+  {
+    "id": "tr-shower-1",
+    "name": "Diaľničné odpočívadlo Ankara + Sprchy 🚿",
+    "brand": "rest_shower",
+    "lat": 38.975,
+    "lon": 35.255,
+    "has_shower": true,
+    "sprcha": true,
+    "shower_count": 4,
+    "truck_parking_spaces": 60
+  }
+]

@@ -1,0 +1,127 @@
+{
+  "country": "ME",
+  "name": "Montenegro",
+  "part": 1,
+  "totalParts": 1,
+  "version": "6.0.0-maps",
+  "layers": {
+    "radars": [
+      {
+        "id": "me-rad-1",
+        "lat": 42.745,
+        "lon": 19.435,
+        "maxspeed": 130
+      },
+      {
+        "id": "me-rad-2",
+        "lat": 42.675,
+        "lon": 19.375,
+        "maxspeed": 90
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "me-shower-1",
+        "name": "Diaľničné odpočívadlo Podgorica + Sprchy 🚿",
+        "brand": "rest_shower",
+        "lat": 42.725,
+        "lon": 19.405,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "truck_parking_spaces": 60
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "me-fuel-1",
+        "name": "Shell TruckStop Podgorica + Sprcha 🚿",
+        "brand": "shell",
+        "lat": 42.715,
+        "lon": 19.385,
+        "has_shower": true,
+        "sprcha": true
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "me-lm-1",
+        "name": "Kotor Old Town Walls 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            42.705,
+            19.395
+          ],
+          [
+            42.7054,
+            19.395
+          ],
+          [
+            42.7054,
+            19.3955
+          ],
+          [
+            42.705,
+            19.3955
+          ]
+        ]
+      },
+      {
+        "id": "me-lm-2",
+        "name": "Ostrog Monastery 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            42.706,
+            19.396
+          ],
+          [
+            42.7064,
+            19.396
+          ],
+          [
+            42.7064,
+            19.3965
+          ],
+          [
+            42.706,
+            19.3965
+          ]
+        ]
+      },
+      {
+        "id": "me-lm-3",
+        "name": "Đurđevića Tara Bridge 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            42.707,
+            19.397
+          ],
+          [
+            42.7074,
+            19.397
+          ],
+          [
+            42.7074,
+            19.3975
+          ],
+          [
+            42.707,
+            19.3975
+          ]
+        ]
+      }
+    ]
+  }
+}

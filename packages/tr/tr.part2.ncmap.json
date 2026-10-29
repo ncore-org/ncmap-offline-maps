@@ -1,0 +1,127 @@
+{
+  "country": "TR",
+  "name": "Türkiye",
+  "part": 2,
+  "totalParts": 2,
+  "version": "6.0.0-maps",
+  "layers": {
+    "radars": [
+      {
+        "id": "tr-rad-1",
+        "lat": 38.995,
+        "lon": 35.285,
+        "maxspeed": 130
+      },
+      {
+        "id": "tr-rad-2",
+        "lat": 38.925,
+        "lon": 35.225,
+        "maxspeed": 90
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "tr-shower-1",
+        "name": "Diaľničné odpočívadlo Ankara + Sprchy 🚿",
+        "brand": "rest_shower",
+        "lat": 38.975,
+        "lon": 35.255,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "truck_parking_spaces": 60
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "tr-fuel-1",
+        "name": "Shell TruckStop Ankara + Sprcha 🚿",
+        "brand": "shell",
+        "lat": 38.965,
+        "lon": 35.235,
+        "has_shower": true,
+        "sprcha": true
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "tr-lm-1",
+        "name": "Hagia Sophia Istanbul 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            38.955,
+            35.245
+          ],
+          [
+            38.9554,
+            35.245
+          ],
+          [
+            38.9554,
+            35.2455
+          ],
+          [
+            38.955,
+            35.2455
+          ]
+        ]
+      },
+      {
+        "id": "tr-lm-2",
+        "name": "Anıtkabir Ankara 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            38.956,
+            35.246
+          ],
+          [
+            38.9564,
+            35.246
+          ],
+          [
+            38.9564,
+            35.2465
+          ],
+          [
+            38.956,
+            35.2465
+          ]
+        ]
+      },
+      {
+        "id": "tr-lm-3",
+        "name": "Bosphorus Bridge 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            38.957,
+            35.247
+          ],
+          [
+            38.9574,
+            35.247
+          ],
+          [
+            38.9574,
+            35.2475
+          ],
+          [
+            38.957,
+            35.2475
+          ]
+        ]
+      }
+    ]
+  }
+}

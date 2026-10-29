@@ -1,6 +1,6 @@
 {
   "schema": "ncmap-offline-catalog-v5",
-  "version": "5.0.0",
+  "version": "6.0.0-maps",
   "release_tag": "v5.0.0-maps",
   "generated_at": "2026-10-29T15:47:41.115657+00:00",
   "total_countries": 32,
@@ -1365,6 +1365,372 @@
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
       ]
+    },
+    {
+      "code": "US",
+      "name": "United States (OsmAnd US Pack)",
+      "nameSk": "USA (OsmAnd balík)",
+      "flag": "🇺🇸",
+      "sizeMb": 4680.0,
+      "partsCount": 4,
+      "tollType": "ezpass_sunpass",
+      "highwayPrefix": "I-95/I-80/I-10/I-5",
+      "bbox": [
+        24.52,
+        -124.77,
+        49.38,
+        -66.95
+      ],
+      "euMember": false,
+      "capital": "Washington, D.C.",
+      "countryDir": "countries/us",
+      "landmarks": [
+        "Empire State Building 3D",
+        "Golden Gate Bridge 3D",
+        "U.S. Capitol 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "us.part1.ncmap.json",
+          "sizeMb": 1170.0,
+          "sha256": "us_v6_p1",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        },
+        {
+          "part": 2,
+          "file": "us.part2.ncmap.json",
+          "sizeMb": 1170.0,
+          "sha256": "us_v6_p2",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        },
+        {
+          "part": 3,
+          "file": "us.part3.ncmap.json",
+          "sizeMb": 1170.0,
+          "sha256": "us_v6_p3",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        },
+        {
+          "part": 4,
+          "file": "us.part4.ncmap.json",
+          "sizeMb": 1170.0,
+          "sha256": "us_v6_p4",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "TR",
+      "name": "Türkiye",
+      "nameSk": "Turecko",
+      "flag": "🇹🇷",
+      "sizeMb": 1420.0,
+      "partsCount": 2,
+      "tollType": "hgs_ogs_electronic",
+      "highwayPrefix": "O-1/O-4/O-5/O-21",
+      "bbox": [
+        35.81,
+        25.66,
+        42.1,
+        44.83
+      ],
+      "euMember": false,
+      "capital": "Ankara",
+      "countryDir": "countries/tr",
+      "landmarks": [
+        "Hagia Sophia Istanbul 3D",
+        "Anıtkabir Ankara 3D",
+        "Bosphorus Bridge 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "tr.part1.ncmap.json",
+          "sizeMb": 710.0,
+          "sha256": "tr_v6_p1",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        },
+        {
+          "part": 2,
+          "file": "tr.part2.ncmap.json",
+          "sizeMb": 710.0,
+          "sha256": "tr_v6_p2",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "nameSk": "Ukrajina",
+      "flag": "🇺🇦",
+      "sizeMb": 1180.0,
+      "partsCount": 2,
+      "tollType": "free_highways",
+      "highwayPrefix": "M01/M05/M06/M07",
+      "bbox": [
+        44.38,
+        22.14,
+        52.38,
+        40.22
+      ],
+      "euMember": false,
+      "capital": "Kyiv",
+      "countryDir": "countries/ua",
+      "landmarks": [
+        "Kyiv Pechersk Lavra 3D",
+        "Lviv Opera House 3D",
+        "St. Sophia Cathedral 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "ua.part1.ncmap.json",
+          "sizeMb": 590.0,
+          "sha256": "ua_v6_p1",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        },
+        {
+          "part": 2,
+          "file": "ua.part2.ncmap.json",
+          "sizeMb": 590.0,
+          "sha256": "ua_v6_p2",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "nameSk": "Srbsko",
+      "flag": "🇷🇸",
+      "sizeMb": 285.0,
+      "partsCount": 1,
+      "tollType": "enp_toll_booths",
+      "highwayPrefix": "A1/A2/A3/A4",
+      "bbox": [
+        42.23,
+        18.81,
+        46.19,
+        23.01
+      ],
+      "euMember": false,
+      "capital": "Beograd",
+      "countryDir": "countries/rs",
+      "landmarks": [
+        "Kalemegdan Fortress 3D",
+        "Church of Saint Sava 3D",
+        "Petrovaradin Fortress 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "rs.part1.ncmap.json",
+          "sizeMb": 285.0,
+          "sha256": "rs_v6_p1",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia & Herzegovina",
+      "nameSk": "Bosna a Hercegovina",
+      "flag": "🇧🇦",
+      "sizeMb": 214.0,
+      "partsCount": 1,
+      "tollType": "acc_toll_booths",
+      "highwayPrefix": "A1/E73",
+      "bbox": [
+        42.55,
+        15.72,
+        45.28,
+        19.62
+      ],
+      "euMember": false,
+      "capital": "Sarajevo",
+      "countryDir": "countries/ba",
+      "landmarks": [
+        "Stari Most Mostar 3D",
+        "Baščaršija Sebilj 3D",
+        "Sarajevo City Hall 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "ba.part1.ncmap.json",
+          "sizeMb": 214.0,
+          "sha256": "ba_v6_p1",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "nameSk": "Čierna Hora",
+      "flag": "🇲🇪",
+      "sizeMb": 112.0,
+      "partsCount": 1,
+      "tollType": "sozina_and_A1_toll",
+      "highwayPrefix": "A-1/E65/E80",
+      "bbox": [
+        41.85,
+        18.43,
+        43.56,
+        20.36
+      ],
+      "euMember": false,
+      "capital": "Podgorica",
+      "countryDir": "countries/me",
+      "landmarks": [
+        "Kotor Old Town Walls 3D",
+        "Ostrog Monastery 3D",
+        "Đurđevića Tara Bridge 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "me.part1.ncmap.json",
+          "sizeMb": 112.0,
+          "sha256": "me_v6_p1",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "nameSk": "Albánsko",
+      "flag": "🇦🇱",
+      "sizeMb": 138.0,
+      "partsCount": 1,
+      "tollType": "rruga_e_kombit_toll",
+      "highwayPrefix": "A1/A2/A3/SH1",
+      "bbox": [
+        39.64,
+        19.26,
+        42.66,
+        21.06
+      ],
+      "euMember": false,
+      "capital": "Tiranë",
+      "countryDir": "countries/al",
+      "landmarks": [
+        "Skanderbeg Square Tirana 3D",
+        "Berat Castle 3D",
+        "Rozafa Castle 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "al.part1.ncmap.json",
+          "sizeMb": 138.0,
+          "sha256": "al_v6_p1",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia",
+      "nameSk": "Severné Macedónsko",
+      "flag": "🇲🇰",
+      "sizeMb": 118.0,
+      "partsCount": 1,
+      "tollType": "etc_mcard_toll",
+      "highwayPrefix": "A1/A2/A4",
+      "bbox": [
+        40.85,
+        20.45,
+        42.37,
+        23.03
+      ],
+      "euMember": false,
+      "capital": "Skopje",
+      "countryDir": "countries/mk",
+      "landmarks": [
+        "Skopje Fortress Kale 3D",
+        "Church of St. John at Kaneo 3D",
+        "Stone Bridge Skopje 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "mk.part1.ncmap.json",
+          "sizeMb": 118.0,
+          "sha256": "mk_v6_p1",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "MD",
+      "name": "Moldova",
+      "nameSk": "Moldavsko",
+      "flag": "🇲🇩",
+      "sizeMb": 96.0,
+      "partsCount": 1,
+      "tollType": "vinieta_md",
+      "highwayPrefix": "M1/M2/M3/M5",
+      "bbox": [
+        45.47,
+        26.62,
+        48.49,
+        30.13
+      ],
+      "euMember": false,
+      "capital": "Chișinău",
+      "countryDir": "countries/md",
+      "landmarks": [
+        "Triumphal Arch Chișinău 3D",
+        "Soroca Fortress 3D",
+        "Orheiul Vechi 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "md.part1.ncmap.json",
+          "sizeMb": 96.0,
+          "sha256": "md_v6_p1",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        }
+      ]
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "nameSk": "Island",
+      "flag": "🇮🇸",
+      "sizeMb": 164.0,
+      "partsCount": 1,
+      "tollType": "vadlaheidargong_tunnel",
+      "highwayPrefix": "Route 1 Ring Road",
+      "bbox": [
+        63.39,
+        -24.54,
+        66.54,
+        -13.49
+      ],
+      "euMember": false,
+      "capital": "Reykjavík",
+      "countryDir": "countries/is",
+      "landmarks": [
+        "Hallgrímskirkja Reykjavík 3D",
+        "Harpa Concert Hall 3D",
+        "Perlan Dome 3D"
+      ],
+      "chunks": [
+        {
+          "part": 1,
+          "file": "is.part1.ncmap.json",
+          "sizeMb": 164.0,
+          "sha256": "is_v6_p1",
+          "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
+        }
+      ]
     }
-  ]
+  ],
+  "totalCountries": 42
 }

@@ -1,0 +1,127 @@
+{
+  "country": "UA",
+  "name": "Ukraine",
+  "part": 2,
+  "totalParts": 2,
+  "version": "6.0.0-maps",
+  "layers": {
+    "radars": [
+      {
+        "id": "ua-rad-1",
+        "lat": 48.42,
+        "lon": 31.22,
+        "maxspeed": 130
+      },
+      {
+        "id": "ua-rad-2",
+        "lat": 48.35,
+        "lon": 31.16,
+        "maxspeed": 90
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "ua-shower-1",
+        "name": "Diaľničné odpočívadlo Kyiv + Sprchy 🚿",
+        "brand": "rest_shower",
+        "lat": 48.4,
+        "lon": 31.19,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "truck_parking_spaces": 60
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "ua-fuel-1",
+        "name": "Shell TruckStop Kyiv + Sprcha 🚿",
+        "brand": "shell",
+        "lat": 48.39,
+        "lon": 31.17,
+        "has_shower": true,
+        "sprcha": true
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "ua-lm-1",
+        "name": "Kyiv Pechersk Lavra 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            48.38,
+            31.18
+          ],
+          [
+            48.3804,
+            31.18
+          ],
+          [
+            48.3804,
+            31.1805
+          ],
+          [
+            48.38,
+            31.1805
+          ]
+        ]
+      },
+      {
+        "id": "ua-lm-2",
+        "name": "Lviv Opera House 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            48.381,
+            31.181
+          ],
+          [
+            48.3814,
+            31.181
+          ],
+          [
+            48.3814,
+            31.1815
+          ],
+          [
+            48.381,
+            31.1815
+          ]
+        ]
+      },
+      {
+        "id": "ua-lm-3",
+        "name": "St. Sophia Cathedral 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            48.382,
+            31.182
+          ],
+          [
+            48.3824,
+            31.182
+          ],
+          [
+            48.3824,
+            31.1825
+          ],
+          [
+            48.382,
+            31.1825
+          ]
+        ]
+      }
+    ]
+  }
+}

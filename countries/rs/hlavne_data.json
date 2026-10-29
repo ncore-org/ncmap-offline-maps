@@ -1,0 +1,26 @@
+{
+  "country": {
+    "code": "RS",
+    "name": "Serbia",
+    "nameSk": "Srbsko",
+    "flag": "🇷🇸",
+    "sizeMb": 285.0,
+    "parts": 1,
+    "toll": "enp_toll_booths",
+    "hw": "A1/A2/A3/A4",
+    "bbox": [
+      42.23,
+      18.81,
+      46.19,
+      23.01
+    ],
+    "eu": false,
+    "capital": "Beograd",
+    "landmarks": [
+      "Kalemegdan Fortress 3D",
+      "Church of Saint Sava 3D",
+      "Petrovaradin Fortress 3D"
+    ]
+  },
+  "version": "6.0.0"
+}

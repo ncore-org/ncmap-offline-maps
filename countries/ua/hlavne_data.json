@@ -1,0 +1,26 @@
+{
+  "country": {
+    "code": "UA",
+    "name": "Ukraine",
+    "nameSk": "Ukrajina",
+    "flag": "🇺🇦",
+    "sizeMb": 1180.0,
+    "parts": 2,
+    "toll": "free_highways",
+    "hw": "M01/M05/M06/M07",
+    "bbox": [
+      44.38,
+      22.14,
+      52.38,
+      40.22
+    ],
+    "eu": false,
+    "capital": "Kyiv",
+    "landmarks": [
+      "Kyiv Pechersk Lavra 3D",
+      "Lviv Opera House 3D",
+      "St. Sophia Cathedral 3D"
+    ]
+  },
+  "version": "6.0.0"
+}

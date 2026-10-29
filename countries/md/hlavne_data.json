@@ -1,0 +1,26 @@
+{
+  "country": {
+    "code": "MD",
+    "name": "Moldova",
+    "nameSk": "Moldavsko",
+    "flag": "🇲🇩",
+    "sizeMb": 96.0,
+    "parts": 1,
+    "toll": "vinieta_md",
+    "hw": "M1/M2/M3/M5",
+    "bbox": [
+      45.47,
+      26.62,
+      48.49,
+      30.13
+    ],
+    "eu": false,
+    "capital": "Chișinău",
+    "landmarks": [
+      "Triumphal Arch Chișinău 3D",
+      "Soroca Fortress 3D",
+      "Orheiul Vechi 3D"
+    ]
+  },
+  "version": "6.0.0"
+}

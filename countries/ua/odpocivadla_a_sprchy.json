@@ -1,0 +1,13 @@
+[
+  {
+    "id": "ua-shower-1",
+    "name": "Diaľničné odpočívadlo Kyiv + Sprchy 🚿",
+    "brand": "rest_shower",
+    "lat": 48.4,
+    "lon": 31.19,
+    "has_shower": true,
+    "sprcha": true,
+    "shower_count": 4,
+    "truck_parking_spaces": 60
+  }
+]

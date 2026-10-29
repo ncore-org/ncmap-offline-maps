@@ -1,0 +1,80 @@
+[
+  {
+    "id": "tr-lm-1",
+    "name": "Hagia Sophia Istanbul 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        38.955,
+        35.245
+      ],
+      [
+        38.9554,
+        35.245
+      ],
+      [
+        38.9554,
+        35.2455
+      ],
+      [
+        38.955,
+        35.2455
+      ]
+    ]
+  },
+  {
+    "id": "tr-lm-2",
+    "name": "Anıtkabir Ankara 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        38.956,
+        35.246
+      ],
+      [
+        38.9564,
+        35.246
+      ],
+      [
+        38.9564,
+        35.2465
+      ],
+      [
+        38.956,
+        35.2465
+      ]
+    ]
+  },
+  {
+    "id": "tr-lm-3",
+    "name": "Bosphorus Bridge 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        38.957,
+        35.247
+      ],
+      [
+        38.9574,
+        35.247
+      ],
+      [
+        38.9574,
+        35.2475
+      ],
+      [
+        38.957,
+        35.2475
+      ]
+    ]
+  }
+]

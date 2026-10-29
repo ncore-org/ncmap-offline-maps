@@ -1,0 +1,127 @@
+{
+  "country": "IS",
+  "name": "Iceland",
+  "part": 1,
+  "totalParts": 1,
+  "version": "6.0.0-maps",
+  "layers": {
+    "radars": [
+      {
+        "id": "is-rad-1",
+        "lat": 65.005,
+        "lon": -18.975,
+        "maxspeed": 130
+      },
+      {
+        "id": "is-rad-2",
+        "lat": 64.935,
+        "lon": -19.035,
+        "maxspeed": 90
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "is-shower-1",
+        "name": "Diaľničné odpočívadlo Reykjavík + Sprchy 🚿",
+        "brand": "rest_shower",
+        "lat": 64.985,
+        "lon": -19.005,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "truck_parking_spaces": 60
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "is-fuel-1",
+        "name": "Shell TruckStop Reykjavík + Sprcha 🚿",
+        "brand": "shell",
+        "lat": 64.975,
+        "lon": -19.025,
+        "has_shower": true,
+        "sprcha": true
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "is-lm-1",
+        "name": "Hallgrímskirkja Reykjavík 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            64.965,
+            -19.015
+          ],
+          [
+            64.9654,
+            -19.015
+          ],
+          [
+            64.9654,
+            -19.0145
+          ],
+          [
+            64.965,
+            -19.0145
+          ]
+        ]
+      },
+      {
+        "id": "is-lm-2",
+        "name": "Harpa Concert Hall 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            64.966,
+            -19.014
+          ],
+          [
+            64.9664,
+            -19.014
+          ],
+          [
+            64.9664,
+            -19.0135
+          ],
+          [
+            64.966,
+            -19.0135
+          ]
+        ]
+      },
+      {
+        "id": "is-lm-3",
+        "name": "Perlan Dome 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            64.967,
+            -19.013
+          ],
+          [
+            64.9674,
+            -19.013
+          ],
+          [
+            64.9674,
+            -19.0125
+          ],
+          [
+            64.967,
+            -19.0125
+          ]
+        ]
+      }
+    ]
+  }
+}

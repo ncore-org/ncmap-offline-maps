@@ -1,0 +1,127 @@
+{
+  "country": "AL",
+  "name": "Albania",
+  "part": 1,
+  "totalParts": 1,
+  "version": "6.0.0-maps",
+  "layers": {
+    "radars": [
+      {
+        "id": "al-rad-1",
+        "lat": 41.19,
+        "lon": 20.2,
+        "maxspeed": 130
+      },
+      {
+        "id": "al-rad-2",
+        "lat": 41.12,
+        "lon": 20.14,
+        "maxspeed": 90
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "al-shower-1",
+        "name": "Diaľničné odpočívadlo Tiranë + Sprchy 🚿",
+        "brand": "rest_shower",
+        "lat": 41.17,
+        "lon": 20.17,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "truck_parking_spaces": 60
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "al-fuel-1",
+        "name": "Shell TruckStop Tiranë + Sprcha 🚿",
+        "brand": "shell",
+        "lat": 41.16,
+        "lon": 20.15,
+        "has_shower": true,
+        "sprcha": true
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "al-lm-1",
+        "name": "Skanderbeg Square Tirana 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            41.15,
+            20.16
+          ],
+          [
+            41.1504,
+            20.16
+          ],
+          [
+            41.1504,
+            20.1605
+          ],
+          [
+            41.15,
+            20.1605
+          ]
+        ]
+      },
+      {
+        "id": "al-lm-2",
+        "name": "Berat Castle 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            41.151,
+            20.161
+          ],
+          [
+            41.1514,
+            20.161
+          ],
+          [
+            41.1514,
+            20.1615
+          ],
+          [
+            41.151,
+            20.1615
+          ]
+        ]
+      },
+      {
+        "id": "al-lm-3",
+        "name": "Rozafa Castle 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            41.152,
+            20.162
+          ],
+          [
+            41.1524,
+            20.162
+          ],
+          [
+            41.1524,
+            20.1625
+          ],
+          [
+            41.152,
+            20.1625
+          ]
+        ]
+      }
+    ]
+  }
+}

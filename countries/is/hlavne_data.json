@@ -1,0 +1,26 @@
+{
+  "country": {
+    "code": "IS",
+    "name": "Iceland",
+    "nameSk": "Island",
+    "flag": "🇮🇸",
+    "sizeMb": 164.0,
+    "parts": 1,
+    "toll": "vadlaheidargong_tunnel",
+    "hw": "Route 1 Ring Road",
+    "bbox": [
+      63.39,
+      -24.54,
+      66.54,
+      -13.49
+    ],
+    "eu": false,
+    "capital": "Reykjavík",
+    "landmarks": [
+      "Hallgrímskirkja Reykjavík 3D",
+      "Harpa Concert Hall 3D",
+      "Perlan Dome 3D"
+    ]
+  },
+  "version": "6.0.0"
+}

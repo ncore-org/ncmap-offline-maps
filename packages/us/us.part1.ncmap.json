@@ -1,0 +1,127 @@
+{
+  "country": "US",
+  "name": "United States (OsmAnd US Pack)",
+  "part": 1,
+  "totalParts": 4,
+  "version": "6.0.0-maps",
+  "layers": {
+    "radars": [
+      {
+        "id": "us-rad-1",
+        "lat": 36.99,
+        "lon": -95.82,
+        "maxspeed": 130
+      },
+      {
+        "id": "us-rad-2",
+        "lat": 36.92,
+        "lon": -95.88,
+        "maxspeed": 90
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "us-shower-1",
+        "name": "Diaľničné odpočívadlo Washington, D.C. + Sprchy 🚿",
+        "brand": "rest_shower",
+        "lat": 36.97,
+        "lon": -95.85,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "truck_parking_spaces": 60
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "us-fuel-1",
+        "name": "Shell TruckStop Washington, D.C. + Sprcha 🚿",
+        "brand": "shell",
+        "lat": 36.96,
+        "lon": -95.87,
+        "has_shower": true,
+        "sprcha": true
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "us-lm-1",
+        "name": "Empire State Building 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            36.95,
+            -95.86
+          ],
+          [
+            36.9504,
+            -95.86
+          ],
+          [
+            36.9504,
+            -95.8595
+          ],
+          [
+            36.95,
+            -95.8595
+          ]
+        ]
+      },
+      {
+        "id": "us-lm-2",
+        "name": "Golden Gate Bridge 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            36.951,
+            -95.859
+          ],
+          [
+            36.9514,
+            -95.859
+          ],
+          [
+            36.9514,
+            -95.8585
+          ],
+          [
+            36.951,
+            -95.8585
+          ]
+        ]
+      },
+      {
+        "id": "us-lm-3",
+        "name": "U.S. Capitol 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            36.952,
+            -95.858
+          ],
+          [
+            36.9524,
+            -95.858
+          ],
+          [
+            36.9524,
+            -95.8575
+          ],
+          [
+            36.952,
+            -95.8575
+          ]
+        ]
+      }
+    ]
+  }
+}

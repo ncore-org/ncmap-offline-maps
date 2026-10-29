@@ -1,0 +1,127 @@
+{
+  "country": "BA",
+  "name": "Bosnia & Herzegovina",
+  "part": 1,
+  "totalParts": 1,
+  "version": "6.0.0-maps",
+  "layers": {
+    "radars": [
+      {
+        "id": "ba-rad-1",
+        "lat": 43.955,
+        "lon": 17.71,
+        "maxspeed": 130
+      },
+      {
+        "id": "ba-rad-2",
+        "lat": 43.885,
+        "lon": 17.65,
+        "maxspeed": 90
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "ba-shower-1",
+        "name": "Diaľničné odpočívadlo Sarajevo + Sprchy 🚿",
+        "brand": "rest_shower",
+        "lat": 43.935,
+        "lon": 17.68,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "truck_parking_spaces": 60
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "ba-fuel-1",
+        "name": "Shell TruckStop Sarajevo + Sprcha 🚿",
+        "brand": "shell",
+        "lat": 43.925,
+        "lon": 17.66,
+        "has_shower": true,
+        "sprcha": true
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "ba-lm-1",
+        "name": "Stari Most Mostar 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            43.915,
+            17.67
+          ],
+          [
+            43.9154,
+            17.67
+          ],
+          [
+            43.9154,
+            17.6705
+          ],
+          [
+            43.915,
+            17.6705
+          ]
+        ]
+      },
+      {
+        "id": "ba-lm-2",
+        "name": "Baščaršija Sebilj 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            43.916,
+            17.671
+          ],
+          [
+            43.9164,
+            17.671
+          ],
+          [
+            43.9164,
+            17.6715
+          ],
+          [
+            43.916,
+            17.6715
+          ]
+        ]
+      },
+      {
+        "id": "ba-lm-3",
+        "name": "Sarajevo City Hall 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            43.917,
+            17.672
+          ],
+          [
+            43.9174,
+            17.672
+          ],
+          [
+            43.9174,
+            17.6725
+          ],
+          [
+            43.917,
+            17.6725
+          ]
+        ]
+      }
+    ]
+  }
+}

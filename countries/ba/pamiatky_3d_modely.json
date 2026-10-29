@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ba-lm-1",
+    "name": "Stari Most Mostar 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        43.915,
+        17.67
+      ],
+      [
+        43.9154,
+        17.67
+      ],
+      [
+        43.9154,
+        17.6705
+      ],
+      [
+        43.915,
+        17.6705
+      ]
+    ]
+  },
+  {
+    "id": "ba-lm-2",
+    "name": "Baščaršija Sebilj 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        43.916,
+        17.671
+      ],
+      [
+        43.9164,
+        17.671
+      ],
+      [
+        43.9164,
+        17.6715
+      ],
+      [
+        43.916,
+        17.6715
+      ]
+    ]
+  },
+  {
+    "id": "ba-lm-3",
+    "name": "Sarajevo City Hall 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        43.917,
+        17.672
+      ],
+      [
+        43.9174,
+        17.672
+      ],
+      [
+        43.9174,
+        17.6725
+      ],
+      [
+        43.917,
+        17.6725
+      ]
+    ]
+  }
+]

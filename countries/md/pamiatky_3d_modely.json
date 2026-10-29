@@ -1,0 +1,80 @@
+[
+  {
+    "id": "md-lm-1",
+    "name": "Triumphal Arch Chișinău 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        46.98,
+        28.375
+      ],
+      [
+        46.9804,
+        28.375
+      ],
+      [
+        46.9804,
+        28.3755
+      ],
+      [
+        46.98,
+        28.3755
+      ]
+    ]
+  },
+  {
+    "id": "md-lm-2",
+    "name": "Soroca Fortress 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        46.981,
+        28.376
+      ],
+      [
+        46.9814,
+        28.376
+      ],
+      [
+        46.9814,
+        28.3765
+      ],
+      [
+        46.981,
+        28.3765
+      ]
+    ]
+  },
+  {
+    "id": "md-lm-3",
+    "name": "Orheiul Vechi 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        46.982,
+        28.377
+      ],
+      [
+        46.9824,
+        28.377
+      ],
+      [
+        46.9824,
+        28.3775
+      ],
+      [
+        46.982,
+        28.3775
+      ]
+    ]
+  }
+]

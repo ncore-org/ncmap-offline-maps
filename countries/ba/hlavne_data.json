@@ -1,0 +1,26 @@
+{
+  "country": {
+    "code": "BA",
+    "name": "Bosnia & Herzegovina",
+    "nameSk": "Bosna a Hercegovina",
+    "flag": "🇧🇦",
+    "sizeMb": 214.0,
+    "parts": 1,
+    "toll": "acc_toll_booths",
+    "hw": "A1/E73",
+    "bbox": [
+      42.55,
+      15.72,
+      45.28,
+      19.62
+    ],
+    "eu": false,
+    "capital": "Sarajevo",
+    "landmarks": [
+      "Stari Most Mostar 3D",
+      "Baščaršija Sebilj 3D",
+      "Sarajevo City Hall 3D"
+    ]
+  },
+  "version": "6.0.0"
+}

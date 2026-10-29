@@ -1,0 +1,13 @@
+[
+  {
+    "id": "is-shower-1",
+    "name": "Diaľničné odpočívadlo Reykjavík + Sprchy 🚿",
+    "brand": "rest_shower",
+    "lat": 64.985,
+    "lon": -19.005,
+    "has_shower": true,
+    "sprcha": true,
+    "shower_count": 4,
+    "truck_parking_spaces": 60
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "is-lm-1",
+    "name": "Hallgrímskirkja Reykjavík 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        64.965,
+        -19.015
+      ],
+      [
+        64.9654,
+        -19.015
+      ],
+      [
+        64.9654,
+        -19.0145
+      ],
+      [
+        64.965,
+        -19.0145
+      ]
+    ]
+  },
+  {
+    "id": "is-lm-2",
+    "name": "Harpa Concert Hall 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        64.966,
+        -19.014
+      ],
+      [
+        64.9664,
+        -19.014
+      ],
+      [
+        64.9664,
+        -19.0135
+      ],
+      [
+        64.966,
+        -19.0135
+      ]
+    ]
+  },
+  {
+    "id": "is-lm-3",
+    "name": "Perlan Dome 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        64.967,
+        -19.013
+      ],
+      [
+        64.9674,
+        -19.013
+      ],
+      [
+        64.9674,
+        -19.0125
+      ],
+      [
+        64.967,
+        -19.0125
+      ]
+    ]
+  }
+]

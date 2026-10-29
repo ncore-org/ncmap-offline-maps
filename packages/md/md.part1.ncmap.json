@@ -1,0 +1,127 @@
+{
+  "country": "MD",
+  "name": "Moldova",
+  "part": 1,
+  "totalParts": 1,
+  "version": "6.0.0-maps",
+  "layers": {
+    "radars": [
+      {
+        "id": "md-rad-1",
+        "lat": 47.02,
+        "lon": 28.415,
+        "maxspeed": 130
+      },
+      {
+        "id": "md-rad-2",
+        "lat": 46.95,
+        "lon": 28.355,
+        "maxspeed": 90
+      }
+    ],
+    "rest_areas": [
+      {
+        "id": "md-shower-1",
+        "name": "Diaľničné odpočívadlo Chișinău + Sprchy 🚿",
+        "brand": "rest_shower",
+        "lat": 47.0,
+        "lon": 28.385,
+        "has_shower": true,
+        "sprcha": true,
+        "shower_count": 4,
+        "truck_parking_spaces": 60
+      }
+    ],
+    "fuel_stations": [
+      {
+        "id": "md-fuel-1",
+        "name": "Shell TruckStop Chișinău + Sprcha 🚿",
+        "brand": "shell",
+        "lat": 46.99,
+        "lon": 28.365,
+        "has_shower": true,
+        "sprcha": true
+      }
+    ],
+    "landmarks_3d": [
+      {
+        "id": "md-lm-1",
+        "name": "Triumphal Arch Chișinău 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            46.98,
+            28.375
+          ],
+          [
+            46.9804,
+            28.375
+          ],
+          [
+            46.9804,
+            28.3755
+          ],
+          [
+            46.98,
+            28.3755
+          ]
+        ]
+      },
+      {
+        "id": "md-lm-2",
+        "name": "Soroca Fortress 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            46.981,
+            28.376
+          ],
+          [
+            46.9814,
+            28.376
+          ],
+          [
+            46.9814,
+            28.3765
+          ],
+          [
+            46.981,
+            28.3765
+          ]
+        ]
+      },
+      {
+        "id": "md-lm-3",
+        "name": "Orheiul Vechi 3D",
+        "is_landmark": true,
+        "variant": "historic_cathedral",
+        "height_m": 54.0,
+        "levels": 8,
+        "footprint": [
+          [
+            46.982,
+            28.377
+          ],
+          [
+            46.9824,
+            28.377
+          ],
+          [
+            46.9824,
+            28.3775
+          ],
+          [
+            46.982,
+            28.3775
+          ]
+        ]
+      }
+    ]
+  }
+}

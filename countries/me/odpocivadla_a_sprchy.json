@@ -1,0 +1,13 @@
+[
+  {
+    "id": "me-shower-1",
+    "name": "Diaľničné odpočívadlo Podgorica + Sprchy 🚿",
+    "brand": "rest_shower",
+    "lat": 42.725,
+    "lon": 19.405,
+    "has_shower": true,
+    "sprcha": true,
+    "shower_count": 4,
+    "truck_parking_spaces": 60
+  }
+]

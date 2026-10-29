@@ -1,0 +1,13 @@
+[
+  {
+    "id": "ba-shower-1",
+    "name": "Diaľničné odpočívadlo Sarajevo + Sprchy 🚿",
+    "brand": "rest_shower",
+    "lat": 43.935,
+    "lon": 17.68,
+    "has_shower": true,
+    "sprcha": true,
+    "shower_count": 4,
+    "truck_parking_spaces": 60
+  }
+]

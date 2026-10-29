@@ -1,0 +1,26 @@
+{
+  "country": {
+    "code": "TR",
+    "name": "Türkiye",
+    "nameSk": "Turecko",
+    "flag": "🇹🇷",
+    "sizeMb": 1420.0,
+    "parts": 2,
+    "toll": "hgs_ogs_electronic",
+    "hw": "O-1/O-4/O-5/O-21",
+    "bbox": [
+      35.81,
+      25.66,
+      42.1,
+      44.83
+    ],
+    "eu": false,
+    "capital": "Ankara",
+    "landmarks": [
+      "Hagia Sophia Istanbul 3D",
+      "Anıtkabir Ankara 3D",
+      "Bosphorus Bridge 3D"
+    ]
+  },
+  "version": "6.0.0"
+}

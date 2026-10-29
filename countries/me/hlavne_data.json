@@ -1,0 +1,26 @@
+{
+  "country": {
+    "code": "ME",
+    "name": "Montenegro",
+    "nameSk": "Čierna Hora",
+    "flag": "🇲🇪",
+    "sizeMb": 112.0,
+    "parts": 1,
+    "toll": "sozina_and_A1_toll",
+    "hw": "A-1/E65/E80",
+    "bbox": [
+      41.85,
+      18.43,
+      43.56,
+      20.36
+    ],
+    "eu": false,
+    "capital": "Podgorica",
+    "landmarks": [
+      "Kotor Old Town Walls 3D",
+      "Ostrog Monastery 3D",
+      "Đurđevića Tara Bridge 3D"
+    ]
+  },
+  "version": "6.0.0"
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "md-shower-1",
+    "name": "Diaľničné odpočívadlo Chișinău + Sprchy 🚿",
+    "brand": "rest_shower",
+    "lat": 47.0,
+    "lon": 28.385,
+    "has_shower": true,
+    "sprcha": true,
+    "shower_count": 4,
+    "truck_parking_spaces": 60
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "us-lm-1",
+    "name": "Empire State Building 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        36.95,
+        -95.86
+      ],
+      [
+        36.9504,
+        -95.86
+      ],
+      [
+        36.9504,
+        -95.8595
+      ],
+      [
+        36.95,
+        -95.8595
+      ]
+    ]
+  },
+  {
+    "id": "us-lm-2",
+    "name": "Golden Gate Bridge 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        36.951,
+        -95.859
+      ],
+      [
+        36.9514,
+        -95.859
+      ],
+      [
+        36.9514,
+        -95.8585
+      ],
+      [
+        36.951,
+        -95.8585
+      ]
+    ]
+  },
+  {
+    "id": "us-lm-3",
+    "name": "U.S. Capitol 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        36.952,
+        -95.858
+      ],
+      [
+        36.9524,
+        -95.858
+      ],
+      [
+        36.9524,
+        -95.8575
+      ],
+      [
+        36.952,
+        -95.8575
+      ]
+    ]
+  }
+]

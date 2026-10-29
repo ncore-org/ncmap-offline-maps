@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ua-lm-1",
+    "name": "Kyiv Pechersk Lavra 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        48.38,
+        31.18
+      ],
+      [
+        48.3804,
+        31.18
+      ],
+      [
+        48.3804,
+        31.1805
+      ],
+      [
+        48.38,
+        31.1805
+      ]
+    ]
+  },
+  {
+    "id": "ua-lm-2",
+    "name": "Lviv Opera House 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        48.381,
+        31.181
+      ],
+      [
+        48.3814,
+        31.181
+      ],
+      [
+        48.3814,
+        31.1815
+      ],
+      [
+        48.381,
+        31.1815
+      ]
+    ]
+  },
+  {
+    "id": "ua-lm-3",
+    "name": "St. Sophia Cathedral 3D",
+    "is_landmark": true,
+    "variant": "historic_cathedral",
+    "height_m": 54.0,
+    "levels": 8,
+    "footprint": [
+      [
+        48.382,
+        31.182
+      ],
+      [
+        48.3824,
+        31.182
+      ],
+      [
+        48.3824,
+        31.1825
+      ],
+      [
+        48.382,
+        31.1825
+      ]
+    ]
+  }
+]
