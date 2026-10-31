@@ -1,6 +1,6 @@
 {
   "schema": "ncmap-offline-catalog-v5",
-  "version": "6.0.0-maps",
+  "version": "7.0.0-maps",
   "release_tag": "v5.0.0-maps",
   "generated_at": "2026-10-29T15:47:41.115657+00:00",
   "total_countries": 32,
@@ -49,7 +49,12 @@
           "sha256": "551c910046bb82fd",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Austria_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Austria_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Austria_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Austria_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Austria_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "BE",
@@ -87,7 +92,12 @@
           "sha256": "df5bc9b454f86730",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Belgium_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Belgium_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Belgium_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Belgium_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Belgium_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "BG",
@@ -125,7 +135,12 @@
           "sha256": "f5d166fc68c95880",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Bulgaria_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Bulgaria_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Bulgaria_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Bulgaria_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Bulgaria_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "HR",
@@ -163,7 +178,12 @@
           "sha256": "2d3772ebdee5f7b1",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Croatia_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Croatia_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Croatia_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Croatia_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Croatia_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "CY",
@@ -201,7 +221,12 @@
           "sha256": "9c25842ee7e60ca0",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Cyprus_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Cyprus_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Cyprus_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Cyprus_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Cyprus_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "CZ",
@@ -246,7 +271,12 @@
           "sha256": "093aff70c5c8ef3d",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Czechia_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Czechia_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Czechia_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Czechia_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Czechia_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "DK",
@@ -284,7 +314,12 @@
           "sha256": "1a18540c78f5a949",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Denmark_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Denmark_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Denmark_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Denmark_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Denmark_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "EE",
@@ -322,7 +357,12 @@
           "sha256": "c81c2a1e246a9e0b",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Estonia_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Estonia_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Estonia_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Estonia_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Estonia_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "FI",
@@ -367,7 +407,12 @@
           "sha256": "45dc2ae35d907211",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Finland_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Finland_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Finland_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Finland_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Finland_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "FR",
@@ -420,7 +465,12 @@
           "sha256": "da6173dcb4a8665c",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "France_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=France_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=France_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=France_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=France_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "DE",
@@ -480,7 +530,12 @@
           "sha256": "73250e2e3c086e60",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Germany_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Germany_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Germany_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Germany_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Germany_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "GR",
@@ -518,7 +573,12 @@
           "sha256": "aadd8f3c6cd31907",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Greece_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Greece_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Greece_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Greece_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Greece_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "HU",
@@ -556,7 +616,12 @@
           "sha256": "2a66be964a0dccca",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Hungary_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Hungary_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Hungary_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Hungary_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Hungary_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "IE",
@@ -594,7 +659,12 @@
           "sha256": "79bdca29ac96b7d7",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Ireland_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Ireland_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Ireland_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Ireland_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Ireland_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "IT",
@@ -647,7 +717,12 @@
           "sha256": "cbab120c016eecce",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Italy_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Italy_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Italy_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Italy_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Italy_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "LV",
@@ -685,7 +760,12 @@
           "sha256": "3f0603b6aaa51901",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Latvia_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Latvia_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Latvia_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Latvia_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Latvia_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "LT",
@@ -723,7 +803,12 @@
           "sha256": "d77c8a466a5fafea",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Lithuania_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Lithuania_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Lithuania_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Lithuania_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Lithuania_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "LU",
@@ -761,7 +846,12 @@
           "sha256": "2710134ef19dc7bb",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Luxembourg_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Luxembourg_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Luxembourg_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Luxembourg_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Luxembourg_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "MT",
@@ -799,7 +889,12 @@
           "sha256": "b5996397166b2c14",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Malta_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Malta_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Malta_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Malta_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Malta_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "NL",
@@ -844,7 +939,12 @@
           "sha256": "35f32c701b9b700c",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Netherlands_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Netherlands_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Netherlands_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Netherlands_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Netherlands_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "PL",
@@ -889,7 +989,12 @@
           "sha256": "9d97e81bc63d5343",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Poland_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Poland_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Poland_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Poland_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Poland_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "PT",
@@ -927,7 +1032,12 @@
           "sha256": "1d723b3ae07aadb1",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Portugal_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Portugal_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Portugal_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Portugal_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Portugal_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "RO",
@@ -972,7 +1082,12 @@
           "sha256": "1091c74a8a75d3e7",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Romania_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Romania_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Romania_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Romania_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Romania_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "SK",
@@ -1011,7 +1126,12 @@
           "sha256": "bf6db775c6b51bff",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Slovakia_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Slovakia_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Slovakia_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Slovakia_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Slovakia_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "SI",
@@ -1049,7 +1169,12 @@
           "sha256": "b4ad072de2b40486",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Slovenia_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Slovenia_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Slovenia_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Slovenia_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Slovenia_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "ES",
@@ -1101,7 +1226,12 @@
           "sha256": "5500f12c71dd1581",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Spain_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Spain_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Spain_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Spain_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Spain_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "SE",
@@ -1146,7 +1276,12 @@
           "sha256": "c756f7ee0f8e16e5",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Sweden_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Sweden_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Sweden_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Sweden_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Sweden_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "CH",
@@ -1184,7 +1319,12 @@
           "sha256": "4643ee5e24b0652b",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Switzerland_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Switzerland_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Switzerland_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Switzerland_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Switzerland_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "NO",
@@ -1229,7 +1369,12 @@
           "sha256": "11c35a22405bc1f7",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Norway_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Norway_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Norway_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Norway_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Norway_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "GB",
@@ -1274,7 +1419,12 @@
           "sha256": "5040084b2b6fe6c5",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Gb_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Gb_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Gb_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Gb_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Gb_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "AD",
@@ -1312,7 +1462,12 @@
           "sha256": "a5295e09ef56b0de",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Andorra_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Andorra_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Andorra_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Andorra_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Andorra_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "CA",
@@ -1364,7 +1519,12 @@
           "sha256": "433113c6016da7d2",
           "layer_summary": "Hlavné dáta + 3D mapa + cesty + radary + odpočívadlá so sprchou 🚿 + pumpy/reťazce + firmy + turistické/rušné zóny + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Canada_northamerica_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Canada_northamerica_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Canada_northamerica_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Canada_northamerica_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Canada_northamerica_2.obf.zip&wiki=yes"
     },
     {
       "code": "US",
@@ -1418,7 +1578,12 @@
           "sha256": "us_v6_p4",
           "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "United-States_northamerica_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=United-States_northamerica_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=United-States_northamerica_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=United-States_northamerica_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=United-States_northamerica_2.obf.zip&wiki=yes"
     },
     {
       "code": "TR",
@@ -1458,7 +1623,12 @@
           "sha256": "tr_v6_p2",
           "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Turkey_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Turkey_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Turkey_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Turkey_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Turkey_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "UA",
@@ -1498,7 +1668,12 @@
           "sha256": "ua_v6_p2",
           "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Ukraine_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Ukraine_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Ukraine_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Ukraine_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Ukraine_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "RS",
@@ -1531,7 +1706,12 @@
           "sha256": "rs_v6_p1",
           "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Serbia_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Serbia_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Serbia_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Serbia_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Serbia_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "BA",
@@ -1564,7 +1744,12 @@
           "sha256": "ba_v6_p1",
           "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Bosnia-Herzegovina_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Bosnia-Herzegovina_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Bosnia-Herzegovina_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Bosnia-Herzegovina_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Bosnia-Herzegovina_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "ME",
@@ -1597,7 +1782,12 @@
           "sha256": "me_v6_p1",
           "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Montenegro_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Montenegro_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Montenegro_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Montenegro_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Montenegro_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "AL",
@@ -1630,7 +1820,12 @@
           "sha256": "al_v6_p1",
           "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Albania_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Albania_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Albania_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Albania_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Albania_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "MK",
@@ -1663,7 +1858,12 @@
           "sha256": "mk_v6_p1",
           "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "North-Macedonia_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=North-Macedonia_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=North-Macedonia_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=North-Macedonia_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=North-Macedonia_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "MD",
@@ -1696,7 +1896,12 @@
           "sha256": "md_v6_p1",
           "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Moldova_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Moldova_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Moldova_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Moldova_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Moldova_europe_2.obf.zip&wiki=yes"
     },
     {
       "code": "IS",
@@ -1729,8 +1934,16 @@
           "sha256": "is_v6_p1",
           "layerSummary": "Hlavné dáta + 3D mapa + SRTM 3D kopce + cesty + radary + odpočívadlá so sprchou 🚿 + 3D pamiatky"
         }
-      ]
+      ],
+      "osmandObfFile": "Iceland_europe_2.obf.zip",
+      "osmandStandardUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Iceland_europe_2.obf.zip",
+      "osmandRoadOnlyUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Iceland_europe_2.obf.zip&road=yes",
+      "osmandSrtmUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Iceland_europe_2.obf.zip&srtmcountry=yes",
+      "osmandWikiUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=Iceland_europe_2.obf.zip&wiki=yes"
     }
   ],
-  "totalCountries": 42
+  "totalCountries": 42,
+  "osmandIndexesUrl": "https://download.osmand.net/get_indexes?gzip&osmandver=OsmAnd+4.9.10",
+  "osmandDownloadBase": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=",
+  "worldBasemapMiniUrl": "https://download.osmand.net/download?event=2&osmandver=OsmAnd+4.9.10&file=World_basemap_mini_2.obf.zip"
 }
